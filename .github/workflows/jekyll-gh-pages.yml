@@ -48,20 +48,10 @@ jobs:
               content=$(cat "$file")
             fi
             
-            # Create new file with standardized frontmatter (NO INDENTATION!)
-            cat > "temp_$file" << 'EOF'
----
-layout: post
-title: "TITLE_PLACEHOLDER"
-date: 2025-05-30
----
-
-EOF
-            # Replace title placeholder and append content
-            sed "s/TITLE_PLACEHOLDER/$title/" "temp_$file" > "${file}.new"
+            # Create new file with standardized frontmatter using printf (no heredoc!)
+            printf '%s\n' '---' 'layout: post' "title: \"$title\"" 'date: 2025-05-30' '---' '' > "${file}.new"
             echo "$content" >> "${file}.new"
             mv "${file}.new" "$file"
-            rm -f "temp_$file"
           fi
         done
     
