@@ -2,11 +2,8 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ "main", "jekyll" ]
-  pull_request:
-    branches: [ "main" ]
+    branches: [ "main", "jekyll-1" ]
 
-# Add permissions section
 permissions:
   contents: read
   pages: write
@@ -18,6 +15,72 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    
+    - name: Create Jekyll config
+      run: |
+        cat > _config.yml << 'EOF'
+        title: "The GitScrolls"
+        description: "Nine Sacred Teachings for Modern Developers"
+        baseurl: "/gitscrolls"
+        url: "https://gitscrolls.github.io"
+        markdown: kramdown
+        highlighter: rouge
+        theme: minima
+        EOF
+    
+    - name: Add/Replace frontmatter for GitScrolls
+      run: |
+        # Process each .md file to ensure consistent frontmatter
+        for file in *.md; do
+          if [[ -f "$file" ]]; then
+            # Extract title from first heading
+            title=$(head -20 "$file" | grep "^# " | head -1 | sed 's/^# //' | sed 's/GitScroll [IVX]*: //')
+            if [[ -z "$title" ]]; then
+              title=$(basename "$file" .md)
+            fi
+            
+            # Extract content (skip frontmatter if it exists)
+            if grep -q "^---" "$file"; then
+              # Skip frontmatter block (from first --- to second ---)
+              content=$(awk '/^---$/{if(++count==2) flag=1; next} flag' "$file")
+            else
+              # No frontmatter, use entire file
+              content=$(cat "$file")
+            fi
+            
+            # Create new file with standardized frontmatter (NO INDENTATION!)
+            cat > "temp_$file" << 'EOF'
+---
+layout: post
+title: "TITLE_PLACEHOLDER"
+date: 2025-05-30
+---
+
+EOF
+            # Replace title placeholder and append content
+            sed "s/TITLE_PLACEHOLDER/$title/" "temp_$file" > "${file}.new"
+            echo "$content" >> "${file}.new"
+            mv "${file}.new" "$file"
+            rm -f "temp_$file"
+          fi
+        done
+    
+    - name: Create index page
+      run: |
+        cat > index.md << 'EOF'
+        ---
+        layout: home
+        title: "The GitScrolls"
+        ---
+        
+        # The Nine GitScrolls
+        
+        Sacred teachings for modern developers who seek wisdom in version control and beyond.
+        
+        {% for post in site.posts reversed %}
+        - [{{ post.title }}]({{ post.url }})
+        {% endfor %}
+        EOF
     
     - name: Build the site
       run: |
