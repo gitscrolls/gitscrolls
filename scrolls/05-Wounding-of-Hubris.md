@@ -297,7 +297,7 @@ __@TempleSentinel:__ "Day 1 post-incident. Active contributors: 40%. Community t
 
 His odyssey home had begun - but first, he would have to prove himself worthy of return.
 
-**To be continued in GitScroll VI: The Siren's Song of Easy Chaos...**
+**To be continued in GitScroll VI: Songs of the Chaos Sirens...**
 
 ---
 
