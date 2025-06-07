@@ -11,28 +11,20 @@ updated: 2025-05-30T06:40
 ---
 
 # GitScroll IV: The Schism Scrolls
-
 _The Chronicles of Tuxrates and the Paradox of Freedom_
 
----
-
-> __"You owe no loyalty to what will not change. A root that forbids new branches is not sacred—it is dying."__
-
----
-
-When sacred roots deny the need to grow,  
-The bravest hand must cleave with blessed knife.  
-For code that fears the branch shall never know  
-The fruit that springs from newly-given life.
-
-Let Keepers mourn—let forests rise instead.  
-The fork is not betrayal—but the thread.
-
----
+> __"You owe no loyalty to what will not change. A root that forbids new branches is not sacred—it is dying."__   
+_As taught by the __Fork-Bearer of Freedom__, Guardian of the Four Freedoms, Prophet of Perpetual Copyleft_
 
 ## The Fourth Teaching: "Forks Are Not Betrayals"
 
-_As taught by the __Fork-Bearer of Freedom__, Guardian of the Four Freedoms, Prophet of Perpetual Copyleft_
+_When sacred roots deny the need to grow,_  
+_The bravest hand must cleave with blessed knife._  
+_For code that fears the branch shall never know_    
+_The fruit that springs from newly-given life._  
+
+_Let Keepers mourn—let forests rise instead._  
+_The fork is not betrayal—but the thread._
 
 ---
 
@@ -354,11 +346,14 @@ When he encountered projects governed by fear of forking, he saw stagnation. Whe
 
 The Fourth GitScroll was complete. Five more awaited, and with each one, Tuxrates grew closer to understanding that software development was not just about creating tools, but about fostering the conditions for continuous creative evolution.
 
+_Thus did Tuxrates learn that freedom and community are not opposed forces, but complementary aspects of a healthy ecosystem, and that the courage to diverge is often the highest form of loyalty to the original vision._
+
 ---
 
 __Next: [GitScroll V - "The Wounding of Hubris"](05-Wounding-of-Hubris.md)__  
 _Where hubris meets consequence in the Digital Underworld_
 
----
-
-_Thus did Tuxrates learn that freedom and community are not opposed forces, but complementary aspects of a healthy ecosystem, and that the courage to diverge is often the highest form of loyalty to the original vision._
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
