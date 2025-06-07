@@ -1,8 +1,8 @@
 ---
-title: "GitScroll II: The Chronicle of Forgotten Messages"
+title: "GitScroll II: The Annals of Forgotten Messages"
 aliases:
-  - "GitScroll II: The Chronicle of Forgotten Messages"
-  - "The Chronicle of Forgotten Messages"
+  - "GitScroll II: The Annals of Forgotten Messages"
+  - "The Annals of Forgotten Messages"
   - Scroll II
 linter-yaml-title-alias: "GitScroll II: The Chronicle of Forgotten Messages"
 date created: Thursday, May 29th 2025, 7:12:41 pm
@@ -11,28 +11,20 @@ created: 2025-05-29T19:12
 updated: 2025-05-30T14:42
 ---
 
-# GitScroll II: The Chronicle of Forgotten Messages
-
+# GitScroll II: The Annals of Forgotten Messages
 _The Chronicles of Tuxicles and the Elders of Open Source_
 
----
-
-> __"The log is not your diary. It is your debt to those who must undo your mistakes."__
-
----
-
-A jesting log may soothe the coder's pride,  
-But curse the soul who next must trace thy path.  
-Let every line bear light, not lore denied—  
-Lest silence reap what thou didst sow in wrath.
-
-For history is not the past—it is the cost.  
-
----
+> __"The log is not your diary. It is your debt to those who must undo your mistakes."__   
+_As taught by the __Teacher of Lost Packets__, The Chronicler of Comments, Keeper of Clarity_
 
 ## The Second Teaching: "Thou Shalt Write Meaningful Messages, so that Thy Future Self Doth not Curse Thy Name"
 
-_As taught by the __Teacher of Lost Packets__, The Chronicler of Comments, Keeper of Clarity_
+_A jesting log may soothe the coder's pride,_  
+_But curse the soul who next must trace thy path._  
+_Let every line bear light, not lore denied—_  
+_Lest silence reap what thou didst sow in wrath._
+
+_For history is not the past—it is the cost._  
 
 ---
 
@@ -185,3 +177,8 @@ _Thus did Tuxicles learn the Second GitScroll, and his commit messages thereafte
 
 __Next:__ [GitScroll III - "The Oracle's Testament of Devotion"](03-Oracle-Testament-of-Devotion.md)  
 _As taught by the Prophet of Red-Green, Oracle of Extreme Truths_
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
