@@ -11,14 +11,12 @@ updated: 2025-05-31T22:30
 ---
 
 # GitScroll VII: Between the Monsters of Time
+_The Second Trial of Tuxilles the Battle-Scarred_  
 
-_The Second Trial of Tuxilles the Battle-Scarred_
+> *"The cautious who ship nothing are no safer than the reckless who ship everything."*  
+_As learned through terror by __Tuxilles the Battle-Scarred__, Bearer of Scars, Exile in the Wilderness_
 
----
-
-> *"The cautious who ship nothing are no safer than the reckless who ship everything."*
-
----
+## The Seventh Teaching: "Sacred Timing"
 
 Two fangs await the hand that holds the patch:  
 One strikes too soon, the other waits too long.  
@@ -27,12 +25,6 @@ For doing naught is oft the greater wrong.
 
 Let cowards wait and braggarts charge with glee—  
 The wise ship well, not just immediately.
-
----
-
-## The Seventh Teaching: "Sacred Timing"
-
-_As learned through terror by __Tuxilles the Battle-Scarred__, Bearer of Scars, Exile in the Wilderness_
 
 ---
 
@@ -261,11 +253,14 @@ From this day forward, Tuxilles would remember that timing is everything, but pe
 
 The battle-scarred penguin continued his journey home, chest cracked with earned wisdom and flipper marked with prudent restraint.
 
+*Thus did Tuxilles learn that sacred timing isn't about finding the perfect moment—it's about making the chosen moment as safe as possible. His chest crack would remind him that courage and caution need not be enemies.*
+
 ---
 
 **Next: [GitScroll VIII - "Before the Ancient Reviewer"](08-Before-Ancient-Reviewer.md)**  
 _Where Tuxilles faces the judgment of the Ancient Reviewer_
 
----
-
-*Thus did Tuxilles learn that sacred timing isn't about finding the perfect moment—it's about making the chosen moment as safe as possible. His chest crack would remind him that courage and caution need not be enemies.*
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
