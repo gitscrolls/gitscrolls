@@ -11,27 +11,19 @@ updated: 2025-05-30T06:41
 ---
 
 # GitScroll I: The Unbroken Line
-
 _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
 
----
-
-> __"Do not trade your history for the illusion of mastery."__
-
----
-
-To prune the past is but to feign thy grace,  
-And rob the root that gave thy courage birth.  
-Let flaws stand firm, that others find their place—  
-For history denied is stolen worth.  
-
-The broken line is still a line—and thine.
-
----
+> __"Do not trade your history for the illusion of mastery."__   
+_As taught by __Linus the Elder__, Grandfather of Git, Keeper of the Sacred Timeline_
 
 ## The First Teaching: "Thou Shalt Not Rewrite History"
 
-_As taught by __Linus the Elder__, Grandfather of Git, Keeper of the Sacred Timeline_
+_To prune the past is but to feign thy grace,_  
+_And rob the root that gave thy courage birth._  
+_Let flaws stand firm, that others find their place—_  
+_For history denied is stolen worth._  
+
+_The broken line is still a line—and thine._
 
 ---
 
@@ -242,11 +234,16 @@ And slowly, gradually, beautifully, his commit messages began to tell better sto
 
 The First GitScroll was complete. Eight more awaited.
 
----
-
-__Next: [GitScroll II - "The Chronicle of Forgotten Messages"](02-Chronicle-of-Forgotten-Messages.md)__  
-_As taught by the Teacher of Lost Packets_
-
----
+> _In the beginning was the commit, and the commit was with Tux, and the commit was good._
 
 _Thus began the education of Tuxicles, and lo, the repositories were safer for his learning._
+
+---
+
+__Next: [GitScroll II - "The Annals of Forgotten Messages"](02-Annals-of-Forgotten-Messages.md)__  
+_As taught by the Teacher of Lost Packets_
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
