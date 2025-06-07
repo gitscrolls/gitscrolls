@@ -1,4 +1,4 @@
-# 🐧 The GitScrolls 📜
+# 🐧 GitScrolls 📜
 
 ![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxicles.png?raw=true)
 
@@ -25,7 +25,7 @@ _Sacred wisdom for the journey from first commit to final teaching_
 > 
 > He broke the build, and yet—return'd anon.  
 > Not hero born, but hero by return.  
-> The GitScrolls, forged in jest, became our creed;  
+> GitScrolls, forged in jest, became our creed;  
 > for what begins in mirth oft ends in truth.
 > 
 > What jest reveals, the sober soul must keep.  
@@ -45,7 +45,7 @@ _Sacred wisdom for the journey from first commit to final teaching_
 
 - ---
 
-## __🎯 What Are The GitScrolls?__
+## __🎯 What Are GitScrolls?__
 
 The __GitScrolls__ are ten sacred teachings that trace the archetypal journey every developer takes—from innocent beginner who commits "fix stuff" to wise mentor who helps others navigate the beautiful complexity of software development.
 
@@ -60,7 +60,7 @@ __🤝 [Join Community](https://github.com/gitscrolls/gitscrolls/discussions)__ 
 
 ### __🎭 The Aspects of Tux__
 
-The GitScrolls follow the archetypal transformation of every developer through five classical phases…
+GitScrolls follow the archetypal transformation of every developer through five classical phases…
 
 | Portrait | Name              | Inspiration      | IPA Pronunciation | Phonetic         | Archetype Description               |
 |----------|-------------------|------------------|--------------------|------------------|-------------------------------------|
@@ -170,7 +170,7 @@ __🎯 [Contribute to the Lore](00-merge.lore)__ - _Add your voice to the living
 
 ## __🤝 Contributing to the Sacred Tradition__
 
-The GitScrolls are __living wisdom__ that grows through community contribution:
+GitScrolls are __living wisdom__ that grows through community contribution:
 
 ### __🌟 Ways to Contribute__
 
@@ -195,7 +195,7 @@ Community guidelines and governance frameworks will be available in separate rep
 
 - ---
 
-## __🌐 The GitScrolls Across Realms__
+## __🌐 GitScrolls Across Realms__
 
 ### __📱 Digital Presence__
 
@@ -231,7 +231,7 @@ We celebrate contributors in our community and recognize all contributions. Ever
 
 ## __📜 License & Philosophy__
 
-The GitScrolls are released under the __[MIT License](LICENSE)__ with the __Sacred Commit Clause__:
+GitScrolls are released under the __[MIT License](LICENSE)__ with the __Sacred Commit Clause__:
 
 > _"The code is not yours. The code is ours. And through sharing, we become eternal."_
 
@@ -248,7 +248,7 @@ __Use freely. Share widely. Improve constantly. Teach others.__
 
 ## __🙏 Acknowledgments__
 
-The GitScrolls emerged from the collaborative wisdom of:
+GitScrolls emerged from the collaborative wisdom of:
 
 ### __🌟 Core Contributors__
 
@@ -322,5 +322,5 @@ See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
 
 - ---
 
-> _The GitScrolls** by J. Kirby Ross._  
+> ***GitScrolls by J. Kirby Ross.***  
 > _Commercial use requires permission — info@gitscrolls.com_  

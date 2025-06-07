@@ -5,7 +5,7 @@ Frequently asked questions about the Sacred Teachings and their practical applic
 ## General Questions
 
 ### What are the GitScrolls?
-The GitScrolls are ten archetypal teachings that trace the journey every developer takes—from innocent beginner to wise mentor. They combine genuine technical wisdom with engaging mythology to make development principles accessible, memorable, and practical.
+GitScrolls are ten archetypal teachings that trace the journey every developer takes—from innocent beginner to wise mentor. They combine genuine technical wisdom with engaging mythology to make development principles accessible, memorable, and practical.
 
 ### Are the GitScrolls religious or spiritual?
 No. While they use mythological language and archetypal storytelling, the GitScrolls are secular wisdom about software development. The "sacred" language is metaphorical—recognizing that good development practices deserve reverence and care. Developers of all backgrounds and beliefs can benefit from the teachings.
@@ -34,7 +34,7 @@ Here are approaches you can try:
 - Apply teachings to daily standup discussions
 
 ### Can I use GitScrolls for teaching/training?
-Yes! The GitScrolls can be used for:
+Yes! GitScrolls can be used for:
 - One-on-one mentoring using scroll principles
 - Team workshops and discussions
 - Bootcamp or university curricula integration
@@ -90,7 +90,7 @@ Yes! We welcome:
 - Improvements to documentation
 
 ### Can I use GitScrolls in my company/course/book?
-Yes! The GitScrolls are released under the [MIT License](LICENSE) with the Sacred Commit Clause encouraging compassionate use. You can:
+Yes! GitScrolls are released under the [MIT License](LICENSE) with the Sacred Commit Clause encouraging compassionate use. You can:
 - Use freely in commercial settings
 - Include in training materials
 - Reference in presentations
@@ -98,7 +98,7 @@ Yes! The GitScrolls are released under the [MIT License](LICENSE) with the Sacre
 
 ### How do I cite the GitScrolls?
 ```
-The GitScrolls: Sacred Wisdom for Software Development
+GitScrolls: Sacred Wisdom for Software Development
 https://github.com/gitscrolls/gitscrolls
 Licensed under MIT with Sacred Commit Clause
 ```
@@ -140,7 +140,7 @@ No! They complement existing resources by providing:
 - Bridge between technical skills and human wisdom
 
 ### Why does this matter?
-Software development is fundamentally about humans coordinating to solve problems through code. The GitScrolls help developers see their work as meaningful, connect with their colleagues more effectively, and build software that serves humanity with greater compassion and wisdom.
+Software development is fundamentally about humans coordinating to solve problems through code. GitScrolls help developers see their work as meaningful, connect with their colleagues more effectively, and build software that serves humanity with greater compassion and wisdom.
 
 ---
 
