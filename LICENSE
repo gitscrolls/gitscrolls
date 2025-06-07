@@ -1,49 +1,29 @@
-MIT License
+# 🛡️ License
 
-Copyright (c) 2025 GitScrolls Contributors
+**The GitScrolls** by **J. Kirby Ross** is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+To view a copy of the license, visit the link above  
+or send a letter to: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ---
 
-## The Sacred Commit Clause
+### 📜 Summary (for fellow travelers of the terminal):
 
-While not legally binding, we ask all who use, share, or contribute to GitScrolls
-to honor these principles:
+You are free to:
 
-1. **Use with Compassion**: Apply GitScrolls wisdom to build software that serves
-   humanity and respects all beings.
+- **🔁 Share** — copy and redistribute the material in any medium or format  
+- **🛠 Adapt** — remix, transform, and build upon the material  
 
-2. **Share with Generosity**: If GitScrolls helps you, consider how you might
-   help others discover these teachings.
+Under the following terms:
 
-3. **Grow with Community**: Your insights and experiences make GitScrolls richer.
-   Share your journey to light the path for others.
-
-4. **Code with Consciousness**: Remember that every line of code is an opportunity
-   to practice mindfulness, craft, and care.
-
-By embracing GitScrolls, you join a community dedicated to transforming not just
-how we code, but why we code. May your software serve the greater good, and may
-your commits carry wisdom forward.
+- **🧾 Attribution** — Credit the author, link the license, note changes  
+- **🚫 NonCommercial** — No use for commercial purposes  
+- **♻️ ShareAlike** — Derivative works must carry the same license  
 
 ---
 
-*"In the spirit of open source, we share not just code but wisdom,
-not just solutions but understanding, not just software but community."*
+### 💼 Commercial Use
+
+For commercial licensing, publishing rights, or other specialized requests,  
+please contact the author at: **info@gitscrolls.org**
