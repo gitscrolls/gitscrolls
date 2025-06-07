@@ -1,6 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 # 🐧 The GitScrolls 📜
 
 ![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxicles.png?raw=true)
@@ -327,21 +324,3 @@ See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
 
 > _The GitScrolls** by J. Kirby Ross._  
 > _Commercial use requires permission — info@gitscrolls.com_  
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEEnIyz5PXPxFgtaZo4pa7nO5NWamcFAmhEjysACgkQpa7nO5NW
-ameznhAAn0BuQxh6e+TzBTqXNyqIaiJA56L5mLzFzUMjBP/QwKqqO7/A/X/aRQul
-qNpLY2Ll5jcWCgRRQSx5mvinlud4zOUgRM6NepWi234q3q8HZbIn42iYuTJtLp4J
-Cyyzap6d5hb6kkQvvkTRmgApY48zdwrGL4fz0JW6eVnfTxAWIjlrTGIbe62FIZ/F
-PFzi/h8BMbB6Ly6gTD0ICQMrABecQQm2bebsdqDDTZRILmtNNKoIN9xSFSp8n7IX
-wnSST75dCRwELTcuwYPZ94dVoyiszz+IcAX3XW9JHikuhrn0ggOrw4Au+BKg5xQY
-7SvFAit52Icl8gwb9hvwdWRqJQW6J/bLQGuYQVp2aJW9luSE7gjbO0dt+VZLr7KX
-KlvNVSmUcF9UI4c5fEdzqEcuLTFgdzdYHLJJgYA1sCC6GVonG18moHtZeJAEzCSx
-XjrVjyw2Umy0a7jx/tX0KduHM1+eJJEEJDqcqsdqcxMPmh3iPunQpxoIHZY8oQHZ
-lHrwzxY4OJAFwuQdciCL9+j7+efF79oVpeab7trzjfWEeRDpp68Qwd3p4ynhoxo7
-If6xM/DXZWqZfU58nGhYLWgVvQ91m8rO/0NYnInH/QQbiD+MzfUUQNR0WftpgKrW
-q5EHaRwWuZOKKsbIsZgwSsmOnWaLPvKIGf8tge7SUQK/TihbCTs=
-=96mg
-
------END PGP SIGNATURE-----
