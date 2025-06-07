@@ -326,7 +326,8 @@ See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
 - ---
 
 > _The GitScrolls** by J. Kirby Ross._  
-> _Commercial use requires permission — info@gitscrolls.com_
+> _Commercial use requires permission — info@gitscrolls.com_  
+
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCAAdFiEEnIyz5PXPxFgtaZo4pa7nO5NWamcFAmhEjysACgkQpa7nO5NW
@@ -342,4 +343,5 @@ lHrwzxY4OJAFwuQdciCL9+j7+efF79oVpeab7trzjfWEeRDpp68Qwd3p4ynhoxo7
 If6xM/DXZWqZfU58nGhYLWgVvQ91m8rO/0NYnInH/QQbiD+MzfUUQNR0WftpgKrW
 q5EHaRwWuZOKKsbIsZgwSsmOnWaLPvKIGf8tge7SUQK/TihbCTs=
 =96mg
+
 -----END PGP SIGNATURE-----
