@@ -25,7 +25,7 @@
 
 *Hark!* — *these scrolls are shared freely, but not without covenant.* 
 
-The wisdom within *The GitScrolls: The Chronicles of Tuxicles* is gifted to the world,  
+The wisdom within *GitScrolls: The Chronicles of Tuxicles* is gifted to the world,  
 yet bound by sacred terms, that it may guide, not be sold.
 
 ---
@@ -69,7 +69,7 @@ Some uses dwell in ambiguity — not forbidden, but not yet blessed:
 - Speaking at commercial conferences with scroll-derived content
 - Internal training in corporate halls
 - Sponsored content bearing the mark of the scrolls
-- Podcasts discussing The GitScrolls, quoting, or teaching from its content
+- Podcasts discussing GitScrolls, quoting, or teaching from its content
 - Blog posts for brands that quote generously
 
 In such cases, seek guidance.  
@@ -97,7 +97,7 @@ Rejoice, for all proceeds support the growth of the scrolls and protect their fr
 🏛️ When quoting, sharing, or adapting, honor the source:
 
 ```
-This work contains material from "The GitScrolls: The Chronicles of Tuxicles" by J. Kirby Ross,
+This work contains material from "GitScrolls: The Chronicles of Tuxicles" by J. Kirby Ross,
 licensed under CC BY-NC-SA 4.0.
 https://gitscrolls.org
 ```
@@ -105,7 +105,7 @@ https://gitscrolls.org
 🎓 For academic citations:
 
 ```
-Ross, J. K. (2025). The GitScrolls: The Chronicles of Tuxicles.
+Ross, J. K. (2025). GitScrolls: The Chronicles of Tuxicles.
 Retrieved from https://gitscrolls.org
 ```
 
@@ -117,7 +117,7 @@ Retrieved from https://gitscrolls.org
 
 ## ⚖️ Why This License?
 
-This license embodies the values within *The GitScrolls*:
+This license embodies the values within *GitScrolls*:
 
 - **Attribution** honors the "meaningful commit messages" principle — giving credit where it's due  
 - **NonCommercial** protects against exploitation while keeping wisdom accessible  
@@ -144,4 +144,4 @@ Let those who read understand the covenant.
 Let those who fork do so with honor.
 Let those who charge... email first.
 
-And lo, beneath /usr/share/doc, so it is written.
+And lo, beneath `/usr/share/doc`, so it is written.
