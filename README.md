@@ -319,6 +319,7 @@ gpg --verify SIGNED-README.asc
 **Historical License:** MIT (commits 1-89)
 
 See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
+See [LICENSE_USEAGE.mg](LICENSE_USEAGE.md) for more info.
 
 - ---
 
