@@ -11,28 +11,21 @@ updated: 2025-05-31T20:30
 ---
 
 # GitScroll IX: Commandments of the Wise
-
 _The Penultimate Trial of Tuxilles the Battle-Scarred_
 
----
 
-> *"If you withhold what hardship taught you, then it taught you nothing."*
-
----
-
-The wound that healeth thee alone is vain;  
-But shared, it turns to lanterns for the lost.  
-Teach not for glory—teach to ease the strain  
-Of those who tread where once thy soul was tossed.
-
-For wisdom hoarded rots behind the brow—  
-But wisdom given plants a forest now.
-
----
+> *"If you withhold what hardship taught you, then it taught you nothing."*  
+_As embodied by __The Oracle of Teaching__, Guardian of the Sacred Grove, Keeper of Generational Wisdom_
 
 ## The Ninth Teaching: "The Mentor You Needed When You Began"
 
-_As embodied by __The Oracle of Teaching__, Guardian of the Sacred Grove, Keeper of Generational Wisdom_
+_The wound that healeth thee alone is vain;_  
+_But shared, it turns to lanterns for the lost._  
+_Teach not for glory—teach to ease the strain_  
+_Of those who tread where once thy soul was tossed._
+
+_For wisdom hoarded rots behind the brow—_  
+_But wisdom given plants a forest now._
 
 ---
 
@@ -341,11 +334,8 @@ From exile to teacher, from scarred survivor to wise guide, from isolated compet
 
 The glowing constellation of his scars marked him now not as battle-scarred, but as battle-tested—ready to help others navigate their own learning journeys with the patience and wisdom that only comes from having walked the path of consequence and growth.
 
+*Thus did Tuxilles learn that the highest form of technical achievement is not the code you write, but the developers you inspire to write code with wisdom, kindness, and care for those who will inherit their digital legacy.*
+
 ---
 
 **Next: [GitScroll X - "Where Heroes Go to Die"](10-Where-Heroes-Go-to-Die.md)**  
-_Where Tuxilles completes his odyssey and transforms the Temple itself_
-
----
-
-*Thus did Tuxilles learn that the highest form of technical achievement is not the code you write, but the developers you inspire to write code with wisdom, kindness, and care for those who will inherit their digital legacy.*

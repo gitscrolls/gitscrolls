@@ -11,27 +11,19 @@ updated: 2025-05-30T06:38
 ---
 
 # GitScroll III: The Oracle's Testament of Devotion
-
 _The Chronicles of Tuxrates and the Sacred Art of Caring for Code_
 
----
-
-> __"To test is to serve the future in silence. Expect no praise. Endure no thanks. Your reward is simply this: to not be cursed by those who come after."__
-
----
-
-A test well writ hath no trumpet, no cheer—  
-Yet saves ten thousand souls from silent dread.  
-The hero breaks their code for truth held dear,  
-That others may not break their dreams instead.
-
-The faithful fail in private, so the world need not.
-
----
+> __"To test is to serve the future in silence. Expect no praise. Endure no thanks. Your reward is simply this: to not be cursed by those who come after."__   
+> _As taught by the __Prophet of Red-Green__, Oracle of Extreme Truths, Speaker of the Sacred Cycle_
 
 ## The Third Teaching: "Tests Are Proof of Love"
 
-_As taught by the __Prophet of Red-Green__, Oracle of Extreme Truths, Speaker of the Sacred Cycle_
+_A test well writ hath no trumpet, no cheer—_   
+_Yet saves ten thousand souls from silent dread._  
+_The hero breaks their code for truth held dear,_  
+_That others may not break their dreams instead._  
+
+_The faithful fail in private, so the world need not._  
 
 ---
 
@@ -385,11 +377,14 @@ His code became not just functional, but reliable. Not just clever, but trustwor
 
 The Third GitScroll was complete. Six more awaited, and with each one, Tuxrates grew closer to understanding that programming was not just about instructing machines, but about expressing care for the humans who would inherit his digital legacy.
 
+_Thus did Tuxrates learn that testing is the highest form of professional love, and his code thereafter was blessed with the reliability that comes from care made executable._
+
 ---
 
 __Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)__  
 _As taught by the Fork-Bearer of Freedom, Guardian of the Four Freedoms_
 
----
-
-_Thus did Tuxrates learn that testing is the highest form of professional love, and his code thereafter was blessed with the reliability that comes from care made executable._
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._

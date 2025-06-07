@@ -16,30 +16,22 @@ updated: 2025-05-30T06:08
 ---
 
 # GitScroll VI: Songs of the Chaos Sirens
-
 _The Chronicles of Tuxilles the Battle-Scarred and the Art of Dancing with Absurdity_
-
----
-
-> *"If they break what you built, it was already broken."*
-
----
-
-When rules grow sharp, and users bruise their grace,  
-The Sirens call: "Just comment out the check."  
-But lo—each patch unearned becomes a crack,  
-And in that breach, the Trickster makes his place.
-
-For chaos bears a song both strange and wise:  
-What breaks the form may yet reveal its soul.  
-A broken flow is but a mask's disguise—  
-And jesters oft repair what lords control.
-
----
 
 ## The Sixth Teaching: "Every Bug Is a Feature Request"
 
+> *"If they break what you built, it was already broken."*  
 _As taught by __The Trickster of GitHub Issues__, Master of Creative Chaos, Patron Saint of Unexpected Use Cases_
+
+_When rules grow sharp, and users bruise their grace,_  
+_The Sirens call: "Just comment out the check."_  
+_But lo—each patch unearned becomes a crack,_  
+_And in that breach, the Trickster makes his place._
+
+_For chaos bears a song both strange and wise:_  
+_What breaks the form may yet reveal its soul._  
+_A broken flow is but a mask's disguise—_  
+_And jesters oft repair what lords control._
 
 ---
 
@@ -281,11 +273,14 @@ From this day forward, Tuxilles would remember that every bug report contains a 
 
 The battle-scarred penguin continued his journey home, eyes flickering with hard-won wisdom about the difference between helpful flexibility and harmful expedience.
 
+*Thus did Tuxilles learn that every bug is indeed a feature request—but the feature being requested is often understanding, not circumvention. His flickering eyes would remind him to see clearly through the chaos of user creativity.*
+
 ---
 
 **Next: [GitScroll VII - "Between the Monsters of Time"](07-Between-Monsters-of-Time.md)**  
 _Where Tuxilles faces the impossible choice between speed and caution_
 
----
-
-*Thus did Tuxilles learn that every bug is indeed a feature request—but the feature being requested is often understanding, not circumvention. His flickering eyes would remind him to see clearly through the chaos of user creativity.*
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._

@@ -11,35 +11,27 @@ updated: 2025-05-31T20:15
 ---
 
 # GitScroll V: The Wounding of Hubris
-
 _The Wounding of Tuxrates and the Birth of Tuxilles the Battle-Scarred_
 
----
-
-> __"They needed reliability. You gave them elegance. They got neither."__
-
----
-
-He sought to purge what Time had left profane,  
-And raised anew a temple wrought with fire.  
-Yet trust, once cracked, no code may once regain—  
-His name endures, a byword for misfire.
-
-With syntax sharp, he cleft the past in twain,  
-And carved his will through midnight's fragile breath.  
-But flows undone and auth consumed by bane  
-Did summon forth a Monday made of death.
-
-He fixéd code that whisper'd, "Leave me be,"  
-Then loosed his dream upon production's sea.  
-The world cried out: "Our logins lie in smoke!"  
-His tombstone reads: "I meant it as a joke."
-
----
+> __"They needed reliability. You gave them elegance. They got neither."__  
+_As learned through consequence by __Tuxilles the Battle-Scarred__, Bearer of Scars, Keeper of Hard-Won Wisdom_
 
 ## The Fifth Teaching: "Refactor With Compassion"
 
-_As learned through consequence by __Tuxilles the Battle-Scarred__, Bearer of Scars, Keeper of Hard-Won Wisdom_
+_He sought to purge what Time had left profane,_  
+_And raised anew a temple wrought with fire._  
+_Yet trust, once cracked, no code may once regain—_  
+_His name endures, a byword for misfire._  
+
+_With syntax sharp, he cleft the past in twain,_  
+_And carved his will through midnight's fragile breath._  
+_But flows undone and auth consumed by bane_  
+_Did summon forth a Monday made of death._  
+
+_He fixéd code that whisper'd, "Leave me be,"_  
+_Then loosed his dream upon production's sea._  
+_The world cried out: "Our logins lie in smoke!"_  
+_His tombstone reads: "I meant it as a joke."_
 
 ---
 
@@ -309,11 +301,14 @@ The battle-scarred penguin who had once been Tuxrates the confident questioner n
 
 But that is a story for the scrolls to come.
 
+*Thus did Tuxrates become Tuxilles through consequence rather than instruction, learning that the highest form of technical improvement requires the deepest form of human consideration. His battle scar would guide him through the trials ahead, throbbing with wisdom earned in the digital underworld where broken systems go to haunt their creators.*
+
 ---
 
 **Next: [GitScroll VI - "Songs of the Chaos Sirens"](06-Songs-of-Chaos-Sirens.md)**  
 _Where Tuxilles faces his first temptation on the journey home_
 
----
-
-*Thus did Tuxrates become Tuxilles through consequence rather than instruction, learning that the highest form of technical improvement requires the deepest form of human consideration. His battle scar would guide him through the trials ahead, throbbing with wisdom earned in the digital underworld where broken systems go to haunt their creators.*
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._

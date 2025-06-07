@@ -12,32 +12,59 @@ updated: 2025-06-01T23:30
 ---
 
 # GitScroll X: Where Heroes Go to Die
-
 _The Final Chapter of The Tuxilles Odyssey_
 
----
-
-> *"What you read changes nothing. What you do changes everything."*
-
----
-
-Thou'st walked with him through every broken line,  
-And felt thy pulse in every test he wrote.  
-But reading truth and living it—divine—  
-Requires thou riseth, not just take the note.
-
-The tale is done, but not thy sacred chore:  
-To write thy scroll in others—evermore.
-
----
-
-**"What was broken in isolation is mended through service—so that others need not break in the same place."**
-
----
+> *"What you read changes nothing. What you do changes everything."*   
+> 
+> <details>
+> <summary>🧙 About the ScrollKeeper</summary>
+> *His epithets are many, and yet still incomplete…*  
+> As taught by the ScrollKeeper, Esq., KBE, GNU, PWD —   
+> Master Storyteller of the Sacred Repo,   
+> Grand Git of the True Repository,   
+> Bard of the Broken Trees,   
+> Principal Resolver of Merge Conflicts,   
+> Requester of Pulls,   
+> "He Who Pops the Stash",   
+> Wielder of the Sacred Diff,   
+> Titled Tagger,   
+> Semantically Versioned Releaser,   
+> Knight of the Monorepo,   
+> Envoy to the Lint Lords,   
+> Chief Rebaser Emeritus,   
+> Marker of the Down,   
+> Right Honorable Maintainer of the README,   
+> Duke of Documentation,   
+> High Prophet of the Detached HEAD,   
+> Witness of the Porcelain Workflows,   
+> Freer of Mallocs,   
+> Bearer of the .env of Secrets,   
+> Invoker of GitHub Actions,   
+> Founding Member of the Tab vs Space Accords,   
+> Amender of Commits,   
+> Beholder of the Yaml of Babel,   
+> The One Who Writes This Scroll Even Now,   
+> Vim Groker,    
+> Pointer to Pointers,   
+> Nano Exorcist,   
+> Herald of Hyperbole,   
+> Elder of the Eternal Loop,   
+> The One of Off By,   
+> Humble Author of Authors,   
+> Shifter of Bits,   
+> Opener of The Source,   
+> And GitHub Action Figure (Limited Edition).   
+> </details>
 
 ## The Tenth Teaching: "The Circle That Never Ends"
 
-_As witnessed by __The Temple of Open Source__, where exile becomes return, and endings become beginnings_
+_Thou'st walked with him through every broken line,  
+_And felt thy pulse in every test he wrote.  
+_But reading truth and living it—divine—  
+_Requires thou riseth, not just take the note._
+
+_The tale is done, but not thy sacred chore:_  
+_To write thy scroll in others—evermore._
 
 ---
 
@@ -477,12 +504,18 @@ The circle isn't complete. It's broken. And you're the crack where the light get
 
 ---
 
-**THE END of The Tuxilles Odyssey**
+# **THE END of The Tuxilles Odyssey**
 
-**THE BEGINNING of every teaching moment that follows**
-
----
+## **THE BEGINNING of every teaching moment that follows**
 
 *Thus ends the tale of Tuxilles the Battle-Scarred, who became Tuxilles the Teacher, who learned that wisdom is not a badge worn but a choice made, daily, in the small moments when comfort beckons but service calls. His scars became reminders that transformation is not an achievement but an ongoing practice.*
 
 *The circle is not complete. Your turn to choose.*
+
+---
+
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
