@@ -39,8 +39,9 @@ _Sacred wisdom for the journey from first commit to final teaching_
 > And when thine code breaks thrice before it runs,  
 > remember this: thou art not first, nor lone.
 > 
-> — The Maintainer of These Scrolls  
-> _"To blame, or not to blame—that is the log."_
+> — **The Scrollkeeper**  
+> <scrollkeeper@gitscrolls.org>  
+> *“To blame, or not to blame — that is the log.”*
 
 ---
 
@@ -289,4 +290,14 @@ __🐧 May your code be clean, your commits be meaningful, and your legacy be on
 
 ---
 
-__License:__ [MIT](LICENSE)
+## 📜 License
+
+**Current License:** CC BY-NC-SA 4.0 (from commit 90+)  
+**Historical License:** MIT (commits 1-89)
+
+See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
+
+---
+
+> **The GitScrolls** by J. Kirby Ross._  
+> _Commercial use requires permission — info@gitscrolls.com_
