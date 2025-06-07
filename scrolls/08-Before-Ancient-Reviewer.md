@@ -11,28 +11,21 @@ updated: 2025-03-16T02:30
 ---
 
 # GitScroll VIII: Before the Ancient Reviewer
-
 _The Third Trial of Tuxilles the Battle-Scarred_
 
----
 
-> *"Failure outranks fear."*
-
----
-
-Come, cast thine eyes upon the lines once writ,  
-Where haste and hope and duty intertwined.  
-The fool may jeer, but wiser souls admit:  
-Each broken line bears proof that thou wert kind.
-
-For in the ledger where our deeds remain,  
-It is not flaw, but absence, that is shame.
-
----
+> *"Failure outranks fear."*  
+_As judged by __The Ancient Reviewer__, Oracle of Eternal Memory, Guardian of Digital Legacy_
 
 ## The Eighth Teaching: "All Code Is Temporary, All Blame Is Eternal"
 
-_As judged by __The Ancient Reviewer__, Oracle of Eternal Memory, Guardian of Digital Legacy_
+_Come, cast thine eyes upon the lines once writ,_  
+_Where haste and hope and duty intertwined._  
+_The fool may jeer, but wiser souls admit:_  
+_Each broken line bears proof that thou wert kind._
+
+_For in the ledger where our deeds remain,_  
+_It is not flaw, but absence, that is shame._
 
 ---
 
@@ -411,11 +404,14 @@ From this day forward, Tuxilles would remember that code is temporary but servic
 
 The battle-scarred penguin continued his journey home, his five integrated scars serving as a unified system for recognizing code that serves rather than impresses.
 
+*Thus did Tuxilles learn that eternal memory is not a curse but a gift—the preservation of human intention across time. His integrated scars would guide him toward code that honors both the problem and the people who must live with the solution.*
+
 ---
 
 **Next: [GitScroll IX - "Commandments of the Wise"](09-Commandments-of-Wise.md)**  
 _Where Tuxilles faces the final transformation from exile to teacher_
 
----
-
-*Thus did Tuxilles learn that eternal memory is not a curse but a gift—the preservation of human intention across time. His integrated scars would guide him toward code that honors both the problem and the people who must live with the solution.*
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
