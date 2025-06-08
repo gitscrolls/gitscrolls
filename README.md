@@ -81,8 +81,8 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 | Scroll | Teaching | Phase | Teacher | Quick Summary |
 |--------|----------|-------|---------|---------------|
 | __[I](scrolls/01-Unbroken-Line.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
-| __[II](scrolls/02-Chronicle-of-Forgotten-Messages.md)__ | _"The Chronicle of Forgotten Messages"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
-| __[III](scrolls/03-Oracle-Testament-of-Devotion.md)__ | _"The Oracle's Testament of Devotion"_ | __Questioner__ | Prophet of Red-Green | Care made executable |
+| __[II](scrolls/02-Annals-of-Forgotten-Messages.md)__ | _"The Annals of Forgotten Messages"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
+| __[III](scrolls/03-Tests-Are-the-Honest-Glass.md)__ | _"Tests Are the Honest Glass"_ | __Questioner__ | Prophet Nia of the Honest Glass | Testing as act of justice |
 | __[IV](scrolls/04-Schism-Scrolls.md)__ | _"The Schism Scrolls"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
 | __[V](scrolls/05-Wounding-of-Hubris.md)__ | _"The Wounding of Hubris"_ | __Transition→Exile__ | Learned through consequence | Change without breaking trust |
 | __[VI](scrolls/06-Songs-of-Chaos-Sirens.md)__ | _"Songs of the Chaos Sirens"_ | __Exile__ | The Trickster | Wisdom in user creativity |
@@ -108,8 +108,8 @@ _Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
 
 ## __🌟 Community Wisdom__
 
-> _"Every test you write is a love letter to the future."_  
-> __—Prophet of Red-Green, [GitScroll III](scrolls/03-Oracle-Testament-of-Devotion.md)__
+> _"The honest glass breaks when we lie to ourselves. But in breaking—it shows us how to build what cannot break: trust."_  
+> __—Prophet Nia of the Honest Glass, [GitScroll III](scrolls/03-Tests-Are-the-Honest-Glass.md)__
 
 > _"The Timeline Is Truth, Even When Ugly."_  
 > __—Linus the Elder, [GitScroll I](scrolls/01-Unbroken-Line.md)__

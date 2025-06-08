@@ -49,7 +49,7 @@ For the first time since his exile, Tuxilles felt something beyond redemption or
 
 __Tuxilles:__ _(typing with steady wings)_ "I'd be honored to help. Let's start with whatever you're working on. No question is too basic, and confusion is just clarity waiting for the right explanation."
 
-As he typed, his scars glowed gently—not in warning, but in recognition. He remembered his own confusion in the Lightning Fields, watching tests fail and succeed without understanding why. The Prophet of Red-Green had been patient then. Now it was his turn.
+As he typed, his scars glowed gently—not in warning, but in recognition. He remembered his own confusion in the Lightning Fields, watching tests fail and succeed without understanding why. Prophet Nia had been patient then. Now it was his turn.
 
 ---
 

@@ -39,7 +39,7 @@ _His tombstone reads: "I meant it as a joke."_
 
 The lessons from the first four masters had filled Tuxrates with confidence—perhaps too much confidence. The taste of metal when rebasing shared branches on Friday afternoons (Scroll I), the terminal glitches when ignoring pipeline failures (Scroll II), the static sensations when skipping tests "just this once" (Scroll III), the shell vibrations when dismissing PR feedback (Scroll IV)—all these warning signs had been dismissed as quirks of the development environment.
 
-His body had been trying to teach him what his mind refused to learn. Each ignored sensation had been a teacher as patient as Linus, as persistent as the Prophet of Red-Green. But he had disabled notifications from his own nervous system as thoroughly as he'd disabled @TempleSentinel's warnings.
+His body had been trying to teach him what his mind refused to learn. Each ignored sensation had been a teacher as patient as Linus, as persistent as Prophet Nia of the Honest Glass. But he had disabled notifications from his own nervous system as thoroughly as he'd disabled @TempleSentinel's warnings.
 
 But they weren't quirks. They were hairline cracks in his judgment, tiny fractures that would soon converge into something catastrophic.
 
