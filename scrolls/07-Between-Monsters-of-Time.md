@@ -121,7 +121,7 @@ The beak chip throbbed—not in warning this time, but in memory. He remembered 
 *"Provide migration paths, not migration demands..."*  
 *"Listen to resistance—it often contains wisdom..."*
 
-And before that, the Prophet of Red-Green's voice: "_We test not because we doubt our ability to think, but because we respect the gap between thinking and reality._" This deployment would test that gap under maximum pressure.
+And before that, Prophet Nia's voice: "_Trust without proof is not wisdom. It is wishful thinking._" This deployment would test that gap under maximum pressure.
 
 This patch preserved behavior (fixed security) while improving implementation (closed vulnerability). The canary deployment was a migration path. The weekend monitoring was listening to resistance.
 
