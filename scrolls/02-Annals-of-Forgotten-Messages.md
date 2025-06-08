@@ -175,8 +175,8 @@ _Thus did Tuxicles learn the Second GitScroll, and his commit messages thereafte
 
 ---
 
-__Next:__ [GitScroll III - "The Oracle's Testament of Devotion"](03-Oracle-Testament-of-Devotion.md)  
-_As taught by the Prophet of Red-Green, Oracle of Extreme Truths_
+__Next:__ [GitScroll III - "Tests Are the Honest Glass"](03-Tests-Are-the-Honest-Glass.md)  
+_As taught by Prophet Nia of the Honest Glass, Guardian of Sacred Contracts_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
