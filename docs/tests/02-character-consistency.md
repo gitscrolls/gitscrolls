@@ -23,7 +23,7 @@ Ensures character names, evolution, and references remain consistent throughout 
 ### 4. Character Attribute Consistency
 - **What it tests**: Character descriptions remain consistent
 - **Implementation**: Extract and compare character attributes
-- **Example failure**: "The Prophet of Red-Green" later called "The Prophet of Green-Red"
+- **Example failure**: "Prophet Nia of the Honest Glass" later called "Nia the Honest Glass"
 
 ### 5. Character Arc Validation
 - **What it tests**: Character development follows narrative logic

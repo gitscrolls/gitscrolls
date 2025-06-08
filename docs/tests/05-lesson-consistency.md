@@ -62,7 +62,7 @@ class LessonTracker {
 ### By Scroll
 1. **Scroll I**: "Thou Shalt Not Rewrite History"
 2. **Scroll II**: "Write Meaningful Commit Messages"
-3. **Scroll III**: "Tests Are Proof of Love"
+3. **Scroll III**: "Tests Are the Honest Glass"
 4. **Scroll IV**: "Forks Are Not Betrayals"
 5. **Scroll V**: Seven Principles of Compassionate Refactoring
 6. **Scroll VI**: "Every Bug Is a Feature Request"
