@@ -167,6 +167,36 @@ __Teacher:__ "See that you don't. For I shall be watching… from the _history_.
 
 ---
 
+### Scene V: The Public Endorsement
+
+Three days later, Tuxicles discovered a message in the Temple's main channel:
+
+```
+@TeacherOfLostPackets: Fellow developers, I want to highlight 
+@Tuxicles' recent commit messages as examples of clear communication.
+Note how each message tells WHY, not just WHAT. This is how we serve
+the future maintainers.
+
+Examples:
+- Fix email validation edge case for international domains
+- Add error handling for network timeouts in auth flow  
+- Remove deprecated API calls before v2.0 sunset
+
+This is thoughtful commit craftsmanship. Well done, @Tuxicles.
+```
+
+Reactions poured in: 🔥 👏 💯
+
+Other developers began studying his messages. Junior contributors asked for advice. His commit style was being copied across projects.
+
+**@TempleSentinel:** "Subject mentioned in 47 positive contexts this week. Commit message quality metrics: 98th percentile. Trust level: +25. Influence expanding."
+
+__Tuxicles:__ *(reading the praise)* "I'm becoming... known. Respected."
+
+The eye flicker returned—just a split second of visual static. He blinked it away. Probably just the old monitors.
+
+---
+
 ### Coda: The Log Eternal
 
 _Time marched, commits piled up, and Tuxicles learned that his git log had become something beautiful._

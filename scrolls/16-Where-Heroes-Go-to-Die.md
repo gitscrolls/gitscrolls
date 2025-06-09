@@ -1,17 +1,17 @@
 ---
-title: "GitScroll X: Where Heroes Go to Die"
+title: "GitScroll XVI: Where Heroes Go to Die"
 aliases:
   - "Where Heroes Go to Die"
   - "The Circular Ending"
   - "The Eternal Teaching"
-linter-yaml-title-alias: "GitScroll X: Where Heroes Go to Die"
+linter-yaml-title-alias: "GitScroll XVI: Where Heroes Go to Die"
 date created: May 31st 2025, 10:45:00 pm
 date modified: June 1st 2025, 11:30:00 pm
 created: 2025-05-31T22:45
 updated: 2025-06-01T23:30
 ---
 
-# GitScroll X: Where Heroes Go to Die
+# GitScroll XVI: Where Heroes Go to Die
 _The Final Chapter of The Tuxilles Odyssey_
 
 > *"What you read changes nothing. What you do changes everything."*   
@@ -56,7 +56,7 @@ _The Final Chapter of The Tuxilles Odyssey_
 > And GitHub Action Figure (Limited Edition).   
 > </details>
 
-## The Tenth Teaching: "The Circle That Never Ends"
+## The Sixteenth Teaching: "The Circle That Never Ends"
 
 _Thou'st walked with him through every broken line,  
 _And felt thy pulse in every test he wrote.  

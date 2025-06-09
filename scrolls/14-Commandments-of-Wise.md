@@ -1,23 +1,23 @@
 ---
-title: "GitScroll IX: Commandments of the Wise"
+title: "GitScroll XIV: Commandments of the Wise"
 aliases:
   - "Commandments of the Wise"
   - "The Trial of Teaching"
-linter-yaml-title-alias: "GitScroll IX: Commandments of the Wise"
+linter-yaml-title-alias: "GitScroll XIV: Commandments of the Wise"
 date created: April 30th 2025, 5:20:00 am
 date modified: April 30th 2025, 8:30:00 pm
 created: 2025-05-30T05:20
 updated: 2025-05-31T20:30
 ---
 
-# GitScroll IX: Commandments of the Wise
+# GitScroll XIV: Commandments of the Wise
 _The Penultimate Trial of Tuxilles the Battle-Scarred_
 
 
 > *"If you withhold what hardship taught you, then it taught you nothing."*  
 _As embodied by __The Oracle of Teaching__, Guardian of the Sacred Grove, Keeper of Generational Wisdom_
 
-## The Ninth Teaching: "The Mentor You Needed When You Began"
+## The Fourteenth Teaching: "The Mentor You Needed When You Began"
 
 _The wound that healeth thee alone is vain;_  
 _But shared, it turns to lanterns for the lost._  
@@ -338,4 +338,5 @@ The glowing constellation of his scars marked him now not as battle-scarred, but
 
 ---
 
-**Next: [GitScroll X - "Where Heroes Go to Die"](10-Where-Heroes-Go-to-Die.md)**  
+**Next: [GitScroll XV - "The Merge of Meaning"](15-The-Merge-of-Meaning.md)**  
+_Where reconciliation transforms into something new_  

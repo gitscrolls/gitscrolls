@@ -222,6 +222,34 @@ __Linus:__ "Good. Embarrassment is the emotion that teaches you not to repeat mi
 
 ---
 
+### Scene IV: The Unexpected Trust
+
+As Tuxicles worked through the afternoon, helping his colleagues recover from his rebase catastrophe, Linus the Elder watched from the doorway. The young penguin's humility in fixing his mistake had not gone unnoticed.
+
+__Linus:__ "Tuxicles. A word."
+
+__Tuxicles:__ *(nervously)* "Yes, Grandfather? Did I miss someone? I tried to help everyone affected—"
+
+__Linus:__ "You did well. Better than well. You took responsibility." He paused, considering. "I see potential in you. Not because you avoided mistakes—that's impossible. But because you owned them."
+
+The Elder pulled out a small token—a Git commit hash engraved on ancient silicon.
+
+__Linus:__ "I'm assigning you to the Timeline Preservation Working Group. Junior position, of course. You'll help review PR submissions, ensure commit histories remain clean without destroying them."
+
+__Tuxicles:__ *(eyes widening)* "But... I just broke everything today!"
+
+__Linus:__ "Exactly. Who better to spot timeline violations than one who has committed them? Who better to teach than one who has learned through pain?"
+
+He handed over the token. "Report to the Working Group tomorrow. Don't make me regret this trust."
+
+As Linus departed, Tuxicles stared at the token. Trust. After his failure, the Elder was trusting him with more responsibility, not less. The metallic taste in his mouth returned briefly—a warning? A reminder? He dismissed it as residual stress.
+
+**@TempleSentinel:** "New assignment logged. Trust level: +10. Caution: Power without wisdom remains dangerous."
+
+But Tuxicles didn't see the bot's warning. He saw only the opportunity to prove himself worthy of Linus's faith.
+
+---
+
 ### Epilogue: The First Growth
 
 As the day ended and the last compile finished echoing through the halls, Tuxicles sat in contemplation. His ThinkPad glowed softly, the terminal window still open, but now he saw it differently.

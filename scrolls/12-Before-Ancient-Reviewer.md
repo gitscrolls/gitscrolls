@@ -1,23 +1,23 @@
 ---
-title: "GitScroll VIII: Before the Ancient Reviewer"
+title: "GitScroll XII: Before the Ancient Reviewer"
 aliases:
   - "Before the Ancient Reviewer"
   - "The Ancient Reviewer's Judgment"
-linter-yaml-title-alias: "GitScroll VIII: Before the Ancient Reviewer"
+linter-yaml-title-alias: "GitScroll XII: Before the Ancient Reviewer"
 date created: March 15th 2025, 3:17:42 am
 date modified: March 16th 2025, 2:30:00 am
 created: 2025-03-15T03:17
 updated: 2025-03-16T02:30
 ---
 
-# GitScroll VIII: Before the Ancient Reviewer
+# GitScroll XII: Before the Ancient Reviewer
 _The Third Trial of Tuxilles the Battle-Scarred_
 
 
 > *"Failure outranks fear."*  
 _As judged by __The Ancient Reviewer__, Oracle of Eternal Memory, Guardian of Digital Legacy_
 
-## The Eighth Teaching: "All Code Is Temporary, All Blame Is Eternal"
+## The Twelfth Teaching: "All Code Is Temporary, All Blame Is Eternal"
 
 _Come, cast thine eyes upon the lines once writ,_  
 _Where haste and hope and duty intertwined._  
@@ -408,8 +408,8 @@ The battle-scarred penguin continued his journey home, his five integrated scars
 
 ---
 
-**Next: [GitScroll IX - "Commandments of the Wise"](09-Commandments-of-Wise.md)**  
-_Where Tuxilles faces the final transformation from exile to teacher_
+**Next: [GitScroll XIII - "The Return Pull"](13-The-Return-Pull.md)**  
+_Where Tuxilles submits his first PR back to the Temple_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  

@@ -1,22 +1,22 @@
 ---
-title: "GitScroll VII: Between the Monsters of Time"
+title: "GitScroll X: Between the Monsters of Time"
 aliases:
   - "Between the Monsters of Time"
   - "The Friday Deploy Nightmare"
-linter-yaml-title-alias: "GitScroll VII: Between the Monsters of Time"
+linter-yaml-title-alias: "GitScroll X: Between the Monsters of Time"
 date created: Thursday, May 29th 2025, 7:36:33 pm
 date modified: May 31st 2025, 10:30:00 pm
 created: 2025-05-29T19:36
 updated: 2025-05-31T22:30
 ---
 
-# GitScroll VII: Between the Monsters of Time
+# GitScroll X: Between the Monsters of Time
 _The Second Trial of Tuxilles the Battle-Scarred_  
 
 > *"The cautious who ship nothing are no safer than the reckless who ship everything."*  
 _As learned through terror by __Tuxilles the Battle-Scarred__, Bearer of Scars, Exile in the Wilderness_
 
-## The Seventh Teaching: "Sacred Timing"
+## The Tenth Teaching: "Sacred Timing"
 
 Two fangs await the hand that holds the patch:  
 One strikes too soon, the other waits too long.  
@@ -257,8 +257,8 @@ The battle-scarred penguin continued his journey home, chest cracked with earned
 
 ---
 
-**Next: [GitScroll VIII - "Before the Ancient Reviewer"](08-Before-Ancient-Reviewer.md)**  
-_Where Tuxilles faces the judgment of the Ancient Reviewer_
+**Next: [GitScroll XI - "The Silent Commit"](11-The-Silent-Commit.md)**  
+_Where Tuxilles faces the paralysis of pushing code after catastrophe_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  

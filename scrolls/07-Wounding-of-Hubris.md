@@ -1,22 +1,22 @@
 ---
-title: "GitScroll V: The Wounding of Hubris"
+title: "GitScroll VII: The Wounding of Hubris"
 aliases:
-  - "GitScroll V: The Wounding of Hubris"
+  - "GitScroll VII: The Wounding of Hubris"
   - "The Wounding of Hubris"
-linter-yaml-title-alias: "GitScroll V: The Wounding of Hubris"
+linter-yaml-title-alias: "GitScroll VII: The Wounding of Hubris"
 date created: Thursday, May 29th 2025, 7:31:55 pm
 date modified: May 31st 2025, 8:15:00 pm
 created: 2025-05-29T19:31
 updated: 2025-05-31T20:15
 ---
 
-# GitScroll V: The Wounding of Hubris
+# GitScroll VII: The Wounding of Hubris
 _The Wounding of Tuxrates and the Birth of Tuxilles the Battle-Scarred_
 
 > __"They needed reliability. You gave them elegance. They got neither."__  
 _As learned through consequence by __Tuxilles the Battle-Scarred__, Bearer of Scars, Keeper of Hard-Won Wisdom_
 
-## The Fifth Teaching: "Refactor With Compassion"
+## The Seventh Teaching: "Refactor With Compassion"
 
 _He sought to purge what Time had left profane,_  
 _And raised anew a temple wrought with fire._  
@@ -305,8 +305,8 @@ But that is a story for the scrolls to come.
 
 ---
 
-**Next: [GitScroll VI - "Songs of the Chaos Sirens"](06-Songs-of-Chaos-Sirens.md)**  
-_Where Tuxilles faces his first temptation on the journey home_
+**Next: [GitScroll VIII - "The Digital Underworld"](08-The-Digital-Underworld.md)**  
+_Where Tuxilles descends through Seven Circles of Developer Hell_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  

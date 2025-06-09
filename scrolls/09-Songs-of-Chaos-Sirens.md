@@ -5,20 +5,20 @@ tags:
   - creativity
   - chaos-engineering
   - community
-title: "GitScroll VI: Songs of the Chaos Sirens"
+title: "GitScroll IX: Songs of the Chaos Sirens"
 aliases:
-  - "GitScroll VI: Songs of the Chaos Sirens"
-linter-yaml-title-alias: "GitScroll VI: Songs of the Chaos Sirens"
+  - "GitScroll IX: Songs of the Chaos Sirens"
+linter-yaml-title-alias: "GitScroll IX: Songs of the Chaos Sirens"
 date created: Thursday, May 29th 2025, 7:34:04 pm
 date modified: Thursday, May 29th 2025, 7:34:55 pm
 created: 2025-05-29T19:34
 updated: 2025-05-30T06:08
 ---
 
-# GitScroll VI: Songs of the Chaos Sirens
+# GitScroll IX: Songs of the Chaos Sirens
 _The Chronicles of Tuxilles the Battle-Scarred and the Art of Dancing with Absurdity_
 
-## The Sixth Teaching: "Every Bug Is a Feature Request"
+## The Ninth Teaching: "Every Bug Is a Feature Request"
 
 > *"If they break what you built, it was already broken."*  
 _As taught by __The Trickster of GitHub Issues__, Master of Creative Chaos, Patron Saint of Unexpected Use Cases_
@@ -277,7 +277,7 @@ The battle-scarred penguin continued his journey home, eyes flickering with hard
 
 ---
 
-**Next: [GitScroll VII - "Between the Monsters of Time"](07-Between-Monsters-of-Time.md)**  
+**Next: [GitScroll X - "Between the Monsters of Time"](10-Between-Monsters-of-Time.md)**  
 _Where Tuxilles faces the impossible choice between speed and caution_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
