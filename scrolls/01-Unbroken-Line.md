@@ -49,7 +49,13 @@ __@TempleSentinel:__ "Unexpected force push detected on main branch. Affected de
 
 But Tuxicles, in his innocence, had disabled notifications from the Temple's monitoring systems. Too noisy, he'd thought. Too many false alarms.
 
-As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. Tuxicles paused, tongue probing the unfamiliar sensation, then shrugged. Probably just the cheap coffee from the break room. Nothing important.
+As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. The flavor intensified with each keystroke: git push --force origin main. 
+
+Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. But the moment passed.
+
+"Probably just the cheap coffee from the break room," he muttered, though he hadn't had coffee yet. The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten.
+
+Nothing important.
 
 ---
 
@@ -186,7 +192,11 @@ __Linus:__ "Then you _revert_. You add new commits that fix the problems. You do
 
 __Tuxicles:__ "So when _can_ I rebase?"
 
+The metallic taste surged back, stronger now, as if his question itself carried danger. Tuxicles swallowed hard, trying to clear the copper from his tongue.
+
 __Linus:__ "On your local branches. Before you push. Before you share. Your private workspace is yours to sculpt. But once you have published your work—once others have built upon it—it belongs not just to you, but to the repository itself."
+
+The taste faded again, leaving only the ghost of a warning Tuxicles couldn't quite parse. Something about boundaries, about lines that shouldn't be crossed. But the sensation slipped away like uncommitted changes.
 
 ---
 
@@ -242,7 +252,11 @@ __Linus:__ "Exactly. Who better to spot timeline violations than one who has com
 
 He handed over the token. "Report to the Working Group tomorrow. Don't make me regret this trust."
 
-As Linus departed, Tuxicles stared at the token. Trust. After his failure, the Elder was trusting him with more responsibility, not less. The metallic taste in his mouth returned briefly—a warning? A reminder? He dismissed it as residual stress.
+As Linus departed, Tuxicles stared at the token. Trust. After his failure, the Elder was trusting him with more responsibility, not less. 
+
+The metallic taste in his mouth returned, stronger than before, as if the very concept of trust carried weight his body could feel. For a fleeting moment, Tuxicles wondered if the sensation was trying to tell him something—about trust given too easily, about lessons not yet learned, about the danger of confidence without wisdom.
+
+But the moment passed. "Just residual stress," he told himself, running his tongue over his beak where the taste lingered strongest. "Nothing more."
 
 **@TempleSentinel:** "New assignment logged. Trust level: +10. Caution: Power without wisdom remains dangerous."
 

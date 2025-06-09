@@ -212,13 +212,25 @@ __The Necromancer:__ "Immutable. Forever."
 
 As the seven circles dissolved around him, Tuxrates stood face to face with the ultimate truth: his elegant, beautiful code had caused more harm than the "terrible" system it replaced. The weight of this understanding was unbearable.
 
-__The Necromancer:__ "Now you understand the cost of change without compassion. But understanding has its own price."
+__The Necromancer:__ "Now you understand the cost of change without compassion. But understanding has its own price. Every warning ignored becomes flesh marked. Every phantom pain becomes permanent scar."
 
 The digital realm began to collapse. Sharp fragments of broken code flew through the air like shrapnel. Tuxrates tried to shield himself, but there was nowhere to hide from the consequences of his actions.
 
-**The Primary Wound**
+**The Transformation of Warnings into Wounds**
 
-A jagged piece of corrupted authentication logic struck him directly in the beak—the place where careless words about user needs had once emerged with such confidence. The impact left a deep, permanent chip that would throb whenever he was tempted to speak without first listening.
+The phantom sensations that had haunted him for months suddenly erupted into physical reality:
+
+**The Beak Scar - Words Have Weight**
+The metallic taste that had warned him about crossing boundaries exploded into pain. A jagged piece of corrupted authentication logic struck him directly in the beak—cracking it with the sound of breaking trust. The chip was deep, permanent, positioned exactly where careless words had emerged. It would throb forever when tempted to speak without first listening.
+
+**The Eye Flickers - Clarity Has Cost**
+His eyes, which had flickered warnings he'd dismissed as fatigue, suddenly burst with digital fire. The static became permanent—a strobe between what is and what could go wrong. His vision would forever flicker between surface beauty and hidden danger, making it impossible to ignore edge cases or error states again.
+
+**The Chest Crack - Courage Requires Conscience**
+The pressure that had built in his chest through every ignored warning finally found release—his ribcage cracked audibly, leaving a fissure over his heart. Not fatal, but forever sensitive to the weight of responsibility. Each future decision would literally press upon this wound, making reckless action physically painful.
+
+**The Flipper Burn - Every Touch Has Consequence**
+His flipper, which had tingled before every dismissed warning, suddenly erupted in electric agony. The nerves rewired themselves, creating a permanent sensitivity to dangerous commands. He would never again type `--force` without his flipper burning in memory of what force could destroy.
 
 **The Identity Loss**
 

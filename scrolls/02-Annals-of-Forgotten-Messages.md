@@ -62,9 +62,11 @@ _Alongside the commit message appears an automated annotation:_
 
 __@TempleSentinel:__ "Commit message quality score: 2/100. Semantic content: negligible. Future maintainability impact: severe."
 
+Tuxicles' vision stutters for a moment—the bot's warning seems to fragment into static before reassembling. He rubs his eyes. These old terminals really were getting to him.
+
 __Teacher of Lost Packets:__ "Even our automated systems know when we fail to communicate. But do you listen to their warnings?"
 
-__Tuxicles:__ _(wincing)_ "Oh no… that's… that's from my early days."
+__Tuxicles:__ _(wincing, still blinking away the afterimage)_ "Oh no… that's… that's from my early days."
 
 __Teacher:__ "Tell me, young Tux—if you encountered this commit in the wild, six months hence, with no memory of that April day… what would you know?"
 
@@ -139,7 +141,11 @@ __Tuxicles:__ "And commit messages?"
 
 __Teacher:__ "Commit messages are love letters to those humans. Make them love letters worth reading."
 
-_Tuxicles bows deeply, then approaches the terminal. As he begins to type, a notification appears in the corner of his screen: "Pipeline failed for branch 'feature/login-updates' - 3 test failures." He glances at it dismissively and clicks it away. Just flaky tests, probably. Nothing that can't wait until tomorrow._
+_Tuxicles bows deeply, then approaches the terminal. As he begins to type, a notification appears in the corner of his screen: "Pipeline failed for branch 'feature/login-updates' - 3 test failures." 
+
+His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the notification seems less urgent somehow. Just flaky tests, probably. Nothing that can't wait until tomorrow.
+
+He clicks it away without reading the details.
 
 _He types:_
 

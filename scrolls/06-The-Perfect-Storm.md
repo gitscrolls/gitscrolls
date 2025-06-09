@@ -53,13 +53,17 @@ const authenticate = flow(
 // 4 lines. Pure. Elegant. Untested in production.
 ```
 
-His scars—not yet real, just phantom pains—all screamed warnings:
-- Metallic taste: Blood in his mouth from biting his lip in concentration
-- Eyes flickering: Just screen fatigue, surely
-- Chest tight: Too much caffeine, obviously  
-- Flipper tingling: Poor circulation from coding position
+His body—desperate now, knowing what his mind refused to acknowledge—launched its final assault:
 
-All dismissed. All ignored. All about to become permanent.
+The **metallic taste** wasn't subtle anymore. His mouth filled with the flavor of pennies and rust, so strong he had to spit into his empty coffee cup. The saliva came out pink. *"Must have bitten my tongue,"* he rationalized, though he couldn't remember doing so.
+
+His **eyes** weren't just flickering—they were strobing between realities. In one, he saw his elegant code. In the other, he saw error logs cascading like digital waterfalls, stack traces written in languages he'd never learned. *"Just need some eye drops. Screen time."*
+
+His **chest** had moved beyond pressure to active revolt. Each heartbeat felt like his ribcage was trying to escape his body, to flee what was coming. His breathing came in gasps that tasted of ozone and regret. *"Too much caffeine. Should switch to water after this push."*
+
+His **flipper** had gone from tingling to burning to complete rebellion. As he reached for the keyboard, it jerked involuntarily, sending his coffee mug crashing to the floor. The ceramic shattered into pieces that looked, in the emergency lighting, like broken promises. *"Just coding too long. Need to stretch after this."*
+
+All systems screaming. All warnings ignored. The body knows what the mind denies. And somewhere in the space between neurons, his future scars were already forming, waiting for the moment of impact to make them real.
 
 ---
 
@@ -274,7 +278,13 @@ Of course. All those incremental patches. All that careful work. Standing in the
 
 **02:47 - The Moment of Catastrophe**
 
-His fingers typed the command that would echo through history:
+The phantom sensations reached crescendo. His body made one final attempt:
+- Mouth flooded with iron
+- Vision fragmenting into prismatic warnings  
+- Chest crushing inward
+- Flipper seizing with electric wrongness
+
+His fingers moved anyway, possessed by hubris, typing the command that would echo through history:
 
 ```bash
 $ git push --force origin main
@@ -341,13 +351,16 @@ Then the human messages started:
 
 As error logs cascaded across his screen, as his phone vibrated itself off the desk, as Slack channels erupted in digital screams, Tuxrates felt something new.
 
-His phantom pains became real:
-- The metallic taste solidified into a chip in his beak where careless words had emerged
-- His eyes began their permanent flicker, clarity forever compromised
-- His chest would soon crack from the pressure of what he'd done
-- His flipper would forever tingle before dangerous commands
+The phantom pains hovered at the edge of becoming real, waiting for the moment in the council chamber when judgment would transform them from warnings into permanent reminders. Right now they screamed their final ghostly warnings:
 
-But those scars were still forming. Right now, there was only the horrific realization:
+- The metallic taste turned to acid, burning prophecies into his tongue
+- His eyes strobe-lit between the code he'd written and the chaos he'd caused
+- His chest cavity felt hollow, as if his heart had already fled
+- His flipper spasmed in rhythm with every error message scrolling past
+
+The scars hadn't formed yet. That would come tomorrow, in the cold light of the council chamber, when trust shattered would become flesh marked. 
+
+Right now, there was only the horrific realization:
 
 He'd broken everything. Everyone who trusted him. Everyone who vouched for him. Everyone whose work he'd erased.
 

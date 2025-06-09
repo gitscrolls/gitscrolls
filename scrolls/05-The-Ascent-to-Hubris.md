@@ -128,16 +128,24 @@ But Tuxrates didn't see the warning. His notification settings filtered out bot 
 
 **The Physical Warnings**
 
-As Tuxrates sat at his battlestation, reading the endorsements, his body tried to warn him:
+As Tuxrates sat at his battlestation, reading the endorsements, his body screamed warnings in languages he'd learned but refused to speak:
 
-- **Metallic taste** filled his mouth as he thought, "I should modernize the entire auth system"
-- **Eyes flickered** as he skimmed the existing security documentation  
-- **Chest tightened** as he considered skipping the incremental approach
-- **Flipper tingled** as he contemplated using his new privileges
+The **metallic taste** flooded his mouth as he thought, "I should modernize the entire auth system." Not the gentle copper of before—this was iron, blood-metal, the taste of boundaries about to be crossed. His tongue felt heavy, swollen with unspoken truths.
 
-But each warning was dismissed:
+His **eyes flickered** violently as he skimmed the existing security documentation. Not a gentle static now, but full system crashes—moments where the text became unreadable, where warnings transformed into abstract art. Each blink required conscious effort to refocus.
 
-"Just excitement. Just caffeine. Just the pressure of living up to expectations. Just imposter syndrome in reverse."
+His **chest tightened** as he considered skipping the incremental approach. The pressure wasn't atmospheric anymore—it was structural, as if his ribcage was compressing, trying to protect a heart that was choosing ego over empathy. Each breath came shallow, labored.
+
+His **flipper tingled** then went numb as he contemplated using his new privileges. The sensation spread up his arm—not pins and needles but pure absence, as if the limb was trying to refuse participation in what was coming.
+
+But each warning was reframed, rationalized, dismissed:
+
+"Just excitement," he told himself, swallowing blood-iron.  
+"Just too much caffeine," he decided, blinking through digital snow.  
+"Just the pressure of living up to expectations," he wheezed, chest tight as a vice.  
+"Just imposter syndrome in reverse," he concluded, shaking his numb flipper back to life.
+
+His body knew. His body remembered every lesson, carried every warning, prophesied every consequence. But Tuxrates had learned to live in his mind, and his mind had tasted power.
 
 **The Voice of Earned Arrogance**
 

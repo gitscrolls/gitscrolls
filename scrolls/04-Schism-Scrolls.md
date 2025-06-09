@@ -40,9 +40,11 @@ Not once, but dozens of times. Each fork pulled in a different direction, each m
 
 _Tuxrates' phone buzzed with a notification from GitHub: "Code review feedback on PR #247." He glanced at it dismissively—probably just nitpicking from overly cautious reviewers who didn't understand his elegant solution. He'd address their comments later, maybe. Right now he had more important things to think about._
 
-_As he swiped the notification away, a subtle tremor ran through his shell—like a low-frequency vibration, barely perceptible but somehow unsettling. He shifted uncomfortably on the bench, attributing the odd sensation to the old metal structure creaking in the wind._
+_As he swiped the notification away, his flipper tingled—a sensation like pins and needles, as if circulation had been cut off and was just returning. The feeling concentrated at the tip, right where he'd touched the dismiss button. For a moment, it felt as if the notification was clinging to his flipper, reluctant to be ignored._
 
-_The static from the Lightning Fields still occasionally danced across his feathers when he thought about skipping tests. Now this new sensation. His body was becoming a map of ignored warnings._
+_He shook his flipper irritably. First the metallic taste when discussing history, then the eye flickers around warnings, the chest pressure about testing, and now this. His body was becoming a map of sensations he couldn't quite decode—a cipher written in phantom touches and ghostly flavors._
+
+_"Just static from all the electronics," he muttered, though the tingle persisted, pulsing in rhythm with notifications he wasn't reading._
 
 __Tuxrates:__ _(to the wind-scattered commits)_ "Is this what freedom looks like? Chaos? Division? The dissolution of unity into a thousand competing visions?"
 
@@ -316,9 +318,13 @@ He handed Tuxrates a small pendant bearing the symbol of a forking tree.
 
 __Fork-Bearer of Freedom:__ "This grants you access to our philosophy seminars, policy discussions, and strategic planning sessions. Use it wisely. The freedom to fork comes with the responsibility to fork thoughtfully."
 
-**@TempleSentinel:** "New philosophical credentials granted. Trust level: +15. Warning: Abstract power can corrupt as surely as concrete power."
+As Tuxrates reached for the pendant, his flipper tingled sharply—not the gentle buzz of notifications ignored, but a deeper pulse that seemed to emanate from his bones. The sensation spread up his arm as his flipper closed around the token, as if the very act of accepting trust carried physical weight.
 
-But Tuxrates, fingering the pendant, felt only pride. Another mentor's trust. Another recognition of his growing wisdom.
+**@TempleSentinel:** "New philosophical credentials granted. Trust level: +60. Warning: Abstract power can corrupt as surely as concrete power. Accumulated trust approaching critical thresholds."
+
+But Tuxrates, fingering the pendant, felt only pride. The tingle in his flipper faded to a persistent throb, easily ignored beneath the warmth of recognition. Another mentor's trust. Another validation of his growing wisdom. 
+
+He dismissed the Sentinel's warnings with a thought: "They always warn. It's what they're programmed to do."
 
 ---
 

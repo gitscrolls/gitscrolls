@@ -160,7 +160,9 @@ describe('Sacred Contract of Authentication', () => {
 });
 ```
 
-As he carved, the pressure in his chest intensified—not quite pain, but impossible to ignore. Like something trying to crack but not quite breaking through.
+As he carved, the pressure in his chest intensified—not quite pain, but impossible to ignore. Like something trying to crack but not quite breaking through. Each line of test code seemed to add weight, as if the very act of writing promises his ego couldn't keep was compressing his ribcage.
+
+He paused, hand on his chest, breathing shallow. The sensation pulsed in rhythm with his heartbeat—a warning in a language his body understood but his mind refused to translate.
 
 ---
 
