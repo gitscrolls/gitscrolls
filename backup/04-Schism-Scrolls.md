@@ -298,31 +298,7 @@ __Fork-Bearer of Freedom:__ "Forking is _essential_. A software ecosystem that c
 
 ---
 
-### Scene XII: The Philosophical Contributor
-
-As the teaching session wound down, the Fork-Bearer studied Tuxrates with increasing interest. The young developer's questions showed not just curiosity, but genuine philosophical engagement with the deeper principles of freedom.
-
-__Fork-Bearer of Freedom:__ "Your questions today have impressed me, young seeker. Many developers memorize the Four Freedoms as rules. But you've wrestled with them as principles. That's rare."
-
-__Tuxrates:__ "I just... I need to understand the why behind the what. Rules without reasoning feel hollow."
-
-__Fork-Bearer of Freedom:__ "Exactly the mindset we need more of." He paused, considering. "I'm going to grant you 'Philosophical Contributor' status in the Freedom Foundation's working groups. It's not a technical role—it's for those who can think deeply about the implications of our choices."
-
-__Tuxrates:__ *(surprised)* "But I'm still so new to all this. Surely there are more experienced developers—"
-
-__Fork-Bearer of Freedom:__ "Experience with technology is common. Experience with thinking—truly thinking—about what technology serves? That's precious. And dangerous in the wrong hands." His eyes twinkled. "But I trust you're the right hands."
-
-He handed Tuxrates a small pendant bearing the symbol of a forking tree.
-
-__Fork-Bearer of Freedom:__ "This grants you access to our philosophy seminars, policy discussions, and strategic planning sessions. Use it wisely. The freedom to fork comes with the responsibility to fork thoughtfully."
-
-**@TempleSentinel:** "New philosophical credentials granted. Trust level: +15. Warning: Abstract power can corrupt as surely as concrete power."
-
-But Tuxrates, fingering the pendant, felt only pride. Another mentor's trust. Another recognition of his growing wisdom.
-
----
-
-### Scene XIII: The Sacred Commitment
+### Scene XII: The Sacred Commitment
 
 __Tuxrates:__ "Master, I am convinced of the philosophy. But I confess fear. What if I fork something and fail? What if I fragment a community I care about? What if I am wrong?"
 
@@ -374,8 +350,8 @@ _Thus did Tuxrates learn that freedom and community are not opposed forces, but 
 
 ---
 
-__Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)__  
-_Where trust becomes a dangerous weapon_
+__Next: [GitScroll V - "The Wounding of Hubris"](05-Wounding-of-Hubris.md)__  
+_Where hubris meets consequence in the Digital Underworld_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
