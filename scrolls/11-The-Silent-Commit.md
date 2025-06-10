@@ -48,7 +48,9 @@ The scars had learned their lessons too well. They'd gone from warning system to
 
 The @TempleSentinel hadn't been silent either:
 
-__@T̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷m̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷p̷̸̵̶̷̸̵̶̷̸̵̶l̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̷̸̵̶̷̸̵̶̷̸̵̶S̶̷̸̵̶̷̸̵̶̷̸̵e̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶n̷̸̵̶̷̸̵̶̷̸̵̶t̶̷̸̵̶̷̸̵̶̷̸̵i̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶n̷̸̵̶̷̸̵̶̷̸̵̶e̶̷̸̵̶̷̸̵̶̷̸̵l̷̸̵̶̷̸̵̶̷̸̵̶:__ "EXILE_DAY_97: Trust_status: -25 [RECOVERY_STALLED_BY_PARALYSIS]. LOCAL_BRANCHES: 73 [QUALITY_HIGH_COURAGE_LOW]. Pushes_attempted: 0 [SCARS_OVERCOMPENSATING]. Analysis: FEAR_NOW_EXCEEDS_WISDOM. Status: STUCK_BETWEEN_RECKLESSNESS_AND_PARALYSIS. [INTERVENTION_REQUIRED_TO_BREAK_CYCLE]"
+```
+@T̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷m̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷p̷̸̵̶̷̸̵̶̷̸̵̶l̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̷̸̵̶̷̸̵̶̷̸̵̶S̶̷̸̵̶̷̸̵̶̷̸̵e̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶n̷̸̵̶̷̸̵̶̷̸̵̶t̶̷̸̵̶̷̸̵̶̷̸̵i̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶n̷̸̵̶̷̸̵̶̷̸̵̶e̶̷̸̵̶̷̸̵̶̷̸̵l̷̸̵̶̷̸̵̶̷̸̵̶: "EXILE_DAY_97: Trust_status: -25 [RECOVERY_STALLED_BY_PARALYSIS]. LOCAL_BRANCHES: 73 [QUALITY_HIGH_COURAGE_LOW]. Pushes_attempted: 0 [SCARS_OVERCOMPENSATING]. Analysis: FEAR_NOW_EXCEEDS_WISDOM. Status: STUCK_BETWEEN_RECKLESSNESS_AND_PARALYSIS. [INTERVENTION_REQUIRED_TO_BREAK_CYCLE]"
+```
 
 How the Sentinel could see his local branches, Tuxilles didn't want to know. Nothing about the Sentinel made sense anymore. Sometimes he swore he saw its comments before he'd even written the code.
 

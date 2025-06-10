@@ -45,7 +45,9 @@ While three other developers were mid-merge.
 
 Somewhere in the Temple's monitoring infrastructure, an automated sentinel registered the anomaly:
 
-__@TempleSentinel:__ "AUGURY: Unexpected force push detected on main branch. Affected developers: 3. Merge conflicts generated: 17. Monitoring..."
+```
+@TempleSentinel: "AUGURY: Unexpected force push detected on main branch. Affected developers: 3. Merge conflicts generated: 17. Monitoring..."
+```
 
 But Tuxicles, in his innocence, had silenced the spirit whispers from the Temple's Eternal Vigilance. Too noisy, he'd thought. Too many false prophecies.
 
@@ -276,7 +278,9 @@ The metallic taste in his mouth returned, stronger than before, as if the very c
 
 But the moment passed. "Just residual stress," he told himself, running his tongue over his beak where the taste lingered strongest. "Nothing more."
 
-**@TempleSentinel:** "PROPHECY: TRUST_EVENT_REGISTERED. AUGURY: INITIAL_COMPETENCE_DEMONSTRATED. Trust_level: +10. Warning_code: PWR_WIS_IMBALANCE. Risk_assessment: MODERATE. Pattern_observed: HUMBLE_RESPONSE_TO_FAILURE. Recommendation: GRANT_LIMITED_RESPONSIBILITIES. Continue_monitoring: TRUE"
+```
+@TempleSentinel: "PROPHECY: TRUST_EVENT_REGISTERED. AUGURY: INITIAL_COMPETENCE_DEMONSTRATED. Trust_level: +10. Warning_code: PWR_WIS_IMBALANCE. Risk_assessment: MODERATE. Pattern_observed: HUMBLE_RESPONSE_TO_FAILURE. Recommendation: GRANT_LIMITED_RESPONSIBILITIES. Continue_monitoring: TRUE"
+```
 
 But Tuxicles didn't see the bot's warning. He saw only the opportunity to prove himself worthy of Linus's faith.
 

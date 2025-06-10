@@ -304,7 +304,9 @@ Your personal items will be mailed to you.
 
 Tuxrates—now truly Tuxilles the Battle-Scarred—gathered his things in a box. The Temple hall was still empty. The summoning rituals were still failing somewhere. The sun was rising on his first day of exile.
 
-__@TempleSentinel:__ "PROPHECY: UNDERWORLD_TRAVERSAL_COMPLETE. Trust_status: -95 [UNCHANGED - STILL_AT_NADIR]. Subject_identity: Transformation_confirmed. Knowledge_acquired: SEVEN_CIRCLES_OF_CONSEQUENCE. AUGURY: EXILE_INITIATED. Path_ahead: [UNKNOWN_BUT_NECESSARY]. Probability_of_redemption: [INCALCULABLE_BUT_NOT_IMPOSSIBLE]"
+```
+@TempleSentinel: "PROPHECY: UNDERWORLD_TRAVERSAL_COMPLETE. Trust_status: -95 [UNCHANGED - STILL_AT_NADIR]. Subject_identity: Transformation_confirmed. Knowledge_acquired: SEVEN_CIRCLES_OF_CONSEQUENCE. AUGURY: EXILE_INITIATED. Path_ahead: [UNKNOWN_BUT_NECESSARY]. Probability_of_redemption: [INCALCULABLE_BUT_NOT_IMPOSSIBLE]"
+```
 
 He understood now. Hell wasn't fire and brimstone. Hell was seeing exactly how many people you'd failed with one moment of hubris.
 

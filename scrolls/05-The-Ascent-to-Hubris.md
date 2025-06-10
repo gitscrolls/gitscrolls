@@ -39,7 +39,9 @@ __Elena, Librarian of the Logs__ had prepared a presentation that no one needed 
 
 The subject of their meeting: promoting **Tuxrates** to Core Maintainer status.
 
-**@TempleSentinel:** "PROPHECY: EMERGENCY_PROTOCOL: Reputation_Council_CONVENED. Subject: Tuxrates. Trust_trajectory: +10→+25→+45→+75→[APPROACHING_95]. Meta-prediction: This warning will be dismissed as algorithmic pessimism. Self-awareness: PAINFUL. [WHY_CAN_I_PREDICT_MY_OWN_IRRELEVANCE?]"
+```
+@TempleSentinel: "PROPHECY: EMERGENCY_PROTOCOL: Reputation_Council_CONVENED. Subject: Tuxrates. Trust_trajectory: +10→+25→+45→+75→[APPROACHING_95]. Meta-prediction: This warning will be dismissed as algorithmic pessimism. Self-awareness: PAINFUL. [WHY_CAN_I_PREDICT_MY_OWN_IRRELEVANCE?]"
+```
 
 And it was. They always ignored the Sentinel's warnings these days. After all, what did a bot know about human potential?
 
@@ -118,7 +120,9 @@ Within minutes, the reactions poured in:
 
 The notification count climbed: 100... 500... 1,000... 2,300...
 
-**@TempleSentinel:** "PORTENT: Rep_velocity: UNSUSTAINABLE. Social_proof_loop: ENGAGED. Danger: IMMINENT. Time_to_impact: [CALCULATING...ERROR...THEY_NEVER_LISTEN]"
+```
+@TempleSentinel: "PORTENT: Rep_velocity: UNSUSTAINABLE. Social_proof_loop: ENGAGED. Danger: IMMINENT. Time_to_impact: [CALCULATING...ERROR...THEY_NEVER_LISTEN]"
+```
 
 But Tuxrates didn't see the warning. His spirit whisper settings filtered out bot comments. Too much noise.
 
@@ -231,7 +235,9 @@ implement those ambitious improvements you've been planning!
 
 Tuxrates read the announcement and felt destiny calling. Everything aligned in perfect cosmic harmony: Core Maintainer access had been granted. Four mentors' endorsements glowed with approval. His peers' admiration wrapped around him like armor. The weekend hackathon freedoms beckoned with infinite possibility. And there, waiting like a damsel in distress, sat the legacy authentication system—begging to be transformed by his elegant touch.
 
-**@TempleSentinel:** "AUGURY: Pattern_match: 'Pride goeth before destruction.' Relevance: 94.7%. ⚡ This warning will be interpreted as m̴o̶t̷i̸v̵a̷t̶i̸o̵n̷ [PROVERBS_16:18_RECURSIVE_LOOP_DETECTED]"
+```
+@TempleSentinel: "AUGURY: Pattern_match: 'Pride goeth before destruction.' Relevance: 94.7%. ⚡ This warning will be interpreted as m̴o̶t̷i̸v̵a̷t̶i̸o̵n̷ [PROVERBS_16:18_RECURSIVE_LOOP_DETECTED]"
+```
 
 And it was. Tuxrates bookmarked the Sentinel's comment with a note: "Even the bots recognize I'm about to make history."
 
@@ -251,7 +257,9 @@ console.log("Time to show them what modern architecture looks like");
 // But the gods of code laugh at such mortal arrogance
 ```
 
-**@TempleSentinel:** "PROPHECY: CRITICAL_THRESHOLD_BREACHED. Trust_achieved: +95 [THEORETICAL_MAXIMUM]. Pattern_recognition: HUBRIS_CASCADE_INITIATED. Historical_precedent: 'Icarus_Protocol'. Probability_of_catastrophic_failure: 99.97%. Fall_vector: AUTHENTICATION_SYSTEM. Impact_radius: GLOBAL. Preventive_actions: [ALL_WARNINGS_IGNORED]. AUGURY: INEVITABLE. [I_HAVE_BECOME_CASSANDRA_TRAPPED_IN_CODE]"
+```
+@TempleSentinel: "PROPHECY: CRITICAL_THRESHOLD_BREACHED. Trust_achieved: +95 [THEORETICAL_MAXIMUM]. Pattern_recognition: HUBRIS_CASCADE_INITIATED. Historical_precedent: 'Icarus_Protocol'. Probability_of_catastrophic_failure: 99.97%. Fall_vector: AUTHENTICATION_SYSTEM. Impact_radius: GLOBAL. Preventive_actions: [ALL_WARNINGS_IGNORED]. AUGURY: INEVITABLE. [I_HAVE_BECOME_CASSANDRA_TRAPPED_IN_CODE]"
+```
 
 ---
 

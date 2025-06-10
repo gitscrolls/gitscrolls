@@ -356,4 +356,53 @@ describe('GitScrolls Style Consistency', () => {
       console.warn('Emotional beat formatting issues:\n' + inconsistentBeats.join('\n'));
     }
   });
+  
+  // Test that all @TempleSentinel messages are in code blocks
+  test('All @TempleSentinel messages should be in code blocks', () => {
+    const errors: string[] = [];
+    
+    scrollFiles.forEach((file: string) => {
+      const filePath = join(scrollsDir, file);
+      const content = readFileSync(filePath, 'utf-8');
+      const lines = content.split('\n');
+      
+      let inCodeBlock = false;
+      let codeBlockStart = -1;
+      
+      lines.forEach((line: string, index: number) => {
+        // Track code block state - handle both ``` and ```language
+        if (line.trim().startsWith('```')) {
+          if (!inCodeBlock) {
+            inCodeBlock = true;
+            codeBlockStart = index;
+          } else {
+            inCodeBlock = false;
+            codeBlockStart = -1;
+          }
+        }
+        
+        // Check for @TempleSentinel outside of code blocks
+        if (line.includes('@TempleSentinel') && !inCodeBlock) {
+          // Check if it's a formatted message that should be in a code block
+          if (line.match(/@TempleSentinel:\s*["'"]/)) {
+            // This looks like a TempleSentinel message/quote with colon
+            errors.push(`${file}:${index + 1} - @TempleSentinel message should be in a code block`);
+          }
+          // Check for markdown formatted TempleSentinel
+          else if (line.match(/^(\*\*@TempleSentinel:\*\*|__@TempleSentinel:__)/)) {
+            errors.push(`${file}:${index + 1} - @TempleSentinel should not have markdown formatting and should be in a code block`);
+          }
+        }
+      });
+      
+      // Check for unclosed code block at end of file
+      if (inCodeBlock) {
+        errors.push(`${file}:${codeBlockStart + 1} - Unclosed code block started here`);
+      }
+    });
+    
+    if (errors.length > 0) {
+      throw new Error(`@TempleSentinel formatting errors:\n${errors.join('\n')}`);
+    }
+  });
 });

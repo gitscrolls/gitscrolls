@@ -58,7 +58,9 @@ In the heart of the Gardens stood the __Monument of Division__—a great tree wh
 
 __Tuxrates__ sat beneath this tree, his Sacred Codex open to a viewing glass showing the network graph of a popular project—a beautiful, chaotic explosion of branches and merges that looked more like abstract art than version control.
 
-__@TempleSentinel:__ "FORK_ANALYSIS: Active: 47. Divergence: SIGNIFICANT. Fragmentation_index: 0.73. AUGURY: MONITORING_CONVERGENCE_PATTERNS. Alert_level: YELLOW"
+```
+@TempleSentinel: "FORK_ANALYSIS: Active: 47. Divergence: SIGNIFICANT. Fragmentation_index: 0.73. AUGURY: MONITORING_CONVERGENCE_PATTERNS. Alert_level: YELLOW"
+```
 
 __Tuxrates:__ "How can this be right? How can fragmentation serve community? How can division strengthen rather than weaken?"
 
@@ -332,7 +334,9 @@ __Fork-Bearer of Freedom:__ "This grants you access to our philosophy seminars, 
 
 As Tuxrates reached for the pendant, his flipper tingled sharply—not the gentle buzz of notifications ignored, but a deeper pulse that seemed to emanate from his bones. The sensation spread up his arm as his flipper closed around the token, as if the very act of accepting trust carried physical weight.
 
-**@TempleSentinel:** "PROPHECY: TRUST_MILESTONE_REACHED. Progression_log: +10→+25→+45→+75. AUGURY: PHILOSOPHICAL_AUTHORITY_GRANTED. Pattern_analysis: SOPHISTICATED_REASONING_EMERGING. Trust_velocity: EXPONENTIAL. PORTENT: AUTHORITY_WITHOUT_HUMILITY_DETECTED. Correlation: HIGH_TRUST + EGO_RESPONSES = HUBRIS_PROBABILITY_95%. Action: MONITOR_FOR_CATASTROPHIC_CONVERGENCE"
+```
+@TempleSentinel: "PROPHECY: TRUST_MILESTONE_REACHED. Progression_log: +10→+25→+45→+75. AUGURY: PHILOSOPHICAL_AUTHORITY_GRANTED. Pattern_analysis: SOPHISTICATED_REASONING_EMERGING. Trust_velocity: EXPONENTIAL. PORTENT: AUTHORITY_WITHOUT_HUMILITY_DETECTED. Correlation: HIGH_TRUST + EGO_RESPONSES = HUBRIS_PROBABILITY_95%. Action: MONITOR_FOR_CATASTROPHIC_CONVERGENCE"
+```
 
 But Tuxrates, fingering the pendant, felt only pride. The tingle in his flipper faded to a persistent throb, easily ignored beneath the warmth of recognition. Another mentor's trust. Another validation of his growing wisdom. 
 
