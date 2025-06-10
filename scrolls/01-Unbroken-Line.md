@@ -29,7 +29,7 @@ _The broken line is still a line—and thine._
 
 ### Prologue: The Terminal Opens
 
-He waddled through the atrium, the sun catching on the polished surface of his Sacred Codex. Somewhere, someone was invoking the Build Ritual. And in his heart, the Command Portal had just opened.
+He waddled through the atrium, the sun catching on the polished surface of his Sacred Codex. Somewhere, someone was invoking the Build Ritual. In the far corner of the Temple, he glimpsed a scarred developer helping a struggling newcomer—something about the scene felt strangely familiar, like déjà vu in reverse. And in his heart, the Command Portal had just opened.
 
 __Tuxicles__ was young—so young that he still believed in perfect code on the first try. So innocent that he thought `git commit -m "asdf"` was a valid form of version control. So pure that when the build broke, he assumed it was the universe's fault, not his.
 
@@ -51,7 +51,7 @@ But Tuxicles, in his innocence, had silenced the spirit whispers from the Temple
 
 As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. The flavor intensified with each keystroke: git push --force origin main. 
 
-Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. But the moment passed.
+Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. And somewhere, like an echo from a future not yet written, he thought he heard the sound of someone teaching, scarred and patient, guiding another young developer away from this very mistake. But the moment passed.
 
 "Probably just the bitter dregs from the Chamber of Restoration," he muttered, though he hadn't partaken of the Morning Elixir yet. The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten.
 
