@@ -34,7 +34,7 @@ Two weeks had passed since Tuxicles earned his first endorsement. Now, as Tuxrat
 
 His tests passed. His coverage climbed. The metrics looked beautiful. Everything was going perfectly.
 
-**@TempleSentinel:** "TEST_METRICS: Coverage: 94%. Implementation_coupling: 89%. Behavior_verification: 12%. ALERT: BRITTLE_TEST_SYNDROME. Code: BTS-001"
+**@TempleSentinel:** "TEST_METRICS: Coverage: 94%. Implementation_coupling: 89%. Behavior_verification: 12%. PORTENT: BRITTLE_TEST_SYNDROME. Code: BTS-001"
 
 But Tuxrates dismissed the bot's warnings. Just noise from an overly cautious algorithm. His tests were elegant, mirroring his code's internal structure perfectly. What could be wrong with that?
 
@@ -226,7 +226,7 @@ He wrote better tests, but for the wrong reasons—to impress, not to protect.
 He checked behavior over implementation, but as a technique, not a philosophy.  
 He felt the pressure of truth trying to surface, but dismissed it as stress.
 
-**@TempleSentinel:** "CRITICAL_TRUST_SURGE_DETECTED. Trust_progression: +10 → +25 → +45. Rate_of_change: EXPONENTIAL. Technical_competence: VERIFIED. Motivation_analysis: EGO_DRIVEN_MASTERY. Warning_signs: PRESSURE_SYMPTOMS_DISMISSED. Prophet_endorsement: LOGGED. Risk_assessment: ESCALATING. Pattern_alert: PREMATURE_AUTHORITY_ACCUMULATION"
+**@TempleSentinel:** "PROPHECY: CRITICAL_TRUST_SURGE_DETECTED. Trust_progression: +10 → +25 → +45. Rate_of_change: EXPONENTIAL. Technical_competence: VERIFIED. Motivation_analysis: EGO_DRIVEN_MASTERY. PORTENT: PRESSURE_SYMPTOMS_DISMISSED. Prophet_endorsement: LOGGED. Risk_assessment: ESCALATING. AUGURY: PREMATURE_AUTHORITY_ACCUMULATION"
 
 The phantom pressure in his chest would return, stronger each time he wrote tests that served his ego over others' needs. But for now, Tuxrates added another endorsement to his collection, blind to the weight of trust he was accumulating.
 

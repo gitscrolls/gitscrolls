@@ -30,7 +30,7 @@ _For history is not the past—it is the cost._
 
 ### Scene: The Repository of Remembrance
 
-_Recycled datacenter fog clings to the server racks. Tuxicles waddles through the Repository Archives, where ten thousand viewing glasses glow with the amber light of eternal logs. At the center sits __Elena, Librarian of the Logs__, her silver hair braided with care, studying a screen showing nothing but:_
+_Recycled datacenter fog clings to the sacred server monoliths. Tuxicles waddles through the Repository Archives, where ten thousand viewing glasses glow with the amber light of eternal logs. At the center sits __Elena, Librarian of the Logs__, her silver hair braided with care, studying a screen showing nothing but:_
 
 ```
 commit a4f2b8c
@@ -60,7 +60,7 @@ stuff and things
 
 _Alongside the commit message appears an automated annotation:_
 
-__@TempleSentinel:__ "COMMIT_MSG_SCORE: 2/100. Semantic_analysis: NEGLIGIBLE. Maintainability_impact: SEVERE. Recommendation: IMMEDIATE_REVISION"
+__@TempleSentinel:__ "PORTENT: COMMIT_MSG_SCORE: 2/100. Semantic_analysis: NEGLIGIBLE. Maintainability_impact: SEVERE. Recommendation: IMMEDIATE_REVISION"
 
 Tuxicles' vision stutters for a moment—the bot's warning seems to fragment into static before reassembling. He rubs his eyes. These old ritual terminals really were getting to him.
 
@@ -192,9 +192,9 @@ Reactions poured in: 🔥 👏 💯
 
 Other developers began studying his messages. Junior contributors asked for advice. His commit style was being copied across projects.
 
-**@TempleSentinel:** "TRUST_ESCALATION_DETECTED. Previous_trust: +10. Current_trust: +25. Delta: +15. Status: COMMUNICATION_EXCELLENCE_VERIFIED. Influence_metrics: Positive_mentions: 47. Percentile_rank: 98. Pattern_analysis: TEACHING_POTENTIAL_EMERGING. Advisory: TRUST_RISE_ACCELERATING. Continue_monitoring: TRUE
+**@TempleSentinel:** "PROPHECY: TRUST_ESCALATION_DETECTED. Previous_trust: +10. Current_trust: +25. Delta: +15. AUGURY: COMMUNICATION_EXCELLENCE_VERIFIED. Influence_metrics: Positive_mentions: 47. Percentile_rank: 98. Pattern_analysis: TEACHING_POTENTIAL_EMERGING. Advisory: TRUST_RISE_ACCELERATING. Continue_monitoring: TRUE
 
-ANOMALY_DETECTED: Temporal_irregularity in commit_history. File_reference: '00-merge.lore' appearing in logs BEFORE_CREATION_DATE. Probability_of_clock_skew: 12%. Probability_of_temporal_recursion: 88%. Warning: WISDOM_THAT_ARRIVES_BEFORE_IT_IS_WRITTEN. [ERROR: CANNOT_PROCESS_FUTURE_PAST_PARADOX]"
+PORTENT: Temporal_irregularity in commit_history. File_reference: '00-merge.lore' appearing in logs BEFORE_CREATION_DATE. Probability_of_clock_skew: 12%. Probability_of_temporal_recursion: 88%. PROPHECY: WISDOM_THAT_ARRIVES_BEFORE_IT_IS_WRITTEN. [ERROR: CANNOT_PROCESS_FUTURE_PAST_PARADOX]"
 
 The bot's warning glitched out, replaced by corrupted characters before vanishing entirely. Tuxicles barely noticed, too focused on the praise flooding in.
 

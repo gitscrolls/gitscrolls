@@ -131,8 +131,8 @@ Tuxrates flipped it over, annoyed at the interruption to his flow state.
 
 **The First Warning - The Fork-Bearer (21:52)**
 
-*Text message from @ForkBearer:*
-"Hey, saw you're working late on auth. Exciting! Just remember - freedom includes the freedom to break things, but also the responsibility to involve others. The council should review architectural changes. Want to schedule Monday?"
+*The Fork-Bearer's runes appeared in the Ethereal Channels:*
+"Greetings, I perceive thy midnight toils upon the auth sanctum. Most thrilling! Yet remember - freedom's gift includes both creation and destruction, bound by duty to thy brethren. The council must witness such architectural transmutations. Shall we convene when Monday's sun rises?"
 
 Tuxrates' thought: *Monday? This will be deployed and celebrated by Monday.*
 
@@ -140,8 +140,8 @@ Tuxrates' thought: *Monday? This will be deployed and celebrated by Monday.*
 
 **The Second Warning - Prophet Nia (22:15)**
 
-*Voice message from @ProphetNia (auto-transcribed):*
-"Tuxrates, your test coverage on the new auth... I'm not seeing comprehensive integration tests. The honest glass shows gaps. Big gaps. Remember - behavior, not just implementation. Please run the full regression suite before—"
+*Prophet Nia's invocation echoed through the aether (inscribed by the spirits):*
+"Tuxrates, thy test tapestry for the new auth sanctum... The honest glass reveals chasms where coverage should flow. Vast chasms. Remember the teaching - behavior's truth, not implementation's shadow. I beseech thee, invoke the full regression rites before—"
 
 Tuxrates' thought: *I'll add tests after it's working. Can't test-drive when you're innovating at this speed.*
 
@@ -151,8 +151,8 @@ His chest tightened. Just excitement. The phantom pressure of impending greatnes
 
 **The Third Warning - Puffy (22:43)**
 
-*Text from @Puffy_OpenBSD:*
-"URGENT: Your branch deletes all my security hardenings! Three weeks of paranoid programming! The timing attack vulnerabilities will resurface! PLEASE STOP AND LETS TALK!"
+*@Puffy_OpenBSD's urgent summons blazed across the channels:*
+"DIRE WARNING: Thy branch obliterates all my protective wards! Three weeks of vigilant fortification! The timing demons shall return to haunt us! CEASE THY WORK AND LET US COMMUNE!"
 
 Tuxrates' thought: *My implementation doesn't have timing attacks because it's properly designed from the start. Paranoid programming is just fear-driven development.*
 
@@ -162,8 +162,8 @@ His flipper began tingling. Probably falling asleep from the coding position.
 
 **The Fourth Warning - Ferris (23:01)**
 
-*Text from @FerrisTheCrab:*
-"Hi! I saw my first PR might conflict with your changes. Should I rebase? Wait? I don't want to cause problems. This is all still new to me. Let me know how I can help! 🦀"
+*@FerrisTheCrab's humble petition arrived:*
+"Greetings! I perceive my maiden pull request may clash with thy grand works. Should I reshape my branch? Tarry? I seek not to sow discord. These paths are yet strange to me. How might I serve? 🦀"
 
 Tuxrates' thought: *Sweet kid. They'll learn that sometimes you have to break things to make progress. This is a teaching moment.*
 

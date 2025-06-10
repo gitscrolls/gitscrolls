@@ -154,7 +154,7 @@ But Tuxilles' true presentation wasn't in slides—it was in the live demonstrat
 /**
  * Authentication token validator with comprehensive educational context
  * 
- * This function embodies the lessons learned from incident #0x43AC:
+ * This function embodies the lessons learned from Incident #0x43AC:
  * - Clear error messages for debugging (learned from consequence)
  * - Defensive programming without over-engineering (learned from balance)  
  * - Comments that teach, not just describe (learned from empathy)
