@@ -164,19 +164,9 @@ __Fork-Bearer of Freedom:__ "Let me show you the true economics of forking."
 
 He gestured, and in the air appeared a complex diagram showing the lifecycle of software projects:
 
-__The Proprietary Path:__
-- One company controls development
-- Innovation limited to company resources
-- When company fails, software dies
-- Users have no recourse
-- Total cost: _Eventual obsolescence_
+__The Proprietary Path:__ The image shimmered, revealing a tower of singular control. "Here," the Fork-Bearer intoned, "one company controls all development, innovation limited only to their resources. When such a company fails—and all companies eventually fail—the software dies with it. Users are left with no recourse, no alternatives, no hope. The total cost?" He paused dramatically. "_Eventual obsolescence, as certain as entropy itself._"
 
-__The Fork-able Path:__
-- Multiple parties can innovate
-- Best ideas can be shared across forks
-- When one maintainer fails, others continue
-- Users can choose or create alternatives
-- Total cost: _Coordination overhead_
+__The Fork-able Path:__ The image shifted, showing a tree with countless branches. "But observe the alternative: multiple parties free to innovate, the best ideas flowing between forks like sap between branches. When one maintainer falls, others rise to continue the work. Users may choose among alternatives or, if brave enough, create their own. The cost is merely coordination overhead—chaos, some call it, but I call it _life_."
 
 __Fork-Bearer of Freedom:__ "Which system is more resilient? Which serves users better in the long term?"
 
