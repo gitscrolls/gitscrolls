@@ -29,6 +29,48 @@ _"I code, therefore I am... afraid. So what?"_
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*The Line That Refused to Be Written*
+
+*(The CHRONICLER sits already center stage. The scroll is unopened beside him. He does not look at the audience. His sleeves are tucked in. His hat lies at his feet like a collapsed symbol of former grandeur.)*
+
+**CHRONICLER:**  
+There cometh a time  
+when the code runneth clean,  
+the errors are none,  
+and yet the hands refuse to move.
+
+This scroll containeth no drama.  
+No conflict.  
+No triumph.
+
+Only… stillness.
+
+The stillness of a dev  
+who hath poured out all fire,  
+and findeth their fingers cold.
+
+**Tuxicles** now sits before the console.  
+And naught cometh forth.
+
+Not because he knoweth not what to build—  
+but because he no longer *careth* if he buildeth.
+
+*He lifts the scroll slowly. It makes no sound.*
+
+This is the Silent Commit.
+
+The one made out of duty,  
+not belief.  
+The one written not to create—  
+but to survive.
+
+Let the stillness speak.
+
+*The scroll unfurls with a whisper like breath. Scene begins.*
+
+---
+
 ### Prologue: The Hermit's Terminal _(Day 97 Post-Incident)_
 
 Three months. Three months since the catastrophe. Three months since 2.3 million developers had cried out in unified fury. Three months of exile, of learning from Chaos Sirens and Time Monsters, of earning scars that pulsed with hard-won wisdom.
@@ -400,6 +442,48 @@ _From frozen fear to service without name._
 git stash list | wc -l && echo "Every stash is a promise unfulfilled"
 # The best code is the code that ships
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*Where the Flame Went Out*
+
+*(The CHRONICLER returns walking backward, as if pulled. His scroll now faintly glows with the absence of light. His sleeves drag behind him like shadows. He does not raise his voice.)*
+
+**CHRONICLER:**  
+He hath written it.  
+A commit, simple.  
+Correct.  
+Dead.
+
+No joy in the merge.  
+No pride in the push.  
+Only quiet.
+
+And yet… he doth still *persist*.
+
+For even in silence,  
+something within him—  
+some **unspoken why**—  
+still glimmereth.
+
+*He rolls the scroll carefully, as if cradling a match not yet struck.*
+
+Know this, reader of broken spirits:  
+This scroll is not the end.
+
+It is the pause.  
+The breath before memory returns.  
+The night before the old fires stir.
+
+The next scroll beareth no task,  
+but a name:  
+**The Ancient Reviewer.**
+
+And when he speaketh,  
+Tuxicles will listen.
+
+*He dons his hat once more, slowly, with reverence. A single light follows him offstage. Blackout.*
 
 ---
 

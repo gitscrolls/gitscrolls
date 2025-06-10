@@ -35,6 +35,49 @@ _His tombstone reads: "I meant it as a joke."_
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*Of Pride Laid Bare*
+
+*(The CHRONICLER enters limping. His feather is snapped. His scroll is bound not in twine, but in a strip torn from his own sleeve. His eyes hold no fire—only knowledge.)*
+
+**CHRONICLER:**  
+There cometh a moment,  
+when the dev doth realize  
+the storm was not the worst of it.
+
+The worst is what remaineth.  
+**The self.**
+
+This scroll is not of system nor syntax.  
+It is of **scar**.
+
+The scar left when pride outlives its use,  
+but clingeth still like brittle import.
+
+*Takes a pained breath. Unwraps the scroll without flourish.*
+
+This is not collapse.  
+It is *remnant*.
+
+**Tuxicles** hath survived.  
+But he is no longer whole.
+
+The tower he built is hollowed.  
+His name—once carried on lintless wind—  
+now echoeth only in error.
+
+And so he wandereth.  
+Not to escape.  
+But to *grieve*.
+
+Let this scroll cut deep.  
+For ‘tis the only way we know  
+what still feeleth pain.
+
+*The scroll opens with a dry, slow crack—like bone. Scene begins.*
+
+---
+
 ### Prologue: The Gathering Storm  _(December 2024)_
 
 The lessons from the first four masters had filled Tuxrates with confidence—perhaps too much confidence. The taste of metal when rebasing shared branches on Friday afternoons (Scroll I), the Command Portal glitches when ignoring Eternal Build Forge failures (Scroll II), the static sensations when skipping tests "just this once" (Scroll III), the shell vibrations when dismissing PR feedback (Scroll IV)—all these warning signs had been dismissed as quirks of the development environment.
@@ -332,6 +375,51 @@ _Each wound a wisdom that will never nap._
 git reflog | grep "before disaster"
 # The timeline remembers everything
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*Where the Architect Wept*
+
+*(The CHRONICLER returns hunched low, scroll clasped close like confession. His garments are no longer dramatic—they are torn. His hat doth not return. His voice is hushed, as though afraid to speak over grief itself.)*
+
+**CHRONICLER:**  
+Tuxicles is no longer the builder.
+
+He is the broken.
+
+He hath walked the wreckage of his own ascent,  
+and found no wisdom waiting.  
+Only questions.  
+Only echoes.
+
+No one blamed him.  
+But no one followed him, either.
+
+And so he wandereth,  
+not to find answers—  
+but to remember what he forgot.
+
+*He sits for the first time. Scroll across his lap like folded wings.*
+
+Know this:  
+A dev who hath not wept for their own code  
+hath not looked deeply enough.
+
+But tears are not the end.  
+Only the salt.
+
+The next scroll opens not a path—  
+but a **gate**.
+
+A descent.
+
+Into that which liveth  
+beneath all broken things.
+
+Into the **Digital Underworld**.
+
+*He sits in stillness. The light fades before he does. Blackout.*
 
 ---
 

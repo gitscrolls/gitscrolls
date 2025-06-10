@@ -28,6 +28,58 @@ _For history is not the past—it is the cost._
 
 ---
 
+### 🎭 Invocation Before the Scroll
+
+_The Second Invocation — Of Silence and Syntax_
+
+_(The CHRONICLER appears seated cross-legged on the floor. His scroll rests unopened in his lap. His hat droops low, as though it too mourns. He speaks without standing, his sleeves pooling around him like melting thoughts.)_
+
+*CHRONICLER:*
+Words are not enough.
+Not in this trade.
+Not in this world of silent logic and vanishing context.
+
+To code is to forget—
+and to be forgotten.
+
+_He lifts the scroll slowly, like it aches._
+
+This scroll bears not a lesson,
+but a *lament*.
+It doth not teach.
+It remembers what was not remembered.
+
+Hearest thou the whispers in the branches?
+The TODOs left to rot?
+The functions named with meaning known only to their ghosts?
+
+This is the toll.
+This is what is lost
+when thou choosest speed over story,
+velocity over voice.
+
+_He leans forward, suddenly sharp._
+
+*Thou* art not the first to write this system.
+Nor shalt thou be the last.
+
+If thou leavest no message behind—
+then what, pray, hath thy labor built?
+
+_Takes a long breath. The scroll creaks open like a trapdoor._
+
+*Tuxicles* reads now.
+Not for answers.
+For echoes.
+
+He hath found a comment not his own.
+And though the author is dust,
+the meaning still gnaws at the root of things.
+
+Thus begins the second rite.
+
+_The CHRONICLER closes his eyes. The scroll unfurls. Scene begins._
+
 ### Scene I: The Repository of Remembrance
 
 _Recycled datacenter fog clings to the sacred server monoliths. Tuxicles waddles through the Repository Archives, where ten thousand viewing glasses glow with the amber light of eternal logs. At the center sits __Elena, Librarian of the Logs__, her silver hair braided with care, studying a screen showing nothing but:_
@@ -397,6 +449,56 @@ _That words unspoken are the ghosts we hear._
 git log --format="%B" | grep -c "^$" 
 # Count the empty messages, for they speak volumes
 ```
+
+---
+
+### 🎭 Closing of the Scroll
+_Where the Message Was Never Heard_
+
+_(The CHRONICLER returns alone, slowly winding the scroll back into itself as though trying to trap something within it. His hat is askew, his voice low. No wind stirs, but his garments ripple all the same.)_
+
+*CHRONICLER:*
+And so the message was not received.
+
+Tuxicles read it—but too late.
+The meaning, like breath,
+had already fled the frame.
+
+The code still runs, aye.
+But something within it aches.
+A shape unspoken.
+A warning unsent.
+
+This is the sorrow of those who build in haste:
+That what they learn is lost,
+and what they leave behind…
+is *noise*.
+
+_Taps the scroll gently, once. A faint pulse like static._
+
+Tuxicles now knoweth this truth:
+That silence, too, is authored.
+That absence is not empty—
+it is accusation.
+
+_He stands, slowly. Adjusts the great feather of his hat, but without joy._
+
+There is no hero in this scroll.
+Only witness.
+
+But the next…
+Ah, the next doth bring the *Glass.*
+
+And in its surface,
+he shall see himself—not as he imagines—
+but as he is.
+
+Go now.
+Prepare thyself.
+For honesty comes sharpest
+when it doth wear the form of *test*.
+
+_He departs. The silence lingers like uncommitted code. Blackout._
 
 ---
 

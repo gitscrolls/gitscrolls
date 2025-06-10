@@ -28,6 +28,51 @@ _And hollow promises break hearts that follow._
 
 ---
 
+### 🎭 Invocation Before the Scroll
+_The Third Invocation — Of Mirrors and Mortals_
+
+_(The CHRONICLER enters in haste. His feather is taut, his boots loud against the void. He clutches the scroll like a subpoena. When he speaks, it is with the clarity of one about to name names.)_
+
+*CHRONICLER:*
+Dost thou trust thy code?
+Thy tests?
+Thyself?
+
+He circles slowly, sleeves billowing with judgment.
+
+Then thou art already doomed.
+
+This scroll is not a lesson—it is a *trial.*
+It shall hold up the mirror,
+and what thou seest therein
+will not flatter.
+
+For tests are crueler than foes.
+They do not argue.
+They do not explain.
+They simply *reveal.*
+
+_He stops. Taps the scroll against his palm like a gavel._
+
+And woe to the dev who feareth to look.
+
+*Tuxicles* now standeth before the Glass.
+His hands unsteady.
+His logic—unproven.
+
+He hath begun to test.
+Not to pass.
+But to learn what *fails*.
+
+It shall humble him.
+Or it shall break him.
+
+Let us find out which.
+
+_The scroll unfurls. The Honest Glass rises. Scene begins._
+
+---
+
 ### Prologue: The Confidence of Coverage
 
 Two weeks had passed since Tuxicles earned his first endorsement. Now, as Tuxrates, he bore lessons of history and clarity. His reputation grew with each commit, each review, each nod of approval from senior developers.
@@ -252,6 +297,54 @@ _For honest truth outshines deceptive light._
 git test --all | grep -v "PASS"
 # Truth lives in what fails
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*Where Error Becometh Flame*
+
+*(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)*
+
+**CHRONICLER:**  
+The mirror hath spoken.
+
+Tuxicles hath faced the test—  
+not as warrior,  
+but as witness.
+
+He hath seen his code laid bare.  
+He hath seen what he assumed.  
+And what he *forgot* to assume.
+
+The Glass did not punish.  
+It simply reflected.
+
+*He turns the scroll in his hands, revealing nothing—and everything.*
+
+And in that reflection,  
+he hath glimpsed the truth:  
+That failure is not a verdict.  
+It is an **invitation**.
+
+To see.  
+To correct.  
+To build again—this time with eyes open.
+
+*He pauses. The feather of his hat droops solemnly.*
+
+But mark me:  
+Not all accept the mirror.  
+Some reject its judgment.  
+Some choose the path of pride.
+
+The next scroll shall not test what is true.  
+It shall reveal what happens  
+when **truth is denied**.
+
+The fork approacheth.  
+And with it—division most dire.
+
+*He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout.*
 
 ---
 

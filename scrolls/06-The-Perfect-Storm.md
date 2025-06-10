@@ -30,6 +30,52 @@ _Pride breaks not swords, but every bond._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*The Storm That Tests the Shape of Things*
+
+*(The CHRONICLER bursts forth, soaked though no rain hath fallen. His feather is matted. His sleeves whip like the sails of a ship too proud to tack. He does not speak. He shouts.)*
+
+**CHRONICLER:**  
+Where now is thy tower?
+
+Where are thy sacred rules,  
+thy polished patterns,  
+thy perfect thoughts, stacked so high  
+they touched the lintless stars?
+
+Gone.  
+Gone to wind.
+
+This scroll beareth no grace.  
+Only **pressure**.
+
+This is the scroll of consequence,  
+where the structures we build  
+are tested not in theory—  
+but in *time*.  
+And time is cruel.
+
+*He turns, gesturing to unseen forces battering the air.*
+
+Systems fail not because they are wrong—  
+but because the world changeth around them.
+
+**Tuxicles** now stands not atop his brilliance,  
+but beneath it—  
+watching it bend,  
+and groan,  
+and—yes—begin to break.
+
+The storm hath no reason.  
+No mercy.  
+No ticket number.
+
+Let the test begin.
+
+*The scroll unfurls with a snap. Lights flicker. Scene begins.*
+
+---
+
 ### Prologue: The Abandoned Office _(December 21, 2024, 02:00 AM)_
 
 Innovation Weekend. The Temple of Open Source stood mostly empty, its halls lit only by emergency lighting and the glow from one corner cubicle where **Tuxrates the About-to-Fall** had been coding for nine straight hours.
@@ -427,6 +473,53 @@ _'Til production breaks beneath an empty sky._
 git push --force --dry-run
 # Some commands should make you pause
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*What the Wind Did Not Carry Away*
+
+*(The CHRONICLER returns, hunched, his scroll now damp and frayed. His hat is gone. His sleeves hang loose like flags left after battle. His voice is softer now—like someone recounting loss by lantern light.)*
+
+**CHRONICLER:**  
+It hath passed.
+
+Not the storm.  
+But the moment.
+
+The system yet liveth—barely.  
+The tower still stands—but cracked.  
+The mind behind it?  
+Shaken.
+
+**Tuxicles** hath learned that perfection protecteth naught.  
+That beauty doth not brace.  
+That clarity alone cannot hold  
+against chaos well-fed.
+
+And so now… he wonders.
+
+Not how to rise.  
+But how to *survive*.
+
+*The CHRONICLER kneels, smoothing the scroll with tender hands.*
+
+What endureth in the storm?  
+Not structure.  
+Not speed.
+
+Only that which bendeth  
+without forgetting its form.
+
+And the next scroll—  
+ah, the next speaks not of wind…  
+but of **wound**.
+
+For something within Tuxicles hath cracked.  
+And what bleeds from pride,  
+bleeds long.
+
+*He gathers what remains of his costume with slow reverence. The wind, now gone, leaves only stillness. Blackout.*
 
 ---
 

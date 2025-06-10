@@ -29,6 +29,47 @@ _It is not flaw, but absence, that is shame._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*Before the One Who Never Forgot*
+
+*(The CHRONICLER enters bowed, scroll clutched to his chest like a verdict. His sleeves are once again pristine—ironed by ritual. His hat bears a red thread wrapped seven times ‘round its base. He speaks without pace, like one reciting law.)*
+
+**CHRONICLER:**  
+There is one who seeth all commits.  
+Not in real time.  
+In **true time**.
+
+The **Ancient Reviewer**.
+
+He doth not code.  
+He doth not judge.  
+He simply readeth—  
+*every line,  
+every comment,  
+every sin masked as optimization.*
+
+*He opens the scroll. It does not unroll—it **resolves**.*
+
+This is not legend.  
+This is **record**.
+
+And **Tuxicles**?  
+He cometh not with arrogance.  
+He cometh not even to plead.
+
+He cometh… to understand.
+
+This scroll will not break him.  
+It shall simply show him  
+who he hath been—  
+when he was not looking.
+
+Let the Reviewer read.
+
+*The scroll glows faintly red. Scene begins.*
+
+---
+
 ### Prologue: The Fear of Forever _(March 2025)_
 
 One month had passed since Tuxilles had navigated the strait between Scylla and Charybdis, learning that sacred timing meant trusting his systems while accepting responsibility. His chest crack had settled into a steady reminder of courage tested under pressure, joining the constellation of his other battle scars.
@@ -782,6 +823,59 @@ _But simple help that makes the system shine._
 git blame --show-email | grep -v "noreply" | sort | uniq -c
 # Every line of code has a human story
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*The Gaze That Did Not Blink*
+
+*(The CHRONICLER returns with the scroll rolled tightly, tied now in a seal of braided lint and wax. His sleeves hang with gravity. He wears no hat. His voice is quiet, but resolved.)*
+
+**CHRONICLER:**  
+He hath seen it.
+
+Not the Reviewer—  
+**himself**,  
+as the Reviewer seeth.
+
+Each forgotten line.  
+Each change rebased to oblivion.  
+Each moment of pride...  
+*or cowardice.*
+
+The Ancient Reviewer spake not.  
+But **his silence revealed all.**
+
+**Tuxicles** weepeth not.  
+Nor doth he flee.
+
+He boweth.  
+And then—  
+**he begins again**.
+
+Not from scratch.  
+From *truth*.
+
+*He lifts the scroll, presses it to his chest.*
+
+Mark this scroll.  
+For it turneth the dev’s gaze backward,  
+not in shame—  
+but in lineage.
+
+And what cometh next?  
+Not instruction.  
+**Invitation.**
+
+For he shall now be called to return  
+to a thing he once cast aside:
+
+A **pull request** of the soul.
+
+The next scroll is titled:  
+**The Return Pull.**
+
+*He exits upright, scroll in hand, eyes unflinching. Blackout.*
 
 ---
 

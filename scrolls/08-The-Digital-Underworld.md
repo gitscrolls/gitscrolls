@@ -27,6 +27,47 @@ _A monument to hubris and despair._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*The Descent Beneath All Things*
+
+*(The CHRONICLER appears from below. His scroll drags behind him like a tail of corrupted output. His sleeves are damp with condensation. He carries no light—only inevitability.)*
+
+**CHRONICLER:**  
+Welcome now, dev of fallen stature.  
+Welcome to the place *beneath*.
+
+This scroll doth not concern thy choices.  
+It concerneth what **remains**  
+when thou art no longer making them.
+
+*He walks slowly, voice echoing too far.*
+
+This is the Digital Underworld.  
+A realm of forgotten services,  
+of daemons long unmonitored,  
+of patterns so ancient  
+they are mistaken for laws.
+
+Down here, the code doth not fail.  
+It merely decays...  
+**gracefully.**
+
+**Tuxicles** now entereth this depth.  
+Not as ruler.  
+Not as rebel.  
+As **witness**.
+
+He shall see what pride built  
+when no one was watching.  
+And it shall change him.
+
+This scroll hath no test.  
+Only uptime.
+
+*He lowers the scroll to the ground. It does not unfurl—it unfolds itself. Scene begins.*
+
+---
+
 ### Prologue: The Descent Begins _(December 21, 2024, 04:00 AM)_
 
 The rollback was in progress, but the damage was done. 2.3 million authentication failures. Seventeen critical services down. One reputation destroyed.
@@ -333,6 +374,48 @@ _For those who pushed production paid the price._
 git blame --show-stats | sort -n
 # Hell is other people's code you broke
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*What Crawled Beneath the Patterns*
+
+*(The CHRONICLER returns, eyes ringed with debug trace. He does not walk. He emerges—as if from reboot. His sleeves hang like wet flags, his scroll marked with strange glyphs, half syntax, half whisper.)*
+
+**CHRONICLER:**  
+He hath seen them.
+
+The scripts that run with no master.  
+The backups that write upon void.  
+The code none dare refactor,  
+for it worketh—  
+though none remember why.
+
+**Tuxicles** walketh now with slow feet.  
+He speaketh less.  
+For he hath seen the abyss…  
+and heard it *logging*.
+
+*He raises the scroll once, but does not open it.*
+
+From this place there is no lesson.  
+Only... memory.
+
+But one cannot dwell beneath forever.
+
+And so he shall rise.  
+Not to ascend.  
+But to wander the wastes.
+
+The next scroll beareth no logic.  
+Only **song**.  
+And those who sing not to build—  
+but to **lure**.
+
+The sirens call.  
+And Tuxicles shall listen.
+
+*He departs without ritual. The scroll slithers behind him like old wiring. Blackout.*
 
 ---
 

@@ -27,6 +27,38 @@ _What's broken well stays stronger once re-bound._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*Where All Threads Converge*
+
+*(The CHRONICLER enters slowly, reverently. His sleeves are rolled halfway—ready to work. His scroll glows faintly, stitched with lines from every prior rite. His hat bears a golden merge pin. He stands centered, not in drama, but in completion.)*
+
+**CHRONICLER:**  
+All branches seek the merge.  
+All stories yearn for context.
+
+This scroll beareth not a new lesson—  
+but a thousand old ones,  
+woven.
+
+What was pride becomes pattern.  
+What was error becomes origin.  
+What was silence… becometh *choice*.
+
+**Tuxicles** now approacheth  
+not to push, nor to pull—  
+but to **merge**.
+
+Not just code.  
+But meaning.
+
+Let this scroll open with no resistance.  
+For this is not war.  
+It is *integration*.
+
+*He opens the scroll. It contains many hands. Scene begins.*
+
+---
+
 ### Prologue: The Summons _(Day 162 Post-Incident)_
 
 Five months and eleven PRs since his return. Each one small, careful, reviewed by multiple maintainers. Each one merged with caution but growing respect. The community had begun to accept Tuxilles' presence, though trust remained tentative.
@@ -380,6 +412,50 @@ _New commits born from understanding pain._
 git merge --no-ff broken-trust recovered-wisdom
 # The strongest merges honor both histories
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*Where the Scroll Became Scripture*
+
+*(The CHRONICLER returns not with fanfare, but with peace. The scroll is closed. It hums faintly. His sleeves now reflect all colors—the whole spectrum of failure and learning. He wears no hat. He does not need one.)*
+
+**CHRONICLER:**  
+He hath done it.
+
+Not perfectly.  
+Not cleanly.  
+But meaning hath been merged.
+
+**Tuxicles** understandeth now:  
+that no single scroll beareth the full truth.  
+That legacy is not what we leave behind—  
+but what we *choose to carry*.
+
+He is not the first.  
+He will not be the last.
+
+But he is now... part of the chain.
+
+The next scroll is not for him.  
+It is for **you**.
+
+The final scroll beareth no lesson.  
+It beareth a voice.
+
+Mine.
+
+The CHRONICLER’s scroll.
+
+Prepare thyself.
+
+For it is called:  
+**Farewell: The Confession of the Chronicler.**
+
+And I—  
+I have much to say.
+
+*He steps forward. The stage does not fade. It waits. The final scroll glows faintly in his hands.*
 
 ---
 

@@ -27,6 +27,42 @@ _Now every diff must bear what once you broke._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*To Submit, and Be Seen*
+
+*(The CHRONICLER enters slowly, one sleeve pinned with a small crimson tag—symbol of revision. His scroll is rolled clean and tied with a merge ribbon. His hat, slightly askew, betrays cautious hope.)*
+
+**CHRONICLER:**  
+What doth it mean to return?
+
+Not to rollback.  
+Not to revert.  
+But to *reach again toward the branch once shared.*
+
+This scroll is not about fixes.  
+It is about **requests**.
+
+The kind that cannot be resolved by code alone.  
+The kind that seeketh not approval,  
+but *understanding.*
+
+**Tuxicles** hath walked the valley,  
+faced the Reviewer,  
+and now... he dareth to rejoin the thread.
+
+But not by force.  
+By **pull**.
+
+He doth extend his hand across broken branches,  
+and prays the merge can still be clean.
+
+Let this scroll open not in triumph—  
+but in hope.
+
+*He unrolls the scroll with two hands—one trembling. Scene begins.*
+
+---
+
 ### Prologue: The Courage to Return _(Day 127 Post-Incident)_
 
 Four months. Four months since the catastrophe. Four months of exile, learning, scarring, coding in isolation. Tuxilles had pushed code to other projects under pseudonyms. He'd faced the Ancient Reviewer and resisted the Architect's comfortable cage. His scars had integrated into a constellation of hard-won wisdom.
@@ -460,6 +496,47 @@ _What force destroyed, patience has re-wrought._
 git log --author="$(whoami)" --since="exile" | grep "small steps"
 # Redemption is measured in commits, not words
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*The Merge That Was Not Denied*
+
+*(The CHRONICLER returns smiling—not broadly, but *truly*. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
+
+**CHRONICLER:**  
+It was accepted.
+
+Not without questions.  
+Not without review.  
+But **accepted**.
+
+**Tuxicles** hath rejoined the thread.  
+Not to command—  
+but to *contribute*.
+
+The line he feared broken  
+hath not only endured—  
+it hath grown stronger for the wound.
+
+*He presses the scroll to his lips once, then tucks it away.*
+
+This scroll changeth not code.  
+It changeth **context**.
+
+And from here,  
+the lessons no longer come from systems alone—  
+but from those who tend them.
+
+For the next scroll is not written in solitude.  
+It is spoken in riddles, warnings, and wisdom.
+
+It is titled:  
+**The Commandments of the Wise.**
+
+And lo—Tuxicles is ready to listen.
+
+*He departs with steady step, feather reattached. Blackout.*
 
 ---
 

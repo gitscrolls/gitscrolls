@@ -35,6 +35,46 @@ _And jesters oft repair what lords control._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*Where Logic Meets Lure*
+
+*(The CHRONICLER enters spinning slowly, his sleeves caught in some unseen current. The scroll is wrapped in ribbon, not rope. His hat is adorned now with a second feather—one he did not place there. He looks both amused and afraid.)*
+
+**CHRONICLER:**  
+Not all that misleadeth is false.
+
+Some truths arrive in verse.  
+Some lies in test results.
+
+This scroll beareth neither assertion nor structure.  
+It beareth **song**.
+
+The Chaos Sirens call now—  
+not with melody,  
+but with **meaning that moveth**.
+
+*He stops, suddenly still. One sleeve twists without wind.*
+
+They do not tempt with beauty.  
+They tempt with *insight*.  
+The forbidden kind.  
+The kind that feeleth like revelation,  
+and tasteth like regret.
+
+**Tuxicles** now wandereth past logic’s edge.  
+Not fallen—no.  
+Worse.
+
+**Curious.**
+
+Let this scroll ring out.  
+And pray thou art not still humming it  
+come morning.
+
+*He opens the scroll with a flourish too elegant to be his own. Scene begins.*
+
+---
+
 ### Prologue: The Wilderness of Exile _(January 2025)_
 
 Three weeks had passed since the Council of Scrollkeepers cast him out. Three weeks of digital exile in the wilderness of forked repositories and private projects. __Tuxilles the Battle-Scarred__ sat alone in his ritual chamber at 3:47 AM, the glow of his viewing glass the only light in the darkness.
@@ -322,6 +362,46 @@ _But wisdom hears the users' truest creed._
 git log --grep="unexpected" --oneline | head -5
 # Sometimes the bugs know better than we do
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*The Note That Did Not Fade*
+
+*(The CHRONICLER returns in silence. He hums a single note—wrong. The scroll in his hands shimmers faintly. His sleeves are askew. One feather is gone.)*
+
+**CHRONICLER:**  
+He listened.
+
+**Tuxicles** heard the song.  
+Not with ears.  
+But with the part of the soul  
+that doth hunger for patterns  
+where none were meant.
+
+The Sirens sang not of destruction—  
+but of *possibility*.  
+And that, dear reader,  
+is always the sharper blade.
+
+*He lays the scroll down gently, as one might a snare.*
+
+He hath not followed them.  
+But he hath marked their tune.
+
+And it shall echo in choices not yet made.
+
+The next scroll speaketh not in song—  
+but in pressure.
+
+It shall squeeze time itself.  
+Till meaning runneth out the seams.
+
+Prepare thyself.  
+For thou art about to walk  
+**between monsters of time.**
+
+*He withdraws without drama, sleeves trailing like unresolved rhythm. Blackout.*
 
 ---
 

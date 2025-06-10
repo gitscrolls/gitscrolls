@@ -27,6 +27,62 @@ _The broken line is still a line—and thine._
 
 ---
 
+### 🎭 Invocation Before the Scroll
+_The First Invocation — Of Echo and Origin_
+
+_(From pitch darkness, a feather appears—long, absurd, undeniable—followed by a hat, a man, and a rustling storm of fabric. The CHRONICLER steps forward into a single shaft of light. His poet shirt billows with no wind. The scroll in his hand is tied in twine and time. He speaks.)_
+
+CHRONICLER:
+Before the fork, there was only flow.
+Before the branch, only breath.
+Before thy fingers touched thy first key—
+the line had already begun.
+
+You are not the author.
+
+He steps forward, voice silk-sharp.
+
+Thou thinkest this tale quaint?
+A fable for old devs and dusty forums?
+
+Fool.
+This scroll—this first scroll—
+concerneth thee.
+Thy hubris. Thy ignorance.
+Thy refusal to read the damn README.
+
+Heed me well.
+
+_He raises the scroll, its twine unravels with a dry hiss._
+
+This is the story of the unbroken line—
+a chain of silent decisions,
+strung through time like cursed pearls,
+passed from trembling hand to trembling hand.
+
+And now…
+into the hands of one most unready:
+Tuxicles.
+
+He is not wise.
+Not trained.
+Not prepared.
+
+But he is present.
+And that is enough to doom him.
+
+He finds the remnants of those who came before—
+lines half-writ, purpose half-felt.
+He doth not yet ask “what must I build?”
+Only:
+“Who left this here?”
+
+Thus begins the ritual.
+
+_He whips the scroll wide. The feather flares like a flag of war. Scene begins. The CHRONICLER vanishes into absence._
+
+⸻
+
 ### Prologue: The Terminal Opens
 
 He waddled through the atrium, the sun catching on the polished surface of his Sacred Codex. Somewhere, someone was invoking the Build Ritual. In the far corner of the Temple, he glimpsed a scarred developer helping a struggling newcomer—something about the scene felt strangely familiar, like déjà vu in reverse. And in his heart, the Command Portal had just opened.
@@ -315,6 +371,51 @@ _The past shall speak what pride cannot name._
 git log --all --grep="truth" | tail -∞
 # For in the timeline lies both confession and lesson
 ```
+
+---
+
+### 🎭 Closing of the Scroll — Where the Line First Frays
+
+_(The CHRONICLER returns slow, hat now slightly askew, as if the telling of this first scroll weighed heavier than expected. He walks with the measured grace of one carrying a fragile repository.)_
+
+*CHRONICLER:*
+The scroll is sealed.
+
+Tuxicles hath touched the echo.
+Not of code—but of memory.
+And memory, once stirred, hath teeth.
+
+He knoweth now the line was never his.
+It stretches back, past names, past authors,
+past the illusion that anything truly begins at version one.
+
+He pauses. Adjusts his ruff. The feather of his hat wilts just slightly.
+
+He stands at the gate of inheritance,
+and already the rust doth creep beneath his boots.
+What he hath found is not truth—
+but trace.
+
+Mark this moment, thou reader of digital scrolls.
+Mark it well.
+
+For ‘tis here the dev awakens.
+And it is here the dev is damned.
+
+He holds the scroll flat and lets the weight of it pull his arms down.
+
+The next shall speak not of what was built,
+but of what was forgotten.
+Lost messages. Misnamed things.
+And the ache that comes
+when thou findest thine own voice
+buried beneath someone else’s commit.
+
+Go now.
+Scroll the Second awaiteth.
+And it is not kind.
+
+_He exits without flourish. Even his sleeves seem subdued. Blackout._
 
 ---
 

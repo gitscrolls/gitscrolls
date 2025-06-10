@@ -28,6 +28,47 @@ The wise ship well, not just immediately.
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*Where Loops Become Labyrinths*
+
+*(The CHRONICLER enters from no direction—he is simply there, already pacing. His sleeves are tightly wrapped around his arms. His scroll ticks faintly. His hat bears a clockface stitched where the feather once was.)*
+
+**CHRONICLER:**  
+Thou thinkest time to be thy ally?
+
+Then thou hast never looped through the same failure twice,  
+nor fixed the same bug seven sprints in a row  
+because none dare question the template.
+
+This scroll speaketh not of logic.  
+It speaketh of **rituals mistaken for truth**.
+
+*He taps the scroll—it clicks. Once. Loud.*
+
+Here dwell the monsters.  
+Not of code.  
+Of time.
+
+The ones that crept in when “next week” became “every week.”  
+When urgency replaced meaning.  
+When backlogs became legacies.
+
+**Tuxicles** now walketh the loop.  
+Not by command.  
+By **momentum**.
+
+He chaseth progress,  
+only to find the circle doth not close.
+
+This scroll is no line.  
+It is a spiral.
+
+And thou art already in it.
+
+*He unrolls the scroll like a prayer wheel. Scene begins.*
+
+---
+
 ### Prologue: The Strait of Impossible Choices _(February 2025)_
 
 One month had passed since the Sirens had tried to seduce him with shortcuts, and __Tuxilles the Battle-Scarred__ had felt his confidence slowly returning. His eyes still flickered occasionally—a reminder of how close he'd come to commenting out that validation—but the lesson was clear: his scars were not just reminders of past failures, but guardians against future ones.
@@ -314,6 +355,52 @@ _And trust the systems built with careful skill._
 git push --dry-run && echo "Sometimes courage means trusting your guardrails"
 # Friday deploys need Monday preparations
 ```
+
+---
+
+### 🎭 Closing of the Scroll  
+*The Time That Devoured Intent*
+
+*(The CHRONICLER returns slower than before. Each step lands heavier. His scroll winds itself back like tape. His sleeves hang low, as though stretched by repetition. He wears no hat.)*
+
+**CHRONICLER:**  
+The loop is complete.  
+But it hath brought no closure.
+
+**Tuxicles** hath walked the hours.  
+Tried every fix.  
+Run every stand-up.  
+And still… the problem reappeareth,  
+wearing a new name.
+
+This is how time woundeth.
+
+Not with haste.  
+But with **repetition unexamined**.
+
+*He folds the scroll carefully. His hands shake, not with fear—but fatigue.*
+
+What did he learn?  
+That not all sprints carry thee forward.  
+That not all movement becometh progress.
+
+And that even the wise may forget  
+why they began.
+
+The next scroll speaketh not of loops—  
+but of **silence**.
+
+The kind that follows burnout.  
+The kind that stares at blinking cursors  
+and refuseth to write.
+
+Prepare thyself.
+
+For even the boldest dev  
+must one day face  
+**The Silent Commit**.
+
+*He steps offstage. No light follows. Blackout.*
 
 ---
 
