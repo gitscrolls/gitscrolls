@@ -34,11 +34,11 @@ Two scrolls had passed since Tuxicles took up the Git. Now as Tuxrates, he bore 
 
 His tests passed. His coverage climbed. The metrics looked beautiful. Everything was going perfectly.
 
-**@TempleSentinel:** "Test coverage: 94%. Implementation coupling: 89%. Behavior verification: 12%. Warning: Brittle test syndrome detected."
+**@TempleSentinel:** "TEST_METRICS: Coverage: 94%. Implementation_coupling: 89%. Behavior_verification: 12%. ALERT: BRITTLE_TEST_SYNDROME. Code: BTS-001"
 
 But Tuxrates dismissed the bot's warnings. Just noise from an overly cautious algorithm. His tests were elegant, mirroring his code's internal structure perfectly. What could be wrong with that?
 
-Driven by a desire to prove his testing prowess—and perhaps to earn another commendation like those from Linus and the Teacher of Lost Packets—he journeyed to the Lightning Fields of CI/CD, where red and green danced like verdicts across the sky.
+Driven by a desire to prove his testing prowess—and perhaps to earn another commendation like those from Linus and the Teacher of Lost Packets—he journeyed to the Lightning Fields of the Eternal Build Forge, where red and green danced like verdicts across the sky.
 
 ---
 
@@ -218,7 +218,7 @@ He wrote better tests, but for the wrong reasons—to impress, not to protect.
 He checked behavior over implementation, but as a technique, not a philosophy.  
 He felt the pressure of truth trying to surface, but dismissed it as stress.
 
-**@TempleSentinel:** "Trust level: +45. Rising rapidly. Warning: Subject shows improved test patterns but unchanged motivations. Pressure registered but dismissed. Pattern recognition: deferred."
+**@TempleSentinel:** "CRITICAL_TRUST_SURGE_DETECTED. Trust_progression: +10 → +25 → +45. Rate_of_change: EXPONENTIAL. Technical_competence: VERIFIED. Motivation_analysis: EGO_DRIVEN_MASTERY. Warning_signs: PRESSURE_SYMPTOMS_DISMISSED. Prophet_endorsement: LOGGED. Risk_assessment: ESCALATING. Pattern_alert: PREMATURE_AUTHORITY_ACCUMULATION"
 
 The phantom pressure in his chest would return, stronger each time he wrote tests that served his ego over others' needs. But for now, Tuxrates added another endorsement to his collection, blind to the weight of trust he was accumulating.
 
@@ -228,6 +228,18 @@ _"The honest glass reflects what is, not what we wish,"_ Nia had said. But Tuxra
 **Thus began the accumulation of dangerous trust.**
 
 _Thus did Tuxrates half-learn that testing could be more than verification—it could be justice. But half a lesson is often more dangerous than ignorance. The pressure in his chest would grow with each test that chose cleverness over care, until the day when truth would demand its due, and the warnings would become consequences._
+
+---
+
+_Thus ends the Third Teaching: reflection pure,_  
+_Where tests reveal what pride would hide from sight._  
+_The glass that cracks still shows what must endure—_  
+_For broken truth outshines deceptive light._
+
+```bash
+git test --all | grep -v "PASS"
+# Truth lives in what fails
+```
 
 ---
 

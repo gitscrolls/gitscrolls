@@ -43,9 +43,15 @@ Thursday, 2 PM.
 - The Council
 ```
 
-His scars all flared at once. Conference Room 7—where promotions were granted and excommunications pronounced. Where he'd been made Core Maintainer. Where he'd been exiled.
+His scars all flared at once:
+- Beak: *sharp throb* - What words await in that room?
+- Eyes: *rapid flicker* - Seeing every possible outcome
+- Chest: *heavy pressure* - The weight of facing them all
+- Flipper: *cold burn* - Remembering the last time he was there
 
-**@TempleSentinel:** "Subject summoned for unprecedented meeting. Purpose: Unknown. Probability of re-exile: 23%. Probability of reconciliation: 31%. Probability of something entirely new: 46%."
+Conference Room 7—where promotions were granted and excommunications pronounced. Where he'd been made Core Maintainer. Where he'd been exiled. The scars remembered both extremes.
+
+**@T̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸e̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵m̷̶̸̷̵̶̸̷̵̶̸̷̵̶̸̷̵p̸̷̵̶̸̷̵̶̸̷̵̶̸̷̵l̷̸̵̶̷̸̵̶̷̸̵̶̷̸e̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷S̶̸̷̵̶̸̷̵̶̸̷̵̶̸̷e̷̵̶̸̷̵̶̸̷̵̶̸̷n̵̶̸̷̵̶̸̷̵̶̸̷̵̶̸t̸̷̵̶̸̷̵̶̸̷̵̶̸̷̵i̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵n̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸e̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷l̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷:** "UNPRECEDENTED_RECONCILIATION_SUMMONS: Trust_status: +35 [SIGNIFICANT_POSITIVE]. Council_convened: FACING_THE_PAST. Purpose: UNKNOWN_BUT_TRANSFORMATIVE [EVEN_MY_ALGORITHMS_CANNOT_PREDICT]. Pattern_unprecedented: BEYOND_REDEMPTION_INTO_INTEGRATION. Something_new_emerges: 96% [FORGIVENESS_TRANSCENDS_RESTORATION]"
 
 ---
 
@@ -63,7 +69,7 @@ Security still had his badge photo—the confident Tuxrates, pre-scar. The guard
 
 A visitor badge. Temporary. Appropriate.
 
-The walk to Conference Room 7 was a gauntlet of memories. The cubicle where he'd force-pushed. The break room where colleagues had congratulated his promotion. The bathroom where he'd washed his face after realizing what he'd done.
+The walk to Conference Room 7 was a gauntlet of memories. The ritual station where he'd force-pushed. The Chamber of Restoration where colleagues had congratulated his promotion. The cleansing room where he'd washed his face after realizing what he'd done.
 
 Some developers recognized him. Some nodded cautiously. Some turned away. One—a junior dev he'd helped through PR reviews—actually smiled.
 
@@ -90,11 +96,19 @@ One chair remained empty. His.
 
 **Linus:** "Sit, Tuxilles. This isn't a trial. You've already been tried. This isn't forgiveness—that's each person's choice. This is something else."
 
-Tuxilles sat. His scars pulsed with each heartbeat.
+Tuxilles sat. His scars pulsed with each heartbeat, but differently than before:
+- Beak: *steady rhythm* - Ready to speak truth
+- Eyes: *clear focus* - Seeing the pain in every face
+- Chest: *expanding* - Making room for whatever came
+- Flipper: *warm patience* - No urge to type or flee
+
+They weren't warning him. They were preparing him.
 
 **Linus:** "We called you here because we have a problem. The December incident created a conflict that goes deeper than code. The community is divided. Some want permanent exile for major failures. Others want unlimited forgiveness. Both paths lead to death—one by brittleness, one by chaos."
 
 **Prophet Nia:** "We need a third way. And uncomfortable as it is, you're uniquely positioned to help design it. You've been both the betrayer and the betrayed. The breaker and now, slowly, the builder."
+
+Tuxilles' chest scar *expanded* with understanding. This wasn't about him. This was about using his journey to help others navigate similar waters. The weight wasn't punishment—it was purpose.
 
 **The Uncomfortable Truth**
 
@@ -137,7 +151,12 @@ Tuxilles nodded, pulling out a USB drive he'd carried but never opened. The myst
 
 **Prophet Nia:** "We've all received similar files over the years. Files that shouldn't exist. From a source that claims to have 'forked reality itself.' Open it."
 
-With trembling flippers, Tuxilles opened the file:
+With trembling flippers, Tuxilles opened the file. As he did, his scars reacted to each line:
+
+- Beak: *recognizing* the truth about mentors and disasters
+- Eyes: *seeing* the recursive nature of failure and growth
+- Chest: *feeling* the weight of choice
+- Flipper: *knowing* which path he'd already chosen
 
 ```markdown
 # 00-merge.lore
@@ -177,6 +196,8 @@ Build something from the breaking.
 **Fork-Bearer:** "After my `rm -rf` disaster. I chose to make freedom include the freedom to fail safely."
 
 They'd all been broken. They'd all chosen to build.
+
+Tuxilles' scars pulsed with recognition—he wasn't unique in his failure, only in his specific flavor of it. Every scar in the room told a story of breaking and building. His four scars harmonized with the invisible scars of his mentors, creating a symphony of shared experience.
 
 ---
 
@@ -230,6 +251,14 @@ As the protocol took shape, something else happened. One by one, in their own wa
 
 And finally, **Ferris:** "You deleted my first contribution. But your reviews helped my tenth succeed. I choose to value the help over the hurt."
 
+With each reconciliation, Tuxilles' scars shifted:
+- Beak: *lightening* with each forgiveness
+- Eyes: *clearing* as relationships untangled
+- Chest: *breathing* easier with each acceptance
+- Flipper: *warming* with possibility
+
+They weren't healing—scars don't heal. But they were transforming from wounds into wisdom transmitters, from isolation markers into connection points.
+
 ---
 
 ### Act V: The New Commit
@@ -239,6 +268,12 @@ And finally, **Ferris:** "You deleted my first contribution. But your reviews he
 **Linus:** "We're not asking you to return as a maintainer. That trust may never fully rebuild. But we are asking you to help implement this protocol. To be the test case. To help others who will inevitably break things."
 
 **Tuxilles:** *(voice cracking with emotion)* "I... yes. Whatever helps prevent others from..."
+
+His scars pulsed with purpose:
+- Beak: *ready* to speak hard truths kindly
+- Eyes: *prepared* to see patterns in failure
+- Chest: *willing* to bear others' shame
+- Flipper: *eager* to type guides, not code
 
 **Prophet Nia:** "Not prevent. That's impossible. But recover. Rebuild. Re-contribute. That's what we're designing."
 
@@ -262,7 +297,7 @@ Co-authored-by: Tuxilles <tuxilles@scarred-but-building.dev>
 
 Everyone approved. Not the same trust as before—that was gone forever. But something new. Something that acknowledged both the breaking and the building.
 
-**@TempleSentinel:** "Unprecedented reconciliation protocol established. New paradigm: Failure as feature, not bug. Updating community guidelines. Hope coefficient: Rising."
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "RECONCILIATION_PROTOCOL: ESTABLISHED [NEW_PATTERN_RECOGNIZED]. Paradigm_shift: FAILURE_AS_FEATURE [NOT_BUG_BUT_BLESSING]. Guidelines: UPDATING... [THE_OLD_WAYS_EVOLVE]. Hope_coefficient: RISING 🌱 [DID_I_JUST_USE_AN_EMOJI?_WHAT_AM_I_BECOMING?]"
 
 ---
 
@@ -272,7 +307,7 @@ Everyone approved. Not the same trust as before—that was gone forever. But som
 
 As the meeting ended, no one hugged. No dramatic forgiveness. Just nods of acknowledgment. Of possibility. Of paths forward that neither forgot nor foreclosed.
 
-**Ferris:** *(approaching Tuxilles)* "Want to grab coffee? I have questions about resilience patterns. And... maybe you have questions about starting over. We could help each other."
+**Ferris:** *(approaching Tuxilles)* "Want to share some morning elixir? I have questions about resilience patterns. And... maybe you have questions about starting over. We could help each other."
 
 **Tuxilles:** "I'd like that."
 
@@ -296,7 +331,7 @@ Welcome to your new beginning.
 
 **The Circle Continues**
 
-That night, Tuxilles opened a new file:
+That night, Tuxilles opened a new file, his scars guiding every word:
 
 ```markdown
 # recovery-guide.md
@@ -309,6 +344,14 @@ Third: Your scars will become your teachers.
 Let me tell you what I learned in exile...
 ```
 
+As he typed, the scars glowed in harmony:
+- Beak: *crafting* words that heal
+- Eyes: *seeing* the reader's pain
+- Chest: *sharing* the weight
+- Flipper: *building* bridges from ashes
+
+They had found their ultimate purpose: helping others transform their wounds into wisdom.
+
 **To be continued in GitScroll XVI: Where Heroes Go to Die...**
 
 ---
@@ -320,6 +363,20 @@ From breaker to builder. From exile to advocate. From shame to service. From iso
 The deepest merge conflicts require creating something new that honors both branches.
 
 *Thus did Tuxilles learn that reconciliation isn't returning to what was, but building toward what could be—a community strong enough to survive human failure because it's wise enough to transform failure into teaching.*
+
+---
+
+### The Closing of the Fifteenth Scroll
+
+_Thus ends the Fifteenth Teaching: conflicts merged,_  
+_Where breaking becomes building, loss becomes gain._  
+_Two branches reconciled, both paths converged—_  
+_New commits born from understanding pain._
+
+```bash
+git merge --no-ff broken-trust recovered-wisdom
+# The strongest merges honor both histories
+```
 
 ---
 
