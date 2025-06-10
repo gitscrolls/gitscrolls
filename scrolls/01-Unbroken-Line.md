@@ -250,7 +250,7 @@ __Linus:__ "Good. Embarrassment is the emotion that teaches you not to repeat mi
 
 ---
 
-### Scene IV: The Unexpected Trust
+### Scene VI: The Unexpected Trust
 
 As Tuxicles worked through the afternoon, helping his colleagues recover from his rebase catastrophe, Linus the Elder watched from the doorway. The young penguin's humility in fixing his mistake had not gone unnoticed.
 
