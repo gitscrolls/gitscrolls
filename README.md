@@ -30,7 +30,7 @@ Our hero transforms through five aspects across the scrolls:
 
 ### Act I: Innocence (Trust: +10 → +25)
 - **[Scroll I: The Unbroken Line](scrolls/01-Unbroken-Line.md)** - *Linus the Elder* teaches respect for git history
-- **[Scroll II: The Annals of Forgotten Messages](scrolls/02-Annals-of-Forgotten-Messages.md)** - *Teacher of Lost Packets* reveals that commit messages are love letters to the future
+- **[Scroll II: The Annals of Forgotten Messages](scrolls/02-Annals-of-Forgotten-Messages.md)** - *Elena, Librarian of the Logs* reveals that commit messages are love letters to the future
 
 ### Act II: Questions (Trust: +25 → +75)
 - **[Scroll III: Tests Are the Honest Glass](scrolls/03-Tests-Are-the-Honest-Glass.md)** - *Prophet Nia* shows testing as an act of justice

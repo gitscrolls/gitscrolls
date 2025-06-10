@@ -38,7 +38,7 @@ His tests passed. His coverage climbed. The metrics looked beautiful. Everything
 
 But Tuxrates dismissed the bot's warnings. Just noise from an overly cautious algorithm. His tests were elegant, mirroring his code's internal structure perfectly. What could be wrong with that?
 
-Driven by a desire to prove his testing prowess—and perhaps to earn another commendation like those from Linus and the Teacher of Lost Packets—he journeyed to the Lightning Fields of the Eternal Build Forge, where red and green danced like verdicts across the sky.
+Driven by a desire to prove his testing prowess—and perhaps to earn another commendation like those from Linus and Elena—he journeyed to the Lightning Fields of the Eternal Build Forge, where red and green danced like verdicts across the sky.
 
 ---
 

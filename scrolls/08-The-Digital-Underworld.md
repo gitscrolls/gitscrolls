@@ -94,11 +94,11 @@ d6c5a43 asdfasdf
 e5b4321 WORK DAMMIT
 ```
 
-But worse—Tuxrates saw his own sin magnified. His force push had doesn't just overwrite code; it had erased history. Months of careful commit messages from the Teacher of Lost Packets—gone.
+But worse—Tuxrates saw his own sin magnified. His force push hadn't just overwritten code; it had erased history. Months of careful commit messages from Elena, the Librarian of the Logs—gone.
 
-**The Teacher's Ghost materialized from the swamp:**
+**Elena's Ghost materialized from the swamp:**
 
-**Teacher of Lost Packets:** "Do you see? Every commit I encouraged others to write clearly... erased. My examples, my lessons, my legacy—you forced pushed over all of it. How many junior developers will never learn because you destroyed the history they would have studied?"
+**Elena:** "Do you see? Every commit I encouraged others to write clearly... erased. My examples, my lessons, my legacy—you forced pushed over all of it. How many junior developers will never learn because you destroyed the history they would have studied?"
 
 Tuxrates' eyes began their permanent strobe—the flickering that had warned him now becoming his reality. His vision *stuttered* between timelines:
 

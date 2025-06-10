@@ -30,7 +30,7 @@ The Temple of Open Source had never been more unified in a decision. In the Inne
 **Linus the Elder** sat at the head of the table, the Last Manual Page before him.  
 **Prophet Nia of the Honest Glass** reviewed metrics with eyes that missed nothing.  
 **The Fork-Bearer of Freedom** leaned back, philosophical and thoughtful.  
-**The Teacher of Lost Packets** had prepared a presentation that no one needed to see.
+**Elena, Librarian of the Logs** had prepared a presentation that no one needed to see.
 
 The subject of their meeting: promoting **Tuxrates** to Core Maintainer status.
 
@@ -67,7 +67,7 @@ She pulled up metrics:
 
 "When ideologies clash, Tuxrates finds synthesis. The Great Tab-vs-Spaces Schism of last month? His proposal united both camps. He doesn't just understand freedom—he embodies it responsibly."
 
-**The Teacher of Lost Packets** simply smiled:
+**Elena** simply smiled:
 
 "His commit messages make me weep with joy. Clear, contextual, compassionate. Junior developers cite his commits in their learning journals. He has become what we teach others to aspire to."
 

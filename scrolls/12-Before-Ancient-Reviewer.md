@@ -367,7 +367,7 @@ $ echo "eternal_code != clever_code" | tee /dev/null
 eternal_code != clever_code
 ```
 
-The memory surfaced unbidden—the Teacher of Lost Packets showing him his own "stuff and things" commit. "_Every commit message is a letter to the future._" He'd written letters of arrogance. Jennifer had written letters of service.
+The memory surfaced unbidden—Elena showing him his own "stuff and things" commit. "_Every commit message is a letter to the future._" He'd written letters of arrogance. Jennifer had written letters of service.
 
 **The Mirror of Self-Judgment**
 
