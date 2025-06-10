@@ -11,7 +11,9 @@
     "test:all": "jest",
     "docker:test": "docker compose run --rm test",
     "docker:test:ci": "docker compose run --rm -e CI=true test npm run test:ci",
-    "docker:test:style": "docker compose run --rm test npm run test:style"
+    "docker:test:style": "docker compose run --rm test npm run test:style",
+    "setup": "npm install && ./scripts/install-hooks.sh",
+    "install-hooks": "./scripts/install-hooks.sh"
   },
   "keywords": [
     "narrative",

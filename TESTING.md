@@ -2,6 +2,23 @@
 
 This repository validates both the syntax and style consistency of all GitScrolls to ensure they're properly formatted and maintain a consistent voice throughout the narrative.
 
+## Initial Setup
+
+To set up the development environment with git hooks:
+
+```bash
+npm run setup
+```
+
+This will:
+1. Install npm dependencies
+2. Install git hooks (pre-push validation)
+
+You can also install just the hooks with:
+```bash
+npm run install-hooks
+```
+
 ## What It Tests
 
 ### Syntax Validation (`npm run test:syntax`)
