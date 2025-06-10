@@ -316,7 +316,7 @@ From developer to destroyer. From trusted to toxic. From pride to profound shame
 
 The Digital Underworld had shown him every consequence. Now came the harder task: living with them.
 
-*Thus did Tuxrates become Tuxilles, scarred by the weight of understanding that every broken build is a broken promise, and every force push forces someone else to clean up your mess.*
+*Thus did Tuxilles emerge from the underworld, scarred by the weight of understanding that every broken build is a broken promise, and every force push forces someone else to clean up your mess.*
 
 ---
 

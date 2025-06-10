@@ -6,7 +6,7 @@ date: "2025-01-09"
 ---
 
 # GitScroll XI: The Silent Commit
-_The Third Trial of Tuxilles the Battle-Scarred_
+_The Cave of Uncommitted Changes_
 
 > *"The loudest scream is the code that's never pushed."*  
 _As discovered in isolation by **Tuxilles the Battle-Scarred**, Keeper of Ten Thousand Uncommitted Changes_

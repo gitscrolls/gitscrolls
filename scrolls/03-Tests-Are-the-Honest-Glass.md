@@ -30,7 +30,7 @@ _And hollow promises break hearts that follow._
 
 ### Prologue: The Confidence of Coverage
 
-Two scrolls had passed since Tuxicles took up the Git. Now as Tuxrates, he bore lessons of history and clarity. His reputation grew with each commit, each review, each nod of approval from senior developers.
+Two weeks had passed since Tuxicles earned his first endorsement. Now, as Tuxrates, he bore lessons of history and clarity. His reputation grew with each commit, each review, each nod of approval from senior developers.
 
 His tests passed. His coverage climbed. The metrics looked beautiful. Everything was going perfectly.
 

@@ -9,7 +9,7 @@ date: "2025-01-09"
 _The Final Lesson Before the Breaking_
 
 > *"Trust is a ladder that becomes a cliff."*  
-_As witnessed in the rise of **Tuxrates the Trusted**, Who Would Become the Battle-Scarred_
+_As witnessed in the rise of **Tuxrates the Trusted**, Whose Pride Would Lead to Great Catastrophe_
 
 ## The Fifth Teaching: "The Weight of Reputation Can Crush Its Bearer"
 

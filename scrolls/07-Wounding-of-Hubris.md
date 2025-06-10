@@ -320,11 +320,11 @@ His odyssey home had begun - but first, he would have to prove himself worthy of
 
 From this day forward, Tuxilles would carry the weight of his mistake as a compass. Every time he was tempted to "improve" something without considering the human cost, the chip in his beak would remind him: code is not just logic—it is relationship. And relationships require care when they change.
 
-The battle-scarred penguin who had once been Tuxrates the confident questioner now faced the long journey home, armed with hard-won wisdom and marked by the permanent reminder that the best refactorings are invisible to users and obvious to maintainers.
+The battle-scarred penguin who had once been Tuxrates, the confident questioner, now faced the long journey home, armed with hard-won wisdom and marked by the permanent reminder that the best refactorings are invisible to users and obvious to maintainers.
 
 But that is a story for the scrolls to come.
 
-*Thus did Tuxrates become Tuxilles through consequence rather than instruction, learning that the highest form of technical improvement requires the deepest form of human consideration. His battle scar would guide him through the trials ahead, throbbing with wisdom earned in the digital underworld where broken systems go to haunt their creators.*
+*Thus did Tuxrates become Tuxilles, through consequence rather than instruction, learning that the highest form of technical improvement requires the deepest form of human consideration. His battle scar would guide him through the trials ahead, throbbing with wisdom earned in the digital underworld where broken systems go to haunt their creators.*
 
 ---
 

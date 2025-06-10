@@ -376,7 +376,7 @@ The phantom pains hovered at the edge of becoming real, waiting for the moment i
 - His chest cavity felt hollow, as if his heart had already fled
 - His flipper spasmed in rhythm with every error message scrolling past
 
-The scars hadn't formed yet. That would come tomorrow, in the cold light of the council chamber, when trust shattered would become flesh marked. 
+The phantom sensations reached their crescendo, his body trying to warn him of consequences yet to come. Tomorrow, in the cold light of the council chamber, these warnings would transform into something permanent. 
 
 Right now, there was only the horrific realization:
 
