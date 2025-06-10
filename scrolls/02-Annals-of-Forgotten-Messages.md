@@ -240,65 +240,75 @@ __Elena:__ "Always provide context. 'Fixes #123' is good. 'Fixes #123 - Users un
 
 ---
 
-### Scene V: The Art of the Message
+### Scene V: The Mechanics of Meaning
 
-_Having seen all three tablets, Tuxicles stands before Elena with new understanding._
+_Having absorbed the three tablets' wisdom, Tuxicles thirsts for the practical mysteries._
 
-__Tuxicles:__ "But Master, sometimes the fix is so small, so obvious! Surely 'fix typo' suffices?"
+__Tuxicles:__ "Teacher Elena, I understand the principles, but what of the sacred constraints? The 50-character limit? The imperative mood? How do I honor both form and meaning?"
 
-__Elena:__ _(adjusting her spectacles thoughtfully)_ "Does it? Consider: which typo? In which file? A typo in a comment, or a typo that crashed production? Was it 'definately' becoming 'definitely,' or was it 'user.save()' that should have been 'user.update()'?"
+__Elena:__ _(walking to a dusty corner of the archive)_ "Ah, now you ask the questions of one ready to practice. Come, let me show you the edge cases that torment even experienced scribes."
 
-_She gestures, and the screen shows:_
+_She pulls forth a scroll titled 'Sins of Brevity':_
 
 ```
-commit 3c5f8a2
-Author: precise_penguin
-Date: Thu May 15 14:30:12 2025
+commit 8a9f3c2
+fix typo
 
-Fix typo in user authentication module
+commit 7b8e2d1  
+Fixed typo
 
-The login form was calling 'user.save()' instead of 
-'user.update()', causing session data to be lost
-on password reset. Affects issue #247.
+commit 6c7d1e0
+Fix typo in user.save() call that caused data loss
 ```
 
-__Tuxicles:__ "I… I see the difference. The second tells a story."
+__Tuxicles:__ "The first two tell me nothing! But the third... surely 'fix typo' suffices if I add details below?"
 
-__Elena:__ "More than a story—it tells the **why**. Code shows you what happened. Comments show you what you were thinking. But commit messages? They show you what was wrong with your thinking."
-
-__Tuxicles:__ "Then every commit message is a confession?"
-
-__Elena:__ "Every commit message is an **education**. For when you write 'fix bug in payment processing,' you teach nothing. But when you write 'fix race condition in payment processing that caused duplicate charges during high traffic,' you arm the next developer with knowledge."
+__Elena:__ _(adjusting her spectacles)_ "Does it? Which typo? 'Fix typo in auth module' tells me where. 'Fix user.save() typo causing data loss' tells me what burned. Even in 50 characters, specificity saves souls."
 
 __Tuxicles:__ "But what if I don't know the full impact? What if I only understand part of the problem?"
 
-__Elena:__ "Then write what you **do** know. 'Fix timeout issue in API calls - still investigating root cause' is infinitely more valuable than 'fix stuff.' Uncertainty honestly expressed is wisdom. Certainty falsely claimed is arrogance."
+__Elena:__ "Then confess your uncertainty! Observe:"
 
-_The Teacher stands and walks to a ritual terminal, its green text glowing in the dim light._
+```
+Fix timeout in payment API (root cause unknown)
 
-__Elena:__ "Let me show you the Three Sacred Elements of the Meaningful Message:
+Seeing intermittent 30s timeouts on /api/payment/process.
+Added retry logic as temporary mitigation.
+Still investigating if this is database or network related.
 
-**First: The What.** What did you change? Be specific.
+Refs: #892 (customer complaints)
+Next: Add monitoring to identify pattern
+```
 
-**Second: The Why.** Why did you change it? What was wrong?
+__Tuxicles:__ "You... you admitted ignorance in the permanent record?"
 
-**Third: The How.** How does this change solve the problem? What might it affect?
+__Elena:__ "Uncertainty honestly expressed is wisdom. Certainty falsely claimed is arrogance. Future-you will thank present-you for the honesty."
 
-A message that answers all three is a gift to the future. A message that answers none is a curse upon the land."
+_She leads him to another section, where commit messages glow with different colors._
 
-__Tuxicles:__ "And what of the sacred 50-character limit? The holy formatting rules?"
+__Elena:__ "Now observe the spectrum of specificity:"
 
-__Elena:__ "Format serves meaning, not the reverse. Yes, keep your first line short and sweet—it is the title of your story. But if your story needs a second paragraph, a third, even a bibliography of related issues… then write them. The diff shows what you changed. The message shows why it mattered."
+```
+❌ Update code
+❌ Fix bug
+⚠️  Fix login bug
+✓  Fix login timeout on slow connections
+✅ Fix 30s timeout in OAuth flow affecting mobile users
+```
 
-_The old master turns back to face Tuxicles, his eyes twinkling with the light of a thousand debugged incantations._
+__Tuxicles:__ "Each level reveals more truth..."
 
-__Elena:__ "Remember this, young Tux: We do not write code for computers. Computers care nothing for variable names, for comments, for elegant structure. We write code for humans—humans who will read it, modify it, curse it, and eventually, replace it."
+__Elena:__ "Format serves meaning, not the reverse. Yes, keep your first line punchy—it's the headline of your story. But if the tale needs telling, tell it! A paragraph explaining context, another describing impact, links to issues and discussions... The git log --oneline users see the summary. The git show readers deserve the novel."
+
+_She turns to face him directly, her eyes soft with the wisdom of ten thousand reviewed pull requests._
+
+__Elena:__ "Remember this, young Tux: We do not write code for computers. We write code for humans—humans who will read it, modify it, curse it, and eventually, replace it."
 
 __Tuxicles:__ "And commit messages?"
 
 __Elena:__ "Commit messages are love letters to those humans. Make them love letters worth reading."
 
-_Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures." 
+_Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_ 
 
 His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the spirit whisper seems less urgent somehow. Just flaky tests, probably. Nothing that can't wait until tomorrow.
 
@@ -324,7 +334,7 @@ _As he hits enter, his Command Portal flickers briefly—characters scrambling f
 
 __Elena:__ _(smiling)_ "Now __that__ is a message that honors the code and serves the future. Go forth, young penguin, and may your commit history be a beacon of clarity in a world of 'fix stuff' and 'wip.'"
 
-__Tuxicles:__ "Thank you, Master Teacher. I shall never again commit without story."
+__Tuxicles:__ "Thank you, wise Teacher. I shall never again commit without story."
 
 __Elena:__ "See that you don't. For I shall be watching… from the _history_."
 
