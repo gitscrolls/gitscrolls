@@ -251,7 +251,7 @@ git test --all | grep -v "PASS"
 
 ---
 
-__Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)__  
+**Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)**  
 _As taught by the Fork-Bearer of Freedom, Guardian of the Four Freedoms_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  

@@ -14,7 +14,7 @@ updated: 2025-05-31T20:30
 _The Penultimate Trial of Tuxilles the Battle-Scarred_
 
 
-> *"If you withhold what hardship taught you, then it taught you nothing."*  
+> __"If you withhold what hardship taught you, then it taught you nothing."__  
 _As embodied by __The Oracle of Teaching__, Guardian of the Sacred Grove, Keeper of Generational Wisdom_
 
 ## The Fourteenth Teaching: "The Mentor You Needed When You Began"
@@ -60,7 +60,7 @@ The scars had found a new purpose: not just protecting him from mistakes, but he
 
 ---
 
-### Act I: The Sacred Grove Appears
+### Scene I: The Sacred Grove Appears
 
 As Tuxilles began the mentoring conversation, something magical started to happen. His integrated scars began to pulse in a rhythm he'd never felt before—not warning him of danger, but guiding him toward something profound.
 
@@ -84,7 +84,7 @@ __The Oracle of Teaching:__ "You're here because you've reached the penultimate 
 
 ---
 
-### Act II: The Trial of Generational Wisdom
+### Scene II: The Trial of Generational Wisdom
 
 **The Teaching Challenge**
 
@@ -155,7 +155,7 @@ The Oracle showed Tuxilles two possible responses:
 
 ---
 
-### Act III: The Wisdom of Patient Teaching
+### Scene III: The Wisdom of Patient Teaching
 
 As Tuxilles studied the code, his integrated scars guided him to something deeper than technical review. He could see the learning journey in every comment, the careful thought in every defensive check, the growing understanding hidden beneath the uncertainty.
 
@@ -190,7 +190,7 @@ The response that emerged was unlike anything Tuxilles had written before. It wa
 
 ---
 
-### Act IV: The Multiplication of Wisdom
+### Scene IV: The Multiplication of Wisdom
 
 **The Ripple Effect**
 
@@ -212,7 +212,7 @@ __The Oracle of Teaching:__ "The final test: design not just answers, but a syst
 
 ---
 
-### Act V: The Architecture of Wisdom
+### Scene V: The Architecture of Wisdom
 
 **The System Design Challenge**
 
@@ -263,7 +263,7 @@ The scars worked in concert, each contributing its unique wisdom to navigate the
 
 ---
 
-### Act VI: The Final Scar
+### Scene VI: The Final Scar
 
 **The Master Teacher Response**
 
@@ -290,7 +290,7 @@ __The Oracle of Teaching:__ "Tuxilles the Battle-Scarred, your trials are nearly
 
 ---
 
-### Act VII: The Penultimate Gift
+### Scene VII: The Penultimate Gift
 
 **The Return to Service**
 
@@ -318,7 +318,7 @@ __@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:__ "Day 135: Teaching_quality: EXCEPTI
 
 ---
 
-### Act VIII: The Dawn of the Return
+### Scene VIII: The Dawn of the Return
 
 **The Invitation Home**
 
@@ -403,4 +403,9 @@ git log --format="%an taught %s" | grep -c "understanding"
 ---
 
 **Next: [GitScroll XV - "The Merge of Meaning"](15-The-Merge-of-Meaning.md)**  
-_Where reconciliation transforms into something new_  
+_Where reconciliation transforms into something new_
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._  

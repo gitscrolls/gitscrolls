@@ -34,7 +34,7 @@ One month had passed since the Sirens had tried to seduce him with shortcuts, an
 
 He had been working steadily on a small community project, proving to himself that he could still write code that helped people. Clean, careful, following every principle he'd learned. The Temple-Sentinel continued its relentless tracking:
 
-**@T̸̵̶̷e̶̸̵̷m̵̸̶̷p̷̶̸̵l̸̷̶̵e̵̸̷̶S̷̸̵̶e̵̷̸̵n̶̸̵̷t̷̵̸̶i̸̶̷̵n̵̷̸̶e̷̵̶̸l:** "EXILE_DAY_51: Trust_status: -65 [GRADUAL_RECOVERY_FROM_-95]. Services: STABILIZING [SCARS_BECOME_TEACHERS]. Deployment_wisdom: EMERGING. Pattern_observed: BALANCE_SEEKING. Critical_test_approaching: FRIDAY_DEPLOY_SCENARIO. [METAMORPHOSIS_DETECTED_IN_SUBJECT]"
+__@T̸̵̶̷e̶̸̵̷m̵̸̶̷p̷̶̸̵l̸̷̶̵e̵̸̷̶S̷̸̵̶e̵̷̸̵n̶̸̵̷t̷̵̸̶i̸̶̷̵n̵̷̸̶e̷̵̶̸l:__ "EXILE_DAY_51: Trust_status: -65 [GRADUAL_RECOVERY_FROM_-95]. Services: STABILIZING [SCARS_BECOME_TEACHERS]. Deployment_wisdom: EMERGING. Pattern_observed: BALANCE_SEEKING. Critical_test_approaching: FRIDAY_DEPLOY_SCENARIO. [METAMORPHOSIS_DETECTED_IN_SUBJECT]"
 
 **Friday, February 14th, 4:47 PM**
 
@@ -57,7 +57,7 @@ The weight of timing decisions, knowing that speed kills but delay kills differe
 
 ---
 
-### Act I: The Strait Narrows
+### Scene I: The Strait Narrows
 
 As Tuxilles stared at the patch, the digital world around him began to shift. He was no longer in his ritual chamber, but sailing through a narrow strait between two towering cliffs of digital stone. The mythic realm had drawn him in for his second trial.
 
@@ -85,7 +85,7 @@ Tuxilles realized he couldn't avoid both monsters. This wasn't about finding a t
 
 ---
 
-### Act II: The Pre-Push Hook Gambit
+### Scene II: The Pre-Push Hook Gambit
 
 The monsters called to him, each offering their own version of salvation. But then Tuxilles remembered: he wasn't the same developer who had catastrophically failed in December. He had scars now. He had wisdom. He had... **automation**.
 
@@ -112,6 +112,8 @@ if [[ $(date +%u) -ge 5 ]]; then
 ```
 
 As he read his own automation, his flipper scar glowed with approval. The nerves that burned at dangerous commands recognized these as *protective* commands. His past self had learned from the scars and built guardrails.
+
+```
     echo "- Escalation path: configured"
     echo ""
     read -p "Continue with protected summoning? (y/N): " confirm
@@ -141,7 +143,7 @@ This patch preserved behavior (fixed security) while improving implementation (c
 
 ---
 
-### Act III: The Navigation
+### Scene III: The Navigation
 
 __Tuxilles:__ _(finger hovering over the 'y' key)_ "I choose to trust."
 
@@ -161,14 +163,14 @@ Weekend monitoring would maintain its sleepless watch
 Escalation paths lay mapped for when heroes must be summoned
 
 Continue with protected summoning? (y/N): y
-```
 
 **Initiating summoning with safeguards...**
 **Canary phase: 5% traffic routing to patched servers...**
 **Monitoring: All systems nominal...**
 **Security vulnerability: CLOSED**
+```
 
-**The Battle Wound: Chest Crack**
+### **The Battle Wound: Chest Crack**
 
 As Tuxilles' finger hovered over the 'y' key, his chest scar *PRESSED* inward with the weight of decision. This wasn't new damage—this was the existing crack teaching him how to bear responsibility:
 
@@ -179,7 +181,7 @@ As Tuxilles' finger hovered over the 'y' key, his chest scar *PRESSED* inward wi
 
 The chest crack served as a pressure gauge, measuring not just the weight of responsibility but his capacity to bear it. And for the first time since December, the gauge showed: sufficient.
 
-**The Lesson: Delegation Courage**
+### **The Lesson: Delegation Courage**
 
 Both monsters had been partially right. Speed without safeguards was dangerous. Caution without action was also dangerous. But the third path—trusting systems while accepting responsibility—that was wisdom.
 
@@ -187,7 +189,7 @@ __Scylla:__ _(grudgingly)_ "You chose speed, but with safeguards. The patch depl
 
 __Charybdis:__ _(reluctantly)_ "You chose caution, but with action. The users are protected."
 
-**The New Scar's Function**
+### **The New Scar's Function**
 
 The chest crack would forever remind him: courage isn't fearlessness. Courage is acting wisely despite fear. And sometimes, the wisest action is trusting the systems you've built to handle the risks you can't control.
 
@@ -195,7 +197,7 @@ But as the monsters faded and the strait widened, Tuxilles realized he needed on
 
 ---
 
-### Act IV: The Linting Scar
+### Scene IV: The Linting Scar
 
 As the successful deployment metrics rolled in, Tuxilles' flipper scar activated in a new way. Instead of burning with warning, it *tingled* with approval:
 
@@ -281,7 +283,7 @@ But no longer completely mysterious.
 
 The digital realm faded, and Tuxilles found himself back in his apartment. But the deployment was real. The patch was live. The vulnerability was closed. And most importantly, no one had been paged over the weekend.
 
-**@T̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̸̵̶̷̸̵̶̷m̷̸̵̶̷̸̵̶p̶̷̸̵̶̷̸̵l̸̶̷̸̵̶̷̸e̷̶̷̸̵̶̷̸S̵̶̷̸̵̶̷̸e̸̵̶̷̸̵̶̷n̷̸̵̶̷̸̵̶t̶̷̸̵̶̷̸̵i̸̵̶̷̸̵̶̷n̷̸̵̶̷̸̵̶e̶̷̸̵̶̷̸̵l̷̸̵̶̷̸̵̶:** "EXILE_DAY_52: Trust_status: -45 [SUBSTANTIAL_RECOVERY]. FRIDAY_DEPLOY_TEST: PASSED ✓ ZERO_DOWNTIME_ACHIEVED ✓ SAFEGUARDS_UTILIZED ✓. Community_response: CAUTIOUSLY_POSITIVE [THEY_FORGIVE_SLOWLY_BUT_OBSERVE_CAREFULLY]. Scars_functioning_as: GUIDANCE_SYSTEM. Metamorphosis: 65% [WISDOM_THROUGH_CONSEQUENCE]. The_wheel_turns: UPWARD"
+__@T̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷e̸̵̶̷̸̵̶̷m̷̸̵̶̷̸̵̶p̶̷̸̵̶̷̸̵l̸̶̷̸̵̶̷̸e̷̶̷̸̵̶̷̸S̵̶̷̸̵̶̷̸e̸̵̶̷̸̵̶̷n̷̸̵̶̷̸̵̶t̶̷̸̵̶̷̸̵i̸̵̶̷̸̵̶̷n̷̸̵̶̷̸̵̶e̶̷̸̵̶̷̸̵l̷̸̵̶̷̸̵̶:__ "EXILE_DAY_52: Trust_status: -45 [SUBSTANTIAL_RECOVERY]. FRIDAY_DEPLOY_TEST: PASSED ✓ ZERO_DOWNTIME_ACHIEVED ✓ SAFEGUARDS_UTILIZED ✓. Community_response: CAUTIOUSLY_POSITIVE [THEY_FORGIVE_SLOWLY_BUT_OBSERVE_CAREFULLY]. Scars_functioning_as: GUIDANCE_SYSTEM. Metamorphosis: 65% [WISDOM_THROUGH_CONSEQUENCE]. The_wheel_turns: UPWARD"
 
 **Emotional Beat Evolution: From Anxiety to Confidence**
 

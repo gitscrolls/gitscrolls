@@ -1,14 +1,19 @@
 ---
 title: "GitScroll VI: The Perfect Storm"
-subtitle: "The Breaking of All Things"
-author: "The Witness to Catastrophe"
-date: "2025-01-09"
+aliases:
+  - "The Perfect Storm"
+  - "The Breaking of All Things"
+linter-yaml-title-alias: "GitScroll VI: The Perfect Storm"
+date created: Thursday, January 9th 2025, 10:35:00 pm
+date modified: January 10th 2025, 11:50:00 pm
+created: 2025-01-09T22:35
+updated: 2025-01-10T23:50
 ---
 
 # GitScroll VI: The Perfect Storm
 _The Moment Before the Fall_
 
-> *"In the space between 'git add .' and 'git push --force', empires crumble."*  
+> __"In the space between 'git add .' and 'git push --force', empires crumble."__  
 _As observed in horror by **The Chorus of the Abandoned Office**, December 21, 2024, 02:47 AM_
 
 ## The Sixth Teaching: "The Last Warning Is Always the Clearest"
@@ -67,7 +72,7 @@ All systems screaming. All warnings ignored. The body knows what the mind denies
 
 ---
 
-### Act I: The Git Graph of Doom
+### Scene I: The Git Graph of Doom
 
 **The Discovery**
 
@@ -107,7 +112,7 @@ He could even migrate their changes! Well, some of them. The important ones. Lat
 
 ---
 
-### Act II: The Symphony of Warnings
+### Scene II: The Symphony of Warnings
 
 **21:47 - The Phone Awakens**
 
@@ -127,7 +132,7 @@ Tuxrates flipped it over, annoyed at the interruption to his flow state.
 
 ---
 
-### Act III: The Dismissals of Destiny
+### Scene III: The Dismissals of Destiny
 
 **The First Warning - The Fork-Bearer (21:52)**
 
@@ -209,7 +214,7 @@ The device buzzed once more. Voicemail.
 
 He couldn't help himself. He played it:
 
-**Linus's voice, urgent but caring:**
+__Linus's voice, urgent but caring:__
 "Tuxrates, I'm calling because I care about you. Not the code—you. I see myself in you, the brilliant young developer who thinks he can fix everything in one perfect push. I'm working on the auth system too. Critical security patches. Whatever you're doing, it can wait until we review together. The timeline is sacred for a reason. Please. Don't push without review. Call me back."
 
 For one heartbeat, Tuxrates' finger hovered over the callback button.
@@ -250,7 +255,7 @@ The phantom file vanished, taking with it the last chance for wisdom to interven
 
 ---
 
-### Act IV: The Push That Broke the World
+### Scene IV: The Push That Broke the World
 
 **00:00 - The Witching Hour**
 
@@ -363,7 +368,7 @@ Then the human messages started:
 
 ---
 
-### Act V: The Immediate Aftermath
+### Scene V: The Immediate Aftermath
 
 **03:00 - The Realization**
 
@@ -427,3 +432,8 @@ git push --force --dry-run
 
 **Next: [GitScroll VII - "The Wounding of Hubris"](07-The-Wounding-of-Hubris.md)**  
 _Where the full weight of consequence crashes down_
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._

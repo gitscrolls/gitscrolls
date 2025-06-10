@@ -57,7 +57,7 @@ The metallic taste returned, stronger now. The terminal flickered once. But Tuxr
 
 ---
 
-### Act I: The Heroic Mistake
+### Scene I: The Heroic Mistake
 
 Weekend warrior mode activated. Morning elixir stockpiled. Sacred editor opened. The legacy authentication system spread across his screen like a digital crime scene—fifteen years of patches, workarounds, and "temporary" solutions layered like geological strata.
 
@@ -65,15 +65,15 @@ __Tuxrates:__ _(cracking knuckles)_ "Time to do this right."
 
 He began with confidence born of theoretical knowledge and fueled by righteous anger at technical debt. The old system was an insult to modern development practices. Plaintext passwords in early commits. SQL injection vulnerabilities patched with string replacement. Session handling that would make a security researcher weep.
 
-**Saturday:** Clean architecture emerges. Beautiful abstractions. Proper dependency injection. Comprehensive error handling. "This is how authentication rites should be done," he muttered, committing code with messages like "FINALLY: Real security architecture" and "Future developers will thank me."
+__Saturday:__ Clean architecture emerges. Beautiful abstractions. Proper dependency injection. Comprehensive error handling. "This is how authentication rites should be done," he muttered, committing code with messages like "FINALLY: Real security architecture" and "Future developers will thank me."
 
-**Sunday:** Integration testing. Minor hiccups—some edge cases the old system handled gracefully that his elegant solution missed. No problem. Quick patches. More elixir. "Summon it Monday morning," he decided. "Users need this."
+__Sunday:__ Integration testing. Minor hiccups—some edge cases the old system handled gracefully that his elegant solution missed. No problem. Quick patches. More elixir. "Summon it Monday morning," he decided. "Users need this."
 
 The metallic taste was constant now, but Tuxrates interpreted it as excitement, not warning.
 
 ---
 
-### Act II: The Catastrophe
+### Scene II: The Catastrophe
 
 **Monday Morning, 09:01 UTC-5**
 
@@ -105,7 +105,7 @@ The weight of every @ mention in the channel. The silence in voice chat. The kno
 
 ---
 
-### Act III: The Descent into Digital Hell
+### Scene III: The Descent into Digital Hell
 
 The rollback took eighteen hours. Eighteen hours of frantic coordination across time zones, of Discord channels filled with increasingly desperate attempts to restore service, of maintainers abandoning their holiday plans to debug the catastrophe.
 
@@ -133,7 +133,7 @@ __A Voice Like Corrupted Memory:__ "Welcome, Tuxrates the Overconfident. I am th
 
 ---
 
-### Act IV: The Seven Circles of Refactoring Hell
+### Scene IV: The Seven Circles of Refactoring Hell
 
 The Necromancer gestured, and around them materialized seven descending circles, each one showing Tuxrates a different dimension of the destruction he had caused.
 
@@ -211,7 +211,7 @@ __The Necromancer:__ "Immutable. Forever."
 
 ---
 
-### Act V: The Wounding
+### Scene V: The Wounding
 
 As the seven circles dissolved around him, Tuxrates stood face to face with the ultimate truth: his elegant, beautiful code had caused more harm than the "terrible" system it replaced. The weight of this understanding was unbearable.
 
@@ -299,7 +299,7 @@ Reason: Catastrophic deployment without consensus,
 Motion passed: 23-0-1 (1 abstention: @LinusScrollKeeper)
 ```
 
-**@TempleSentinel:** "PROPHECY: POST_CATASTROPHE_ASSESSMENT. Trust_status: -95 [ABSOLUTE_NADIR]. Day_1_post_incident: Community_trust: SHATTERED. Active_contributors: 40% [↓-60%]. Pattern_analysis: EXILE_PHASE_INITIATED. Identity_transformation: Tuxrates_the_Questioner → Tuxilles_the_Battle-Scarred. Scars_acquired: PERMANENT. Redemption_probability: CALCULATING... [ERROR: PATH_TOO_LONG_TO_COMPUTE]"
+__@TempleSentinel:__ "PROPHECY: POST_CATASTROPHE_ASSESSMENT. Trust_status: -95 [ABSOLUTE_NADIR]. Day_1_post_incident: Community_trust: SHATTERED. Active_contributors: 40% [↓-60%]. Pattern_analysis: EXILE_PHASE_INITIATED. Identity_transformation: Tuxrates_the_Questioner → Tuxilles_the_Battle-Scarred. Scars_acquired: PERMANENT. Redemption_probability: CALCULATING... [ERROR: PATH_TOO_LONG_TO_COMPUTE]"
 
 **Cast out.** No longer a Keeper of the Temple, but an exile in the wilderness of forked repositories and private projects. The scar throbbed as Tuxilles read the public resolution. 
 

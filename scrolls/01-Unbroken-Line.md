@@ -314,7 +314,7 @@ git log --all --grep="truth" | tail -∞
 
 ---
 
-__Next: [GitScroll II - "The Annals of Forgotten Messages"](02-Annals-of-Forgotten-Messages.md)__  
+**Next: [GitScroll II - "The Annals of Forgotten Messages"](02-Annals-of-Forgotten-Messages.md)**  
 _Where words unwritten scream louder than those carved_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  

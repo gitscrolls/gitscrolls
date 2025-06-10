@@ -14,7 +14,7 @@ updated: 2025-06-01T23:30
 # GitScroll XVI: Where Heroes Go to Die
 _The Final Chapter of The Tuxilles Odyssey_
 
-> *"What you read changes nothing. What you do changes everything."*   
+> __"What you read changes nothing. What you do changes everything."__   
 > 
 > <details>
 > <summary>🧙 About the ScrollKeeper</summary>
@@ -94,7 +94,7 @@ They had brought him this far. Now they would help him complete the circle.
 
 ---
 
-### Act I: The Temple's Transformation
+### Scene I: The Temple's Transformation
 
 **The Governance Chamber**
 
@@ -124,7 +124,7 @@ As Tuxilles began his presentation, something extraordinary happened. His scars'
 
 ---
 
-### Act II: The Mentor-Tree Protocol
+### Scene II: The Mentor-Tree Protocol
 
 **The Living Architecture**
 
@@ -238,7 +238,7 @@ The scars weren't just protecting him—they were actively contributing to bette
 
 ---
 
-### Act III: The Final Trial from Linus
+### Scene III: The Final Trial from Linus
 
 **The Unexpected Challenge**
 
@@ -269,7 +269,7 @@ __Council Leader Aria:__ "Granted. Show us how the Teacher leads."
 
 ---
 
-### Act IV: The Redemption Architecture
+### Scene IV: The Redemption Architecture
 
 **The Crisis Leadership**
 
@@ -318,7 +318,7 @@ __Linus:__ _(as the all-clear signal went out)_ "Tuxilles the Teacher, you've sh
 
 ---
 
-### Act V: The Scar Evolution
+### Scene V: The Scar Evolution
 
 **The Final Transformation**
 
@@ -346,7 +346,7 @@ But the most profound moment came when the entire chamber—hundreds of develope
 
 ---
 
-### Act VI: The Circular Ending
+### Scene VI: The Circular Ending
 
 **The New Developer**
 

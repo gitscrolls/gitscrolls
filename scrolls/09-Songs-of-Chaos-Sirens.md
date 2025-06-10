@@ -51,7 +51,7 @@ A sound echoed through his office—not quite laughter, not quite chaos—but so
 
 ---
 
-### Act I: The Sirens Emerge
+### Scene I: The Sirens Emerge
 
 The laughter crystallized into voices—seductive, knowing, dangerous. They seemed to emanate from his very codebase, from the places where shortcuts lived and technical debt accumulated.
 
@@ -77,7 +77,7 @@ Just that morning, he'd seen Linus the Elder's latest commit message in the Temp
 
 ---
 
-### Act II: The Temptation Arrives
+### Scene II: The Temptation Arrives
 
 The Sirens circled closer, their voices weaving together into a symphony of seductive shortcuts. They could see his pain, his isolation, his desperate need for some relief from the weight of his failure.
 
@@ -119,7 +119,7 @@ __The Siren Song:__ "Just skip the length check, restore service instantly. It's
 
 ---
 
-### Act III: The Scar's Warning
+### Scene III: The Scar's Warning
 
 As Tuxilles' finger hovered over the keyboard, ready to add the comment that would disable the validation, something extraordinary happened.
 
@@ -154,7 +154,7 @@ This wasn't different. This was the same pattern—choosing developer convenienc
 
 ---
 
-### Act IV: The Resistance
+### Scene IV: The Resistance
 
 __Tuxilles:__ _(stepping back from the keyboard)_ "No. I won't take shortcuts anymore."
 
@@ -199,7 +199,7 @@ The scars weren't just warnings anymore. They were teaching him to see the whole
 
 ---
 
-### Act V: The Trickster's True Teaching
+### Scene V: The Trickster's True Teaching
 
 As the Sirens faded, frustrated by his resistance, a new figure emerged from the digital chaos. Not seductive like the Sirens, but playful, wise, and somehow familiar.
 

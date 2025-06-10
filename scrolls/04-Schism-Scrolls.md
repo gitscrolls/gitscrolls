@@ -404,7 +404,7 @@ git checkout -b freedom-to-grow
 
 ---
 
-__Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)__  
+**Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)**  
 _Where trust becomes a dangerous weapon_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
