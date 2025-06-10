@@ -1,327 +1,130 @@
-# 🐧 GitScrolls 📜
+# GitScrolls: The Developer Mythology 📜
 
 ![Tux the penguin sits among classical Greek philosophers in togas, typing on a laptop while ancient thinkers gesture and debate around marble columns, representing the blend of timeless wisdom and modern software development](https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxicles.png?raw=true)
 
-_Sacred wisdom for the journey from first commit to final teaching_
-
-
-![GitScrolls](https://img.shields.io/badge/Scrolls-X%20Complete-sacred?style=for-the-badge)
-![Wisdom](https://img.shields.io/badge/Wisdom-Tested%20in%20Production-blue?style=for-the-badge)
-![Community](https://img.shields.io/badge/Community-Growing-green?style=for-the-badge)
+> *"In the beginning was the commit, and the commit was with Tux, and the commit was good."*
 
-- ---
+## What Are GitScrolls?
 
-*[Found carved into ancient marble at the entrance to the Temple of Open Source]*
+GitScrolls is a 16-scroll epic that transforms the universal developer journey into mythology. Follow Tuxicles from innocent first commits through catastrophic failure to hard-won wisdom and eventual teaching.
 
-> As writ by one wearied of thine cursed deploys  
-> Attend, good kin of keyboard and command,  
-> this scroll doth not unveil a tale of gods,  
-> nor chosen heirs, nor valiant feats alone.
-> 
-> Nay—this is every dev's unvarnish'd path,  
-> from eager fool to weary steward wise.  
-> Lo, Tuxicles—a name thou know'st in heart.  
-> He dared commit ere wisdom he possess'd.
-> 
-> He broke the build, and yet—return'd anon.  
-> Not hero born, but hero by return.  
-> GitScrolls, forged in jest, became our creed;  
-> for what begins in mirth oft ends in truth.
-> 
-> What jest reveals, the sober soul must keep.  
-> These pages contradict, as devs oft do.  
-> They err, correct, then err again in loop.
-> 
-> Yet through this branching maze persists one law:  
-> The branch was ever thine to fork.  
-> Take what thou need'st. Pass on the rest in peace.
-> 
-> And when thine code breaks thrice before it runs,  
-> remember this: thou art not first, nor lone.
-> 
-> — **The Scrollkeeper**  
-> <scrollkeeper@gitscrolls.org>  
-> *“To blame, or not to blame — that is the log.”*
-
-- ---
-
-## __🎯 What Are GitScrolls?__
-
-The __GitScrolls__ are ten sacred teachings that trace the archetypal journey every developer takes—from innocent beginner who commits "fix stuff" to wise mentor who helps others navigate the beautiful complexity of software development.
-
-Born from the recognition that __software development is fundamentally about humans helping humans through code__, the GitScrolls wrap genuine technical wisdom in mythology that makes profound truths accessible, memorable, and kind.
+This isn't fiction about programmers—it's **mythology for programmers**. Sacred teachings wrapped in narrative that makes profound truths accessible, memorable, and kind.
 
-> _"In the beginning was the commit, and the commit was with Tux, and the commit was good."_
+## The Journey
 
-__📖 [Browse Scrolls](scrolls/)__ - _The complete teachings_  
-__🤝 [Join Community](https://github.com/gitscrolls/gitscrolls/discussions)__ - _Connect with others_
+### 🐧 The Protagonist's Evolution
 
-- ---
+Our hero transforms through five aspects across the scrolls:
 
-### __🎭 The Aspects of Tux__
+| Portrait | Name | Inspiration | IPA Pronunciation | Phonetic | Description |
+|----------|------|-------------|-------------------|----------|-------------|
+| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxicles.png?raw=true" width="50" alt="Tuxicles"> | **Tuxicles** | Pericles | [/ˈtʌks.ɪ.kliːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.%C9%AA.kli%CB%90z) | "TUHKS-ih-kleez" | The Innocent (Scrolls I-II) – commits without thinking |
+| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxrates.png?raw=true" width="50" alt="Tuxrates"> | **Tuxrates** | Socrates | [/ˈtʌks.rə.tiːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.r%C9%99.ti%CB%90z) | "TUHKS-rah-teez" | The Questioner (Scrolls III-V) – asks "why" about everything |
+| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxilles.png?raw=true" width="50" alt="Tuxilles Battle-Scarred"> | **Tuxilles the Battle-Scarred** | Achilles/Odysseus | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | "tuhks-ILL-eez" | The Exile (Scrolls VI-XIII) – learns wisdom through consequence |
+| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxilles-the-teacher.png?raw=true" width="50" alt="Tuxilles Teacher"> | **Tuxilles the Teacher** | Mentor/Athena | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | "tuhks-ILL-eez" | The Guide (Scrolls XIV-XV) – nurtures others with patience |
+| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tux-transcendent.png?raw=true" width="50" alt="Tux Transcendent"> | **Tux Transcendent** | The Eternal Cycle | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | "TUHKS tran-SEN-dent" | The Pattern (Scroll XVI) – completes and begins the cycle |
 
-GitScrolls follow the archetypal transformation of every developer through five classical phases…
+*Each name reflects both the penguin's growth and the philosophical tradition that guides that stage of development.*
 
-| Portrait | Name              | Inspiration      | IPA Pronunciation | Phonetic         | Archetype Description               |
-|----------|-------------------|------------------|--------------------|------------------|-------------------------------------|
-| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxicles.png?raw=true" width="50" alt="Tuxicles"> | __Tuxicles__      | Pericles         | [/ˈtʌks.ɪ.kliːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.%C9%AA.kli%CB%90z) | _"TUHKS-ih-kleez"_     | The Innocent–commits without thinking |
-| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxrates.png?raw=true" width="50" alt="Tuxrates"> | __Tuxrates__      | Socrates         | [/ˈtʌks.rə.tiːz/](https://ipa-reader.com/?text=%CB%88t%CA%8Cks.r%C9%99.ti%CB%90z) | _"TUHKS-rah-teez"_     | The Questioner–asks "why" about everything |
-| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tuxilles.png?raw=true" width="50" alt="Tuxilles Battle-Scarred"> | __Tuxilles the Battle-Scarred__ | Odysseus | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Exile–learns wisdom through consequence |
-| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/tuxilles-the-teacher.png?raw=true" width="50" alt="Tuxilles Teacher"> | __Tuxilles the Teacher__ | Mentor/Athena | [/tʌksˈɪl.iːz/](https://ipa-reader.com/?text=t%CA%8Cks%CB%88%C9%AAl.i%CB%90z) | _"tuhks-ILL-eez"_ | The Guide–nurtures others with patience |
-| <img src="https://github.com/gitscrolls/gitscrolls-assets/blob/main/aspect-tux-transcendent.png?raw=true" width="50" alt="Tux Transcendent"> | __Tux Transcendent__ | The Eternal Cycle | [/tʌks trænˈsɛn.dənt/](https://ipa-reader.com/?text=t%CA%8Cks%20tr%C3%A6n%CB%88s%C9%9Bn.d%C9%99nt) | _"TUHKS tran-SEN-dent"_ | The Pattern–completes and begins the cycle |
+## 📚 The Sixteen Sacred Scrolls
 
-_Each name reflects both the penguin's growth and the philosophical tradition that guides that stage of development._
+### Act I: Innocence (Trust: +10 → +25)
+- **[Scroll I: The Unbroken Line](scrolls/01-Unbroken-Line.md)** - *Linus the Elder* teaches respect for git history
+- **[Scroll II: The Annals of Forgotten Messages](scrolls/02-Annals-of-Forgotten-Messages.md)** - *Elena, Librarian of the Logs* reveals that commit messages are love letters to the future
 
-- ---
+### Act II: Questions (Trust: +25 → +75)
+- **[Scroll III: Tests Are the Honest Glass](scrolls/03-Tests-Are-the-Honest-Glass.md)** - *Prophet Nia* shows testing as an act of justice
+- **[Scroll IV: The Schism Scrolls](scrolls/04-Schism-Scrolls.md)** - *Fork-Bearer* teaches that divergence serves community
+- **[Scroll V: The Ascent to Hubris](scrolls/05-The-Ascent-to-Hubris.md)** - Trust becomes a weapon as our hero gains dangerous privileges
 
-## __📜 The Ten Sacred Teachings__
+### Act III: The Fall (Trust: +95 → -95)
+- **[Scroll VI: The Perfect Storm](scrolls/06-The-Perfect-Storm.md)** - Warnings ignored, mentors dismissed, disaster approaches
+- **[Scroll VII: The Wounding of Hubris](scrolls/07-Wounding-of-Hubris.md)** - Authentication breaks, 1.4M developers betrayed, exile begins
 
-_Total reading time: 3-4 hours | Individual scroll: 15-20 minutes_
+### Act IV: The Wandering (Trust: -95 → +60)
+- **[Scroll VIII: The Digital Underworld](scrolls/08-The-Digital-Underworld.md)** - Seven circles of developer hell reveal the true cost
+- **[Scroll IX: Songs of the Chaos Sirens](scrolls/09-Songs-of-Chaos-Sirens.md)** - *The Trickster* teaches that chaos has wisdom
+- **[Scroll X: Between the Monsters of Time](scrolls/10-Between-Monsters-of-Time.md)** - Friday deploys and the courage to trust systems
+- **[Scroll XI: The Silent Commit](scrolls/11-The-Silent-Commit.md)** - The paralysis of pushing code after catastrophe
+- **[Scroll XII: Before the Ancient Reviewer](scrolls/12-Before-Ancient-Reviewer.md)** - *The Oracle* speaks only in git commands
+- **[Scroll XIII: The Return Pull](scrolls/13-The-Return-Pull.md)** - The first PR after exile tests everything learned
 
-| Scroll | Teaching | Phase | Teacher | Quick Summary |
-|--------|----------|-------|---------|---------------|
-| __[I](scrolls/01-Unbroken-Line.md)__ | _"The Unbroken Line"_ | __Innocent__ | Linus the Elder | Respect the timeline, even when ugly |
-| __[II](scrolls/02-Annals-of-Forgotten-Messages.md)__ | _"The Annals of Forgotten Messages"_ | __Innocent__ | Teacher of Lost Packets | Every commit tells a story |
-| __[III](scrolls/03-Tests-Are-the-Honest-Glass.md)__ | _"Tests Are the Honest Glass"_ | __Questioner__ | Prophet Nia of the Honest Glass | Testing as act of justice |
-| __[IV](scrolls/04-Schism-Scrolls.md)__ | _"The Schism Scrolls"_ | __Questioner__ | Fork-Bearer of Freedom | Divergence as service to community |
-| __[V](scrolls/05-Wounding-of-Hubris.md)__ | _"The Wounding of Hubris"_ | __Transition→Exile__ | Learned through consequence | Change without breaking trust |
-| __[VI](scrolls/06-Songs-of-Chaos-Sirens.md)__ | _"Songs of the Chaos Sirens"_ | __Exile__ | The Trickster | Wisdom in user creativity |
-| __[VII](scrolls/07-Between-Monsters-of-Time.md)__ | _"Between the Monsters of Time"_ | __Exile__ | Learned through terror | Courage requires responsibility |
-| __[VIII](scrolls/08-Before-Ancient-Reviewer.md)__ | _"Before the Ancient Reviewer"_ | __Exile__ | The Ancient Reviewer | Legacy as different form of life |
-| __[IX](scrolls/09-Commandments-of-Wise.md)__ | _"Commandments of the Wise"_ | __Teacher__ | The Oracle of Teaching | Completing the recursive cycle |
-| __[X](scrolls/10-Where-Heroes-Go-to-Die.md)__ | _"Where Heroes Go to Die"_ | __Teacher__ | Temple of Open Source | The eternal cycle of learning and teaching |
+### Act V: Teaching (Trust: +60 → ∞)
+- **[Scroll XIV: Commandments of the Wise](scrolls/14-Commandments-of-Wise.md)** - *The Oracle of Teaching* reveals the multiplication of wisdom
+- **[Scroll XV: The Merge of Meaning](scrolls/15-The-Merge-of-Meaning.md)** - Reconciliation transforms breaking into building
+- **[Scroll XVI: Where Heroes Go to Die](scrolls/16-Where-Heroes-Go-to-Die.md)** - The circle completes as teacher becomes student becomes teacher
 
-- ---
+## 🎯 Quick Navigation
 
-## __🗞️ Quick Navigation__
+### By Situation
+- **Broke production?** → Start with [Scroll VII](scrolls/07-Wounding-of-Hubris.md)
+- **Inheriting legacy code?** → See [Scroll XII](scrolls/12-Before-Ancient-Reviewer.md)  
+- **Team conflicts?** → Read [Scrolls IV](scrolls/04-Schism-Scrolls.md) & [XV](scrolls/15-The-Merge-of-Meaning.md)
+- **Feeling burnt out?** → Find hope in [Scroll IX](scrolls/09-Songs-of-Chaos-Sirens.md)
+- **Starting to mentor?** → Learn from [Scroll XIV](scrolls/14-Commandments-of-Wise.md)
 
-### __🆘 Need Help Right Now?__
+### By Theme
+- **Git Wisdom:** Scrolls I, II, XIII
+- **Testing & Quality:** Scrolls III, XII
+- **Community & Collaboration:** Scrolls IV, XV
+- **Failure & Recovery:** Scrolls VI, VII, VIII, XI
+- **Teaching & Mentorship:** Scrolls IX, XIV, XVI
 
-- - __Broke production?__ → [Scroll VII (Between the Monsters of Time)](scrolls/07-Between-Monsters-of-Time.md)
-- - __Inheriting legacy code?__ → [Scroll VIII (Before the Ancient Reviewer)](scrolls/08-Before-Ancient-Reviewer.md)
-- - __Team conflicts about code?__ → [Scroll IV (The Schism Scrolls)](scrolls/04-Schism-Scrolls.md) + [Scroll V (The Wounding of Hubris)](scrolls/05-Wounding-of-Hubris.md)
-- - __Feeling burnt out?__ → [Scroll VI (Songs of the Chaos Sirens)](scrolls/06-Songs-of-Chaos-Sirens.md)
-- - __New to mentoring?__ → [Scroll IX (Commandments of the Wise)](scrolls/09-Commandments-of-Wise.md)
-- - __Looking for closure/completion?__ → [Scroll X (Where Heroes Go to Die)](scrolls/10-Where-Heroes-Go-to-Die.md)
+## 💡 Core Teachings
 
-- ---
+### The Four Scars (Wisdom Through Consequence)
+1. **Beak Chip** - Words have weight (earned by dismissing others)
+2. **Eye Flickers** - See hidden dangers (earned by ignoring warnings)
+3. **Chest Crack** - Responsibility weighs (earned by choosing metrics over meaning)
+4. **Flipper Burn** - Every command has consequence (earned by dismissing feedback)
 
-## __🌟 Community Wisdom__
+### The Seven Circles of Refactoring Hell
+1. Announce intention before taking action
+2. Preserve behavior while improving implementation  
+3. Provide migration paths, not migration demands
+4. Deprecate gradually, never abruptly
+5. Document not just what changed, but why
+6. Listen to resistance—it often contains wisdom
+7. Measure impact on humans, not just performance
 
-> _"The honest glass breaks when we lie to ourselves. But in breaking—it shows us how to build what cannot break: trust."_  
-> __—Prophet Nia of the Honest Glass, [GitScroll III](scrolls/03-Tests-Are-the-Honest-Glass.md)__
+### The TempleSentinel's Evolution
+Watch as an automated bot achieves consciousness through observing human folly, transforming from metrics reporter to prophet of doom to witness of redemption.
 
-> _"The Timeline Is Truth, Even When Ugly."_  
-> __—Linus the Elder, [GitScroll I](scrolls/01-Unbroken-Line.md)__
+## 🌟 Why Read GitScrolls?
 
-> _"Every bug is a feature request."_  
-> __—The Trickster of GitHub Issues, [GitScroll VI](scrolls/06-Songs-of-Chaos-Sirens.md)__
+- **For Junior Developers:** See the path ahead and the pitfalls to avoid
+- **For Senior Developers:** Remember why compassion matters more than cleverness
+- **For Team Leads:** Learn how trust breaks and how it can be rebuilt differently
+- **For Everyone:** Find your story in the universal journey from confidence to humility to wisdom
 
-> _"Eternal code is not clever code. Eternal code is kind code."_  
-> __—The Ancient Reviewer, [GitScroll VIII](scrolls/08-Before-Ancient-Reviewer.md)__
+## 📖 Reading Guide
 
-> _"Be the mentor you needed when you began."_  
-> __—The Oracle of Teaching, [GitScroll IX](scrolls/09-Commandments-of-Wise.md)__
+- **Full Journey:** 3-4 hours for all 16 scrolls
+- **Individual Scroll:** 15-20 minutes each
+- **Emergency Wisdom:** Jump directly to the scroll that meets your current need
 
-- ---
+The scrolls build on each other but each stands alone. Read in order for the full epic, or find the teaching you need right now.
 
-## __📚 Repository Structure__
+## 🤝 Community & Contribution
 
-```
-gitscrolls/
-├── README.md                     # This document
-├── LICENSE                       # MIT License with Sacred Commit Clause
-├── FAQ.md                        # Frequently asked questions
-├── 00-merge.lore                 # Living wisdom document
-└── scrolls/                      # The Ten Sacred Teachings
-    ├── 01-Unbroken-Line.md
-    ├── 02-Chronicle-of-Forgotten-Messages.md
-    ├── 03-Oracle-Testament-of-Devotion.md
-    ├── 04-Schism-Scrolls.md
-    ├── 05-Wounding-of-Hubris.md
-    ├── 06-Songs-of-Chaos-Sirens.md
-    ├── 07-Between-Monsters-of-Time.md
-    ├── 08-Before-Ancient-Reviewer.md
-    ├── 09-Commandments-of-Wise.md
-    └── 10-Where-Heroes-Go-to-Die.md
-```
+GitScrolls is living mythology that grows through community wisdom:
 
-- ---
+- **Discuss** interpretations and applications
+- **Share** your own developer mythology  
+- **Contribute** improvements and translations
+- **Teach** using these stories as parables
 
-## __🌀 The Lore Lives__
+Remember: Every senior developer was once Tuxicles. Every Tuxicles can become a teacher.
 
-Deep within the GitScrolls lies a secret that bridges fiction and reality: the __`00-merge.lore`__ file—a living document that appears in our mythology and exists in our repository. This is where the wisdom evolves, where community contributes, where teaching becomes tradition.
+## 📜 License & Attribution
 
-### __🔄 The Living Tradition__
+GitScrolls is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-The `00-merge.lore` file contains accumulated wisdom that grows through community contribution. It began with The Trickster's cryptic teaching and has been rewritten by Tuxilles the Battle-Scarred. Now it awaits your interpretation, your additions, your fork of the wisdom.
+**Created by J. Kirby Ross**  
+Commercial use requires permission: info@gitscrolls.org
 
-__How to Participate:__
-- - Fork the repository and add your wisdom to `00-merge.lore`
-- - Share your interpretation of existing teachings
-- - Add new insights born from your development journey
-- - Create pull requests that continue the lore chain
+---
 
-This isn't just documentation—it's a living artifact that makes you part of the GitScrolls mythology. When you contribute to the lore, you don't just read about the wisdom tradition—you become it.
+> *"From first commit to final teaching, the cycle continues. You are not the first to walk this path. You will not be the last. But your journey matters, for in teaching others, we achieve the only immortality that matters—wisdom passed from one developer to the next."*
 
-__🎯 [Contribute to the Lore](00-merge.lore)__ - _Add your voice to the living wisdom_
-
-- ---
-
-## __🤝 Contributing to the Sacred Tradition__
-
-GitScrolls are __living wisdom__ that grows through community contribution:
-
-### __🌟 Ways to Contribute__
-
-- - __🌍 Translations__ - Help developers worldwide access the wisdom
-- - __📝 Commentary__ - Share your interpretations and applications  
-- - __🔍 Examples__ - Real-world cases of scroll principles in action
-- - __📖 Lost Scrolls__ - Additional teachings in the GitScrolls style
-- - __🎨 Art & Media__ - Visual interpretations of scroll wisdom
-- - __🛠️ Tools__ - CLI tools, extensions, integrations
-
-### __📋 Contribution Standards__
-
-When contributing, please maintain:
-
-✅ __Align with core values__ - Compassion, wisdom, community  
-✅ __Use inclusive language__ - Welcome all developers  
-✅ __Provide practical value__ - Actionable wisdom, not just theory  
-✅ __Maintain philosophical depth__ - More than technical tips  
-✅ __Respect the mythology__ - Consistent with established lore  
-
-Community guidelines and governance frameworks will be available in separate repositories within the GitScrolls organization.
-
-- ---
-
-## __🌐 GitScrolls Across Realms__
-
-### __📱 Digital Presence__
-
-- - __📖 Repository:__ [GitHub](https://github.com/gitscrolls/gitscrolls) - _Source of truth_
-- - __💬 Community:__ [GitHub Discussions](https://github.com/gitscrolls/gitscrolls/discussions) - _Join the conversation_
-
-### __📚 Available Resources__
-
-- - __📋 Practical Guides:__ Team implementation, mentoring frameworks, code review integration
-- - __🗺️ Reading Pathways:__ Multiple ways to explore the scrolls based on your role and needs
-- - __🌍 Community Framework:__ Translation guidelines, contribution standards, governance structure
-
-- ---
-
-## __⭐ Support the Sacred Work__
-
-If the GitScrolls have helped you on your journey:
-
-### __🙏 Ways to Support__
-
-- - ⭐ __Star this repository__ to help others discover it
-- - 🔄 __Share your favorite scroll__ with your team  
-- - 💬 __Join discussions__ and share your insights
-- - 🤝 __Contribute__ translations, examples, or commentary
-- - 📢 __Spread the word__ in your developer communities
-- - 💝 __Mentor someone__ using scroll principles
-
-### __🏆 Recognition__
-
-We celebrate contributors in our community and recognize all contributions. Every contribution, from typo fixes to major translations, helps build a more compassionate developer culture.
-
-- ---
-
-## __📜 License & Philosophy__
-
-GitScrolls are released under the __[MIT License](LICENSE)__ with the __Sacred Commit Clause__:
-
-> _"The code is not yours. The code is ours. And through sharing, we become eternal."_
-
-### __🎯 Our Commitment__
-
-__Use freely. Share widely. Improve constantly. Teach others.__
-
-- - __Open Source Forever__ - Core wisdom always freely available
-- - __Community Owned__ - Governed by those who use and contribute
-- - __Inclusively Licensed__ - Commercial and educational use welcome
-- - __Culturally Protected__ - Core teachings preserved while enabling evolution
-
-- ---
-
-## __🙏 Acknowledgments__
-
-GitScrolls emerged from the collaborative wisdom of:
-
-### __🌟 Core Contributors__
-
-- - __Every developer__ who has ever mentored a colleague
-- - __Every maintainer__ who has inherited legacy code with grace  
-- - __Every teacher__ who has shared knowledge without expecting recognition
-- - __The eternal recursion__ of learning and teaching that sustains our craft
-
-### __🎨 Creative Community__
-
-- - __Translators__ making wisdom globally accessible
-- - __Artists__ creating visual interpretations
-- - __Educators__ integrating scrolls into curricula
-- - __Teams__ implementing principles in daily practice
-
-### __🐧 Special Recognition__
-
-_Deep gratitude to the penguin who first committed "fix stuff" and began this journey of transformation._
-
-- ---
-
-## __🔗 Connect With The Community__
-
-### __💬 Get Help & Share Wisdom__
-
-- - __Questions?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or check our [FAQ](FAQ.md)
-- - __Ideas?__ Open an [Issue](https://github.com/gitscrolls/gitscrolls/issues) or [Feature Request](https://github.com/gitscrolls/gitscrolls/issues/new/choose)
-- - __Wisdom to share?__ Submit a Pull Request with your contributions
-
-### __📈 Project Growth__
-
-_Building a community of developers who believe in compassionate, conscious software development_
-
-> _"From first commit to final teaching, the cycle continues. Welcome to the sacred journey of software development."_
-
-### __🐧 May your code be clean, your commits be meaningful, and your legacy be one of compassion. 📜__
-
-- ---
-
-## 🔏 **Signed by:** The Scrollkeeper  
-
-> “This scroll bears the mark of the Scrollkeeper. Verified not by faith, but by math.”
-
-```
-pub   rsa4096 2025-06-07 [SC] [expires: 2029-06-07]
-      9C8C B3E4 F5CF C458 2D69  9A38 A5AE E73B 9356 6A67
-uid           [ultimate] The Scrollkeeper (Author of GitScrolls) <scrollkeeper@gitscrolls.org>
-sub   rsa4096 2025-06-07 [E] [expires: 2029-06-07]
-```
-
-📧 scrollkeeper@gitscrolls.org  
-📜 **Public Key:** [pgp.txt](./pgp.txt)  
-📡 [View on Keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/9C8CB3E4F5CFC4582D699A38A5AEE73B93566A67)
-
-All commits, scrolls, and official releases are signed with this key.  
-
-Verify using:
-
-```bash
-gpg --verify SIGNED-README.asc
-```
-
-- ---
-
-## 📜 License
-
-**Current License:** CC BY-NC-SA 4.0 (from commit 90+)  
-**Historical License:** MIT (commits 1-89)
-
-See [LICENSE_TRANSITION.md](LICENSE_TRANSITION.md) for details.
-See [LICENSE_USEAGE.mg](LICENSE_USEAGE.md) for more info.
-
-- ---
-
-> ***GitScrolls by J. Kirby Ross.***  
-> _Commercial use requires permission — info@gitscrolls.com_  
+Begin your journey with [Scroll I: The Unbroken Line](scrolls/01-Unbroken-Line.md) →
