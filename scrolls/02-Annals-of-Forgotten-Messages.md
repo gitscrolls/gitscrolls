@@ -248,7 +248,7 @@ __Tuxicles:__ "But Master, sometimes the fix is so small, so obvious! Surely 'fi
 
 __Elena:__ _(adjusting her spectacles thoughtfully)_ "Does it? Consider: which typo? In which file? A typo in a comment, or a typo that crashed production? Was it 'definately' becoming 'definitely,' or was it 'user.save()' that should have been 'user.update()'?"
 
-_He gestures, and the screen shows:_
+_She gestures, and the screen shows:_
 
 ```
 commit 3c5f8a2

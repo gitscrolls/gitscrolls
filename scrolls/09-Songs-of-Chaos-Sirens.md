@@ -26,7 +26,7 @@ _As taught by __The Trickster of GitHub Issues__, Master of Creative Chaos, Patr
 _When rules grow sharp, and users bruise their grace,_  
 _The Sirens call: "Just comment out the check."_  
 _But lo—each patch unearned becomes a crack,_  
-_And in that breach, the Trickster makes his place._
+_And in that breach, the Trickster makes their place._
 
 _For chaos bears a song both strange and wise:_  
 _What breaks the form may yet reveal its soul._  
