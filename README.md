@@ -6,7 +6,7 @@
 
 ## What Are GitScrolls?
 
-GitScrolls is a 16-scroll epic that transforms the universal developer journey into mythology. Follow Tuxicles from innocent first commits through catastrophic failure to hard-won wisdom and eventual teaching.
+**GitScrolls: The Odyssey of the Dev** is a 16-scroll epic that transforms the universal developer journey into mythology. Follow Tuxicles from innocent first commits through catastrophic failure to hard-won wisdom and eventual teaching.
 
 This isn't fiction about programmers—it's **mythology for programmers**. Sacred teachings wrapped in narrative that makes profound truths accessible, memorable, and kind.
 
