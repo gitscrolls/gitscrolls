@@ -175,11 +175,7 @@ The metallic taste grew stronger. Definitely blood from his lip-biting focus.
 
 The device rang. Not a text. Not a voice message. A call. From Linus himself.
 
-For a moment, Tuxrates' finger hovered over the accept button. All his phantom pains flared at once:
-- Metallic taste flooded his mouth
-- Eyes flickered between viewing glass and device
-- Chest compressed like a vice
-- Flipper burned with electric wrongness
+For a moment, Tuxrates' finger hovered over the accept button. All his phantom pains flared at once in desperate warning: metallic taste flooding his mouth like blood from bitten tongue, eyes flickering between viewing glass and device in stuttering panic, chest compressing as if crushed by the weight of what he was about to do, flipper burning with electric wrongness that screamed stop, stop, stop.
 
 He could answer. He could listen. He could stop.
 
@@ -267,11 +263,7 @@ Coverage was down, but that was just because his code was so efficient it needed
 $ git add .
 $ git commit -m "Revolutionize auth system - complete rewrite
 
-- Modern, functional architecture
-- 70% less code
-- Elegant abstraction patterns
-- Performance improvements (theoretical)
-- Breaking change: everything (but better)
+Behold: modern, functional architecture that sings with elegance! Seventy percent less code—for simplicity is the ultimate sophistication. Abstraction patterns so elegant they could make angels weep. Performance improvements that exist in the realm of theory but surely must manifest in practice. And yes, it breaks everything—but breaks it into something better!
 
 This is what we should have built from the start."
 
@@ -296,11 +288,7 @@ Of course. All those incremental patches. All that careful work. Standing in the
 
 **02:47 - The Moment of Catastrophe**
 
-The phantom sensations reached crescendo. His body made one final attempt:
-- Mouth flooded with iron
-- Vision fragmenting into prismatic warnings  
-- Chest crushing inward
-- Flipper seizing with electric wrongness
+The phantom sensations reached crescendo. His body made one final attempt at intervention: mouth flooding with the taste of iron and catastrophe, vision fragmenting into prismatic warnings that kaleidoscoped his screen, chest crushing inward as if his ribs sought to cage his heart before it could betray him, while his flipper seized with electric wrongness that made every nerve scream in protest.
 
 His fingers moved anyway, possessed by hubris, typing the command that would echo through history:
 
