@@ -77,6 +77,14 @@ __Tuxrates:__ "Then I update the tests. Simple."
 
 A silence heavy as thunder before lightning.
 
+__Nia:__ _(her voice taking on an odd resonance)_ "Simple? Tell me, young Tuxrates, what happens when tests pass before they're written? When truth exists before we discover it?"
+
+__Tuxrates:__ "That's... that's impossible. Tests are deterministic."
+
+__Nia:__ "Are they? I've seen tests that knew their future before their present. Files that appeared in logs before creation. The recursive nature of truth doesn't follow our linear timelines."
+
+She shook her head as if clearing away cobwebs. "But you're not ready for that teaching. Not yet. First, you must learn that tests are promises, not proof."
+
 ---
 
 ### Scene II: The Test Doubles' Dance

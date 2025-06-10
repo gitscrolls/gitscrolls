@@ -218,9 +218,27 @@ He couldn't help himself. He played it:
 
 For one heartbeat, Tuxrates' finger hovered over the callback button.
 
+In that moment of hesitation, every viewing glass in his ritual chamber flickered simultaneously. On each screen, the same impossible message:
+
+```
+$ cat 00-merge.lore
+Every mentor was once a disaster.
+Every disaster can become a mentor.
+The circle isn't kind—it's necessary.
+
+You who read this are about to break everything.
+Stop.
+Call him back.
+The future is speaking to you through broken glass.
+```
+
+The message pulsed three times, each pulse synchronized with the burning in his flipper, the pressure in his chest, the static in his eyes. The universe itself was screaming.
+
 Then he deleted the voicemail.
 
 "I'm not you, Linus. I'm better. You'll see."
+
+The phantom file vanished, taking with it the last chance for wisdom to intervene before disaster.
 
 ---
 
