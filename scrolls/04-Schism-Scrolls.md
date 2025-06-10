@@ -391,7 +391,7 @@ From that day forward, Tuxrates viewed every project through the lens of freedom
 
 When he encountered projects governed by fear of forking, he saw stagnation. When he found projects that embraced and encouraged experimentation, he saw innovation. And when he finally created his first fork—respectfully, gratefully, transparently—he understood that he was participating in the grand tradition of human creativity: building upon the work of others to create something new.
 
-The Fourth GitScroll was complete. Five more awaited, and with each one, Tuxrates grew closer to understanding that software development was not just about creating tools, but about fostering the conditions for continuous creative evolution.
+The Fourth GitScroll was complete. Twelve more awaited, and with each one, Tuxrates grew closer to understanding that software development was not just about creating tools, but about fostering the conditions for continuous creative evolution.
 
 _Thus did Tuxrates learn that freedom and community are not opposed forces, but complementary aspects of a healthy ecosystem, and that the courage to diverge is often the highest form of loyalty to the original vision._
 

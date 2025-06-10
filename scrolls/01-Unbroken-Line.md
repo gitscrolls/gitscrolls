@@ -292,7 +292,7 @@ From that day forward, whenever Tuxicles felt the urge to clean up history, he w
 
 And slowly, gradually, beautifully, his commit messages began to tell better stories. Not because they were prettier, but because they were honest.
 
-The First GitScroll was complete. Eight more awaited.
+The First GitScroll was complete. Fifteen more awaited.
 
 > _In the beginning was the commit, and the commit was with Tux, and the commit was good._
 
