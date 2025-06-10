@@ -4,6 +4,10 @@ dist
 coverage
 .git
 .gitignore
-.eslintcache
+.github
+.obsidian
 .DS_Store
+.env
+.vscode
+.idea
 *.log

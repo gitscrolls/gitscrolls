@@ -1,17 +1,19 @@
 {
-  "name": "gitscrolls-narrative-tests",
+  "name": "gitscrolls-markdown-validator",
   "version": "1.0.0",
-  "description": "Narrative testing framework for GitScrolls",
+  "description": "Markdown syntax validator for GitScrolls",
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage",
-    "test:docker": "docker-compose run tests",
-    "lint": "eslint 'src/**/*.ts'",
-    "build": "tsc",
-    "validate": "npm run build && npm test",
-    "validate:gitscrolls": "npm run build && node dist/validate-gitscrolls.js"
+    "test:ci": "jest --ci --coverage --maxWorkers=2",
+    "test:syntax": "jest markdown-syntax.test.ts",
+    "test:style": "jest style-consistency.test.ts",
+    "test:all": "jest",
+    "docker:test": "docker compose run --rm test",
+    "docker:test:ci": "docker compose run --rm -e CI=true test npm run test:ci",
+    "docker:test:style": "docker compose run --rm test npm run test:style",
+    "setup": "npm install && ./scripts/install-hooks.sh",
+    "install-hooks": "./scripts/install-hooks.sh"
   },
   "keywords": [
     "narrative",
@@ -23,21 +25,24 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.12",
+    "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.11.20",
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
     "eslint": "^8.57.0",
     "jest": "^29.7.0",
+    "js-yaml": "^4.1.0",
+    "remark": "^15.0.1",
+    "remark-frontmatter": "^5.0.0",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "unist-util-visit": "^5.0.0"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "remark": "^15.0.1",
     "remark-parse": "^11.0.0",
-    "unified": "^11.0.4",
-    "unist-util-visit": "^5.0.0"
+    "unified": "^11.0.4"
   },
   "jest": {
     "preset": "ts-jest",

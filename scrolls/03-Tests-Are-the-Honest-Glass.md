@@ -28,13 +28,60 @@ _And hollow promises break hearts that follow._
 
 ---
 
+### 🎭 Invocation Before the Scroll
+_The Third Invocation — Of Mirrors and Mortals_
+
+_(The CHRONICLER enters in haste. His feather is taut, his boots loud against the void. He clutches the scroll like a subpoena. When he speaks, it is with the clarity of one about to name names.)_
+
+*CHRONICLER:*
+Dost thou trust thy code?
+Thy tests?
+Thyself?
+
+He circles slowly, sleeves billowing with judgment.
+
+Then thou art already doomed.
+
+This scroll is not a lesson—it is a *trial.*
+It shall hold up the mirror,
+and what thou seest therein
+will not flatter.
+
+For tests are crueler than foes.
+They do not argue.
+They do not explain.
+They simply *reveal.*
+
+_He stops. Taps the scroll against his palm like a gavel._
+
+And woe to the dev who feareth to look.
+
+*Tuxicles* now standeth before the Glass.
+His hands unsteady.
+His logic—unproven.
+
+He hath begun to test.
+Not to pass.
+But to learn what *fails*.
+
+It shall humble him.
+Or it shall break him.
+
+Let us find out which.
+
+_The scroll unfurls. The Honest Glass rises. Scene begins._
+
+---
+
 ### Prologue: The Confidence of Coverage
 
 Two weeks had passed since Tuxicles earned his first endorsement. Now, as Tuxrates, he bore lessons of history and clarity. His reputation grew with each commit, each review, each nod of approval from senior developers.
 
 His tests passed. His coverage climbed. The metrics looked beautiful. Everything was going perfectly.
 
-**@TempleSentinel:** "TEST_METRICS: Coverage: 94%. Implementation_coupling: 89%. Behavior_verification: 12%. PORTENT: BRITTLE_TEST_SYNDROME. Code: BTS-001"
+```
+@TempleSentinel: "TEST_METRICS: Coverage: 94%. Implementation_coupling: 89%. Behavior_verification: 12%. PORTENT: BRITTLE_TEST_SYNDROME. Code: BTS-001"
+```
 
 But Tuxrates dismissed the bot's warnings. Just noise from an overly cautious algorithm. His tests were elegant, mirroring his code's internal structure perfectly. What could be wrong with that?
 
@@ -226,7 +273,9 @@ He wrote better tests, but for the wrong reasons—to impress, not to protect.
 He checked behavior over implementation, but as a technique, not a philosophy.  
 He felt the pressure of truth trying to surface, but dismissed it as stress.
 
-**@TempleSentinel:** "PROPHECY: CRITICAL_TRUST_SURGE_DETECTED. Trust_progression: +10 → +25 → +45. Rate_of_change: EXPONENTIAL. Technical_competence: VERIFIED. Motivation_analysis: EGO_DRIVEN_MASTERY. PORTENT: PRESSURE_SYMPTOMS_DISMISSED. Prophet_endorsement: LOGGED. Risk_assessment: ESCALATING. AUGURY: PREMATURE_AUTHORITY_ACCUMULATION"
+```
+@TempleSentinel: "PROPHECY: CRITICAL_TRUST_SURGE_DETECTED. Trust_progression: +10 → +25 → +45. Rate_of_change: EXPONENTIAL. Technical_competence: VERIFIED. Motivation_analysis: EGO_DRIVEN_MASTERY. PORTENT: PRESSURE_SYMPTOMS_DISMISSED. Prophet_endorsement: LOGGED. Risk_assessment: ESCALATING. AUGURY: PREMATURE_AUTHORITY_ACCUMULATION"
+```
 
 The phantom pressure in his chest would return, stronger each time he wrote tests that served his ego over others' needs. But for now, Tuxrates added another endorsement to his collection, blind to the weight of trust he was accumulating.
 
@@ -251,7 +300,55 @@ git test --all | grep -v "PASS"
 
 ---
 
-__Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)__  
+### 🎭 Closing of the Scroll  
+*Where Error Becometh Flame*
+
+*(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)*
+
+**CHRONICLER:**  
+The mirror hath spoken.
+
+Tuxicles hath faced the test—  
+not as warrior,  
+but as witness.
+
+He hath seen his code laid bare.  
+He hath seen what he assumed.  
+And what he *forgot* to assume.
+
+The Glass did not punish.  
+It simply reflected.
+
+*He turns the scroll in his hands, revealing nothing—and everything.*
+
+And in that reflection,  
+he hath glimpsed the truth:  
+That failure is not a verdict.  
+It is an **invitation**.
+
+To see.  
+To correct.  
+To build again—this time with eyes open.
+
+*He pauses. The feather of his hat droops solemnly.*
+
+But mark me:  
+Not all accept the mirror.  
+Some reject its judgment.  
+Some choose the path of pride.
+
+The next scroll shall not test what is true.  
+It shall reveal what happens  
+when **truth is denied**.
+
+The fork approacheth.  
+And with it—division most dire.
+
+*He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout.*
+
+---
+
+**Next: [GitScroll IV - "The Schism Scrolls"](04-Schism-Scrolls.md)**  
 _As taught by the Fork-Bearer of Freedom, Guardian of the Four Freedoms_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  

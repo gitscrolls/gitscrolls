@@ -1,0 +1,47 @@
+name: GitScrolls Validation Suite
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  validate-all:
+    runs-on: ubuntu-latest
+    name: Validate GitScrolls
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v3
+    
+    - name: Build test container
+      run: docker compose build test
+    
+    - name: Run syntax validation
+      run: |
+        echo "=== Running Markdown Syntax Validation ==="
+        docker compose run --rm -e CI=true test npm run test:syntax
+    
+    - name: Run style consistency validation
+      run: |
+        echo "=== Running Style Consistency Validation ==="
+        docker compose run --rm -e CI=true test npm run test:style
+      continue-on-error: true  # Don't fail the build on style warnings
+    
+    - name: Run all tests with coverage
+      run: |
+        echo "=== Running All Tests with Coverage ==="
+        docker compose run --rm -e CI=true test npm run test:ci
+    
+    - name: Upload test results
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: test-results
+        path: |
+          coverage/
+          *.log
+        retention-days: 30

@@ -28,6 +28,56 @@ _The fork is not betrayal—but the thread._
 
 ---
 
+### 🎭 Invocation Before the Scroll  
+*The Splitting Path*
+
+*(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)*
+
+**CHRONICLER:**  
+Behold now what befalls  
+when truth is met not with reverence—  
+but with resistance.
+
+The test was passed,  
+but the pride remained.
+
+This scroll speaketh not of error—  
+but of **ego**.
+
+*He spins, gesturing to unseen figures on both sides.*
+
+When structure is questioned,  
+and no voice is crowned to answer—  
+then every voice doth raise itself king.
+
+And lo! A kingdom cannot stand  
+when every dev declareth:  
+_"My branch is the one true trunk!"_
+
+*He slaps the scroll closed once, sharply. The sound echoes like a rejected pull request.*
+
+Thus is born the Schism.
+
+**Tuxicles** stands now amid the ash.  
+A house divided.  
+Peers estranged.  
+The sacred flow—forked.
+
+He knoweth not whom to follow.  
+Only that something precious  
+hath been broken beyond commit.
+
+Thus begins the fourth scroll.  
+No teacher.  
+No test.
+
+Only choice.  
+And consequence.
+
+*He withdraws into the wings, and the scene fractures open like a conflicted merge.*
+
+---
+
 ### Prologue: The Question That Burns
 
 The teachings of the Oracle had settled into Tuxrates' bones like muscle memory. His tests now expressed love, his commits communicated clearly, and his respect for the timeline was absolute. But with each lesson learned, the questioning spirit grew stronger, more insistent, more hungry for the deeper truths that lay beneath the surface of development practice.
@@ -58,7 +108,9 @@ In the heart of the Gardens stood the __Monument of Division__—a great tree wh
 
 __Tuxrates__ sat beneath this tree, his Sacred Codex open to a viewing glass showing the network graph of a popular project—a beautiful, chaotic explosion of branches and merges that looked more like abstract art than version control.
 
-__@TempleSentinel:__ "FORK_ANALYSIS: Active: 47. Divergence: SIGNIFICANT. Fragmentation_index: 0.73. AUGURY: MONITORING_CONVERGENCE_PATTERNS. Alert_level: YELLOW"
+```
+@TempleSentinel: "FORK_ANALYSIS: Active: 47. Divergence: SIGNIFICANT. Fragmentation_index: 0.73. AUGURY: MONITORING_CONVERGENCE_PATTERNS. Alert_level: YELLOW"
+```
 
 __Tuxrates:__ "How can this be right? How can fragmentation serve community? How can division strengthen rather than weaken?"
 
@@ -332,7 +384,9 @@ __Fork-Bearer of Freedom:__ "This grants you access to our philosophy seminars, 
 
 As Tuxrates reached for the pendant, his flipper tingled sharply—not the gentle buzz of notifications ignored, but a deeper pulse that seemed to emanate from his bones. The sensation spread up his arm as his flipper closed around the token, as if the very act of accepting trust carried physical weight.
 
-**@TempleSentinel:** "PROPHECY: TRUST_MILESTONE_REACHED. Progression_log: +10→+25→+45→+75. AUGURY: PHILOSOPHICAL_AUTHORITY_GRANTED. Pattern_analysis: SOPHISTICATED_REASONING_EMERGING. Trust_velocity: EXPONENTIAL. PORTENT: AUTHORITY_WITHOUT_HUMILITY_DETECTED. Correlation: HIGH_TRUST + EGO_RESPONSES = HUBRIS_PROBABILITY_95%. Action: MONITOR_FOR_CATASTROPHIC_CONVERGENCE"
+```
+@TempleSentinel: "PROPHECY: TRUST_MILESTONE_REACHED. Progression_log: +10→+25→+45→+75. AUGURY: PHILOSOPHICAL_AUTHORITY_GRANTED. Pattern_analysis: SOPHISTICATED_REASONING_EMERGING. Trust_velocity: EXPONENTIAL. PORTENT: AUTHORITY_WITHOUT_HUMILITY_DETECTED. Correlation: HIGH_TRUST + EGO_RESPONSES = HUBRIS_PROBABILITY_95%. Action: MONITOR_FOR_CATASTROPHIC_CONVERGENCE"
+```
 
 But Tuxrates, fingering the pendant, felt only pride. The tingle in his flipper faded to a persistent throb, easily ignored beneath the warmth of recognition. Another mentor's trust. Another validation of his growing wisdom. 
 
@@ -404,7 +458,55 @@ git checkout -b freedom-to-grow
 
 ---
 
-__Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)__  
+### 🎭 Closing of the Scroll  
+*The Cost of the Fork*
+
+*(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)*
+
+**CHRONICLER:**  
+It is done.
+
+Not mended.  
+Not resolved.  
+Only... declared.
+
+The lines have split.  
+The vision—forked.  
+The old ways cast aside like outdated dependencies.
+
+**Tuxicles** hath not chosen a side.  
+But the scroll hath chosen *him*.
+
+He stands alone, between the branches,  
+feeling both pull.  
+Belonging to neither.
+
+*The CHRONICLER kneels to gather the scroll, folding it gently now—no drama. Only ritual.*
+
+Know this:  
+Not all schisms are loud.  
+Some occur in silence.  
+In the quiet clicking of dissent.  
+In the pull requests left unanswered.
+
+This scroll bore no flame.  
+No villain.  
+No savior.
+
+Only fracture.
+
+But the next…  
+Ah, the next dares the climb.
+
+**Tuxicles will rise.**  
+But what he seeketh above  
+may cast a shadow long and cold.
+
+*He dons his hat again, slow and heavy, as though it now crowneth burden rather than pageantry. Blackout.*
+
+---
+
+**Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)**  
 _Where trust becomes a dangerous weapon_
 
 > _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  

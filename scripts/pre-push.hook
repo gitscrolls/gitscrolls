@@ -1,0 +1,15 @@
+#!/bin/sh
+
+echo "🔍 Running GitScrolls validation tests before push..."
+
+# Run tests in Docker without TTY allocation
+docker compose run --rm -T test npm test
+
+# Check if tests passed
+if [ $? -ne 0 ]; then
+  echo "❌ Tests failed! Please fix the issues before pushing."
+  echo "💡 Run 'docker compose run --rm test npm test' to see all errors."
+  exit 1
+fi
+
+echo "✅ All tests passed! Proceeding with push..."

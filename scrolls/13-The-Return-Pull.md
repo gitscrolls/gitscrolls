@@ -1,14 +1,19 @@
 ---
 title: "GitScroll XIII: The Return Pull"
-subtitle: "The First PR After Exile"
-author: "The Chronicler of Second Chances"
-date: "2025-01-09"
+aliases:
+  - "The Return Pull"
+  - "The First PR After Exile"
+linter-yaml-title-alias: "GitScroll XIII: The Return Pull"
+date created: Thursday, January 9th 2025, 11:15:00 pm
+date modified: January 11th 2025, 12:30:00 am
+created: 2025-01-09T23:15
+updated: 2025-01-11T00:30
 ---
 
 # GitScroll XIII: The Return Pull
 _The Tentative Bridge Home_
 
-> *"The hardest push is the one back to those you've betrayed."*  
+> __"The hardest push is the one back to those you've betrayed."__  
 _As attempted by **Tuxilles the Battle-Scarred**, Seeker of Redemption, Submitter of Pull Request #5847_
 
 ## The Thirteenth Teaching: "Trust Rebuilt Is Not Trust Restored"
@@ -19,6 +24,42 @@ _Of memory's ghosts and history's hard gaze—_
 _For PR review includes reviewing days_  
 _When trust was currency and you went broke._  
 _Now every diff must bear what once you broke._
+
+---
+
+### 🎭 Invocation Before the Scroll  
+*To Submit, and Be Seen*
+
+*(The CHRONICLER enters slowly, one sleeve pinned with a small crimson tag—symbol of revision. His scroll is rolled clean and tied with a merge ribbon. His hat, slightly askew, betrays cautious hope.)*
+
+**CHRONICLER:**  
+What doth it mean to return?
+
+Not to rollback.  
+Not to revert.  
+But to *reach again toward the branch once shared.*
+
+This scroll is not about fixes.  
+It is about **requests**.
+
+The kind that cannot be resolved by code alone.  
+The kind that seeketh not approval,  
+but *understanding.*
+
+**Tuxicles** hath walked the valley,  
+faced the Reviewer,  
+and now... he dareth to rejoin the thread.
+
+But not by force.  
+By **pull**.
+
+He doth extend his hand across broken branches,  
+and prays the merge can still be clean.
+
+Let this scroll open not in triumph—  
+but in hope.
+
+*He unrolls the scroll with two hands—one trembling. Scene begins.*
 
 ---
 
@@ -58,7 +99,7 @@ They were ready. Not eager, but ready.
 
 ---
 
-### Act I: The Pull Request of Penitence
+### Scene I: The Pull Request of Penitence
 
 **The Careful Construction**
 
@@ -146,7 +187,7 @@ But beneath the warning throbs, something else: readiness. The scars weren't say
 
 ---
 
-### Act II: The Immediate Responses
+### Scene II: The Immediate Responses
 
 **The Bot Brigade**
 
@@ -186,7 +227,7 @@ Then the comments:
 
 ---
 
-### Act III: The Reviewers Arrive
+### Scene III: The Reviewers Arrive
 
 **The First Review - A Stranger's Mercy**
 
@@ -229,7 +270,7 @@ I'm not ready to approve. But I'm ready to believe people can change."
 
 ---
 
-### Act IV: The Maintainer's Judgment
+### Scene IV: The Maintainer's Judgment
 
 **The Long Silence**
 
@@ -307,7 +348,7 @@ Welcome back to contributing. You're not home yet, but you're on the path."
 
 ---
 
-### Act V: The Community Divided
+### Scene V: The Community Divided
 
 **The Debate**
 
@@ -335,7 +376,7 @@ The debate raged for hours. The PR became the most commented in Temple history.
 
 ---
 
-### Act VI: The Second Approval
+### Scene VI: The Second Approval
 
 **An Unexpected Ally**
 
@@ -458,5 +499,51 @@ git log --author="$(whoami)" --since="exile" | grep "small steps"
 
 ---
 
+### 🎭 Closing of the Scroll  
+*The Merge That Was Not Denied*
+
+*(The CHRONICLER returns smiling—not broadly, but *truly*. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
+
+**CHRONICLER:**  
+It was accepted.
+
+Not without questions.  
+Not without review.  
+But **accepted**.
+
+**Tuxicles** hath rejoined the thread.  
+Not to command—  
+but to *contribute*.
+
+The line he feared broken  
+hath not only endured—  
+it hath grown stronger for the wound.
+
+*He presses the scroll to his lips once, then tucks it away.*
+
+This scroll changeth not code.  
+It changeth **context**.
+
+And from here,  
+the lessons no longer come from systems alone—  
+but from those who tend them.
+
+For the next scroll is not written in solitude.  
+It is spoken in riddles, warnings, and wisdom.
+
+It is titled:  
+**The Commandments of the Wise.**
+
+And lo—Tuxicles is ready to listen.
+
+*He departs with steady step, feather reattached. Blackout.*
+
+---
+
 **Next: [GitScroll XIV - "Commandments of the Wise"](14-Commandments-of-Wise.md)**  
 _Where Tuxilles becomes a teacher and multiplies wisdom_
+
+> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _The steward shall hear thy request and respond in kind._
