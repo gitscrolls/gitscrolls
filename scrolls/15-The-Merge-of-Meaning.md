@@ -32,7 +32,7 @@ _What's broken well stays stronger once re-bound._
 
 *(The CHRONICLER enters slowly, reverently. His sleeves are rolled halfway—ready to work. His scroll glows faintly, stitched with lines from every prior rite. His hat bears a golden merge pin. He stands centered, not in drama, but in completion.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 All branches seek the merge.  
 All stories yearn for context.
 
@@ -420,7 +420,7 @@ git merge --no-ff broken-trust recovered-wisdom
 
 *(The CHRONICLER returns not with fanfare, but with peace. The scroll is closed. It hums faintly. His sleeves now reflect all colors—the whole spectrum of failure and learning. He wears no hat. He does not need one.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath done it.
 
 Not perfectly.  

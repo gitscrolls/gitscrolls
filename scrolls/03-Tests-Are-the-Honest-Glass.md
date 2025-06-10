@@ -305,7 +305,7 @@ git test --all | grep -v "PASS"
 
 *(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 The mirror hath spoken.
 
 Tuxicles hath faced the test—  

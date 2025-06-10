@@ -33,7 +33,7 @@ _And those who trust you most, you fail them all._
 
 *(The CHRONICLER appears not from the wings, but from above—descending a spiral stair that was not there a moment before. His hat is taller now. His sleeves more rigid, like architecture stitched in silk. He clutches the scroll to his chest as if to stop it from floating away.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 What doth the dev do  
 once the dust hath settled,  
 once the voices fall to silence?
@@ -356,7 +356,7 @@ git log --graph --all | grep "trust"
 
 *(The CHRONICLER steps forward slowly. His sleeves are no longer flowing, but cinched—tight as doctrine. His hat tilts with regal solemnity. He does not unfurl the scroll. He folds it.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 So ends the climb.
 
 Tuxicles hath built a tower,  

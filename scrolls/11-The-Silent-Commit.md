@@ -34,7 +34,7 @@ _"I code, therefore I am... afraid. So what?"_
 
 *(The CHRONICLER sits already center stage. The scroll is unopened beside him. He does not look at the audience. His sleeves are tucked in. His hat lies at his feet like a collapsed symbol of former grandeur.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There cometh a time  
 when the code runneth clean,  
 the errors are none,  
@@ -450,7 +450,7 @@ git stash list | wc -l && echo "Every stash is a promise unfulfilled"
 
 *(The CHRONICLER returns walking backward, as if pulled. His scroll now faintly glows with the absence of light. His sleeves drag behind him like shadows. He does not raise his voice.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath written it.  
 A commit, simple.  
 Correct.  

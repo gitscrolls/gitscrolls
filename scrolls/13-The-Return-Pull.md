@@ -32,7 +32,7 @@ _Now every diff must bear what once you broke._
 
 *(The CHRONICLER enters slowly, one sleeve pinned with a small crimson tag—symbol of revision. His scroll is rolled clean and tied with a merge ribbon. His hat, slightly askew, betrays cautious hope.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 What doth it mean to return?
 
 Not to rollback.  
@@ -504,7 +504,7 @@ git log --author="$(whoami)" --since="exile" | grep "small steps"
 
 *(The CHRONICLER returns smiling—not broadly, but *truly*. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 It was accepted.
 
 Not without questions.  

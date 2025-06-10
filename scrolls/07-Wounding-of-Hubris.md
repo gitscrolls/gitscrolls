@@ -40,7 +40,7 @@ _His tombstone reads: "I meant it as a joke."_
 
 *(The CHRONICLER enters limping. His feather is snapped. His scroll is bound not in twine, but in a strip torn from his own sleeve. His eyes hold no fire—only knowledge.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There cometh a moment,  
 when the dev doth realize  
 the storm was not the worst of it.
@@ -383,7 +383,7 @@ git reflog | grep "before disaster"
 
 *(The CHRONICLER returns hunched low, scroll clasped close like confession. His garments are no longer dramatic—they are torn. His hat doth not return. His voice is hushed, as though afraid to speak over grief itself.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Tuxicles is no longer the builder.
 
 He is the broken.

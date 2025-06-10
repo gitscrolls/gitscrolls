@@ -33,7 +33,7 @@ The wise ship well, not just immediately.
 
 *(The CHRONICLER enters from no direction—he is simply there, already pacing. His sleeves are tightly wrapped around his arms. His scroll ticks faintly. His hat bears a clockface stitched where the feather once was.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Thou thinkest time to be thy ally?
 
 Then thou hast never looped through the same failure twice,  
@@ -363,7 +363,7 @@ git push --dry-run && echo "Sometimes courage means trusting your guardrails"
 
 *(The CHRONICLER returns slower than before. Each step lands heavier. His scroll winds itself back like tape. His sleeves hang low, as though stretched by repetition. He wears no hat.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 The loop is complete.  
 But it hath brought no closure.
 

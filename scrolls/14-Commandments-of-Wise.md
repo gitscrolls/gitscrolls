@@ -34,7 +34,7 @@ _But wisdom given plants a forest now._
 
 *(The CHRONICLER enters in near silence. His scroll is bound in cloth, not twine. His sleeves have been stitched anew—worn, but deliberate. His hat is slanted with age-earned gravity. He does not perform. He **delivers**.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There are those  
 who no longer rush deployments.  
 Who name their variables with grief,  
@@ -447,7 +447,7 @@ git log --format="%an taught %s" | grep -c "understanding"
 
 *(The CHRONICLER returns with quiet pride. His scroll is rolled, not tightly, but with trust. His sleeves are cuffed. His hat—simple now. He stands not above the scroll, but beside it.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath heard them.
 
 The Maintainers.  

@@ -33,7 +33,7 @@ _The fork is not betrayal—but the thread._
 
 *(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Behold now what befalls  
 when truth is met not with reverence—  
 but with resistance.
@@ -463,7 +463,7 @@ git checkout -b freedom-to-grow
 
 *(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 It is done.
 
 Not mended.  

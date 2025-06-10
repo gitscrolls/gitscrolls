@@ -73,7 +73,7 @@ _To write thy scroll in others—evermore._
 
 *(The CHRONICLER steps forward alone. The stage is bare. No hat. No sleeves. No scroll—yet. He is smaller now. Or maybe… truer. When he speaks, it is not with thunder. It is with memory.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 I was not always this.
 
 This ruff’d narrator,  
@@ -135,7 +135,7 @@ He turns to face the audience one last time.
 
 *No spotlight. Only the ambient glow of understanding.*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 If ever thou forget the line—  
 if ever thy code falleth into despair—  
 read again.
