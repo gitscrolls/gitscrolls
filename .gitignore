@@ -154,3 +154,6 @@ site/
 # Personal notes (not for sharing)
 PERSONAL_NOTES.md
 TODO_PRIVATE.md
+
+# obsidian config files
+.obsidian
