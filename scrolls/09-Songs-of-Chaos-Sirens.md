@@ -295,7 +295,7 @@ Tuxilles realized his exile wasn't just punishment—it was education. He was le
 
 The scar in his beak throbbed gently—not in warning this time, but in acknowledgment. He had passed the first test of his odyssey home.
 
-**To be continued in GitScroll VII: Scylla and Charybdis of Timing...**
+**To be continued in GitScroll X: Between the Monsters of Time...**
 
 ---
 

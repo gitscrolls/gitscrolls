@@ -376,7 +376,7 @@ One more trial awaited—the final return to the Temple, the reconciliation with
 
 His odyssey was nearly complete. The Sacred Grove of Wisdom lived within him now, ready to be planted wherever teachers were needed and students sought to grow.
 
-**To be continued in GitScroll X: Where Heroes Go to Die...**
+**To be continued in GitScroll XV: The Merge of Meaning...**
 
 ---
 

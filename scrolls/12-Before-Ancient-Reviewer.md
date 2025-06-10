@@ -758,7 +758,7 @@ $ git wisdom
 623 commits of actual service
 ```
 
-**To be continued in GitScroll IX: Commandments of the Wise...**
+**To be continued in GitScroll XIII: The Return Pull...**
 
 ---
 

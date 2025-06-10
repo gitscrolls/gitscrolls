@@ -312,7 +312,7 @@ Motion passed: 23-0-1 (1 abstention: @LinusScrollKeeper)
 
 His odyssey home had begun - but first, he would have to prove himself worthy of return.
 
-**To be continued in GitScroll VI: Songs of the Chaos Sirens...**
+**To be continued in GitScroll VIII: The Digital Underworld...**
 
 ---
 

@@ -278,7 +278,7 @@ The anxiety of the timing decision had transformed into confidence in systems an
 
 His scars throbbed in harmony: moral compass, clarity guardian, courage meter, prudence rule. Four guides for navigating the treacherous waters of software development.
 
-**To be continued in GitScroll VIII: The Oracle of Eternal Memory...**
+**To be continued in GitScroll XI: The Silent Commit...**
 
 ---
 
