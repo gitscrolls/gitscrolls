@@ -162,7 +162,7 @@ Within seconds, the automated systems responded:
 
 But then came the one that mattered:
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR_DETECTED: #5847. Author: [INCIDENT_ACTOR_2024_12_21] [YES_I_REMEMBER_YOU]. Alerting: ALL_WHO_WERE_BURNED. Trust: -47 [NEGATIVE_BUT_NOT_ZERO]. Status: EXTREME_SCRUTINY_REQUIRED [EVERY_LINE_WILL_BE_QUESTIONED]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR_DETECTED: #5847. Author: [INCIDENT_ACTOR_2024_12_21] [YES_I_REMEMBER_YOU]. Alerting: ALL_WHO_WERE_BURNED. Trust: -5 [NEGATIVE_BUT_NOT_ZERO]. Status: EXTREME_SCRUTINY_REQUIRED [EVERY_LINE_WILL_BE_QUESTIONED]"
 
 The Sentinel had outed him. No hiding behind careful words. Everyone would know.
 
@@ -377,7 +377,7 @@ Merging."
 
 **@MaintainerSarah merged pull request #5847**
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -47 → -41 [SIX_POINTS_OF_REDEMPTION]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -5 → +1 [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
 
 ---
 
@@ -411,7 +411,7 @@ Tuxilles stared at the merged PR. Three small commits. Hours of debate. A commun
 
 His scars still hurt. They always would. But now they'd guided him to write code that prevented others from suffering.
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -47 → -41 [SIX_POINTS_OF_REDEMPTION]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -5 → +1 [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
 
 A private message appeared:
 
