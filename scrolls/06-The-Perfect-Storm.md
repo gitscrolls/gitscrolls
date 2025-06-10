@@ -63,7 +63,7 @@ His **chest** had moved beyond pressure to active revolt. Each heartbeat felt li
 
 His **flipper** had gone from tingling to burning to complete rebellion. As he reached for the sacred keys, it jerked involuntarily, sending his elixir chalice crashing to the floor. The ceramic shattered into pieces that looked, in the emergency lighting, like broken promises. *"Just coding too long. Need to stretch after this."*
 
-All systems screaming. All warnings ignored. The body knows what the mind denies. And somewhere in the space between neurons, his future scars were already forming, waiting for the moment of impact to make them real.
+All systems screaming. All warnings ignored. The body knows what the mind denies. And somewhere in the space between neurons, consequences were gathering, waiting for the moment when warnings would demand their due.
 
 ---
 
@@ -357,16 +357,16 @@ Then the human messages started:
 
 As error logs cascaded across his screen, as his device vibrated itself off the desk, as Ethereal Channels erupted in digital screams, Tuxrates felt something new.
 
-The phantom pains hovered at the edge of becoming real, waiting for the moment in the council chamber when judgment would transform them from warnings into permanent reminders. Right now they screamed their final ghostly warnings:
+The phantom sensations reached their desperate crescendo, his body's final attempt to communicate what his mind refused to hear. They screamed their ghostly warnings:
 
 - The metallic taste turned to acid, burning prophecies into his tongue
 - His eyes strobe-lit between the code he'd written and the chaos he'd caused
 - His chest cavity felt hollow, as if his heart had already fled
 - His flipper spasmed in rhythm with every error message scrolling past
 
-The phantom sensations reached their crescendo, his body trying to warn him of consequences yet to come. Tomorrow, in the cold light of the council chamber, these warnings would transform into something permanent. 
+The phantom sensations reached their peak, every nerve ending trying to sound the alarm his ego refused to hear. 
 
-Right now, there was only the horrific realization:
+But for now, there was only the horrific realization:
 
 He'd broken everything. Everyone who trusted him. Everyone who vouched for him. Everyone whose work he'd erased.
 

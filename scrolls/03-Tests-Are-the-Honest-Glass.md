@@ -241,8 +241,8 @@ _Thus did Tuxrates half-learn that testing could be more than verification—it 
 
 _Thus ends the Third Teaching: reflection pure,_  
 _Where tests reveal what pride would hide from sight._  
-_The glass that cracks still shows what must endure—_  
-_For broken truth outshines deceptive light._
+_The glass reflects what ego cannot face—_  
+_For honest truth outshines deceptive light._
 
 ```bash
 git test --all | grep -v "PASS"
