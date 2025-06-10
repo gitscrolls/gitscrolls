@@ -24,7 +24,7 @@ By moving to **CC BY-NC-SA**, we protect the work from corporate appropriation w
 
 ### More to Read
 
-Please read more at [LICENSE_USAGE](./LICENSE_USEAGE.md).
+Please read more at [LICENSE_USAGE](./LICENSE_USAGE.md).
 
 ---
 
