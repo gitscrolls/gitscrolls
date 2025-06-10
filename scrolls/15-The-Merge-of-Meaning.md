@@ -169,9 +169,7 @@ The circle isn't kind—it's necessary.
 You who read this have broken something precious.
 You who read this have been broken by consequence.
 You who read this must choose:
-- Become the Architect (preserve in fear)
-- Become the Trickster (transcend through chaos)  
-- Become the Teacher (transform through service)
+Three paths diverge from this breaking point. You might become the Architect, preserving in fear what remains unbroken, building walls against future failure. Or perhaps the Trickster calls, inviting you to transcend through chaos, to dance with the very forces that destroyed you. But there exists a third way—to become the Teacher, transforming your wounds into wisdom through patient service to those who follow.
 
 The merge conflict between who you were and who you are
 Cannot be resolved by choosing one.

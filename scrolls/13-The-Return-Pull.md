@@ -90,29 +90,19 @@ The scars had taught him to review himself as harshly as others would review him
 Three small improvements to auth service resilience based on December incident learnings.
 
 ### Type of Change
-- [x] Bug fix (non-breaking)
-- [x] Documentation update
-- [x] Test improvement
+This pull request embodies three forms of healing: bug fixes that cause no breaking changes, documentation updates that guide future travelers, and test improvements that strengthen our defenses.
 
 ### What
-- Rate limiting to prevent cascade failures
-- Chaos tests to verify graceful degradation
-- Runbook for faster incident recovery
+Within these commits lies a trinity of protections. First, rate limiting that stands guard against cascade failures, remembering how one break became many. Second, chaos tests that verify our systems can degrade with grace rather than catastrophe. Third, a runbook that transforms crisis into clarity, offering future maintainers a map through the darkness.
 
 ### Why
-These would have reduced the impact of the December 21st incident.
+These changes arise from the ashes of December 21st. Had they existed then, the impact would have been contained, the recovery swifter, the pain diminished.
 
 ### How
-- Rate limiter uses token bucket algorithm
-- Chaos tests run in isolated environment
-- Runbook follows Temple incident response standards
+The rate limiter employs the ancient token bucket algorithm, proven through decades of service. Our chaos tests wage war in isolated environments, breaking things safely to ensure they cannot break dangerously. The runbook follows the Temple's sacred incident response standards, wisdom codified into actionable steps.
 
 ### Testing
-- [x] Unit tests (100% coverage)
-- [x] Integration tests  
-- [x] Chaos engineering suite
-- [x] Manual testing in dev environment
-- [x] Load testing up to 10x normal traffic
+Every line has been tested with the paranoia of one who has seen untested code destroy worlds. Unit tests achieve complete coverage, integration tests verify the whole, chaos engineering suites assault from every angle, manual testing confirms what automation might miss, and load testing pushes to ten times normal traffic—because normal is a luxury we can no longer assume.
 
 ### Note to Reviewers
 I understand the context of this PR. I've tested extensively and kept changes minimal. All feedback welcome.

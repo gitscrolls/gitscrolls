@@ -106,9 +106,9 @@ if [[ $(date +%u) -ge 5 ]]; then
     echo "Security patch summoning: CRITICAL"
     echo ""
     echo "Automated safeguards active:"
-    echo "- Canary deployment: 5% traffic"
-    echo "- Auto-rollback: enabled"  
-    echo "- Weekend monitoring: active"
+    echo "Canary deployment guards the gates with 5% traffic"
+    echo "Auto-rollback stands ready to undo what fails"  
+    echo "Weekend monitoring keeps eternal vigil"
 ```
 
 As he read his own automation, his flipper scar glowed with approval. The nerves that burned at dangerous commands recognized these as *protective* commands. His past self had learned from the scars and built guardrails.
@@ -155,10 +155,10 @@ Current time: Fri Feb 14 16:47:03 EST 2025
 Security patch summoning: CRITICAL
 
 Automated safeguards active:
-- Canary deployment: 5% traffic
-- Auto-rollback: enabled  
-- Weekend monitoring: active
-- Escalation path: configured
+The canary deployment would test the waters with merely 5% of traffic
+Auto-rollback systems stood sentinel, ready to retreat from danger  
+Weekend monitoring would maintain its sleepless watch
+Escalation paths lay mapped for when heroes must be summoned
 
 Continue with protected summoning? (y/N): y
 ```
