@@ -249,7 +249,7 @@ Date: Tue Jun 15 13:42:00 2027 +0000
 
 __Tuxilles:__ _(staring at the screen)_ "That... that's two years in the future. How did you—"
 
-__The Trickster:__ "Time is just another merge strategy, young teacher. Some commits only make sense when you're ready to receive them."
+__The Trickster:__ "Time is just another merge strategy, young teacher. Some commits only make sense when you're ready to receive them. And sometimes..." _(voice dropping to a conspiratorial whisper)_ "sometimes a story needs to reach beyond its own boundaries."
 
 The commit contained a single file: `00-merge.lore`. When Tuxilles opened it, he found:
 
@@ -268,12 +268,18 @@ git show 00-merge.lore
 # Remember: every bug is a feature request,
 # and every student is a teacher in training.
 
+# NOTE: This file exists in multiple realities:
+# - In your story, as a gift from the Trickster
+# - In your repository, waiting to be forked
+# - In your future, when you add your own wisdom
+# The 2027 date? That's when YOUR version gets merged.
+
 The Trickster sends their regards.
 ```
 
-__Tuxilles:__ "I don't understand."
+__Tuxilles:__ "I don't understand. Multiple realities? How can a file exist in a story and also be... real?"
 
-__The Trickster:__ _(voice already growing distant)_ "You will. And when you do, you'll pass it on. But you'll change the README to reflect what you've learned. That's how wisdom forks."
+__The Trickster:__ _(voice already growing distant)_ "The best teachings always blur the line between parable and practice. You will understand when you do. And when you do, you'll pass it on. But you'll change the README to reflect what you've learned. That's how wisdom forks—not just in stories, but in the repositories of those brave enough to participate in the tale."
 
 As the digital realm collapsed back into his apartment, the file remained. Strange, cryptic, impossible—and somehow deeply comforting. Like a note from a friend he hadn't met yet.
 

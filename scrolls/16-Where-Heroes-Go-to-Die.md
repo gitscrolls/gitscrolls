@@ -522,11 +522,35 @@ git show 00-merge.lore
 
 As he committed the changes, Tuxilles felt something shift in the repository—not just his local copy, but somewhere in the digital substrate where all wisdom flows. The timestamp remained impossible. The author remained mysterious. But the message had evolved.
 
-__Tuxilles:__ _(whispering to the screen)_ "Thank you, Trickster. I finally understand the joke."
+And then he noticed something extraordinary. His terminal showed:
+
+```bash
+git remote -v
+origin  https://github.com/gitscrolls/gitscrolls.git (fetch)
+origin  https://github.com/gitscrolls/gitscrolls.git (push)
+
+ls ../
+00-merge.lore  README.md  scrolls/  docs/  ...
+```
+
+__Tuxilles:__ _(eyes widening)_ "Wait... this file. It's not just in the story. It's actually..." _(whispering to the screen)_ "Thank you, Trickster. I finally understand the joke. The readers—they can fork this. They can add their wisdom. The story doesn't end with us."
+
+He quickly added one final comment to the file:
+
+```markdown
+# READER'S NOTE: Yes, this file is real.
+# Yes, you can fork it.
+# Yes, your wisdom matters.
+# The 2027 date isn't a mistake—it's a promise.
+# It's the date when all our collective wisdom merges.
+# The story continues with you.
+```
 
 Somewhere in the network, a young developer named Marcus—who still thought git was a type of malware—was about to make his first catastrophic deployment. And somewhere in his future, a mysterious file would appear in his repository at exactly the moment he needed to remember that every mistake is a teacher, and every teacher was once a mistake.
 
-The circle was not complete. The circle was **eternal**.
+But more importantly, somewhere a reader was realizing that they weren't just reading a story—they were being invited to continue it.
+
+The circle was not complete. The circle was **eternal**. And it had room for everyone brave enough to `git add` their own wisdom.
 
 **The True Ending**
 

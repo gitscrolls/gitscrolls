@@ -242,11 +242,22 @@ But something nagged at him. Almost without thinking, he navigated to that stran
 git show 00-merge.lore
 # Last modified: Tue Jun 15 13:42:00 2027 +0000
 # (still eighteen months in the future)
+# Note: This timestamp updates each time someone adds wisdom
+# Current fork count: 42 (and growing)
 ```
 
 He read the words again: _"every bug is a feature request, and every student is a teacher in training."_
 
-The panicked developer wasn't his enemy. They were his former self—the one who broke authentication systems because he didn't understand the weight of Friday deployments, the cost of haste, the value of safeguards.
+And then, for the first time, he noticed something new had appeared in the file:
+
+```
+# Recent addition from fork @anonymous_disaster:
+"The junior dev you judge today is the senior dev you were yesterday.
+Time is a flat circle, but wisdom spirals upward.
+Be the reviewer you needed when you were breaking things."
+```
+
+The panicked developer wasn't his enemy. They were his former self—the one who broke authentication systems because he didn't understand the weight of Friday deployments, the cost of haste, the value of safeguards. And somewhere, someone else who'd walked this path had added their own realization to the eternal file.
 
 __Tuxilles:__ _(to his screen, more gently)_ "They weren't being reckless. They were being... afraid. And fear makes smart people do stupid things."
 

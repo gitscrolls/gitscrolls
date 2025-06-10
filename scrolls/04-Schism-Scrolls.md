@@ -182,18 +182,23 @@ He paused, his eyes unfocusing as if seeing through time itself. "And sometimes.
 
 __Tuxrates:__ "I don't follow."
 
-__Fork-Bearer of Freedom:__ "Have you never encountered a merge conflict with a file that doesn't exist yet? A branch that seems to know its destiny before it's written?"
+__Fork-Bearer of Freedom:__ "Have you never encountered a merge conflict with a file that doesn't exist yet? A branch that seems to know its destiny before it's written? Sometimes the future reaches back to guide the present."
 
 As if summoned by the words, Tuxrates' viewing glass flickered. For just a moment, in his peripheral vision, he saw:
 
 ```
 CONFLICT (add/add): Merge conflict in 00-merge.lore
 Auto-merging 00-merge.lore
+<<<<<<< HEAD
+# Your wisdom here
+=======
+# Their wisdom here
+>>>>>>> future/participation-branch
 ```
 
-But when he turned to look directly, his screen showed only normal repository status. The pins-and-needles sensation in his flipper intensified briefly, then faded.
+But when he turned to look directly, his screen showed only normal repository status. The pins-and-needles sensation in his flipper intensified briefly, then faded. Something about the conflict headers—'Your wisdom' and 'Their wisdom'—suggested a collaboration that hadn't happened yet.
 
-__Fork-Bearer of Freedom:__ _(continuing as if nothing happened)_ "Philosophy aside, let me show you a practical example..."
+__Fork-Bearer of Freedom:__ _(continuing with a knowing smile)_ "Some conflicts exist not to be resolved, but to remind us that wisdom has many authors. Philosophy aside, let me show you a practical example..."
 
 ---
 
