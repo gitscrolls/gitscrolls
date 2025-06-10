@@ -505,7 +505,7 @@ _He departs. The silence lingers like uncommitted code. Blackout._
 __Next:__ [GitScroll III - "Tests Are the Honest Glass"](03-Tests-Are-the-Honest-Glass.md)  
 _As taught by Prophet Nia of the Honest Glass, Guardian of Sacred Contracts_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

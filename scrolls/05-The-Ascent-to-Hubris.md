@@ -399,7 +399,7 @@ Only retribution.
 **Next: [GitScroll VI - "The Perfect Storm"](06-The-Perfect-Storm.md)**  
 _Where warnings are dismissed and trust becomes catastrophe_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

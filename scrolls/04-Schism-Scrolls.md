@@ -509,7 +509,7 @@ may cast a shadow long and cold.
 **Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)**  
 _Where trust becomes a dangerous weapon_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._
