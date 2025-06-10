@@ -72,7 +72,7 @@ __Elena:__ "Tell me, young Tux—if you encountered this commit in the wild, six
 
 __Tuxicles:__ "Nothing. Absolutely nothing. I would curse my past self most thoroughly."
 
-The metallic taste from his morning's rebase adventure lingered faintly—a reminder of Linus the Elder's warning about rewriting history. Now he was learning that poorly written history was almost as bad as rewritten history.
+The metallic taste from his morning's rebase adventure lingered faintly—just yesterday, Linus the Elder had pulled him aside after catching him force-pushing: "Rewriting history has consequences, young one." Now he was learning that poorly written history was almost as bad as rewritten history.
 
 __Elena:__ "And __that__, dear student, is why we call it the Repository of Remembrance. Every commit message is a letter to the future—to your teammates, to strangers who inherit your code, and most cruelly, to yourself."
 

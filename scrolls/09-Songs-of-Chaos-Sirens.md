@@ -73,7 +73,7 @@ The scar in his beak *PULSED* sharply—not just a reminder but an active warnin
 *BURN* - "They don't deserve your careful work"
 *ACHE* - "Why follow rules that failed you?"
 
-Somewhere in his memory, Linus the Elder's voice echoed: "_The timeline is truth, even when ugly._" The scar agreed, throbbing in rhythm with the truth he couldn't escape.
+Just that morning, he'd seen Linus the Elder's latest commit message in the Temple feed: "_The timeline is truth, even when ugly._" Even in exile, those words reached him through the public repositories. The scar agreed, throbbing in rhythm with the truth he couldn't escape.
 
 ---
 

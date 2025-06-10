@@ -242,7 +242,7 @@ The scars weren't just protecting him—they were actively contributing to bette
 
 **The Unexpected Challenge**
 
-Just as the Council seemed ready to vote on Tuxilles' return, the chamber's main screen activated. A familiar voice filled the space—the original architect of the Temple's core systems, the legendary Linus himself.
+Just as the Council seemed ready to vote on Tuxilles' return, the chamber's main screen activated. A familiar voice filled the space—Linus the Elder, calling in from his kernel development workspace where he'd been working through the night.
 
 __Linus:__ "Tuxilles the Teacher, your growth has been remarkable to witness. But before we welcome you back, I have one final test. Not of your technical skills—those are proven. But of your wisdom under ultimate pressure."
 

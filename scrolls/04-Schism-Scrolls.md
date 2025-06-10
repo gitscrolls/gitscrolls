@@ -14,7 +14,7 @@ updated: 2025-05-30T06:40
 _The Chronicles of Tuxrates and the Paradox of Freedom_
 
 > __"You owe no loyalty to what will not change. A root that forbids new branches is not sacred—it is dying."__   
-_As taught by the __Fork-Bearer of Freedom__, Guardian of the Four Freedoms, Prophet of Perpetual Copyleft_
+_As taught by the __Fork-Bearer of Freedom__, Guardian of the Four Freedoms, Saint of Perpetual Copyleft_
 
 ## The Fourth Teaching: "Forks Are Not Betrayals"
 
@@ -370,7 +370,7 @@ __Tuxrates:__ "And if my fork fails?"
 
 __Fork-Bearer of Freedom:__ "Then you will have learned something valuable, and the ecosystem will have explored one more path through the space of possible solutions. Failure is not the opposite of success—it is the foundation upon which success is built."
 
-As the Prophet of Freedom faded back into the Gardens of Open Source, his final words echoed among the forking paths:
+As the Fork-Bearer of Freedom faded back into the Gardens of Open Source, his final words echoed among the forking paths:
 
 __Fork-Bearer of Freedom:__ "Remember, young developer: Software freedom is not about the absence of conflict—it is about the presence of alternatives. And alternatives can only exist when we have the courage to fork."
 

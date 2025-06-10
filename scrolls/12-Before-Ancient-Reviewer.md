@@ -67,7 +67,7 @@ $ git log --author="tuxilles" --format="%h %s" | head -1
 7f8d9e0 Revolutionize auth system - complete rewrite
 
 $ git shortlog -sn --all | grep -A1 -B1 "tuxilles"
-   1847  LinusTheElder
+   1847  LinusTheElder (last commit: 2 hours ago)
    1423  tuxilles  
     892  Puffy_OpenBSD
 
@@ -198,7 +198,8 @@ $ git log --format="%an: %s" | grep -A5 -B5 "parseUserData"
 NewDev: Can someone explain parseUserData? Works perfectly but looks hacky
 SeniorDev: Don't touch it. It's load-bearing ugliness
 Tuxilles: FIXME: This is a terrible hack
-LinusTheElder: If it's stupid and it works, it's not stupid
+LinusTheElder (yesterday): If it's stupid and it works, it's not stupid
+LinusTheElder (today): Still using this in kernel auth, still works
 ```
 
 ---

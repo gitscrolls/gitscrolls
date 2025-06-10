@@ -135,7 +135,7 @@ The beak chip throbbed—not in warning this time, but in memory. He remembered 
 *"Provide migration paths, not migration demands..."*  
 *"Listen to resistance—it often contains wisdom..."*
 
-And before that, Prophet Nia's voice: "_Trust without proof is not wisdom. It is wishful thinking._" This deployment would test that gap under maximum pressure.
+Just last week, Prophet Nia had sent a message through the Temple's public channels: "_Trust without proof is not wisdom. It is wishful thinking._" Even in exile, her teachings reached those who needed them. This deployment would test that gap under maximum pressure.
 
 This patch preserved behavior (fixed security) while improving implementation (closed vulnerability). The canary deployment was a migration path. The weekend monitoring was listening to resistance.
 

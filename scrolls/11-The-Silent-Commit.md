@@ -142,13 +142,13 @@ UNPUSHED: test: Caught edge case that would affect thousands
 
 **The Confession**
 
-**Tuxilles:** "You don't understand. Last time I pushed with confidence, I destroyed everything. Linus's work. Puffy's security. Ferris's first contribution. I can't—what if—"
+**Tuxilles:** "You don't understand. Last time I pushed with confidence, I destroyed everything. Three weeks of Linus's kernel patches—still working on recovery. Puffy's security hardening—she's had to restart from scratch. Ferris's first contribution—gone, and she hasn't submitted another since. I can't—what if—"
 
 **The Trickster:** *(suddenly serious)* "Kid, you think you're the first developer to break production? You think you invented the catastrophic force-push?"
 
 They pulled out a device that looked like a communication oracle crossbred with a digital familiar. On its viewing glass: a Git log from 1998.
 
-**The Trickster:** "See this? My first force-push. Deleted three months of kernel optimization. Linus himself spent a weekend recovering it. You know what he said after?"
+**The Trickster:** "See this? My first force-push. Deleted three months of kernel optimization. Linus the Elder spent a weekend recovering it—just like he's doing now with your mess. You know what he said after?"
 
 **Tuxilles:** "...what?"
 
