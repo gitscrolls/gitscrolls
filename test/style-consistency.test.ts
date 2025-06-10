@@ -241,7 +241,7 @@ class StyleConsistencyChecker {
 }
 
 describe('GitScrolls Style Consistency', () => {
-  const projectRoot = join(__dirname, '../..');
+  const projectRoot = join(__dirname, '..');
   const scrollsDir = join(projectRoot, 'scrolls');
   
   // Get all scroll files

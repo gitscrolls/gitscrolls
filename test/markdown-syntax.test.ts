@@ -35,7 +35,7 @@ function validateMarkdownFile(filePath: string): MarkdownError[] {
 }
 
 describe('GitScrolls Markdown Syntax Validation', () => {
-  const projectRoot = join(__dirname, '../..');
+  const projectRoot = join(__dirname, '..');
   const scrollsDir = join(projectRoot, 'scrolls');
   
   // Get all scroll files
