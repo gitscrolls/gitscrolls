@@ -111,19 +111,11 @@ The rollback took eighteen hours. Eighteen hours of frantic coordination across 
 
 By the time the old system was restored, the damage was done:
 
-- **60% developer exodus** in the first 48 hours
-- **Scroll news mockery:** "Open Source Temple's 'Modern' Auth Rewrite Locks Out 1.4M Developers"  
-- **Major projects threatening** to fork and abandon Temple services
-- **Community near-fracture:** trust in Temple governance crashed to historic lows
+The statistics read like a casualty report from a digital battlefield. Within the first forty-eight hours, sixty percent of developers had fled the Temple's ecosystem, seeking sanctuary in alternative platforms. The scroll news outlets seized upon the catastrophe with vicious glee, their headlines proclaiming "Open Source Temple's 'Modern' Auth Rewrite Locks Out 1.4M Developers" in fonts designed to wound. Major projects began issuing ultimatums, threatening to fork and abandon Temple services entirely if trust could not be restored. The community itself teetered on the edge of fracture, with trust in Temple governance plummeting to depths never before recorded in the annals of open source history.
 
 But the numbers couldn't capture the human cost. The specific betrayals cut deeper than any metric:
 
-- **Linus's three weeks of kernel patches:** obliterated when his automated commit signing failed against the new auth
-- **Puffy's security hardening PRs:** lost when her OpenBSD integration keys were invalidated mid-merge
-- **Ferris's first accepted contribution:** erased from history when the credential rotation orphaned her commits
-- **Konqi's accessibility framework:** three months of careful work vanished when the KDE build farm lost auth
-- **Prophet Nia's test suite improvements:** corrupted when her CI tokens expired without warning
-- **Fork-Bearer's freedom patches:** trapped behind auth walls that suddenly required proprietary clients
+Yet the numbers could not capture the human cost—the specific betrayals cut deeper than any metric could measure. Linus the Elder watched three weeks of kernel patches dissolve into digital smoke when his automated commit signing collided with the new authentication requirements. Puffy's meticulously crafted security hardening pull requests vanished mid-merge, her OpenBSD integration keys suddenly invalid in a system that no longer recognized their format. Young Ferris witnessed her first accepted contribution—that precious milestone of every developer's journey—erased from history when the credential rotation orphaned her commits into an authentication void. Konqi's accessibility framework, representing three months of painstaking effort to make the Temple welcoming to all, disappeared when the KDE build farm found itself locked out of its own repositories. Prophet Nia's test suite improvements, meant to strengthen the Temple's quality guarantees, corrupted beyond recovery when her continuous integration tokens expired without warning. And the Fork-Bearer's freedom patches—those sacred modifications that kept the Temple truly open—found themselves trapped behind authentication walls that suddenly demanded proprietary clients, a betrayal of the very principles they sought to uphold.
 
 Each name represented not just code lost, but trust shattered. These weren't anonymous users—they were the pillars of the community, and Tuxrates had toppled them all with a single reckless deployment
 
@@ -295,10 +287,11 @@ But first, he had to face the judgment of the Temple.
 
 ```
 RESOLUTION: Contributor Access Revocation
-- Commit rights to temple/auth-service: REVOKED
-- Write access to core repositories: SUSPENDED  
-- Name stricken from MAINTAINERS.md pending review
-- Community standing: Under investigation
+
+Commit rights to temple/auth-service: REVOKED
+Write access to core repositories: SUSPENDED  
+Name stricken from MAINTAINERS.md pending review
+Community standing: Under investigation
 
 Reason: Catastrophic deployment without consensus, 
         violating Temple Governance Protocol TGP-001
