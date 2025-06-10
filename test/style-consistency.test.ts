@@ -241,7 +241,7 @@ class StyleConsistencyChecker {
 }
 
 describe('GitScrolls Style Consistency', () => {
-  const projectRoot = join(__dirname, '../..');
+  const projectRoot = join(__dirname, '..');
   const scrollsDir = join(projectRoot, 'scrolls');
   
   // Get all scroll files
@@ -258,24 +258,12 @@ describe('GitScrolls Style Consistency', () => {
       const checker = new StyleConsistencyChecker(file);
       const errors = checker.check(content);
       
-      // Separate errors and warnings
-      const criticalErrors = errors.filter(e => e.severity === 'error');
-      const warnings = errors.filter(e => e.severity === 'warning');
-      
-      // Report warnings but don't fail on them
-      if (warnings.length > 0) {
-        console.warn(`\nStyle warnings in ${file}:`);
-        warnings.forEach(w => {
-          console.warn(`  Line ${w.line}: ${w.message}`);
-        });
-      }
-      
-      // Fail on critical errors
-      if (criticalErrors.length > 0) {
-        const errorMessages = criticalErrors.map((e: StyleError) => 
-          `Line ${e.line}, Column ${e.column}: ${e.message}`
+      // Treat all errors and warnings as failures
+      if (errors.length > 0) {
+        const errorMessages = errors.map((e: StyleError) => 
+          `Line ${e.line}, Column ${e.column}: ${e.message} [${e.severity}]`
         ).join('\n');
-        throw new Error(`Style consistency errors in ${file}:\n${errorMessages}`);
+        throw new Error(`Style consistency issues in ${file}:\n${errorMessages}`);
       }
     });
   });

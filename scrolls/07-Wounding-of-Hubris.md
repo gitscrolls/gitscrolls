@@ -40,7 +40,7 @@ _His tombstone reads: "I meant it as a joke."_
 
 *(The CHRONICLER enters limping. His feather is snapped. His scroll is bound not in twine, but in a strip torn from his own sleeve. His eyes hold no fire—only knowledge.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There cometh a moment,  
 when the dev doth realize  
 the storm was not the worst of it.
@@ -383,7 +383,7 @@ git reflog | grep "before disaster"
 
 *(The CHRONICLER returns hunched low, scroll clasped close like confession. His garments are no longer dramatic—they are torn. His hat doth not return. His voice is hushed, as though afraid to speak over grief itself.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Tuxicles is no longer the builder.
 
 He is the broken.
@@ -426,7 +426,7 @@ Into the **Digital Underworld**.
 **Next: [GitScroll VIII - "The Digital Underworld"](08-The-Digital-Underworld.md)**  
 _Where Tuxilles descends through Seven Circles of Developer Hell_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

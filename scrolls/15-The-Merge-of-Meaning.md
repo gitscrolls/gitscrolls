@@ -32,7 +32,7 @@ _What's broken well stays stronger once re-bound._
 
 *(The CHRONICLER enters slowly, reverently. His sleeves are rolled halfway—ready to work. His scroll glows faintly, stitched with lines from every prior rite. His hat bears a golden merge pin. He stands centered, not in drama, but in completion.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 All branches seek the merge.  
 All stories yearn for context.
 
@@ -420,7 +420,7 @@ git merge --no-ff broken-trust recovered-wisdom
 
 *(The CHRONICLER returns not with fanfare, but with peace. The scroll is closed. It hums faintly. His sleeves now reflect all colors—the whole spectrum of failure and learning. He wears no hat. He does not need one.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath done it.
 
 Not perfectly.  
@@ -462,7 +462,7 @@ I have much to say.
 **Next: [GitScroll XVI - "Where Heroes Go to Die"](16-Where-Heroes-Go-to-Die.md)**  
 _Where the circle completes and begins anew_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

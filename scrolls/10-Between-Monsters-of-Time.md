@@ -33,7 +33,7 @@ The wise ship well, not just immediately.
 
 *(The CHRONICLER enters from no direction—he is simply there, already pacing. His sleeves are tightly wrapped around his arms. His scroll ticks faintly. His hat bears a clockface stitched where the feather once was.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Thou thinkest time to be thy ally?
 
 Then thou hast never looped through the same failure twice,  
@@ -363,7 +363,7 @@ git push --dry-run && echo "Sometimes courage means trusting your guardrails"
 
 *(The CHRONICLER returns slower than before. Each step lands heavier. His scroll winds itself back like tape. His sleeves hang low, as though stretched by repetition. He wears no hat.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 The loop is complete.  
 But it hath brought no closure.
 
@@ -407,7 +407,7 @@ must one day face
 **Next: [GitScroll XI - "The Silent Commit"](11-The-Silent-Commit.md)**  
 _Where Tuxilles faces the paralysis of pushing code after catastrophe_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

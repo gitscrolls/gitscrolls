@@ -35,7 +35,7 @@ _Pride breaks not swords, but every bond._
 
 *(The CHRONICLER bursts forth, soaked though no rain hath fallen. His feather is matted. His sleeves whip like the sails of a ship too proud to tack. He does not speak. He shouts.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Where now is thy tower?
 
 Where are thy sacred rules,  
@@ -481,7 +481,7 @@ git push --force --dry-run
 
 *(The CHRONICLER returns, hunched, his scroll now damp and frayed. His hat is gone. His sleeves hang loose like flags left after battle. His voice is softer now—like someone recounting loss by lantern light.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 It hath passed.
 
 Not the storm.  
@@ -526,7 +526,7 @@ bleeds long.
 **Next: [GitScroll VII - "The Wounding of Hubris"](07-The-Wounding-of-Hubris.md)**  
 _Where the full weight of consequence crashes down_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

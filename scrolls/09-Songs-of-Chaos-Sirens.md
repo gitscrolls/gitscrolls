@@ -40,7 +40,7 @@ _And jesters oft repair what lords control._
 
 *(The CHRONICLER enters spinning slowly, his sleeves caught in some unseen current. The scroll is wrapped in ribbon, not rope. His hat is adorned now with a second feather—one he did not place there. He looks both amused and afraid.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Not all that misleadeth is false.
 
 Some truths arrive in verse.  
@@ -370,7 +370,7 @@ git log --grep="unexpected" --oneline | head -5
 
 *(The CHRONICLER returns in silence. He hums a single note—wrong. The scroll in his hands shimmers faintly. His sleeves are askew. One feather is gone.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He listened.
 
 **Tuxicles** heard the song.  
@@ -408,7 +408,7 @@ For thou art about to walk
 **Next: [GitScroll X - "Between the Monsters of Time"](10-Between-Monsters-of-Time.md)**  
 _Where Tuxilles faces the impossible choice between speed and caution_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

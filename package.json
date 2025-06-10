@@ -1,7 +1,7 @@
 {
   "name": "gitscrolls-markdown-validator",
   "version": "1.0.0",
-  "description": "Markdown syntax validator for GitScrolls",
+  "description": "GitScrolls: The Odyssey of the Dev - Markdown syntax validator for the epic developer mythology",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -48,14 +48,10 @@
     "preset": "ts-jest",
     "testEnvironment": "node",
     "roots": [
-      "<rootDir>/src"
+      "<rootDir>/test"
     ],
     "testMatch": [
-      "**/__tests__/**/*.test.ts"
-    ],
-    "collectCoverageFrom": [
-      "src/**/*.ts",
-      "!src/**/*.d.ts"
+      "**/*.test.ts"
     ]
   }
 }

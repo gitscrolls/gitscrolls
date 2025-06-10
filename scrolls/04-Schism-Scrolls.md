@@ -33,7 +33,7 @@ _The fork is not betrayal—but the thread._
 
 *(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Behold now what befalls  
 when truth is met not with reverence—  
 but with resistance.
@@ -463,7 +463,7 @@ git checkout -b freedom-to-grow
 
 *(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 It is done.
 
 Not mended.  
@@ -509,7 +509,7 @@ may cast a shadow long and cold.
 **Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)**  
 _Where trust becomes a dangerous weapon_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

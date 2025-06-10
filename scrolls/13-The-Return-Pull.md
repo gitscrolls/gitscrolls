@@ -32,7 +32,7 @@ _Now every diff must bear what once you broke._
 
 *(The CHRONICLER enters slowly, one sleeve pinned with a small crimson tag—symbol of revision. His scroll is rolled clean and tied with a merge ribbon. His hat, slightly askew, betrays cautious hope.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 What doth it mean to return?
 
 Not to rollback.  
@@ -504,7 +504,7 @@ git log --author="$(whoami)" --since="exile" | grep "small steps"
 
 *(The CHRONICLER returns smiling—not broadly, but *truly*. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 It was accepted.
 
 Not without questions.  
@@ -543,7 +543,7 @@ And lo—Tuxicles is ready to listen.
 **Next: [GitScroll XIV - "Commandments of the Wise"](14-Commandments-of-Wise.md)**  
 _Where Tuxilles becomes a teacher and multiplies wisdom_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

@@ -34,7 +34,7 @@ _It is not flaw, but absence, that is shame._
 
 *(The CHRONICLER enters bowed, scroll clutched to his chest like a verdict. His sleeves are once again pristine—ironed by ritual. His hat bears a red thread wrapped seven times ‘round its base. He speaks without pace, like one reciting law.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There is one who seeth all commits.  
 Not in real time.  
 In **true time**.
@@ -831,7 +831,7 @@ git blame --show-email | grep -v "noreply" | sort | uniq -c
 
 *(The CHRONICLER returns with the scroll rolled tightly, tied now in a seal of braided lint and wax. His sleeves hang with gravity. He wears no hat. His voice is quiet, but resolved.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath seen it.
 
 Not the Reviewer—  
@@ -882,7 +882,7 @@ The next scroll is titled:
 **Next: [GitScroll XIII - "The Return Pull"](13-The-Return-Pull.md)**  
 _Where Tuxilles submits his first PR back to the Temple_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

@@ -25,7 +25,7 @@
 
 *Hark!* — *these scrolls are shared freely, but not without covenant.* 
 
-The wisdom within *GitScrolls: The Chronicles of Tuxicles* is gifted to the world,  
+The wisdom within *GitScrolls: The Odyssey of the Dev* is gifted to the world,  
 yet bound by sacred terms, that it may guide, not be sold.
 
 ---
@@ -97,7 +97,7 @@ Rejoice, for all proceeds support the growth of the scrolls and protect their fr
 🏛️ When quoting, sharing, or adapting, honor the source:
 
 ```
-This work contains material from "GitScrolls: The Chronicles of Tuxicles" by J. Kirby Ross,
+This work contains material from "GitScrolls: The Odyssey of the Dev" by J. Kirby Ross,
 licensed under CC BY-NC-SA 4.0.
 https://gitscrolls.org
 ```
@@ -105,7 +105,7 @@ https://gitscrolls.org
 🎓 For academic citations:
 
 ```
-Ross, J. K. (2025). GitScrolls: The Chronicles of Tuxicles.
+Ross, J. K. (2025). GitScrolls: The Odyssey of the Dev.
 Retrieved from https://gitscrolls.org
 ```
 

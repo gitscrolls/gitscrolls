@@ -32,7 +32,7 @@ _A monument to hubris and despair._
 
 *(The CHRONICLER appears from below. His scroll drags behind him like a tail of corrupted output. His sleeves are damp with condensation. He carries no light—only inevitability.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 Welcome now, dev of fallen stature.  
 Welcome to the place *beneath*.
 
@@ -382,7 +382,7 @@ git blame --show-stats | sort -n
 
 *(The CHRONICLER returns, eyes ringed with debug trace. He does not walk. He emerges—as if from reboot. His sleeves hang like wet flags, his scroll marked with strange glyphs, half syntax, half whisper.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath seen them.
 
 The scripts that run with no master.  
@@ -422,7 +422,7 @@ And Tuxicles shall listen.
 **Next: [GitScroll IX - "Songs of the Chaos Sirens"](09-Songs-of-Chaos-Sirens.md)**  
 _Where the exile begins and temptations await_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Chronicles of Tuxicles** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 > _Commercial use requires permission — send word to info@gitscrolls.org._  
 > _The steward shall hear thy request and respond in kind._

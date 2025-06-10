@@ -148,6 +148,7 @@ Temporary Items
 *.wip.md
 
 # Generated documentation
+docs/
 docs/generated/
 site/
 
