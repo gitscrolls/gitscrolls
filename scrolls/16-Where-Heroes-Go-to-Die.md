@@ -439,7 +439,7 @@ The file has been staged. You know what to do.
 
 Tuxilles stared at his resignation letter, cursor blinking in the empty signature field. 
 
-The "Chief Teaching Officer" role had become exactly what Marcus would have predicted—a comfortable cage that let him feel virtuous while avoiding the hardest work. He'd built systems, created protocols, been celebrated at conferences. The community praised his transformation.
+The "Chief Teaching Officer" role had become exactly what the Trickster would have predicted—a comfortable cage that let him feel virtuous while avoiding the hardest work. He'd built systems, created protocols, been celebrated at conferences. The community praised his transformation.
 
 But this morning, he'd watched a junior developer struggle with the same authentication problem that had once destroyed him. And instead of helping directly, Tuxilles had delegated it to one of his "mentorship coordinators." 
 
