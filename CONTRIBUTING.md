@@ -5,14 +5,14 @@ _Last updated: 2025-06-12_
 ## The Nature of the Scrolls
 
 GitScrolls is a narrative-philosophical text. It is not a wiki. It is not open documentation.  
-It is a book — a living one — written and curated by its original author, *the Scrollkeeper*, J. Kirby Ross.
+It is a book — a living one — written and curated by its original author, _the Scrollkeeper_, J. Kirby Ross.
 
 But even sacred texts evolve — not by decree, and never by committee, but through dialogue.  
 All sincere insight is welcome. Not every branch will merge, but every thoughtful commit will be read.
 
 ---
 
-## Ways You *Can* Contribute
+## Ways You _Can_ Contribute
 
 GitScrolls accepts contributions that preserve the tone, structure, and instructional intent of the manuscript.
 
@@ -21,17 +21,17 @@ GitScrolls accepts contributions that preserve the tone, structure, and instruct
 - **Open a GitHub Issue**  
   Found a typo, a contradiction, or a broken metaphor?  
   Submit an issue with:
-  - The scroll and scene reference (e.g., “Scroll IV, Scene II”)
-  - The original passage
-  - A clear description of the issue
-  - An optional suggested fix that aligns with the tone
+    - The scroll and scene reference (e.g., “Scroll IV, Scene II”)
+    - The original passage
+    - A clear description of the issue
+    - An optional suggested fix that aligns with the tone
 
 - **Submit a Pull Request (PR)**  
   Minor corrections only:
-  - Typos and grammar
-  - Formatting and markdown cleanup
-  - Consistent terminology or code snippets
-  - Clarity improvements that do *not* alter narrative voice or structure
+    - Typos and grammar
+    - Formatting and markdown cleanup
+    - Consistent terminology or code snippets
+    - Clarity improvements that do _not_ alter narrative voice or structure
 
   All PRs are reviewed through the lens of **narrative cohesion**, **voice**, and **canonical continuity**.
 
@@ -44,7 +44,7 @@ GitScrolls accepts contributions that preserve the tone, structure, and instruct
 
 ---
 
-## What We're *Not* Looking For
+## What We're _Not_ Looking For
 
 The following contributions are **outside scope for the canonical scrolls**:
 
@@ -105,7 +105,7 @@ Contributions during this time are most helpful in the form of:
 
 ## Want Your Fork Featured?
 
-If your forked project resonates with the GitScrolls spirit, email **scrollkeeper@gitscrolls.org**  
+If your forked project resonates with the GitScrolls spirit, email **<scrollkeeper@gitscrolls.org>**  
 Include a link, a short description, and how your work builds upon the Scrolls.  
 We may feature it in `FORKS.md`.
 
@@ -122,5 +122,5 @@ All sincere offerings will be received in the spirit of the sacred commit.
 
 With reverence and root access,  
 **The Scrollkeeper**  
-J. Kirby Ross   
-scrollkeeper@gitscrolls.org
+J. Kirby Ross
+<scrollkeeper@gitscrolls.org>

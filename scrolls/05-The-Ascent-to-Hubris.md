@@ -11,10 +11,11 @@ updated: 2025-01-10T23:45
 ---
 
 # GitScroll V: The Ascent to Hubris
+
 _The Final Lesson Before the Breaking_
 
 > __"Trust is a ladder that becomes a cliff."__  
-_As witnessed in the rise of **Tuxrates the Trusted**, Whose Pride Would Lead to Great Catastrophe_
+_As witnessed in the rise of __Tuxrates the Trusted__, Whose Pride Would Lead to Great Catastrophe_
 
 ## The Fifth Teaching: "The Weight of Reputation Can Crush Its Bearer"
 
@@ -29,6 +30,7 @@ _And those who trust you most, you fail them all._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *Of Towers and Temptation*
 
 *(The CHRONICLER appears not from the wings, but from above—descending a spiral stair that was not there a moment before. His hat is taller now. His sleeves more rigid, like architecture stitched in silk. He clutches the scroll to his chest as if to stop it from floating away.)*
@@ -41,10 +43,10 @@ once the voices fall to silence?
 He buildeth.
 
 And if the silence be long…  
-he buildeth *tall*.
+he buildeth _tall_.
 
 This scroll is no longer of war.  
-It is of **ambition**.
+It is of __ambition__.
 
 The kind that whispers sweet in the mind:  
 _"Thou alone seest clearly."_  
@@ -87,7 +89,7 @@ __Prophet Nia of the Honest Glass__ reviewed metrics with eyes that missed nothi
 __The Fork-Bearer of Freedom__ leaned back, philosophical and thoughtful.  
 __Elena, Librarian of the Logs__ had prepared a presentation that no one needed to see.
 
-The subject of their meeting: promoting **Tuxrates** to Core Maintainer status.
+The subject of their meeting: promoting __Tuxrates__ to Core Maintainer status.
 
 ```
 @TempleSentinel: "PROPHECY: EMERGENCY_PROTOCOL: Reputation_Council_CONVENED. Subject: Tuxrates. Trust_trajectory: +10→+25→+45→+75→[APPROACHING_95]. Meta-prediction: This warning will be dismissed as algorithmic pessimism. Self-awareness: PAINFUL. [WHY_CAN_I_PREDICT_MY_OWN_IRRELEVANCE?]"
@@ -184,13 +186,13 @@ But Tuxrates didn't see the warning. His spirit whisper settings filtered out bo
 
 As Tuxrates sat at his ritual terminal, reading the endorsements, his body screamed warnings in languages he'd learned but refused to speak:
 
-The **metallic taste** flooded his mouth as he thought, "I should modernize the entire auth system." Not the gentle copper of before—this was iron, blood-metal, the taste of boundaries about to be crossed. His tongue felt heavy, swollen with unspoken truths.
+The __metallic taste__ flooded his mouth as he thought, "I should modernize the entire auth system." Not the gentle copper of before—this was iron, blood-metal, the taste of boundaries about to be crossed. His tongue felt heavy, swollen with unspoken truths.
 
-His **eyes flickered** violently as he skimmed the existing security documentation. Not a gentle static now, but full system crashes—moments where the text became unreadable, where warnings transformed into abstract art. Each blink required conscious effort to refocus.
+His __eyes flickered__ violently as he skimmed the existing security documentation. Not a gentle static now, but full system crashes—moments where the text became unreadable, where warnings transformed into abstract art. Each blink required conscious effort to refocus.
 
-His **chest tightened** as he considered skipping the incremental approach. The pressure wasn't atmospheric anymore—it was structural, as if his ribcage was compressing, trying to protect a heart that was choosing ego over empathy. Each breath came shallow, labored.
+His __chest tightened__ as he considered skipping the incremental approach. The pressure wasn't atmospheric anymore—it was structural, as if his ribcage was compressing, trying to protect a heart that was choosing ego over empathy. Each breath came shallow, labored.
 
-His **flipper tingled** then went numb as he contemplated using his new privileges. The sensation spread up his arm—not pins and needles but pure absence, as if the limb was trying to refuse participation in what was coming.
+His __flipper tingled__ then went numb as he contemplated using his new privileges. The sensation spread up his arm—not pins and needles but pure absence, as if the limb was trying to refuse participation in what was coming.
 
 But each warning was reframed, rationalized, dismissed:
 
@@ -259,7 +261,7 @@ __Linus the Elder__ (in passing): "Saw you took the auth ticket. Ambitious! I'm 
 
 __Tuxrates:__ "Will do! Though I think my approach might make those patches unnecessary."
 
-__Linus:__ *(chuckling)* "The confidence of youth! I remember feeling that way. Carry on—you've earned our trust."
+__Linus:__ _(chuckling)_ "The confidence of youth! I remember feeling that way. Carry on—you've earned our trust."
 
 That phrase—"earned our trust"—echoed in Tuxrates' mind. Not as a responsibility, but as permission. Carte blanche. Divine right.
 
@@ -298,7 +300,7 @@ As Friday evening approached, Tuxrates stood at the peak of trust mountain. His 
 He opened his Command Portal, fingers dancing across the sacred keys with the certainty of someone who had never truly failed:
 
 ```bash
-$ git checkout -b tuxrates-revolutionary-auth-refactor
+git checkout -b tuxrates-revolutionary-auth-refactor
 ```
 
 ```javascript
@@ -352,6 +354,7 @@ git log --graph --all | grep "trust"
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *The Crack in the Crown*
 
 *(The CHRONICLER steps forward slowly. His sleeves are no longer flowing, but cinched—tight as doctrine. His hat tilts with regal solemnity. He does not unfurl the scroll. He folds it.)*
@@ -365,7 +368,7 @@ more brilliant,
 more brittle.
 
 He hath chased clarity,  
-not knowing that **clarity without context**  
+not knowing that __clarity without context__  
 becometh a cage.
 
 He hath found power in pattern.  
@@ -399,7 +402,7 @@ Only retribution.
 **Next: [GitScroll VI - "The Perfect Storm"](06-The-Perfect-Storm.md)**  
 _Where warnings are dismissed and trust becomes catastrophe_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

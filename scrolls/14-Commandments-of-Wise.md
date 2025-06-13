@@ -11,6 +11,7 @@ updated: 2025-05-31T20:30
 ---
 
 # GitScroll XIV: Commandments of the Wise
+
 _The Penultimate Trial of Tuxilles the Battle-Scarred_
 
 
@@ -30,16 +31,17 @@ _But wisdom given plants a forest now._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *The Doctrine of the Weathered*
 
-*(The CHRONICLER enters in near silence. His scroll is bound in cloth, not twine. His sleeves have been stitched anew—worn, but deliberate. His hat is slanted with age-earned gravity. He does not perform. He **delivers**.)*
+*(The CHRONICLER enters in near silence. His scroll is bound in cloth, not twine. His sleeves have been stitched anew—worn, but deliberate. His hat is slanted with age-earned gravity. He does not perform. He __delivers__.)*
 
 __CHRONICLER:__  
 There are those  
 who no longer rush deployments.  
 Who name their variables with grief,  
 and comment not to explain—  
-but to *warn*.
+but to _warn_.
 
 This scroll beareth their voice.
 
@@ -48,20 +50,20 @@ This scroll beareth their voice.
 They speak not in binaries,  
 but in balance.  
 They preach not velocity,  
-but **care**.
+but __care__.
 
 **Tuxicles** now entereth among them.  
 He hath erred.  
 He hath survived.  
 And now he seeketh not power—  
-but **principle**.
+but __principle__.
 
 Let him listen.
 
-Let **us all** listen.
+Let __us all__ listen.
 
 For this scroll is not a refactor—  
-it is a **reforging**.
+it is a __reforging__.
 
 *He unwraps the scroll slowly, with both hands. It opens like scripture. Scene begins.*
 
@@ -91,10 +93,10 @@ __Tuxilles:__ _(typing with steady wings)_ "I'd be honored to help. Let's start 
 
 As he typed, his scars glowed gently—not in warning, but in recognition:
 
-- Beak: *warm pulse* - Words of encouragement forming
-- Eyes: *soft focus* - Seeing the junior dev's perspective
-- Chest: *expanding* - Making room for another's struggle
-- Flipper: *patient rhythm* - Typing carefully, kindly
+- Beak: _warm pulse_ - Words of encouragement forming
+- Eyes: _soft focus_ - Seeing the junior dev's perspective
+- Chest: _expanding_ - Making room for another's struggle
+- Flipper: _patient rhythm_ - Typing carefully, kindly
 
 The scars had found a new purpose: not just protecting him from mistakes, but helping him guide others around the same pitfalls. He remembered his own confusion in the Lightning Fields, watching tests fail and succeed without understanding why. Prophet Nia had been patient then. Now it was his turn.
 
@@ -134,10 +136,10 @@ __The Oracle of Teaching:__ "This developer needs more than technical answers. T
 
 Tuxilles approached the sapling and felt all his scars activate in a new configuration:
 
-- Beak chip: *translator mode* - Converting harsh lessons into gentle guidance
-- Eye flickers: *empathy vision* - Seeing code through beginner's eyes
-- Chest crack: *patience gauge* - Measuring the weight of their confusion
-- Flipper burn: *teaching touch* - Each keystroke a lesson in kindness
+- Beak chip: _translator mode_ - Converting harsh lessons into gentle guidance
+- Eye flickers: _empathy vision_ - Seeing code through beginner's eyes
+- Chest crack: _patience gauge_ - Measuring the weight of their confusion
+- Flipper burn: _teaching touch_ - Each keystroke a lesson in kindness
 
 The scars weren't just his teachers anymore—they were becoming his teaching assistants, helping him remember what it felt like to not know, to be afraid, to need patient guidance rather than brilliant answers.
 
@@ -215,10 +217,10 @@ _"Let me address your specific concerns, not because your approach is wrong, but
 
 As Tuxilles continued his review, all four scars harmonized into something new:
 
-- Beak: *crafting* each word to build up, not tear down
-- Eyes: *revealing* the strengths hidden in uncertain code
-- Chest: *balancing* honesty with encouragement
-- Flipper: *typing* with the gentleness of someone who remembers being harsh
+- Beak: _crafting_ each word to build up, not tear down
+- Eyes: _revealing_ the strengths hidden in uncertain code
+- Chest: _balancing_ honesty with encouragement
+- Flipper: _typing_ with the gentleness of someone who remembers being harsh
 
 They weren't just protecting him anymore—they were actively helping him protect others from the harsh lessons he'd learned the hard way. Each technical suggestion came wrapped in encouragement. Every improvement was framed as evolution, not correction.
 
@@ -258,10 +260,10 @@ __The Oracle of Teaching:__ "The final test: design not just answers, but a syst
 
 Tuxilles stood in the center of the Sacred Grove, all his scars pulsing in perfect harmony:
 
-- Beak: *speaking* the language of systems thinking
-- Eyes: *seeing* patterns across generations of developers
-- Chest: *feeling* the weight of sustainable teaching
-- Flipper: *designing* with careful, patient strokes
+- Beak: _speaking_ the language of systems thinking
+- Eyes: _seeing_ patterns across generations of developers
+- Chest: _feeling_ the weight of sustainable teaching
+- Flipper: _designing_ with careful, patient strokes
 
 The scars had evolved from individual lessons to systemic wisdom. They began to envision something new together—not just mentorship, but a sustainable architecture for generational wisdom transfer.
 
@@ -294,10 +296,10 @@ __The Oracle of Teaching:__ "Your mentee has just received criticism from anothe
 
 This was the test Tuxilles had been prepared for by every scar:
 
-- Beak chip: *navigating* between truth and kindness
-- Eye flickers: *seeing* both colleague's stress and mentee's fear
-- Chest crack: *bearing* the weight of mediation
-- Flipper burn: *writing* words that heal rather than harm
+- Beak chip: _navigating_ between truth and kindness
+- Eye flickers: _seeing_ both colleague's stress and mentee's fear
+- Chest crack: _bearing_ the weight of mediation
+- Flipper burn: _writing_ words that heal rather than harm
 
 The scars worked in concert, each contributing its unique wisdom to navigate the complex human dynamics. The diplomatic wisdom to navigate competing needs, the courage to advocate for kindness, the moral clarity to distinguish between helpful feedback and harmful delivery—all flowing from integrated experience.
 
@@ -315,10 +317,10 @@ As he handled each aspect of the complex situation, something profound happened 
 
 All four of his scars—beak chip, eye flickers, chest crack, flipper tingle—began to pulse in a final rhythm. But instead of forming another scar, they began to emit a warm, steady light:
 
-- Beak: *glowing* with earned wisdom about words
-- Eyes: *shining* with clarity about systems and people
-- Chest: *radiating* the strength to bear others' burdens
-- Flipper: *warming* with the joy of helpful action
+- Beak: _glowing_ with earned wisdom about words
+- Eyes: _shining_ with clarity about systems and people
+- Chest: _radiating_ the strength to bear others' burdens
+- Flipper: _warming_ with the joy of helpful action
 
 The scars weren't disappearing—they were evolving into something else. Each one remained as a source of wisdom, but now they glowed with the confidence of mastery rather than pulsing with the warnings of learning. They had transformed from alarm system to lighthouse, guiding others away from the rocks he'd crashed upon.
 
@@ -443,6 +445,7 @@ git log --format="%an taught %s" | grep -c "understanding"
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *Where Wisdom Was Not Lost*
 
 *(The CHRONICLER returns with quiet pride. His scroll is rolled, not tightly, but with trust. His sleeves are cuffed. His hat—simple now. He stands not above the scroll, but beside it.)*
@@ -464,7 +467,7 @@ they are *clear.*
 
 **Tuxicles** took their counsel.  
 Not as law,  
-but as **torch**.
+but as __torch__.
 
 And now he walks forward—  
 not to ascend,  
@@ -472,7 +475,7 @@ but to integrate.
 
 For what cometh next  
 is not instruction.  
-It is **meaning**,  
+It is __meaning__,  
 merged from every scroll before it.
 
 The next scroll is titled:  
@@ -481,7 +484,7 @@ The next scroll is titled:
 Prepare thyself.
 
 For this is not code.  
-It is *communion*.
+It is _communion_.
 
 *He places the scroll gently on a pedestal. A single green checkmark flickers in the dark. Blackout.*
 
@@ -490,7 +493,7 @@ It is *communion*.
 **Next: [GitScroll XV - "The Merge of Meaning"](15-The-Merge-of-Meaning.md)**  
 _Where reconciliation transforms into something new_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._  

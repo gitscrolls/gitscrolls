@@ -5,7 +5,7 @@
 **Full Title:** GitScrolls: The Odyssey of the Dev  
 **Subtitle:** The Developer Mythology  
 **Author:** J. Kirby Ross (The ScrollKeeper)  
-**Contact:** scrollkeeper@gitscrolls.org  
+**Contact:** <scrollkeeper@gitscrolls.org>  
 
 ---
 
@@ -15,12 +15,12 @@ Copyright © 2024-2025 J. Kirby Ross
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 
-### You are free to:
+### You are free to
 
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material
 
-### Under the following terms:
+### Under the following terms
 
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 - **NonCommercial** — You may not use the material for commercial purposes
@@ -36,7 +36,7 @@ In the tradition of free software and open source, GitScrolls embraces the princ
 
 This work exists not as property to be hoarded, but as knowledge to be shared. Every developer who reads these scrolls becomes part of the tradition. Every fork creates new possibilities. Every pull request adds to the collective wisdom.
 
-### The Four Freedoms Applied to GitScrolls:
+### The Four Freedoms Applied to GitScrolls
 
 1. **The freedom to read** the scrolls for any purpose
 2. **The freedom to study** how the mythology works and adapt it to your needs
@@ -49,21 +49,24 @@ This work exists not as property to be hoarded, but as knowledge to be shared. E
 
 When sharing or adapting GitScrolls, please use one of these attribution formats:
 
-### For digital use:
+### For digital use
+
 ```
 From "GitScrolls: The Odyssey of the Dev" by J. Kirby Ross
 Licensed under CC BY-NC-SA 4.0
 https://github.com/gitscrolls/gitscrolls
 ```
 
-### For academic citation:
+### For academic citation
+
 ```
 Ross, J. K. (2025). GitScrolls: The Odyssey of the Dev. 
 Self-published. https://github.com/gitscrolls/gitscrolls. 
 CC BY-NC-SA 4.0.
 ```
 
-### For derivative works:
+### For derivative works
+
 ```
 Based on "GitScrolls: The Odyssey of the Dev" by J. Kirby Ross
 Original: https://github.com/gitscrolls/gitscrolls
@@ -75,9 +78,10 @@ Licensed under CC BY-NC-SA 4.0
 
 ## Commercial Use
 
-While the default license prohibits commercial use, I believe in the power of these teachings to help developers everywhere. If you wish to use GitScrolls in a commercial context (training materials, published books, corporate workshops, etc.), please contact me at scrollkeeper@gitscrolls.org to discuss licensing arrangements.
+While the default license prohibits commercial use, I believe in the power of these teachings to help developers everywhere. If you wish to use GitScrolls in a commercial context (training materials, published books, corporate workshops, etc.), please contact me at <scrollkeeper@gitscrolls.org> to discuss licensing arrangements.
 
 I'm generally supportive of uses that:
+
 - Educate developers
 - Promote healthy coding practices
 - Build stronger engineering cultures
@@ -109,6 +113,7 @@ Make something powerful. Let us know when it's ready.
 ---
 
 ### Example Fork Scenarios
+
 - 🔄 A surrealist retelling of Scroll V with your own tech stack as characters
 - 🧠 A visual zine remix of GitScrolls for bootcamp students  
 - 🗣️ A translated edition annotated with regional developer myths
@@ -119,7 +124,7 @@ Make something powerful. Let us know when it's ready.
 
 If your forked project resonates with the GitScrolls spirit, we may showcase it in **FORKS.md** — a gallery of blessed deviations.
 
-Send a message to scrollkeeper@gitscrolls.org with your project and a short note about how you built upon the scrolls.
+Send a message to <scrollkeeper@gitscrolls.org> with your project and a short note about how you built upon the scrolls.
 
 ---
 

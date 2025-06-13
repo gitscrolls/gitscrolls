@@ -11,9 +11,10 @@ updated: 2025-05-30T06:41
 ---
 
 # GitScroll I: The Unbroken Line
+
 _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
 
-> __"Do not trade your history for the illusion of mastery."__   
+> __"Do not trade your history for the illusion of mastery."__
 _As taught by __Linus the Elder__, Grandfather of Git, Keeper of the Sacred Timeline_
 
 ## The First Teaching: "Thou Shalt Not Rewrite History"
@@ -28,6 +29,7 @@ _The broken line is still a line—and thine._
 ---
 
 ### 🎭 Invocation Before the Scroll
+
 _The First Invocation — Of Echo and Origin_
 
 _(From pitch darkness, a feather appears—long, absurd, undeniable—followed by a hat, a man, and a rustling storm of fabric. The CHRONICLER steps forward into a single shaft of light. His poet shirt billows with no wind. The scroll in his hand is tied in twine and time. He speaks.)_
@@ -107,7 +109,7 @@ Somewhere in the Temple's monitoring infrastructure, an automated sentinel regis
 
 But Tuxicles, in his innocence, had silenced the spirit whispers from the Temple's Eternal Vigilance. Too noisy, he'd thought. Too many false prophecies.
 
-As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. The flavor intensified with each keystroke: git push --force origin main. 
+As he hit enter on the final command, a strange taste filled his mouth—metallic, sharp, like biting down on aluminum foil. The flavor intensified with each keystroke: git push --force origin main.
 
 Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. And somewhere, like an echo from a future not yet written, he thought he heard the sound of someone teaching, scarred and patient, guiding another young developer away from this very mistake. But the moment passed.
 
@@ -314,7 +316,7 @@ As Tuxicles worked through the afternoon, helping his colleagues recover from hi
 
 __Linus:__ "Tuxicles. A word."
 
-__Tuxicles:__ *(nervously)* "Yes, Grandfather? Did I miss someone? I tried to help everyone affected—"
+__Tuxicles:__ _(nervously)_ "Yes, Grandfather? Did I miss someone? I tried to help everyone affected—"
 
 __Linus:__ "You did well. Better than well. You took responsibility." He paused, considering. "I see potential in you. Not because you avoided mistakes—that's impossible. But because you owned them."
 
@@ -322,13 +324,13 @@ The Elder pulled out a small token—a Git commit hash engraved on ancient silic
 
 __Linus:__ "I'm assigning you to the Timeline Preservation Working Group. Junior position, of course. You'll help review PR submissions, ensure commit histories remain clean without destroying them."
 
-__Tuxicles:__ *(eyes widening)* "But... I just broke everything today!"
+__Tuxicles:__ _(eyes widening)_ "But... I just broke everything today!"
 
 __Linus:__ "Exactly. Who better to spot timeline violations than one who has committed them? Who better to teach than one who has learned through pain?"
 
 He handed over the token. "Report to the Working Group tomorrow. Don't make me regret this trust."
 
-As Linus departed, Tuxicles stared at the token. Trust. After his failure, the Elder was trusting him with more responsibility, not less. 
+As Linus departed, Tuxicles stared at the token. Trust. After his failure, the Elder was trusting him with more responsibility, not less.
 
 The metallic taste in his mouth returned, stronger than before, as if the very concept of trust carried weight his body could feel. For a fleeting moment, Tuxicles wondered if the sensation was trying to tell him something—about trust given too easily, about lessons not yet learned, about the danger of confidence without wisdom.
 
@@ -422,7 +424,7 @@ _He exits without flourish. Even his sleeves seem subdued. Blackout._
 **Next: [GitScroll II - "The Annals of Forgotten Messages"](02-Annals-of-Forgotten-Messages.md)**  
 _Where words unwritten scream louder than those carved_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

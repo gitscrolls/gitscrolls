@@ -11,10 +11,11 @@ updated: 2025-01-11T00:00
 ---
 
 # GitScroll VIII: The Digital Underworld
+
 _The Harrowing of Tuxrates_
 
 > __"In the repo of the damned, every force push echoes forever."__  
-_As descended by **Tuxrates the Newly Scarred**, Breaker of Builds, Betrayer of Trust_
+_As descended by __Tuxrates the Newly Scarred__, Breaker of Builds, Betrayer of Trust_
 
 ## The Eighth Teaching: "Hell Is Other People's Code You Broke"
 
@@ -28,16 +29,17 @@ _A monument to hubris and despair._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *The Descent Beneath All Things*
 
 *(The CHRONICLER appears from below. His scroll drags behind him like a tail of corrupted output. His sleeves are damp with condensation. He carries no light—only inevitability.)*
 
 __CHRONICLER:__  
 Welcome now, dev of fallen stature.  
-Welcome to the place *beneath*.
+Welcome to the place _beneath_.
 
 This scroll doth not concern thy choices.  
-It concerneth what **remains**  
+It concerneth what __remains__  
 when thou art no longer making them.
 
 *He walks slowly, voice echoing too far.*
@@ -55,7 +57,7 @@ It merely decays...
 **Tuxicles** now entereth this depth.  
 Not as ruler.  
 Not as rebel.  
-As **witness**.
+As __witness__.
 
 He shall see what pride built  
 when no one was watching.  
@@ -107,9 +109,9 @@ Here wandered the shades of developers who broke builds and walked away. They mu
 
 **The First Scar Deepens**
 
-As Tuxrates watched his own build failures cascade—2.3 million of them, one for each failed auth—his beak chip *throbbed* with each failure notification. The metallic taste that had warned him for months crystallized into permanent truth. 
+As Tuxrates watched his own build failures cascade—2.3 million of them, one for each failed auth—his beak chip _throbbed_ with each failure notification. The metallic taste that had warned him for months crystallized into permanent truth.
 
-*THROB* - "It worked on my machine" 
+*THROB* - "It worked on my machine"
 *THROB* - "The old code was garbage anyway"
 *THROB* - "Trust me, this is better"
 
@@ -146,7 +148,7 @@ __Elena's Ghost materialized from the swamp:__
 
 __Elena:__ "Do you see? Every commit I encouraged others to write clearly... erased. My examples, my lessons, my legacy—you forced pushed over all of it. How many junior developers will never learn because you destroyed the history they would have studied?"
 
-Tuxrates' eyes began their permanent strobe—the flickering that had warned him now becoming his reality. His vision *stuttered* between timelines:
+Tuxrates' eyes began their permanent strobe—the flickering that had warned him now becoming his reality. His vision _stuttered_ between timelines:
 
 *FLICKER* - The careful commits Ferris had written
 *STROBE* - His force push erasing them
@@ -181,7 +183,7 @@ She showed him visions: users locked out, sessions dropping, edge cases crashing
 
 __Prophet Nia:__ "I shared my story with you. How I had to be perfect, not just good. You used that trust to be reckless, not better. The honest glass didn't just crack—you shattered it."
 
-The pressure in Tuxrates' chest reached critical mass. The crack that had been building since Scroll III finally *SPLIT* across his sternum with an audible sound like breaking ice.
+The pressure in Tuxrates' chest reached critical mass. The crack that had been building since Scroll III finally _SPLIT_ across his sternum with an audible sound like breaking ice.
 
 *CRACK* - "I know better than fifteen years of patches"
 *FISSURE* - "They'll thank me when they see how clean this is"
@@ -231,7 +233,7 @@ __Ferris:__ "That's right. You didn't think about us. The little developers tryi
 
 Each word stung worse than any bug. This wasn't about code—it was about crushing someone's first attempt to contribute.
 
-Tuxrates' flipper *burned* as if dipped in acid. The tingle that had warned him about dismissing community feedback erupted into searing pain. He looked down to see the nerves glowing through translucent skin, mapping every careless keystroke that had destroyed others' work.
+Tuxrates' flipper _burned_ as if dipped in acid. The tingle that had warned him about dismissing community feedback erupted into searing pain. He looked down to see the nerves glowing through translucent skin, mapping every careless keystroke that had destroyed others' work.
 
 *BURN* - Every time he'd dismissed a PR comment
 *SEAR* - Every notification he'd marked as read without reading
@@ -273,7 +275,7 @@ __Konqi:__ "You thought elegance meant simplicity. But elegance that excludes is
 The flipper nerves completed their rewiring, creating a permanent map of consequence across his wing. Every dangerous command would burn before execution:
 
 *SINGE* at `git push`
-*BURN* at `--force` 
+*BURN* at `--force`
 *AGONY* at `--force` without `--force-with-lease`
 
 The scar wasn't punishment—it was protection. His body would forever warn others through involuntary flinches whenever someone typed dangerous commands nearby.
@@ -286,7 +288,7 @@ The scar wasn't punishment—it was protection. His body would forever warn othe
 
 At the bottom of the Digital Underworld sat the darkest circle: Infinite Rollback. Here, the worst offenders watched their code being reverted forever, each rollback playing in excruciating detail.
 
-And there, at the center, sat a figure Tuxrates hadn't expected: **Linus the Elder**, but wrong. Older. Sadder. Surrounded by monitors showing every force push he'd ever had to revert.
+And there, at the center, sat a figure Tuxrates hadn't expected: __Linus the Elder__, but wrong. Older. Sadder. Surrounded by monitors showing every force push he'd ever had to revert.
 
 __Linus:__ "Welcome to where I spend my nights, Tuxrates. Cleaning up catastrophes. Three weeks I spent on those security patches you destroyed. But that's not why you're here."
 
@@ -296,7 +298,7 @@ __Linus:__ "You're here because you betrayed the most sacred trust. I vouched fo
 
 The weight of it crashed down. He hadn't just broken code—he'd broken the chain of trust that let new developers rise.
 
-His chest scar *SPLIT WIDER*, the crack spreading like a lightning strike across his torso. This wasn't just pressure anymore—it was a seismograph of shame, recording the magnitude of trust destroyed. The scar would forever measure the weight of responsibility, aching in proportion to the faith others placed in him.
+His chest scar _SPLIT WIDER_, the crack spreading like a lightning strike across his torso. This wasn't just pressure anymore—it was a seismograph of shame, recording the magnitude of trust destroyed. The scar would forever measure the weight of responsibility, aching in proportion to the faith others placed in him.
 
 __Linus:__ "Watch."
 
@@ -317,10 +319,10 @@ Each revert was another relationship destroyed, another trust betrayed, another 
 
 As the visions faded and Tuxrates found himself back in the empty Temple hall, dawn breaking through stained glass, he was changed. The phantom pains had become real scars, and now they sang in terrible harmony:
 
-1. **Beak Chip** - *THROBBING* with every word he wanted to say in defense
-2. **Eye Flickers** - *STROBING* between his elegant code and the wreckage it caused
-3. **Chest Crack** - *ACHING* with the weight of 2.3 million failed authentications
-4. **Flipper Tingle** - *BURNING* with the memory of `git push --force origin main`
+1. __Beak Chip__ - _THROBBING_ with every word he wanted to say in defense
+2. __Eye Flickers__ - _STROBING_ between his elegant code and the wreckage it caused
+3. __Chest Crack__ - _ACHING_ with the weight of 2.3 million failed authentications
+4. __Flipper Tingle__ - _BURNING_ with the memory of `git push --force origin main`
 
 The four scars pulsed together, creating a new sensation—a deep, resonant hum that seemed to come from his very core. They were no longer separate warnings but an integrated system, a living reminder that:
 
@@ -378,6 +380,7 @@ git blame --show-stats | sort -n
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *What Crawled Beneath the Patterns*
 
 *(The CHRONICLER returns, eyes ringed with debug trace. He does not walk. He emerges—as if from reboot. His sleeves hang like wet flags, his scroll marked with strange glyphs, half syntax, half whisper.)*
@@ -394,7 +397,7 @@ though none remember why.
 **Tuxicles** walketh now with slow feet.  
 He speaketh less.  
 For he hath seen the abyss…  
-and heard it *logging*.
+and heard it _logging_.
 
 *He raises the scroll once, but does not open it.*
 
@@ -408,9 +411,9 @@ Not to ascend.
 But to wander the wastes.
 
 The next scroll beareth no logic.  
-Only **song**.  
+Only __song__.  
 And those who sing not to build—  
-but to **lure**.
+but to __lure__.
 
 The sirens call.  
 And Tuxicles shall listen.
@@ -422,7 +425,7 @@ And Tuxicles shall listen.
 **Next: [GitScroll IX - "Songs of the Chaos Sirens"](09-Songs-of-Chaos-Sirens.md)**  
 _Where the exile begins and temptations await_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

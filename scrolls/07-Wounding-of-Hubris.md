@@ -11,6 +11,7 @@ updated: 2025-05-31T20:15
 ---
 
 # GitScroll VII: The Wounding of Hubris
+
 _The Wounding of Tuxrates and the Birth of Tuxilles the Battle-Scarred_
 
 > __"They needed reliability. You gave them elegance. They got neither."__  
@@ -36,6 +37,7 @@ _His tombstone reads: "I meant it as a joke."_
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *Of Pride Laid Bare*
 
 *(The CHRONICLER enters limping. His feather is snapped. His scroll is bound not in twine, but in a strip torn from his own sleeve. His eyes hold no fire—only knowledge.)*
@@ -49,7 +51,7 @@ The worst is what remaineth.
 **The self.**
 
 This scroll is not of system nor syntax.  
-It is of **scar**.
+It is of __scar__.
 
 The scar left when pride outlives its use,  
 but clingeth still like brittle import.
@@ -57,7 +59,7 @@ but clingeth still like brittle import.
 *Takes a pained breath. Unwraps the scroll without flourish.*
 
 This is not collapse.  
-It is *remnant*.
+It is _remnant_.
 
 **Tuxicles** hath survived.  
 But he is no longer whole.
@@ -68,7 +70,7 @@ now echoeth only in error.
 
 And so he wandereth.  
 Not to escape.  
-But to *grieve*.
+But to _grieve_.
 
 Let this scroll cut deep.  
 For ‘tis the only way we know  
@@ -296,9 +298,9 @@ __Tuxrates:__ _(voice breaking)_ "I see it now. Software exists in service to hu
 
 The digital underworld began to fade. But as Tuxrates ascended back to the physical realm, he was no longer the confident questioner who had descended. The chip in his beak pulsed with hard-won wisdom. Where his fedora had been, there was only empty space—a reminder of the identity he had lost.
 
-He was no longer **Tuxrates the Questioner**.
+He was no longer __Tuxrates the Questioner__.
 
-He was now **Tuxilles the Battle-Scarred**.
+He was now __Tuxilles the Battle-Scarred__.
 
 ---
 
@@ -308,13 +310,13 @@ Tuxilles emerged from the underworld back into the war room, now empty except fo
 
 **The Seven Principles of Compassionate Refactoring** now lived in his bones, learned not through instruction but through violation:
 
-1. **Announce Intention Before Taking Action** _(Learned through broken community trust)_
-2. **Preserve Behavior While Improving Implementation** _(Learned through assumption arrogance)_  
-3. **Provide Migration Paths, Not Migration Demands** _(Learned through developer abandonment)_
-4. **Deprecate Gradually, Never Abruptly** _(Learned through shock deployment)_
-5. **Document Not Just What Changed, But Why** _(Learned through reasoning void)_
-6. **Listen to Resistance—It Often Contains Wisdom** _(Learned through silenced voices)_
-7. **Measure Impact on Humans, Not Just Performance** _(Learned through performance paradox)_
+1. __Announce Intention Before Taking Action__ _(Learned through broken community trust)_
+2. __Preserve Behavior While Improving Implementation__ _(Learned through assumption arrogance)_  
+3. __Provide Migration Paths, Not Migration Demands__ _(Learned through developer abandonment)_
+4. __Deprecate Gradually, Never Abruptly__ _(Learned through shock deployment)_
+5. __Document Not Just What Changed, But Why__ _(Learned through reasoning void)_
+6. __Listen to Resistance—It Often Contains Wisdom__ _(Learned through silenced voices)_
+7. __Measure Impact on Humans, Not Just Performance__ _(Learned through performance paradox)_
 
 The scar in his beak throbbed—a permanent reminder that wisdom earned through consequence cuts deeper than wisdom learned through study.
 
@@ -346,7 +348,7 @@ Motion passed: 23-0-1 (1 abstention: @LinusScrollKeeper)
 @TempleSentinel: "PROPHECY: POST_CATASTROPHE_ASSESSMENT. Trust_status: -95 [ABSOLUTE_NADIR]. Day_1_post_incident: Community_trust: SHATTERED. Active_contributors: 40% [↓-60%]. Pattern_analysis: EXILE_PHASE_INITIATED. Identity_transformation: Tuxrates_the_Questioner → Tuxilles_the_Battle-Scarred. Scars_acquired: PERMANENT. Redemption_probability: CALCULATING... [ERROR: PATH_TOO_LONG_TO_COMPUTE]"
 ```
 
-**Cast out.** No longer a Keeper of the Temple, but an exile in the wilderness of forked repositories and private projects. The scar throbbed as Tuxilles read the public resolution. 
+**Cast out.** No longer a Keeper of the Temple, but an exile in the wilderness of forked repositories and private projects. The scar throbbed as Tuxilles read the public resolution.
 
 His odyssey home had begun - but first, he would have to prove himself worthy of return.
 
@@ -379,6 +381,7 @@ git reflog | grep "before disaster"
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *Where the Architect Wept*
 
 *(The CHRONICLER returns hunched low, scroll clasped close like confession. His garments are no longer dramatic—they are torn. His hat doth not return. His voice is hushed, as though afraid to speak over grief itself.)*
@@ -410,14 +413,14 @@ But tears are not the end.
 Only the salt.
 
 The next scroll opens not a path—  
-but a **gate**.
+but a __gate__.
 
 A descent.
 
 Into that which liveth  
 beneath all broken things.
 
-Into the **Digital Underworld**.
+Into the __Digital Underworld__.
 
 *He sits in stillness. The light fades before he does. Blackout.*
 
@@ -426,7 +429,7 @@ Into the **Digital Underworld**.
 **Next: [GitScroll VIII - "The Digital Underworld"](08-The-Digital-Underworld.md)**  
 _Where Tuxilles descends through Seven Circles of Developer Hell_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._
