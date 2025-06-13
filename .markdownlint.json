@@ -11,6 +11,7 @@
   "MD036": false,
   "MD040": false,
   "MD041": false,
+  "MD050": false,
   "no-hard-tabs": true,
   "no-trailing-spaces": true,
   "no-multiple-blanks": { "maximum": 2 }

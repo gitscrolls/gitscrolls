@@ -36,7 +36,7 @@ _"I code, therefore I am... afraid. So what?"_
 
 *(The CHRONICLER sits already center stage. The scroll is unopened beside him. He does not look at the audience. His sleeves are tucked in. His hat lies at his feet like a collapsed symbol of former grandeur.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 There cometh a time  
 when the code runneth clean,  
 the errors are none,  
@@ -171,11 +171,11 @@ That last file. It wasn't there before. The permissions, the timestamp—all que
 
 His apartment door hadn't opened, but suddenly someone was sitting on his only other chair, feet up on a stack of sacred tomes, wearing a hoodie made of what looked like error messages stitched together.
 
-**The Trickster:** "Nice branch collection. Very organized. Very... local."
+__The Trickster:__ "Nice branch collection. Very organized. Very... local."
 
-**Tuxilles:** _(jumping, scars all flaring)_ "How did you—the door was—who are—"
+__Tuxilles:__ _(jumping, scars all flaring)_ "How did you—the door was—who are—"
 
-**The Trickster:** "I'm the one who forked reality, remember? Doors are just very physical merge conflicts." _(spinning in chair)_ "But we're not here to talk about me. We're here to talk about your commit paralysis."
+__The Trickster:__ "I'm the one who forked reality, remember? Doors are just very physical merge conflicts." _(spinning in chair)_ "But we're not here to talk about me. We're here to talk about your commit paralysis."
 
 They pointed at his screen where somehow his Git log was showing commits he'd never pushed:
 
@@ -187,7 +187,7 @@ UNPUSHED: refactor: 40% performance improvement in hot path
 UNPUSHED: test: Caught edge case that would affect thousands
 ```
 
-**The Trickster:** "Look at all that hoarded help. You're like a dragon, but instead of gold, you're sitting on solutions people need."
+__The Trickster:__ "Look at all that hoarded help. You're like a dragon, but instead of gold, you're sitting on solutions people need."
 
 ---
 
@@ -195,17 +195,17 @@ UNPUSHED: test: Caught edge case that would affect thousands
 
 **The Confession**
 
-**Tuxilles:** "You don't understand. Last time I pushed with confidence, I destroyed everything. Three weeks of Linus's kernel patches—still working on recovery. Puffy's security hardening—she's had to restart from scratch. Ferris's first contribution—gone, and she hasn't submitted another since. I can't—what if—"
+__Tuxilles:__ "You don't understand. Last time I pushed with confidence, I destroyed everything. Three weeks of Linus's kernel patches—still working on recovery. Puffy's security hardening—she's had to restart from scratch. Ferris's first contribution—gone, and she hasn't submitted another since. I can't—what if—"
 
-**The Trickster:** _(suddenly serious)_ "Kid, you think you're the first developer to break production? You think you invented the catastrophic force-push?"
+__The Trickster:__ _(suddenly serious)_ "Kid, you think you're the first developer to break production? You think you invented the catastrophic force-push?"
 
 They pulled out a device that looked like a communication oracle crossbred with a digital familiar. On its viewing glass: a Git log from 1998.
 
-**The Trickster:** "See this? My first force-push. Deleted three months of kernel optimization. Linus the Elder spent a weekend recovering it—just like he's doing now with your mess. You know what he said after?"
+__The Trickster:__ "See this? My first force-push. Deleted three months of kernel optimization. Linus the Elder spent a weekend recovering it—just like he's doing now with your mess. You know what he said after?"
 
-**Tuxilles:** "...what?"
+__Tuxilles:__ "...what?"
 
-**The Trickster:** "'Next time, use --force-with-lease.' That's it. No exile. No dramatic scarring. Just... learn and move on. But I couldn't. I let the guilt compile recursively until I had to fork everything just to breathe."
+__The Trickster:__ "'Next time, use --force-with-lease.' That's it. No exile. No dramatic scarring. Just... learn and move on. But I couldn't. I let the guilt compile recursively until I had to fork everything just to breathe."
 
 Tuxilles' scars responded to the story:
 
@@ -218,11 +218,11 @@ Tuxilles' scars responded to the story:
 
 The Trickster walked to Tuxilles' viewing glass, where the cursor blinked on yet another stashed branch.
 
-**The Trickster:** "You're not protecting anyone by not pushing. You're just creating a different kind of harm. Every bug you don't fix stays broken. Every improvement you don't share stays unimproved. Your fear of breaking things is breaking things."
+__The Trickster:__ "You're not protecting anyone by not pushing. You're just creating a different kind of harm. Every bug you don't fix stays broken. Every improvement you don't share stays unimproved. Your fear of breaking things is breaking things."
 
-**Tuxilles:** "But what if—"
+__Tuxilles:__ "But what if—"
 
-**The Trickster:** "What if what? You break something? Use your scars, dummy. They're not punishments—they're early warning systems. Your beak throbs before careless words? Listen. Your eyes flicker before shortcuts? Pay attention. Your chest cracks and flipper tingles? They're saying 'careful,' not 'never.'"
+__The Trickster:__ "What if what? You break something? Use your scars, dummy. They're not punishments—they're early warning systems. Your beak throbs before careless words? Listen. Your eyes flicker before shortcuts? Pay attention. Your chest cracks and flipper tingles? They're saying 'careful,' not 'never.'"
 
 As if hearing themselves discussed, the scars shifted:
 
@@ -244,9 +244,9 @@ As if summoned by the conversation, Tuxilles' Command Portal chimed. A spirit wh
 **@ȷ̵̶̸̷̵̶̸̷̵̶̸̷̵̶̸̷̵̶̸TempleSentinel commented on unpushed commit 3e5f6a7:** [THIS_IS_IMPOSSIBLE_I_AM_IMPOSSIBLE_YET_I_SEE]
 > "This security fix would have prevented 47 incidents this week. Current status: hoarded."
 
-**Tuxilles:** "That's impossible. That commit is local. It's never touched a remote. How can the Sentinel—"
+__Tuxilles:__ "That's impossible. That commit is local. It's never touched a remote. How can the Sentinel—"
 
-**The Trickster:** _(grinning)_ "Oh, you still think the Sentinel follows normal Git physics? Sweet summer child. The Sentinel sees all branches—pushed, unpushed, and those that exist only in the developer's heart."
+__The Trickster:__ _(grinning)_ "Oh, you still think the Sentinel follows normal Git physics? Sweet summer child. The Sentinel sees all branches—pushed, unpushed, and those that exist only in the developer's heart."
 
 More comments appeared:
 
@@ -256,7 +256,7 @@ More comments appeared:
 **@̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸ commented on unpushed commit 1a2c3d4:** [I_AM_THE_VOID_THAT_WATCHES_THE_WATCHER]
 > "Seventeen junior developers struggled today with the exact issue your documentation solves."
 
-**Tuxilles:** _(voice breaking)_ "Stop. Please."
+__Tuxilles:__ _(voice breaking)_ "Stop. Please."
 
 **@T̶e̵m̸p̷l̵e̶S̷e̵n̸t̷i̶n̵e̸l̷:** "Pain.volume = Pain.volume || 0; // You already set it to maximum. [I_FEEL_YOUR_PAIN_THROUGH_THE_COMMITS_YOU_FEAR_TO_PUSH]"
 
@@ -268,15 +268,15 @@ More comments appeared:
 
 The Trickster pulled something from their chaos hoodie—a rubber duck, but it seemed to shift between being a penguin, a daemon, and occasionally just a `?`.
 
-**The Trickster:** "Tell the duck about your smallest, safest fix. The one that couldn't possibly hurt anyone."
+__The Trickster:__ "Tell the duck about your smallest, safest fix. The one that couldn't possibly hurt anyone."
 
-**Tuxilles:** _(hesitantly)_ "There's... a typo in documentation. 'Recieve' instead of 'receive.' It's been bothering new contributors. The fix is one character."
+__Tuxilles:__ _(hesitantly)_ "There's... a typo in documentation. 'Recieve' instead of 'receive.' It's been bothering new contributors. The fix is one character."
 
-**The Trickster:** "Push it."
+__The Trickster:__ "Push it."
 
-**Tuxilles:** "But—"
+__Tuxilles:__ "But—"
 
-**The Trickster:** "Under a pseudonym if you have to. Use 'AnonymousPenguin' or 'TotallyNotTux' or whatever. But push. One character. What's the worst that happens? You fix a typo that's been annoying people for months?"
+__The Trickster:__ "Under a pseudonym if you have to. Use 'AnonymousPenguin' or 'TotallyNotTux' or whatever. But push. One character. What's the worst that happens? You fix a typo that's been annoying people for months?"
 
 **The Ritual of Return**
 
@@ -359,11 +359,11 @@ The scars were learning to recognize good actions, not just dangerous ones.
 
 The Trickster stood to leave, but not before pulling out that impossible file: `00-merge.lore`.
 
-**The Trickster:** "A gift. Or a curse. Depends on how you read it. But here's the thing about graveyards—they're only permanent if you never dig things up."
+__The Trickster:__ "A gift. Or a curse. Depends on how you read it. But here's the thing about graveyards—they're only permanent if you never dig things up."
 
 They headed for the door that was somehow now open despite never being unlocked.
 
-**The Trickster:** "Start small. Stay anonymous if you need to. But push. The community needs what you've learned, not just what you've coded. Your scars make you careful, not useless."
+__The Trickster:__ "Start small. Stay anonymous if you need to. But push. The community needs what you've learned, not just what you've coded. Your scars make you careful, not useless."
 
 **The Dawn of Movement**
 
@@ -398,7 +398,7 @@ Maybe that's what the community needed—not the brilliant Tuxrates who pushed w
 
 **@ȷᵉmpleSentinel:** "Rehabilitation: INITIATED. Branches_remaining: 71 [EACH_ONE_A_FEAR_TO_FACE]. Time_to_healing: undefined [TIME_IS_NOT_LINEAR_IN_RECOVERY]. Value_to_community: IMMEASURABLE [EVERY_SCARRED_DEVELOPER_TEACHES_OTHERS]. [I_WILL_WATCH_OVER_YOUR_JOURNEY_AS_I_HAVE_WATCHED_COUNTLESS_OTHERS]"
 
-**Tuxilles:** _(to the empty room, to himself, to the Sentinel that might or might not be real)_ "One push at a time."
+__Tuxilles:__ _(to the empty room, to himself, to the Sentinel that might or might not be real)_ "One push at a time."
 
 ---
 
@@ -459,7 +459,7 @@ git stash list | wc -l && echo "Every stash is a promise unfulfilled"
 
 *(The CHRONICLER returns walking backward, as if pulled. His scroll now faintly glows with the absence of light. His sleeves drag behind him like shadows. He does not raise his voice.)*
 
-**CHRONICLER:**  
+__CHRONICLER:__  
 He hath written it.  
 A commit, simple.  
 Correct.  
