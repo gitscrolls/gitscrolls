@@ -11,10 +11,11 @@ updated: 2025-01-11T00:30
 ---
 
 # GitScroll XIII: The Return Pull
+
 _The Tentative Bridge Home_
 
 > __"The hardest push is the one back to those you've betrayed."__  
-_As attempted by **Tuxilles the Battle-Scarred**, Seeker of Redemption, Submitter of Pull Request #5847_
+_As attempted by __Tuxilles the Battle-Scarred__, Seeker of Redemption, Submitter of Pull Request #5847_
 
 ## The Thirteenth Teaching: "Trust Rebuilt Is Not Trust Restored"
 
@@ -28,6 +29,7 @@ _Now every diff must bear what once you broke._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *To Submit, and Be Seen*
 
 *(The CHRONICLER enters slowly, one sleeve pinned with a small crimson tag—symbol of revision. His scroll is rolled clean and tied with a merge ribbon. His hat, slightly askew, betrays cautious hope.)*
@@ -40,7 +42,7 @@ Not to revert.
 But to *reach again toward the branch once shared.*
 
 This scroll is not about fixes.  
-It is about **requests**.
+It is about __requests__.
 
 The kind that cannot be resolved by code alone.  
 The kind that seeketh not approval,  
@@ -51,7 +53,7 @@ faced the Reviewer,
 and now... he dareth to rejoin the thread.
 
 But not by force.  
-By **pull**.
+By __pull__.
 
 He doth extend his hand across broken branches,  
 and prays the merge can still be clean.
@@ -90,10 +92,11 @@ Three commits. Small. Careful. Each one addressing a real issue from the inciden
 His scarred flipper trembled over the sacred keys. The last time he'd pushed to this repository, he'd destroyed everything.
 
 The scars convened their council:
-- Beak: *steady pulse* - "Speak only truth, claim no glory"
-- Eyes: *clear focus* - "See their fear as valid"
-- Chest: *measured weight* - "Bear their scrutiny with grace"
-- Flipper: *patient warmth* - "Type carefully, push gently"
+
+- Beak: _steady pulse_ - "Speak only truth, claim no glory"
+- Eyes: _clear focus_ - "See their fear as valid"
+- Chest: _measured weight_ - "Bear their scrutiny with grace"
+- Flipper: _patient warmth_ - "Type carefully, push gently"
 
 They were ready. Not eager, but ready.
 
@@ -115,10 +118,11 @@ c3d4e5f docs: Add runbook for auth service recovery
 Each commit was tiny. Each had ten times more tests than code. Each addressed a specific failure from his catastrophe.
 
 As he reviewed his own work, the scars provided guidance:
-- Beak: *approving hum* at the honest commit messages
-- Eyes: *revealing* edge cases he'd actually caught this time
-- Chest: *balanced* between humility and confidence
-- Flipper: *comfortable* with these careful keystrokes
+
+- Beak: _approving hum_ at the honest commit messages
+- Eyes: _revealing_ edge cases he'd actually caught this time
+- Chest: _balanced_ between humility and confidence
+- Flipper: _comfortable_ with these careful keystrokes
 
 The scars had taught him to review himself as harshly as others would review him.
 
@@ -181,7 +185,7 @@ His flipper hovered over the "Create Pull Request" button. Every scar throbbed w
 *ACHE* (chest) - "Bear the weight of their anger"
 *BURN* (flipper) - "This click changes everything"
 
-But beneath the warning throbs, something else: readiness. The scars weren't saying no—they were saying *be careful*.
+But beneath the warning throbs, something else: readiness. The scars weren't saying no—they were saying _be careful_.
 
 **Click.**
 
@@ -231,7 +235,7 @@ Then the comments:
 
 **The First Review - A Stranger's Mercy**
 
-**@NewMaintainerKim** *(joined 2 months ago)*:
+**@NewMaintainerKim** _(joined 2 months ago)_:
 "I'm reviewing this purely on its technical merits. The code is solid. The tests are comprehensive. The approach is conservative and safe. From a pure code perspective, this is a good PR.
 
 However, I acknowledge the community has valid concerns about trust. I'll wait for senior maintainer input before approving."
@@ -241,7 +245,7 @@ However, I acknowledge the community has valid concerns about trust. I'll wait f
 **@PuffyOpenBSD:**
 "I've reviewed every line. Twice. Run it through our paranoid security suite. The rate limiting is well-implemented. The chaos tests are brutal (in a good way). The code is careful.
 
-But code isn't the only thing we review here. 
+But code isn't the only thing we review here.
 
 @Tuxilles - You destroyed three weeks of my security work. You dismissed my concerns as 'paranoid programming.' Now you submit careful, paranoid code yourself. The irony isn't lost on me.
 
@@ -249,7 +253,7 @@ I need to see more than good code. I need to see that you understand why trust m
 
 **Comment marked as "Changes Requested"**
 
-Tuxilles' chest scar *expanded* as he read Puffy's words. Not with pain, but with understanding. The weight wasn't just code—it was relationships. The crack measured not just responsibility but the precise mass of trust destroyed and the work needed to rebuild it.
+Tuxilles' chest scar _expanded_ as he read Puffy's words. Not with pain, but with understanding. The weight wasn't just code—it was relationships. The crack measured not just responsibility but the precise mass of trust destroyed and the work needed to rebuild it.
 
 **The Third Review - A Victim's Voice**
 
@@ -258,9 +262,9 @@ Tuxilles' chest scar *expanded* as he read Puffy's words. Not with pain, but wit
 
 This PR does exactly what my first PR tried to do - make auth more resilient. The PR you force-pushed into oblivion. I've been scared to contribute again since then.
 
-Reading Ferris's words, Tuxilles' beak scar *burned* with shame—not at what he might say, but at what he had said. The eye flickers showed him clearly: Ferris at their sacred keys, typing and deleting, typing and deleting, gathering courage just to comment on his PR.
+Reading Ferris's words, Tuxilles' beak scar _burned_ with shame—not at what he might say, but at what he had said. The eye flickers showed him clearly: Ferris at their sacred keys, typing and deleting, typing and deleting, gathering courage just to comment on his PR.
 
-But I've also been watching your work on other projects (yes, we figured out your pseudonyms). You've been helping new contributors. Writing the kind of reviews I wished I'd gotten. 
+But I've also been watching your work on other projects (yes, we figured out your pseudonyms). You've been helping new contributors. Writing the kind of reviews I wished I'd gotten.
 
 The code is good. More importantly, it shows you've learned to think about edge cases, about failure modes, about other developers.
 
@@ -287,9 +291,9 @@ Tuxilles' heart stopped. All four scars activated in their old pattern:
 *CRACK* (chest) - Weight of inevitable denial
 *BURN* (flipper) - Ready to close the Sacred Codex forever
 
-But something was different. Under the fear response, the scars whispered: *wait, watch, understand*.
+But something was different. Under the fear response, the scars whispered: _wait, watch, understand_.
 
-But there was no comment. Just "requested changes" with no explanation. 
+But there was no comment. Just "requested changes" with no explanation.
 
 An hour later:
 
@@ -316,10 +320,11 @@ Date:   Thu Apr 27 15:42:00 2025 +0000
 Linus had... improved his PR. Added historical context. And marked him as co-author.
 
 The scars responded with confusion, then recognition:
-- Beak: *uncertain pulse* - "This isn't mockery?"
-- Eyes: *clearing vision* - "He's... teaching through action"
-- Chest: *shifting weight* - "This is heavier than rejection"
-- Flipper: *warm surprise* - "Co-author means shared responsibility"
+
+- Beak: _uncertain pulse_ - "This isn't mockery?"
+- Eyes: _clearing vision_ - "He's... teaching through action"
+- Chest: _shifting weight_ - "This is heavier than rejection"
+- Flipper: _warm surprise_ - "Co-author means shared responsibility"
 
 Linus wasn't just reviewing code. He was demonstrating that redemption required collaboration, not isolation.
 
@@ -337,6 +342,7 @@ Every PR you submit will be scrutinized. Every change will be questioned. Not be
 You broke more than code. You broke faith. This PR shows you understand the code part. Time will tell if you understand the faith part.
 
 Approved with the following conditions:
+
 1. Another maintainer must also approve
 2. Extended monitoring period after merge
 3. You'll be listed as contributor, not maintainer
@@ -365,6 +371,7 @@ What followed was something unprecedented in the Temple's history - a philosophi
 **@QuietContributor:** "I had a bad first PR experience (not from Tuxilles). Seeing someone get a second chance gives me hope that mistakes aren't forever. That matters."
 
 Reading the debate, Tuxilles' scars evolved again:
+
 - Beak: Learning the weight of community voice
 - Eyes: Seeing perspectives he'd never considered
 - Chest: Feeling the pull between justice and mercy
@@ -405,6 +412,7 @@ Finally:
 
 **@MaintainerSarah:**
 "I'm merging this based on:
+
 1. Technical merit (unquestionable)
 2. Two senior approvals (trusted judgment)
 3. Community need (these fixes help)
@@ -427,10 +435,11 @@ Merging."
 Tuxilles stared at the green "Merged" badge. His first PR back. Not as a hero. Not as a trusted maintainer. Just as someone trying to help.
 
 His scars settled into a new configuration:
-- Beak: *steady rhythm* - Speaking truth builds trust slowly
-- Eyes: *dual vision* - Seeing both past harm and future possibility
-- Chest: *measured breathing* - The weight of redemption is bearable in small doses
-- Flipper: *ready warmth* - Prepared for the next small step
+
+- Beak: _steady rhythm_ - Speaking truth builds trust slowly
+- Eyes: _dual vision_ - Seeing both past harm and future possibility
+- Chest: _measured breathing_ - The weight of redemption is bearable in small doses
+- Flipper: _ready warmth_ - Prepared for the next small step
 
 The path home existed. But it was measured in PRs, not promises. In code reviewed, not words spoken. In trust rebuilt one commit at a time.
 
@@ -468,7 +477,7 @@ Tuxilles wept. Not from sadness but from something else - the first hint that br
 He opened a new branch:
 
 ```bash
-$ git checkout -b tuxilles/small-helpful-fix-2
+git checkout -b tuxilles/small-helpful-fix-2
 ```
 
 The return pull was complete. He wasn't home - might never be fully home - but he was contributing. One careful commit at a time.
@@ -500,20 +509,21 @@ git log --author="$(whoami)" --since="exile" | grep "small steps"
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *The Merge That Was Not Denied*
 
-*(The CHRONICLER returns smiling—not broadly, but *truly*. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
+*(The CHRONICLER returns smiling—not broadly, but _truly_. His scroll is no longer rolled, but gently folded like parchment shared between friends. His sleeves are fastened once more. His hat is worn confidently askew.)*
 
 __CHRONICLER:__  
 It was accepted.
 
 Not without questions.  
 Not without review.  
-But **accepted**.
+But __accepted__.
 
 **Tuxicles** hath rejoined the thread.  
 Not to command—  
-but to *contribute*.
+but to _contribute_.
 
 The line he feared broken  
 hath not only endured—  
@@ -522,7 +532,7 @@ it hath grown stronger for the wound.
 *He presses the scroll to his lips once, then tucks it away.*
 
 This scroll changeth not code.  
-It changeth **context**.
+It changeth __context__.
 
 And from here,  
 the lessons no longer come from systems alone—  
@@ -543,7 +553,7 @@ And lo—Tuxicles is ready to listen.
 **Next: [GitScroll XIV - "Commandments of the Wise"](14-Commandments-of-Wise.md)**  
 _Where Tuxilles becomes a teacher and multiplies wisdom_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

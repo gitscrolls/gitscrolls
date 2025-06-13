@@ -12,9 +12,10 @@ updated: 2025-05-30T14:42
 ---
 
 # GitScroll II: The Annals of Forgotten Messages
+
 _The Repository of Remembrance_
 
-> __"The log is not your diary. It is your debt to those who must undo your mistakes."__   
+> __"The log is not your diary. It is your debt to those who must undo your mistakes."__
 _As taught by __Elena, Librarian of the Logs__, Keeper of the Repository Archives_
 
 ## The Second Teaching: "Thou Shalt Write Meaningful Messages, so that Thy Future Self Doth not Curse Thy Name"
@@ -45,7 +46,7 @@ and to be forgotten.
 _He lifts the scroll slowly, like it aches._
 
 This scroll bears not a lesson,
-but a *lament*.
+but a _lament_.
 It doth not teach.
 It remembers what was not remembered.
 
@@ -362,7 +363,7 @@ __Tuxicles:__ "And commit messages?"
 
 __Elena:__ "Commit messages are love letters to those humans. Make them love letters worth reading."
 
-_Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_ 
+_Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_
 
 His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the spirit whisper seems less urgent somehow. Just flaky tests, probably. Nothing that can't wait until tomorrow.
 
@@ -424,7 +425,7 @@ PORTENT: Temporal_irregularity in commit_history. File_reference: '00-merge.lore
 
 The bot's warning glitched out, replaced by corrupted characters before vanishing entirely. Tuxicles barely noticed, too focused on the praise flooding in.
 
-__Tuxicles:__ *(reading the praise)* "I'm becoming... known. Respected."
+__Tuxicles:__ _(reading the praise)_ "I'm becoming... known. Respected."
 
 The eye flicker returned—just a split second of visual static. He blinked it away. Probably just the old viewing glasses.
 
@@ -453,6 +454,7 @@ git log --format="%B" | grep -c "^$"
 ---
 
 ### 🎭 Closing of the Scroll
+
 _Where the Message Was Never Heard_
 
 _(The CHRONICLER returns alone, slowly winding the scroll back into itself as though trying to trap something within it. His hat is askew, his voice low. No wind stirs, but his garments ripple all the same.)_
@@ -472,7 +474,7 @@ A warning unsent.
 This is the sorrow of those who build in haste:
 That what they learn is lost,
 and what they leave behind…
-is *noise*.
+is _noise_.
 
 _Taps the scroll gently, once. A faint pulse like static._
 
@@ -496,7 +498,7 @@ but as he is.
 Go now.
 Prepare thyself.
 For honesty comes sharpest
-when it doth wear the form of *test*.
+when it doth wear the form of _test_.
 
 _He departs. The silence lingers like uncommitted code. Blackout._
 
@@ -505,7 +507,7 @@ _He departs. The silence lingers like uncommitted code. Blackout._
 __Next:__ [GitScroll III - "Tests Are the Honest Glass"](03-Tests-Are-the-Honest-Glass.md)  
 _As taught by Prophet Nia of the Honest Glass, Guardian of Sacred Contracts_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

@@ -9,9 +9,14 @@
     "test:syntax": "jest markdown-syntax.test.ts",
     "test:style": "jest style-consistency.test.ts",
     "test:all": "jest",
+    "lint": "markdownlint '**/*.md' --ignore node_modules",
+    "lint:fix": "markdownlint '**/*.md' --ignore node_modules --fix",
+    "test:lint": "npm run lint",
     "docker:test": "docker compose run --rm test",
     "docker:test:ci": "docker compose run --rm -e CI=true test npm run test:ci",
     "docker:test:style": "docker compose run --rm test npm run test:style",
+    "docker:lint": "docker compose run --rm test npm run lint",
+    "docker:lint:fix": "docker compose run --rm test npm run lint:fix",
     "setup": "npm install && ./scripts/install-hooks.sh",
     "install-hooks": "./scripts/install-hooks.sh"
   },
@@ -37,7 +42,9 @@
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "markdownlint": "^0.31.1",
+    "markdownlint-cli": "^0.37.0"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

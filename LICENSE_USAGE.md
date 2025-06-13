@@ -2,17 +2,17 @@
 
 > These scrolls are shared—not sold—for those who seek the craft,  
 > Not coin, nor conquest, but clarity of path.
-> 
+>
 > The lore within was forged with jest and care,  
 > By one who’d seen both prod and patch laid bare.  
 > From cursed deploys to README rites refined,  
 > Each scroll was penned for kin of dev’ing mind.
-> 
+>
 > So if thy purpose be to teach, not take,  
 > To fork with honor, not for profit’s sake—  
 > Then claim this gift, and pass its truth along.  
 > Your merge is welcome, if your intent be strong.
-> 
+>
 > But should you hoard, or charge where free it stood,  
 > Expect a visit from the branch of good —  
 > and legal counsel, bearing scrolls of wood.
@@ -23,16 +23,16 @@
 
 # 📜 LICENSE USAGE
 
-*Hark!* — *these scrolls are shared freely, but not without covenant.* 
+*Hark!* — *these scrolls are shared freely, but not without covenant.*
 
 The wisdom within *GitScrolls: The Odyssey of the Dev* is gifted to the world,  
 yet bound by sacred terms, that it may guide, not be sold.
 
 ---
 
-## ✅ Valiant Deeds _(Free Use)_
+## ✅ Valiant Deeds *(Free Use)*
 
-All are welcome — _encouraged_, even — to:
+All are welcome — *encouraged*, even — to:
 
 - Quote the scrolls in talks, blog posts, and sacred documentation (with attribution)
 - Teach from them in bootcamps, workshops, guilds, and universities
@@ -47,7 +47,7 @@ you are free to carry these teachings to those in need.
 
 ---
 
-## ❌ Forbidden Arts _(Requires Permission)_
+## ❌ Forbidden Arts *(Requires Permission)*
 
 These acts walk the line of profit — and thus require a rite of passage:
 
@@ -62,7 +62,7 @@ Speak with the steward.
 
 ---
 
-## 🤔 Paths Between _(Ask First)_
+## 🤔 Paths Between *(Ask First)*
 
 Some uses dwell in ambiguity — not forbidden, but not yet blessed:
 
@@ -81,7 +81,7 @@ If the usage serves learning over profit, the way will likely be opened.
 
 To license these scrolls for coin-bearing purposes — speaking, publishing, adaptation, or integration — send word:
 
-📧 **info@gitscrolls.org**  
+📧 **<info@gitscrolls.org>**  
 💼 **Subject line:** “GitScrolls Commercial Licensing”
 
 The steward shall hear your request and respond in kind.
@@ -110,8 +110,8 @@ Retrieved from https://gitscrolls.org
 ```
 
 
-📜 Note: All derivative works must also be licensed under CC BY-NC-SA 4.0 
-> (_This is the ShareAlike requirement._)
+📜 Note: All derivative works must also be licensed under CC BY-NC-SA 4.0
+> (*This is the ShareAlike requirement.*)
 
 ---
 
@@ -123,7 +123,7 @@ This license embodies the values within *GitScrolls*:
 - **NonCommercial** protects against exploitation while keeping wisdom accessible  
 - **ShareAlike** reflects the ethos of forking — derivative works must remain open  
 
-This structure enables the "eternal cycle" described in _[GitScroll X: Where Heroes Go to Die](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/10-Where-Heroes-Go-to-Die.md)_ — knowledge shared, remixed, and passed forward while supporting sustainable creation.
+This structure enables the "eternal cycle" described in *[GitScroll X: Where Heroes Go to Die](https://github.com/gitscrolls/gitscrolls/blob/main/scrolls/10-Where-Heroes-Go-to-Die.md)* — knowledge shared, remixed, and passed forward while supporting sustainable creation.
 
 ---
 
@@ -132,11 +132,11 @@ This structure enables the "eternal cycle" described in _[GitScroll X: Where Her
 Not sure whether your use qualifies as commercial? Just ask.  
 The goal is to **keep the wisdom flowing** while supporting sustainable creation.
 
-> _"What you read changes nothing. What you do changes everything."_
+> *"What you read changes nothing. What you do changes everything."*
 
 ---
 
-_This license notice is itself licensed under CC BY-NC-SA 4.0._
+*This license notice is itself licensed under CC BY-NC-SA 4.0.*
 
 🧾 Rite of Reuse Committed: LICENSE_USAGE.md Inscribed
 

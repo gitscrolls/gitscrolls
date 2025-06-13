@@ -10,6 +10,7 @@ It imagines a world where Linus Torvalds, Shakespeare, Homer, Dante, and Marcus 
 …and *Tuxicles* is the poor junior dev just trying to merge to main.
 
 Told across 16 sacred scrolls, it follows his exile, fall, and return — a branching path every developer knows:
+
 - The first `git init`
 - The fragile power of `merge`
 - The silent shame of a failed deploy
@@ -20,21 +21,25 @@ Told across 16 sacred scrolls, it follows his exile, fall, and return — a bran
 ## 📖 Start Reading
 
 > [**Scroll I: The Unbroken Line**](./scrolls/01-Unbroken-Line.md)  
-> _Where Tuxicles learns that history is sacred — and not to be rewritten lightly._
+> *Where Tuxicles learns that history is sacred — and not to be rewritten lightly.*
 
 ---
 
 ## 📚 Scroll Index
 
 ### **Act I: Innocence**
+
 ![Young Tuxicles](https://media.githubusercontent.com/media/gitscrolls/gitscrolls-assets/refs/heads/main/act-1.webp)
+
 - [Scroll I: *The Unbroken Line*](./scrolls/01-Unbroken-Line.md)  
   *Linus the Elder teaches reverence for the commit chain.*
 - [Scroll II: *The Annals of Forgotten Messages*](./scrolls/02-Annals-of-Forgotten-Messages.md)  
   *Elena reveals that commit messages are love letters to the future.*
 
 ### **Act II: Questions**
+
 ![Prophet Nia](https://media.githubusercontent.com/media/gitscrolls/gitscrolls-assets/refs/heads/main/scroll-03-hero.webp)
+
 - [Scroll III: *Tests Are the Honest Glass*](./scrolls/03-Tests-Are-the-Honest-Glass.md)  
   *Prophet Nia shows that tests reflect character.*
 - [Scroll IV: *The Schism Scrolls*](./scrolls/04-Schism-Scrolls.md)  
@@ -43,14 +48,18 @@ Told across 16 sacred scrolls, it follows his exile, fall, and return — a bran
   *Tuxicles gains privileges — and forgets what earned them.*
 
 ### **Act III: The Fall**
+
 ![Tuxernica](https://media.githubusercontent.com/media/gitscrolls/gitscrolls-assets/refs/heads/main/guernica-tux-3.webp)
+
 - [Scroll VI: *The Perfect Storm*](./scrolls/06-The-Perfect-Storm.md)  
   *Mentors ignored. Warnings unheeded. The build looms.*
 - [Scroll VII: *The Wounding of Hubris*](./scrolls/07-Wounding-of-Hubris.md)  
   *Auth breaks. Millions are exposed. Exile begins.*
 
 ### **Act IV: The Wandering**
+
 ![Tux in Exile](https://media.githubusercontent.com/media/gitscrolls/gitscrolls-assets/refs/heads/main/hard-tux.webp)
+
 - [Scroll VIII: *The Digital Underworld*](./scrolls/08-The-Digital-Underworld.md)  
   *Tuxicles wanders the seven circles of dev hell.*
 - [Scroll IX: *Songs of Chaos Sirens*](./scrolls/09-Songs-of-Chaos-Sirens.md)  
@@ -65,7 +74,9 @@ Told across 16 sacred scrolls, it follows his exile, fall, and return — a bran
   *A single PR. Everything rides on the diff.*
 
 ### **Act V: Teaching**
+
 ![Tux, Enlightened](https://media.githubusercontent.com/media/gitscrolls/gitscrolls-assets/refs/heads/main/tux-enlightened.webp)
+
 - [Scroll XIV: *Commandments of the Wise*](./scrolls/14-Commandments-of-Wise.md)  
   *The Oracle delivers sacred laws of mentorship.*
 - [Scroll XV: *The Merge of Meaning*](./scrolls/15-The-Merge-of-Meaning.md)  
@@ -78,6 +89,7 @@ Told across 16 sacred scrolls, it follows his exile, fall, and return — a bran
 ## 🧭 Why GitScrolls?
 
 **GitScrolls is for those who:**
+
 - See `git blame` as both technical and spiritual
 - Believe code is memory, and memory is sacred
 - Want to teach without preaching, and learn without shame
@@ -92,11 +104,13 @@ You walk a path many have wandered. These are the scrolls they left behind.
 > *“The scrolls are sacred. They evolve with care.”*
 
 **Welcomed:**
+
 - Typos, formatting, markdown fixes
 - Reflections via GitHub Discussions
 - Questions, scroll notes, observations
 
 **Not accepted:**
+
 - Rewrites of core scrolls
 - New characters or scrolls (fork it!)
 - Meme PRs (we already did those — they’re in `/blessed_meme_archive.md`)

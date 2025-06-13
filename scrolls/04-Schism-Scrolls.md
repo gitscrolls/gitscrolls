@@ -11,16 +11,17 @@ updated: 2025-05-30T06:40
 ---
 
 # GitScroll IV: The Schism Scrolls
+
 _The Chronicles of Tuxrates and the Paradox of Freedom_
 
-> __"You owe no loyalty to what will not change. A root that forbids new branches is not sacred—it is dying."__   
+> __"You owe no loyalty to what will not change. A root that forbids new branches is not sacred—it is dying."__
 _As taught by the __Fork-Bearer of Freedom__, Guardian of the Four Freedoms, Saint of Perpetual Copyleft_
 
 ## The Fourth Teaching: "Forks Are Not Betrayals"
 
 _When sacred roots deny the need to grow,_  
 _The bravest hand must cleave with blessed knife._  
-_For code that fears the branch shall never know_    
+_For code that fears the branch shall never know_
 _The fruit that springs from newly-given life._  
 
 _Let Keepers mourn—let forests rise instead._  
@@ -29,6 +30,7 @@ _The fork is not betrayal—but the thread._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *The Splitting Path*
 
 *(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)*
@@ -42,7 +44,7 @@ The test was passed,
 but the pride remained.
 
 This scroll speaketh not of error—  
-but of **ego**.
+but of __ego__.
 
 *He spins, gesturing to unseen figures on both sides.*
 
@@ -374,7 +376,7 @@ __Tuxrates:__ "I just... I need to understand the why behind the what. Rules wit
 
 __Fork-Bearer of Freedom:__ "Exactly the mindset we need more of." He paused, considering. "I'm going to grant you 'Philosophical Contributor' status in the Freedom Foundation's working groups. It's not a technical role—it's for those who can think deeply about the implications of our choices."
 
-__Tuxrates:__ *(surprised)* "But I'm still so new to all this. Surely there are more experienced developers—"
+__Tuxrates:__ _(surprised)_ "But I'm still so new to all this. Surely there are more experienced developers—"
 
 __Fork-Bearer of Freedom:__ "Experience with technology is common. Experience with thinking—truly thinking—about what technology serves? That's precious. And dangerous in the wrong hands." His eyes twinkled. "But I trust you're the right hands."
 
@@ -388,7 +390,7 @@ As Tuxrates reached for the pendant, his flipper tingled sharply—not the gentl
 @TempleSentinel: "PROPHECY: TRUST_MILESTONE_REACHED. Progression_log: +10→+25→+45→+75. AUGURY: PHILOSOPHICAL_AUTHORITY_GRANTED. Pattern_analysis: SOPHISTICATED_REASONING_EMERGING. Trust_velocity: EXPONENTIAL. PORTENT: AUTHORITY_WITHOUT_HUMILITY_DETECTED. Correlation: HIGH_TRUST + EGO_RESPONSES = HUBRIS_PROBABILITY_95%. Action: MONITOR_FOR_CATASTROPHIC_CONVERGENCE"
 ```
 
-But Tuxrates, fingering the pendant, felt only pride. The tingle in his flipper faded to a persistent throb, easily ignored beneath the warmth of recognition. Another mentor's trust. Another validation of his growing wisdom. 
+But Tuxrates, fingering the pendant, felt only pride. The tingle in his flipper faded to a persistent throb, easily ignored beneath the warmth of recognition. Another mentor's trust. Another validation of his growing wisdom.
 
 He dismissed the Sentinel's warnings with a thought: "They always warn. It's what they're programmed to do."
 
@@ -459,6 +461,7 @@ git checkout -b freedom-to-grow
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *The Cost of the Fork*
 
 *(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)*
@@ -475,7 +478,7 @@ The vision—forked.
 The old ways cast aside like outdated dependencies.
 
 **Tuxicles** hath not chosen a side.  
-But the scroll hath chosen *him*.
+But the scroll hath chosen _him_.
 
 He stands alone, between the branches,  
 feeling both pull.  
@@ -509,7 +512,7 @@ may cast a shadow long and cold.
 **Next: [GitScroll V - "The Ascent to Hubris"](05-The-Ascent-to-Hubris.md)**  
 _Where trust becomes a dangerous weapon_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._

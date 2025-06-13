@@ -11,10 +11,12 @@ npm run setup
 ```
 
 This will:
+
 1. Install npm dependencies
 2. Install git hooks (pre-push validation)
 
 You can also install just the hooks with:
+
 ```bash
 npm run install-hooks
 ```
@@ -22,13 +24,15 @@ npm run install-hooks
 ## What It Tests
 
 ### Syntax Validation (`npm run test:syntax`)
+
 - **All 16 GitScrolls** in the `/scrolls` directory
 - **README.md** in the root directory
 - Checks for:
-  - Unclosed code blocks (` ``` `)
-  - Basic Markdown parsing errors
+    - Unclosed code blocks (` ``` `)
+    - Basic Markdown parsing errors
 
 ### Style Consistency (`npm run test:style`)
+
 - **Frontmatter Format**: Ensures traditional YAML frontmatter with all required fields
 - **Quote Formatting**: Main quotes should use bold (`__"quote"__`) not italics
 - **Section Headers**: Should use "Scene" with Roman numerals (not "Act")
@@ -65,6 +69,7 @@ npm run test:ci
 ## GitHub Actions
 
 The tests run automatically on:
+
 - Every push to main/master
 - Every pull request
 
@@ -73,6 +78,7 @@ The workflow is defined in `.github/workflows/markdown-validation.yml`
 ## Test Output
 
 When all tests pass:
+
 ```
 PASS  src/__tests__/markdown-syntax.test.ts
   GitScrolls Markdown Syntax Validation
@@ -84,6 +90,7 @@ PASS  src/__tests__/markdown-syntax.test.ts
 ```
 
 When errors are found, you'll see:
+
 ```
 Markdown syntax errors in 02-Annals-of-Forgotten-Messages.md:
 Line 311, Column 45: Unmatched underscore (_) for italic emphasis

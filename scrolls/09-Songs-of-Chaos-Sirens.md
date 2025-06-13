@@ -16,11 +16,12 @@ updated: 2025-05-30T06:08
 ---
 
 # GitScroll IX: Songs of the Chaos Sirens
+
 _The Chronicles of Tuxilles the Battle-Scarred and the Art of Dancing with Absurdity_
 
 ## The Ninth Teaching: "Every Bug Is a Feature Request"
 
-> *"If they break what you built, it was already broken."*  
+> _"If they break what you built, it was already broken."_  
 _As taught by __The Trickster of GitHub Issues__, Master of Creative Chaos, Patron Saint of Unexpected Use Cases_
 
 _When rules grow sharp, and users bruise their grace,_  
@@ -36,6 +37,7 @@ _And jesters oft repair what lords control._
 ---
 
 ### 🎭 Invocation Before the Scroll  
+
 *Where Logic Meets Lure*
 
 *(The CHRONICLER enters spinning slowly, his sleeves caught in some unseen current. The scroll is wrapped in ribbon, not rope. His hat is adorned now with a second feather—one he did not place there. He looks both amused and afraid.)*
@@ -47,16 +49,16 @@ Some truths arrive in verse.
 Some lies in test results.
 
 This scroll beareth neither assertion nor structure.  
-It beareth **song**.
+It beareth __song__.
 
 The Chaos Sirens call now—  
 not with melody,  
-but with **meaning that moveth**.
+but with __meaning that moveth__.
 
 *He stops, suddenly still. One sleeve twists without wind.*
 
 They do not tempt with beauty.  
-They tempt with *insight*.  
+They tempt with _insight_.  
 The forbidden kind.  
 The kind that feeleth like revelation,  
 and tasteth like regret.
@@ -101,13 +103,13 @@ His Command Portal flickered, and suddenly he was no longer in his apartment. Th
 
 **The Island of Easy Solutions**
 
-Here, floating in the space between repositories, lived the three Sirens of Software Development: **Skip-The-Ceremony**, **Comment-It-Out**, and **Patch-It-Later**. Each embodied a different shortcut, a different way to avoid the hard work of proper engineering.
+Here, floating in the space between repositories, lived the three Sirens of Software Development: __Skip-The-Ceremony__, __Comment-It-Out__, and __Patch-It-Later__. Each embodied a different shortcut, a different way to avoid the hard work of proper engineering.
 
-But the most dangerous of all was **Skip-The-Ceremony**, whose song could make any developer forget the painful lessons they'd learned about process and caution.
+But the most dangerous of all was __Skip-The-Ceremony__, whose song could make any developer forget the painful lessons they'd learned about process and caution.
 
 __Skip-The-Ceremony:__ "Poor exile... cast out for caring too much about elegance. Look how they mock your suffering while their systems crumble. Why not give them what they deserve?"
 
-The scar in his beak *PULSED* sharply—not just a reminder but an active warning. As Skip-The-Ceremony sang her tempting song, the chip burned with each lie he was tempted to believe:
+The scar in his beak _PULSED_ sharply—not just a reminder but an active warning. As Skip-The-Ceremony sang her tempting song, the chip burned with each lie he was tempted to believe:
 
 *THROB* - "You were cast out for excellence"
 *BURN* - "They don't deserve your careful work"
@@ -143,7 +145,7 @@ function validateInput(input) {
 
 Just one comment. One line disabled. Instant relief for frustrated users. Of course, if a malicious client ever sent massive payloads, it could overwhelm the system... but what were the odds?
 
-As Tuxilles reached for the keyboard, his flipper *ERUPTED* in burning pain. The scar that marked every dangerous command screamed its warning:
+As Tuxilles reached for the keyboard, his flipper _ERUPTED_ in burning pain. The scar that marked every dangerous command screamed its warning:
 
 *SEAR* - at the `//`
 *BURN* - at the word `TEMP`
@@ -366,6 +368,7 @@ git log --grep="unexpected" --oneline | head -5
 ---
 
 ### 🎭 Closing of the Scroll  
+
 *The Note That Did Not Fade*
 
 *(The CHRONICLER returns in silence. He hums a single note—wrong. The scroll in his hands shimmers faintly. His sleeves are askew. One feather is gone.)*
@@ -380,7 +383,7 @@ that doth hunger for patterns
 where none were meant.
 
 The Sirens sang not of destruction—  
-but of *possibility*.  
+but of _possibility_.  
 And that, dear reader,  
 is always the sharper blade.
 
@@ -408,7 +411,7 @@ For thou art about to walk
 **Next: [GitScroll X - "Between the Monsters of Time"](10-Between-Monsters-of-Time.md)**  
 _Where Tuxilles faces the impossible choice between speed and caution_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
 > _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to info@gitscrolls.org._  
+> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
 > _The steward shall hear thy request and respond in kind._
