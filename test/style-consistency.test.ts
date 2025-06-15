@@ -215,7 +215,8 @@ class StyleConsistencyChecker {
   }
   
   private checkFooterAttribution(content: string) {
-    const hasAttribution = content.includes('Let it be known that this scroll belongs to');
+    const hasAttribution = content.includes('GitScrolls: The Odyssey of the Dev') && 
+                          content.includes('© 2025 J. Kirby Ross');
     const scrollNumber = this.fileName.match(/\d+/)?.[0];
     
     if (!hasAttribution && scrollNumber) {
@@ -276,7 +277,8 @@ describe('GitScrolls Style Consistency', () => {
       const filePath = join(scrollsDir, file);
       const content = readFileSync(filePath, 'utf-8');
       
-      if (!content.includes('Let it be known that this scroll belongs to')) {
+      if (!content.includes('GitScrolls: The Odyssey of the Dev') || 
+          !content.includes('© 2025 J. Kirby Ross')) {
         missingAttribution.push(file);
       }
     });
