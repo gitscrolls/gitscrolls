@@ -499,7 +499,9 @@ Tuxicles will listen.
 **Next: [GitScroll XII - "Before the Ancient Reviewer"](12-Before-Ancient-Reviewer.md)**  
 _Where Tuxilles faces the judgment of legacy code and the temptation of eternal maintenance_
 
-> _Let it be known that this scroll belongs to **GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
-> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
-> _The steward shall hear thy request and respond in kind._
+---
+
+_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_© 2025 J. Kirby Ross · GitScrolls_  
+_Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+_Commercial use beyond the license? Petition the steward at info@gitscrolls.org._
