@@ -157,7 +157,7 @@ announce that @Tuxrates has been promoted to Core Maintainer status.
 
 **@ForkBearer**: "Bridges ideological divides with wisdom beyond his years."
 
-**@TeacherOfLostPackets**: "Commit messages that teach as they document."
+**@ElenaTheArchivist**: "Commit messages that teach as they document."
 
 Please join us in congratulating Tuxrates on this well-deserved recognition!
 ```
