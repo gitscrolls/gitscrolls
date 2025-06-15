@@ -45,10 +45,11 @@ Each proposed edit, note, or refinement is submitted as an Issue and assigned a 
 
 Tasks are grouped into:
 
-- Developmental Edit
-- Line Edit
-- Copyedit
-- Proofread
+- [ ] 🔜 Developmental Edit *(`v0.9.1`—July 1st, 2025)* 🔄
+- [ ] Line Edit *(`v0.9.2`—August 1st, 2025)*
+- [ ] Copyedit *(`v0.9.3`—September 1st, 2025)*
+- [ ] Proofread *(`v0.9.4`—October 1st, 2025)*
+- [ ] Official Release *(`v1.0.0`—October 14th, 2025)*
 
 To contribute to editorial work or follow current editing activity, visit:  
 

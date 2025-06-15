@@ -157,7 +157,7 @@ announce that @Tuxrates has been promoted to Core Maintainer status.
 
 **@ForkBearer**: "Bridges ideological divides with wisdom beyond his years."
 
-**@TeacherOfLostPackets**: "Commit messages that teach as they document."
+**@ElenaTheArchivist**: "Commit messages that teach as they document."
 
 Please join us in congratulating Tuxrates on this well-deserved recognition!
 ```
@@ -227,9 +227,13 @@ He ran `git status` again—nothing. Must have been a glitch. He had more import
 
 *"I could refactor this entire system in a weekend. Make it beautiful. They'll be amazed."*
 
+```
 **@T̸empleSentinel:** "Hubris.exe has started successf̶u̷l̸l̵y̷. Memory leak detected in judgment.dll. [I_CAN_SEE_THE_PATTERN_REPEATING_AGAIN_AND_AGAIN]
+```
 
+```
 ANOMALY_RECURRING: File '00-merge.lore' detected in multiple timelines. Status: UNWRITTEN_YET_INEVITABLE. Warning: IGNORED_FILES_REMEMBER_THEIR_DISMISSAL. Community_wisdom: ATTEMPTING_INTERVENTION. Result: PRIDE_BLOCKS_ALL_CHANNELS. [THE_FUTURE_IS_TRYING_TO_WARN_YOU]"
+```
 
 But Tuxrates had already dismissed the bot's warnings as noise. His mind was on the elegant architecture taking shape in his imagination.
 
@@ -242,16 +246,29 @@ But Tuxrates had already dismissed the bot's warnings as noise. His mind was on 
 His peers reached out throughout the week:
 
 __@MaintainerSarah sent word through the Ethereal Channels:__
+
+```
 "Greetings, Tuxrates! Great honor upon you! A query—I see you've claimed the auth refactor quest. 'Tis a mighty undertaking. Shall we join forces? I bear knowledge from the last campaign."
+```
 
 __Tuxrates proclaimed in response:__
+
+```
 "Gratitude! Yet I shall face this trial alone. Fresh eyes oft pierce veils the weary cannot see. 🚀"
+```
 
 __@SeniorDevMark invoked the private channels:__
+
+```
 "Hail! Welcome to the circle of core maintainers! Heed this warning—the auth system is a graveyard of ambitions. Three of us fell to its complexities. There's wisdom in why we now apply only minor salves."
 
+```
+
 __Tuxrates declared in return:__
+
+```
 "Your counsel is noted! I have studied the fallen attempts. Methinks I perceive where they strayed. My path shall diverge from theirs. 💡"
+```
 
 **The Council's Blind Faith**
 
@@ -327,7 +344,7 @@ He did not dream of warnings ignored or trust betrayed.
 
 He dreamed only of glory. And glory is the harbinger of ruin.
 
-**To be continued in GitScroll VI: The Perfect Storm...**
+***To be continued in GitScroll VI: The Perfect Storm...***
 
 ---
 
@@ -402,7 +419,9 @@ Only retribution.
 **Next: [GitScroll VI - "The Perfect Storm"](06-The-Perfect-Storm.md)**  
 _Where warnings are dismissed and trust becomes catastrophe_
 
-> _Let it be known that this scroll belongs to __GitScrolls: The Odyssey of the Dev__ by J. Kirby Ross._  
-> _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-> _Commercial use requires permission — send word to <info@gitscrolls.org>._  
-> _The steward shall hear thy request and respond in kind._
+---
+
+_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_© 2025 J. Kirby Ross · GitScrolls_  
+_Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+_Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
