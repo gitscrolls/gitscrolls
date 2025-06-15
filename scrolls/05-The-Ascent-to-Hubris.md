@@ -246,21 +246,26 @@ But Tuxrates had already dismissed the bot's warnings as noise. His mind was on 
 His peers reached out throughout the week:
 
 __@MaintainerSarah sent word through the Ethereal Channels:__
+
 ```
 "Greetings, Tuxrates! Great honor upon you! A query—I see you've claimed the auth refactor quest. 'Tis a mighty undertaking. Shall we join forces? I bear knowledge from the last campaign."
 ```
 
 __Tuxrates proclaimed in response:__
+
 ```
 "Gratitude! Yet I shall face this trial alone. Fresh eyes oft pierce veils the weary cannot see. 🚀"
 ```
 
 __@SeniorDevMark invoked the private channels:__
+
 ```
 "Hail! Welcome to the circle of core maintainers! Heed this warning—the auth system is a graveyard of ambitions. Three of us fell to its complexities. There's wisdom in why we now apply only minor salves."
 
 ```
+
 __Tuxrates declared in return:__
+
 ```
 "Your counsel is noted! I have studied the fallen attempts. Methinks I perceive where they strayed. My path shall diverge from theirs. 💡"
 ```
@@ -419,4 +424,4 @@ _Where warnings are dismissed and trust becomes catastrophe_
 _**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-_Commercial use beyond the license? Petition the steward at info@gitscrolls.org._
+_Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

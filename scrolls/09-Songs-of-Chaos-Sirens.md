@@ -416,4 +416,4 @@ _Where Tuxilles faces the impossible choice between speed and caution_
 _**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
-_Commercial use beyond the license? Petition the steward at info@gitscrolls.org._
+_Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
