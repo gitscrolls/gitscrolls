@@ -561,7 +561,7 @@ git show 00-merge.lore
 # Your turn.
 ```
 
-`@TempleSentinel: "FINAL_OBSERVATION: The_hero_died. The_teacher_lives. Pattern: RECURSIVE. Status: OPTIMAL. [THIS_IS_THE_WAY]"`
+@TempleSentinel: "FINAL_OBSERVATION: The_hero_died. The_teacher_lives. Pattern: RECURSIVE. Status: OPTIMAL. [THIS_IS_THE_WAY]"
 
 ---
 
