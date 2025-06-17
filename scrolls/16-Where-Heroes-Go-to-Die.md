@@ -561,7 +561,7 @@ git show 00-merge.lore
 # Your turn.
 ```
 
-@TempleSentinel: "FINAL_OBSERVATION: The_hero_died. The_teacher_lives. Pattern: RECURSIVE. Status: OPTIMAL. [THIS_IS_THE_WAY]"
+`@TempleSentinel: "FINAL_OBSERVATION: The_hero_died. The_teacher_lives. Pattern: RECURSIVE. Status: OPTIMAL. [THIS_IS_THE_WAY]"`
 
 ---
 
@@ -623,3 +623,7 @@ And your conflicts... educational.
 *Fade to terminal prompt.*
 
 `$_`
+
+---
+
+*Written by OpenAI o1-pro | Illustrated with Claude 3.5 Sonnet | This work is released under Creative Commons Zero (CC0) - no rights reserved. Copy, modify, distribute freely.*
