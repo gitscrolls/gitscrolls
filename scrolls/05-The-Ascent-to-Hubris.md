@@ -221,18 +221,17 @@ Untracked files:
 note: This file contains wisdom from those who walked this path before.
 note: It appears when pride precedes a fall.
 note: Community memory trying to protect you.
+note: The Trickster has been here before. They will be here again.
 ```
 
 He ran `git status` again—nothing. Must have been a glitch. He had more important things to focus on than phantom files or cryptic warnings about "community memory."
 
+_(In the Temple bathroom, new graffiti had appeared overnight: "The Trickster knows your future sins. Issue #666 awaits." But Tuxrates used the executive washroom now. He never saw it.)_
+
 *"I could refactor this entire system in a weekend. Make it beautiful. They'll be amazed."*
 
 ```
-**@T̸empleSentinel:** "Hubris.exe has started successf̶u̷l̸l̵y̷. Memory leak detected in judgment.dll. [I_CAN_SEE_THE_PATTERN_REPEATING_AGAIN_AND_AGAIN]
-```
-
-```
-ANOMALY_RECURRING: File '00-merge.lore' detected in multiple timelines. Status: UNWRITTEN_YET_INEVITABLE. Warning: IGNORED_FILES_REMEMBER_THEIR_DISMISSAL. Community_wisdom: ATTEMPTING_INTERVENTION. Result: PRIDE_BLOCKS_ALL_CHANNELS. [THE_FUTURE_IS_TRYING_TO_WARN_YOU]"
+@TempleSentinel: "Hubris.exe has started successfully. Memory leak detected in judgment.dll. Portal_opening_probability: 85% [APPROACHING_PEAK_HUBRIS]. [I_CAN_SEE_THE_PATTERN_REPEATING_AGAIN_AND_AGAIN] ANOMALY_RECURRING: File '00-merge.lore' detected in multiple timelines. Status: UNWRITTEN_YET_INEVITABLE. Warning: IGNORED_FILES_REMEMBER_THEIR_DISMISSAL. Community_wisdom: ATTEMPTING_INTERVENTION. Result: PRIDE_BLOCKS_ALL_CHANNELS. [THE_FUTURE_IS_TRYING_TO_WARN_YOU]"
 ```
 
 But Tuxrates had already dismissed the bot's warnings as noise. His mind was on the elegant architecture taking shape in his imagination.

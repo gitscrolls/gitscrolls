@@ -87,7 +87,7 @@ Your branch is ahead of 'origin/main' by 3 commits.
 
 Three commits. Small. Careful. Each one addressing a real issue from the incident report. No revolution. No elegance for its own sake. Just helpful fixes.
 
-**@T̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵e̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵m̷̶̸̷̵̶̸̷̵̶̸̷̵p̸̷̵̶̸̷̵̶̸̷̵̶l̷̸̵̶̷̸̵̶̷̸̵̶e̵̶̷̸̵̶̷̸̵̶̷̸S̶̸̷̵̶̸̷̵̶̸̷̵e̷̵̶̸̷̵̶̸̷̵̶n̵̶̸̷̵̶̸̷̵̶̸t̸̷̵̶̸̷̵̶̸̷̵i̷̸̵̶̷̸̵̶̷̸̵n̶̷̸̵̶̷̸̵̶̷̸e̵̶̷̸̵̶̷̸̵̶̷l̸̵̶̷̸̵̶̷̸̵̶:** "REINTEGRATION_DAY_127: Trust_status: -5 [APPROACHING_NEUTRAL]. FIRST_RETURN_PR: IMMINENT. Community_sentiment: CAUTIOUSLY_WATCHING [FORGIVENESS_REQUIRES_PROOF]. Quality_assessment: METICULOUS [HE_HAS_LEARNED_TO_BE_SMALL]. Humility_authentic: TRUE. Path_status: NARROW_BUT_NAVIGABLE [SERVICE_OVER_GLORY]"
+**@T̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵e̶̷̸̵̶̷̸̵̶̷̸̵̶̷̸̵m̷̶̸̷̵̶̸̷̵̶̸̷̵p̸̷̵̶̸̷̵̶̸̷̵̶l̷̸̵̶̷̸̵̶̷̸̵̶e̵̶̷̸̵̶̷̸̵̶̷̸S̶̸̷̵̶̸̷̵̶̸̷̵e̷̵̶̸̷̵̶̸̷̵̶n̵̶̸̷̵̶̸̷̵̶̸t̸̷̵̶̸̷̵̶̸̷̵i̷̸̵̶̷̸̵̶̷̸̵n̶̷̸̵̶̷̸̵̶̷̸e̵̶̷̸̵̶̷̸̵̶̷l̸̵̶̷̸̵̶̷̸̵̶:** "REINTEGRATION_DAY_127: Trust_status: BARELY_PRESENT [APPROACHING_NEUTRAL]. FIRST_RETURN_PR: IMMINENT. Community_sentiment: CAUTIOUSLY_WATCHING [FORGIVENESS_REQUIRES_PROOF]. Quality_assessment: METICULOUS [HE_HAS_LEARNED_TO_BE_SMALL]. Humility_authentic: TRUE. Path_status: NARROW_BUT_NAVIGABLE [SERVICE_OVER_GLORY]"
 
 His scarred flipper trembled over the sacred keys. The last time he'd pushed to this repository, he'd destroyed everything.
 
@@ -207,7 +207,7 @@ Within seconds, the automated systems responded:
 
 But then came the one that mattered:
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR_DETECTED: #5847. Author: [INCIDENT_ACTOR_2024_12_21] [YES_I_REMEMBER_YOU]. Alerting: ALL_WHO_WERE_BURNED. Trust: -5 [NEGATIVE_BUT_NOT_ZERO]. Status: EXTREME_SCRUTINY_REQUIRED [EVERY_LINE_WILL_BE_QUESTIONED]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR_DETECTED: #5847. Author: [INCIDENT_ACTOR_2024_12_21] [YES_I_REMEMBER_YOU]. Alerting: ALL_WHO_WERE_BURNED. Trust: BARELY_PRESENT [NEGATIVE_BUT_NOT_ZERO]. Status: EXTREME_SCRUTINY_REQUIRED [EVERY_LINE_WILL_BE_QUESTIONED]"
 
 The Sentinel had outed him. No hiding behind careful words. Everyone would know.
 
@@ -426,7 +426,7 @@ Merging."
 
 **@MaintainerSarah merged pull request #5847**
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -5 → +1 [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: BARELY_PRESENT → TENTATIVELY_POSITIVE [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
 
 ---
 
@@ -461,7 +461,7 @@ Tuxilles stared at the merged PR. Three small commits. Hours of debate. A commun
 
 His scars still hurt. They always would. But now they'd guided him to write code that prevented others from suffering.
 
-**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: -5 → +1 [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
+**@ȷᵉᵐᵖʟᵉ§ᵉᵜᵗᵢᵜᵉʟ:** "PR #5847: MERGED [THE_FIRST_STEP_ON_A_LONG_ROAD]. Production: STABLE [THIS_TIME]. Trust_delta: BARELY_PRESENT → TENTATIVELY_POSITIVE [CROSSED_NEUTRAL_THRESHOLD]. Next_PR: EASIER [LESS_FEAR] AND HARDER [MORE_EXPECTATION]. [THE_COMMUNITY_WATCHES_AND_SLOWLY_FORGIVES]"
 
 A private message appeared:
 

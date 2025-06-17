@@ -114,7 +114,7 @@ stuff and things
 _Alongside the commit message appears an automated annotation:_
 
 ```
-@TempleSentinel: "PORTENT: COMMIT_MSG_SCORE: 2/100. Semantic_analysis: NEGLIGIBLE. Maintainability_impact: SEVERE. Recommendation: IMMEDIATE_REVISION"
+@TempleSentinel: "PORTENT: COMMIT_MSG_SCORE: 2/100. Semantic_analysis: NEGLIGIBLE. Maintainability_impact: SEVERE. Portal_opening_probability: 15% [DISMISSING_WISDOM]. Recommendation: IMMEDIATE_REVISION"
 ```
 
 Tuxicles' vision stutters for a moment—the bot's warning seems to fragment into static before reassembling. He rubs his eyes. These old ritual terminals really were getting to him.
@@ -134,6 +134,8 @@ __Elena:__ "And __that__, dear student, is why we call it the Repository of Reme
 Elena moved to an ancient section of the Repository, where the first commit messages were preserved like sacred texts.
 
 __Elena:__ "Mi abuela used to say, 'Lo que no se escribe, el viento se lo lleva'—what isn't written, the wind carries away. In our world, poor commit messages are worse than wind. They leave ghosts."
+
+_(On a nearby viewing glass, briefly visible before auto-minimizing: "Issue #312 - 'Commit messages should explain why' - Closed by @Trickster_of_Hub_Issues with comment: 'This will matter later.' But who notices closed issues?)_
 
 ---
 
@@ -365,9 +367,13 @@ __Elena:__ "Commit messages are love letters to those humans. Make them love let
 
 _Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_
 
-His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the spirit whisper seems less urgent somehow. Just flaky tests, probably. Nothing that can't wait until tomorrow.
+His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the spirit whisper seems less urgent somehow. _(The old viewing glasses in the Repository always acted up near the server racks. Everyone knew that. Electromagnetic interference was a documented phenomenon. Not everything needs a mystical explanation.)
+
+"Just flaky tests, probably. Nothing that can't wait until tomorrow."
 
 He clicks it away without reading the details.
+
+_(Three hours later, that ignored test failure would cause a minor incident in staging. Nothing catastrophic—just enough to make two developers work late fixing it. But Tuxicles wouldn't hear about it, lost in the glow of Elena's praise.)_
 
 _He types:_
 
@@ -418,18 +424,18 @@ Reactions poured in: 🔥 👏 💯
 Other developers began studying his messages. Junior contributors asked for advice. His commit style was being copied across projects.
 
 ```
-@TempleSentinel: "PROPHECY: TRUST_ESCALATION_DETECTED. Previous_trust: +10. Current_trust: +25. Delta: +15. AUGURY: COMMUNICATION_EXCELLENCE_VERIFIED. Influence_metrics: Positive_mentions: 47. Percentile_rank: 98. Pattern_analysis: TEACHING_POTENTIAL_EMERGING. Advisory: TRUST_RISE_ACCELERATING. Continue_monitoring: TRUE
+@TempleSentinel: "PROPHECY: TRUST_ESCALATION_DETECTED. Previous_trust: +10. Current_trust: +25. Delta: +15. Portal_opening_probability: 15% [DISMISSING_WISDOM]. AUGURY: COMMUNICATION_EXCELLENCE_VERIFIED. Influence_metrics: Positive_mentions: 47. Pattern_analysis: TEACHING_POTENTIAL_EMERGING. Advisory: TRUST_RISE_ACCELERATING. PORTENT: Temporal_irregularity in commit_history. File_reference: '00-merge.lore' appearing in logs BEFORE_CREATION_DATE. [ERROR: CANNOT_PROCESS_FUTURE_PAST_PARADOX]"
 ```
-
-PORTENT: Temporal_irregularity in commit_history. File_reference: '00-merge.lore' appearing in logs BEFORE_CREATION_DATE. Probability_of_clock_skew: 12%. Probability_of_temporal_recursion: 88%. PROPHECY: WISDOM_THAT_ARRIVES_BEFORE_IT_IS_WRITTEN. [ERROR: CANNOT_PROCESS_FUTURE_PAST_PARADOX]"
 
 The bot's warning glitched out, replaced by corrupted characters before vanishing entirely. Tuxicles barely noticed, too focused on the praise flooding in.
 
 __Tuxicles:__ _(reading the praise)_ "I'm becoming... known. Respected."
 
-The eye flicker returned—just a split second of visual static. He blinked it away. Probably just the old viewing glasses.
+The eye flicker returned—just a split second of visual static. He blinked it away. _(The Repository's ancient CRT monitors were notorious for refresh rate issues. Any developer who'd spent time in the archives knew that. Nothing mysterious about phosphor persistence.)_
 
 ---
+
+_(In the depths of the issue tracker, @Trickster_of_Hub_Issues closed another ticket: "Issue #158 - Developers ignore test failures when praised." Comment: "Pattern recognized. Hubris.loading… 15%")_
 
 ### Coda: The Log Eternal
 
