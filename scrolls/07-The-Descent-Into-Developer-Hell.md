@@ -92,7 +92,8 @@ The voice compiled from somewhere impossible, each word a perfectly formed comma
 
 __Tuxrates:__ _(backing away)_ "What... what are you?"
 
-__The Trickster:__ 
+__The Trickster:__
+
 ```bash
 $ whoami
 fatal: not a person
@@ -117,7 +118,7 @@ __The Trickster:__ "**Issue Title:** Your Soul.exe has stopped responding
 **Severity:** Existential  
 **Steps to Reproduce:** Push to prod without review  
 **Expected Result:** Glory  
-**Actual Result:** *gestures at the bleeding screens* This.
+**Actual Result:** _gestures at the bleeding screens_ This.
 
 Shall we `git log` your journey to see how we got here?"
 
@@ -131,13 +132,14 @@ __Tuxrates:__ "I need to fix this. I need to rollback, to restore—"
 
 __The Trickster:__ _(laughing in error codes)_ "Oh, young penguin. Some commits can't be reverted. Some pushes echo through eternity. You wanted to revolutionize the system? Congratulations. You've revolutionized yourself into damnation."
 
-The Trickster `git pull`ed Tuxrates toward the bleeding screen. 
+The Trickster `git pull`ed Tuxrates toward the bleeding screen.
 
 __The Trickster:__ "There's only one way to understand what you've done. You must see where such actions lead. You must descend through the Nine Circles of Developer Hell, where every coding sin has its eternal punishment."
 
 __Tuxrates:__ "And if I refuse?"
 
-__The Trickster:__ 
+__The Trickster:__
+
 ```bash
 $ git status
 On branch: your-consequences
@@ -155,10 +157,11 @@ __The Trickster:__ "I've `git fetch`ed many fallen developers through these circ
 **The First Step**
 
 As they approached the portal, Tuxrates felt his body beginning to change. The warnings that had been phantoms were becoming real:
-- The metallic taste solidified into a scar across his beak
-- The eye flickers burned permanent traces into his vision
-- The chest pressure cracked into an actual fissure
-- The flipper numbness became burn marks from phantom keyboards
+
+* The metallic taste solidified into a scar across his beak
+* The eye flickers burned permanent traces into his vision
+* The chest pressure cracked into an actual fissure
+* The flipper numbness became burn marks from phantom keyboards
 
 __The Trickster:__ "Ah yes, the scarring begins. In the world above, you ignored the warnings. Here, they become part of you. By the time we reach the Ninth Circle, you'll wear your arrogance like armor. Heavy, painful armor that never comes off."
 
@@ -222,6 +225,7 @@ __The Trickster:__ "The Second Circle: those who shipped without testing. Their 
 A developer frantically typed, fixing a test. The moment it turned green, it split into three red tests. The ground was carpeted with shattered build badges, crunching under their feet like broken glass.
 
 __CI/CD Serpent:__ _(hissing in GitHub Actions syntax)_
+
 ```yaml
 on: [push]
 jobs:
@@ -262,7 +266,8 @@ __The Trickster:__ "Your sin made manifest. Every force push creates a ripple. H
 
 A massive figure loomed in the chaos—The Force Push Demon, its fingers permanently locked in the gesture of `--force`. Everything it touched rewrote itself.
 
-__Force Push Demon:__ 
+__Force Push Demon:__
+
 ```bash
 $ git push --force origin master
 Counting objects: ∞, done.
@@ -309,6 +314,7 @@ Developers stood knee-deep in writhing code, trying to resolve the same conflict
 __Eternal Rebaser:__ "I've fixed this conflict! Finally! After centuries—NO! IT'S BACK! THE SAME CONFLICT! BUT NOW IT'S BROUGHT FRIENDS!"
 
 The code itself was alive here, malevolent. Merge conflict markers hissed like snakes:
+
 ```
 <<<<<<< HEAD
 Your hope dies here
@@ -396,21 +402,24 @@ __The Trickster:__ _(voice dropping to a whisper)_ "Behold. Your final destinati
 Rising from the center of the frozen lake was a massive figure, building-sized, trapped mid-force-push for eternity. It was TUXILLES—but wrong. Twisted. The version of himself that never learned.
 
 Three faces on one horrible body:
-- **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego, mouth forming the words "I know better" on eternal loop
-- **Second Face**: Watching error logs scroll infinitely, mouth frozen in a silent scream, eyes bleeding error text
-- **Third Face**: Reading the hatred of millions, weeping blood-red stack traces, whispering "it was perfect code" forever
+
+* **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego, mouth forming the words "I know better" on eternal loop
+* **Second Face**: Watching error logs scroll infinitely, mouth frozen in a silent scream, eyes bleeding error text
+* **Third Face**: Reading the hatred of millions, weeping blood-red stack traces, whispering "it was perfect code" forever
 
 His wings—made of broken CI/CD pipelines—beat uselessly, creating the freezing wind that kept the lake solid. Around him orbited the commits of every developer he'd corrupted with his arrogance.
 
 __The Trickster:__ "He's been here since the first developer thought they were above code review. Every force push carves another feature into his form. Look closely—those scars you're developing? He has them too. But twisted."
 
 Tuxrates looked and saw:
-- The beak scar leaked commit messages of pure contempt
-- The eye scar saw only its own brilliance
-- The chest scar pumped liquid hubris instead of blood
-- The flipper scar typed force-pushes automatically, eternally
 
-__Giant Tuxilles:__ _(all three mouths speaking in horrible harmony)_ 
+* The beak scar leaked commit messages of pure contempt
+* The eye scar saw only its own brilliance
+* The chest scar pumped liquid hubris instead of blood
+* The flipper scar typed force-pushes automatically, eternally
+
+__Giant Tuxilles:__ _(all three mouths speaking in horrible harmony)_
+
 ```
 git push --force origin master
 I AM THE MASTER
@@ -436,10 +445,11 @@ __Tuxrates:__ _(tears freezing on his scarred face)_ "Or?"
 __The Trickster:__ "Or you can climb back out. But not as Tuxrates. He's dead. Frozen here with his worst self. Someone new must climb. Someone who's seen hell and knows why it exists. Someone scarred enough to teach others the price of hubris."
 
 As if responding to the possibility of redemption, the scars pulsed with new purpose:
-- Beak scar: _Remember the cost of dismissing others_
-- Eye scar: _See the consequences others miss_
-- Chest scar: _Bear the weight of responsibility_  
-- Flipper scar: _Type with careful intention_
+
+* Beak scar: _Remember the cost of dismissing others_
+* Eye scar: _See the consequences others miss_
+* Chest scar: _Bear the weight of responsibility_  
+* Flipper scar: _Type with careful intention_
 
 __Tuxrates:__ "I... I understand. Tuxrates dies here. But someone needs to warn others. Someone needs to teach them before they open their own portals."
 
@@ -487,7 +497,6 @@ $ echo "Some commits can't be reverted. They can only be learned from."
 ---
 
 ### 🎭 Final Closing  
-
 
 
 ---

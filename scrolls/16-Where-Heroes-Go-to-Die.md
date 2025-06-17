@@ -455,18 +455,18 @@ __Tuxilles:__ _(typing before he could think better of it)_ "Jamie, I'm coming t
 
 **The Choice**
 
-He could delegate this. He had protocols for this. He had *people* for this.
+He could delegate this. He had protocols for this. He had _people_ for this.
 
-Instead, he took off the red hat. 
+Instead, he took off the red hat.
 
 Not forever. Not dramatically. Just... for now. Because Jamie needed Tuxilles-who-remembers, not the Chief Teaching Officer.
 
 As he stood, his scars shifted configuration one final time:
 
-- Beak: *throbbing* with the memory of shame
-- Eyes: *seeing* both the broken code and the breaking coder  
-- Chest: *aching* with the weight of someone else's fear
-- Flipper: *cold* with remembered paralysis
+- Beak: _throbbing_ with the memory of shame
+- Eyes: _seeing_ both the broken code and the breaking coder  
+- Chest: _aching_ with the weight of someone else's fear
+- Flipper: _cold_ with remembered paralysis
 
 They hurt. They were supposed to hurt. That's how he knew he was doing something real.
 
