@@ -114,11 +114,11 @@ __The Trickster:__ "I am the Trickster of Hub Issues. I dwell in every bug repor
 
 Eight paths writhed, forming the sacred octogram of the Great Hub.
 
-__The Trickster:__ "**Issue Title:** Your Soul.exe has stopped responding  
-**Severity:** Existential  
-**Steps to Reproduce:** Push to prod without review  
-**Expected Result:** Glory  
-**Actual Result:** _gestures at the bleeding screens_ This.
+__The Trickster:__ "__Issue Title:__ Your Soul.exe has stopped responding  
+__Severity:__ Existential  
+__Steps to Reproduce:__ Push to prod without review  
+__Expected Result:__ Glory  
+__Actual Result:__ _gestures at the bleeding screens_ This.
 
 Shall we `git log` your journey to see how we got here?"
 
@@ -555,3 +555,8 @@ the Trickster laughs in `git` commands.
 *Exit, pursued by a CI/CD pipeline.*
 
 ---
+
+_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_© 2025 J. Kirby Ross · GitScrolls_  
+_Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+_Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
