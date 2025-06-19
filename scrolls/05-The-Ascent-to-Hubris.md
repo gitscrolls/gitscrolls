@@ -316,7 +316,7 @@ As Friday evening approached, Tuxrates stood at the peak of trust mountain. His 
 He opened his Command Portal, fingers dancing across the sacred keys with the certainty of someone who had never truly failed:
 
 ```bash
-git checkout -b tuxrates-revolutionary-auth-refactor
+git switch -c tuxrates-revolutionary-auth-refactor
 ```
 
 ```javascript

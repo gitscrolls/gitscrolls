@@ -173,6 +173,10 @@ __Elena:__ "Now tell me—which of those six changes broke production? The CSS? 
 
 __Tuxicles:__ "So each commit should do one thing?"
 
+```
+@TempleSentinel WARNING: "When_wisdom_speaks_but_ego_listens_not. Timeline_corruption_risk: 23.7%"
+```
+
 __Elena:__ "One __coherent__ thing. If you must update three files to add a feature, that is still one story. But mixing features with fixes, refactoring with formatting—that creates chaos."
 
 _She shows him the proper way:_
@@ -365,7 +369,7 @@ __Tuxicles:__ "And commit messages?"
 
 __Elena:__ "Commit messages are love letters to those humans. Make them love letters worth reading."
 
-_Tuxicles bows deeply, then approaches the ritual terminal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_
+_Tuxicles bows deeply, then approaches the ritual Command Portal. As he begins to type, a spirit whisper appears in the corner of his viewing glass: "Eternal Build Forge failed for branch 'feature/login-updates' - 3 test failures."_
 
 His eyes flicker—a momentary static that makes the red warning blur into meaningless pixels. He blinks hard, refocusing. When his vision clears, the spirit whisper seems less urgent somehow. _(The old viewing glasses in the Repository always acted up near the server racks. Everyone knew that. Electromagnetic interference was a documented phenomenon. Not everything needs a mystical explanation.)
 

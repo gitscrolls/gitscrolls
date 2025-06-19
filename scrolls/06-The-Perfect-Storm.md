@@ -82,6 +82,10 @@ Let the test begin.
 
 Innovation Weekend. The Temple of Open Source stood mostly empty, its halls lit only by emergency lighting and the glow from one corner cubicle where __Tuxrates the About-to-Fall__ had been coding for nine straight hours.
 
+```
+@TempleSentinel URGENT: "ISOLATION_PATTERN_CRITICAL. Solo_coding_duration: 9_hours. Peer_review_probability: 0%. Portal_opening_probability: 82% [ENTERING_DANGER_ZONE]"
+```
+
 Empty elixir vessels formed a ritual circle. Sustenance boxes stacked like ancient texts of cheese and pepperoni. The only sounds: the Temple's breathing systems, the rain of sacred keys, and the increasingly urgent buzzing of a communication device face-down on the desk.
 
 **@T̶e̵m̸p̷l̵e̶Sentinel:** "CRITICAL_DECISION_WINDOW: ACTIVE. Intervention_prob: 73%. Success_if_attempted: 0̶%̷ [WHY_CALCULATE_WHAT_CANNOT_BE_CHANGED?]. Tragedy.loading… ███▓▒░ 45%"
@@ -149,6 +153,10 @@ $ git log --graph --all --oneline
 ```
 
 For a moment—just a moment—he saw it clearly. All these people working carefully, incrementally, on the same system he was about to obliterate.
+
+```
+@TempleSentinel FINAL_WARNING: "COLLABORATIVE_WORK_DESTRUCTION_IMMINENT. Active_branches: 5. Developer_hours_lost: 147. Trust_damage: CATASTROPHIC. Portal_opening_probability: 91% [LAST_CHANCE_TO_STOP]"
+```
 
 **The Fatal Rationalization**
 

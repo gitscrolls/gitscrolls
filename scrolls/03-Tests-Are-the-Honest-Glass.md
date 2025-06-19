@@ -20,7 +20,7 @@ _The Journey of Tuxrates and the Prophet of Living Truth_
 
 _She held the glass that would not lie or bend,_
 _Though coders begged for mirrors kind and curved._  
-_"Your tests," she said, "must be your truest friend—_  
+_Your tests must be your truest friend—_  
 _The one who speaks when flattery's deserved."_  
 
 _For code untested is a promise hollow,_  
@@ -333,7 +333,7 @@ __Tuxrates:__ _(dismissively)_ "Just the altitude. The Lightning Fields always m
 
 __Nia:__ _(knowingly)_ "The honest glass is trying to show you something. That pressure is a warning. But you're not ready to hear it yet."
 
-She sighed, ancient despite her years. "You still test for glory, not for justice. You write tests to prove your code works, not to protect those who'll use it. The glass sees this. It always does."
+__Nia:__ _(sighing, ancient despite her years)_ "You still test for glory, not for justice. You write tests to prove your code works, not to protect those who'll use it. The glass sees this. It always does."
 
 __Tuxrates:__ "But my tests are thorough! They catch bugs! Look at my coverage metrics!"
 
@@ -341,7 +341,7 @@ __Nia:__ "Do they catch the bug that locks out a user who needs access to their 
 
 The pressure in Tuxrates' chest flared, and for a moment the air seemed to shimmer with unspoken warnings. But he was already thinking about how this endorsement would look on his profile.
 
-"The metrics speak for themselves," he said confidently.
+__Tuxrates:__ _(confidently)_ "The metrics speak for themselves."
 
 ---
 

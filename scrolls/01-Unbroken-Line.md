@@ -90,7 +90,7 @@ _He whips the scroll wide. The feather flares like a flag of war. Scene begins. 
 
 ⸻
 
-### Prologue: The Terminal Opens
+### Prologue: The Command Portal Opens
 
 He waddled through the atrium, the sun catching on the polished surface of his Sacred Codex. Somewhere, someone was invoking the Build Ritual. In the far corner of the Temple, he glimpsed a scarred developer helping a struggling newcomer—something about the scene felt strangely familiar, like déjà vu in reverse. And in his heart, the Command Portal had just opened.
 
@@ -118,7 +118,7 @@ As he hit enter on the final command, a strange taste filled his mouth—metalli
 
 Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. And somewhere, like an echo from a future not yet written, he thought he heard the sound of someone teaching, scarred and patient, guiding another young developer away from this very mistake. But the moment passed.
 
-"Probably just the bitter dregs from the Chamber of Restoration," he muttered, though he hadn't partaken of the Morning Elixir yet. The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten. _(Besides, everyone knows the old terminals sometimes leak electromagnetic fields. Basic physics. Nothing supernatural about copper taste from electrical interference.)_
+__Tuxicles:__ _(muttering)_ "Probably just the bitter dregs from the Chamber of Restoration." _(Though he hadn't partaken of the Morning Elixir yet.)_ The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten. _(Besides, everyone knows the old terminals sometimes leak electromagnetic fields. Basic physics. Nothing supernatural about copper taste from electrical interference.)_
 
 Nothing important.
 
