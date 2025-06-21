@@ -24,7 +24,8 @@ _And rob the root that gave thy courage birth._
 _Let flaws stand firm, that others find their place—_  
 _For history denied is stolen worth._  
 
-_The broken line is still a line—and thine._
+_The broken line is still a line—and thine._  
+_(And some lines, once crossed, open doors best left closed.)_
 
 ---
 
@@ -41,6 +42,10 @@ Before thy fingers touched thy first key—
 the line had already begun.
 
 You are not the author.
+
+_(A faint sound, like eight whispers speaking as one—or perhaps just the ventilation. But who can say?)_
+
+Every commit is a door. Most lead nowhere. Some lead down.
 
 He steps forward, voice silk-sharp.
 
@@ -85,7 +90,7 @@ _He whips the scroll wide. The feather flares like a flag of war. Scene begins. 
 
 ⸻
 
-### Prologue: The Terminal Opens
+### Prologue: The Command Portal Opens
 
 He waddled through the atrium, the sun catching on the polished surface of his Sacred Codex. Somewhere, someone was invoking the Build Ritual. In the far corner of the Temple, he glimpsed a scarred developer helping a struggling newcomer—something about the scene felt strangely familiar, like déjà vu in reverse. And in his heart, the Command Portal had just opened.
 
@@ -104,7 +109,7 @@ While three other developers were mid-merge.
 Somewhere in the Temple's monitoring infrastructure, an automated sentinel registered the anomaly:
 
 ```
-@TempleSentinel: "AUGURY: Unexpected force push detected on main branch. Affected developers: 3. Merge conflicts generated: 17. Monitoring..."
+@TempleSentinel: "AUGURY: Unexpected force push detected on main branch. Affected developers: 3. Merge conflicts generated: 17. Portal_opening_probability: 5% [NORMAL_NOVICE_LEVELS]. Monitoring..."
 ```
 
 But Tuxicles, in his innocence, had silenced the spirit whispers from the Temple's Eternal Vigilance. Too noisy, he'd thought. Too many false prophecies.
@@ -113,7 +118,7 @@ As he hit enter on the final command, a strange taste filled his mouth—metalli
 
 Tuxicles paused, tongue probing the unfamiliar sensation. For a moment, the taste carried whispers—warnings in a language he didn't yet speak. And somewhere, like an echo from a future not yet written, he thought he heard the sound of someone teaching, scarred and patient, guiding another young developer away from this very mistake. But the moment passed.
 
-"Probably just the bitter dregs from the Chamber of Restoration," he muttered, though he hadn't partaken of the Morning Elixir yet. The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten.
+__Tuxicles:__ _(muttering)_ "Probably just the bitter dregs from the Chamber of Restoration." _(Though he hadn't partaken of the Morning Elixir yet.)_ The metallic tang faded to a ghost on his tongue, easily dismissed, easily forgotten. _(Besides, everyone knows the old terminals sometimes leak electromagnetic fields. Basic physics. Nothing supernatural about copper taste from electrical interference.)_
 
 Nothing important.
 
@@ -214,6 +219,8 @@ __Tuxicles:__ _(blinking)_ "Did you see that? A commit from 2027? And... 'forkab
 
 __Linus:__ _(not looking at the screen)_ "The repository remembers everything, young one. Past, present, and sometimes... echoes of what must be. Some wisdom cannot be taught—it must be discovered, modified, and passed forward." _(pausing)_ "Focus on the lesson at hand. The future's gifts reveal themselves when you're ready to receive them."
 
+_(In the corner of the screen, so faint Tuxicles almost misses it, text flickers: "Issue #666 - Status: Not Yet Opened. Assignee: Future You.")_
+
 The anomaly vanished when Tuxicles refreshed, leaving him to wonder if the metallic taste in his mouth had affected his vision. Yet something about the words 'forkable' and 'awaiting wisdom' lingered in his mind like an invitation he wasn't yet ready to accept.
 
 ---
@@ -274,7 +281,7 @@ The metallic taste surged back, stronger now, as if his question itself carried 
 
 __Linus:__ "On your local branches. Before you push. Before you share. Your private workspace is yours to sculpt. But once you have published your work—once others have built upon it—it belongs not just to you, but to the repository itself."
 
-The taste faded again, leaving only the ghost of a warning Tuxicles couldn't quite parse. Something about boundaries, about lines that shouldn't be crossed. But the sensation slipped away like uncommitted changes.
+The taste faded again, leaving only the ghost of a warning Tuxicles couldn't quite parse. Something about boundaries, about lines that shouldn't be crossed. But the sensation slipped away like uncommitted changes. _(Probably bit his tongue during the stress earlier. The body plays tricks when under pressure.)_
 
 ---
 
@@ -336,8 +343,10 @@ The metallic taste in his mouth returned, stronger than before, as if the very c
 
 But the moment passed. "Just residual stress," he told himself, running his tongue over his beak where the taste lingered strongest. "Nothing more."
 
+_(In the server logs, invisible to mortal eyes, a new process spawned: trickster_watch.daemon --target=tuxicles --patience=infinite. But server logs are boring. Who reads those?)_
+
 ```
-@TempleSentinel: "PROPHECY: TRUST_EVENT_REGISTERED. AUGURY: INITIAL_COMPETENCE_DEMONSTRATED. Trust_level: +10. Warning_code: PWR_WIS_IMBALANCE. Risk_assessment: MODERATE. Pattern_observed: HUMBLE_RESPONSE_TO_FAILURE. Recommendation: GRANT_LIMITED_RESPONSIBILITIES. Continue_monitoring: TRUE"
+@TempleSentinel: "PROPHECY: TRUST_EVENT_REGISTERED. Trust_level: +10. Portal_opening_probability: 5% [NORMAL_NOVICE_LEVELS]. Warning_code: PWR_WIS_IMBALANCE. Risk_assessment: MODERATE. Pattern_observed: HUMBLE_RESPONSE_TO_FAILURE. Issue_tracker: Nothing critical... yet. Recommendation: GRANT_LIMITED_RESPONSIBILITIES. Continue_monitoring: TRUE"
 ```
 
 But Tuxicles didn't see the bot's warning. He saw only the opportunity to prove himself worthy of Linus's faith.
