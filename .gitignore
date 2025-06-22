@@ -149,8 +149,12 @@ Temporary Items
 
 # Generated documentation
 docs/
-docs/generated/
 site/
+
+# Development and editorial work-in-progress
+editorial/dev-edit/
+**/dev-edit/
+TASKLIST.md
 
 # Personal notes (not for sharing)
 PERSONAL_NOTES.md
