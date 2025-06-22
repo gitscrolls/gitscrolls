@@ -33,9 +33,9 @@ _Pride breaks not swords, but every bond._
 
 ### 🎭 Invocation Before the Scroll  
 
-*The Storm That Tests the Shape of Things*
+_The Storm That Tests the Shape of Things_
 
-*(The CHRONICLER bursts forth, soaked though no rain hath fallen. His feather is matted. His sleeves whip like the sails of a ship too proud to tack. He does not speak. He shouts.)*
+_(The CHRONICLER bursts forth, soaked though no rain hath fallen. His feather is matted. His sleeves whip like the sails of a ship too proud to tack. He does not speak. He shouts.)_
 
 __CHRONICLER:__  
 Where now is thy tower?
@@ -57,7 +57,7 @@ are tested not in theory—
 but in _time_.  
 And time is cruel.
 
-*He turns, gesturing to unseen forces battering the air.*
+_He turns, gesturing to unseen forces battering the air._
 
 Systems fail not because they are wrong—  
 but because the world changeth around them.
@@ -74,7 +74,7 @@ No ticket number.
 
 Let the test begin.
 
-*The scroll unfurls with a snap. Lights flicker. Scene begins.*
+_The scroll unfurls with a snap. Lights flicker. Scene begins._
 
 ---
 
@@ -114,11 +114,11 @@ His body—desperate now, knowing what his mind refused to acknowledge—launche
 
 The __metallic taste__ wasn't subtle anymore. His mouth filled with the flavor of pennies and rust, so strong he had to spit into his empty elixir chalice. The saliva came out pink. _"Must have bitten my tongue,"_ he rationalized, though he couldn't remember doing so.
 
-His __eyes__ weren't just flickering—they were strobing between realities. In one, he saw his elegant code. In the other, he saw error logs cascading like digital waterfalls, stack traces written in languages he'd never learned. *"Just need some eye drops. Too much viewing glass time."*
+His __eyes__ weren't just flickering—they were strobing between realities. In one, he saw his elegant code. In the other, he saw error logs cascading like digital waterfalls, stack traces written in languages he'd never learned. _"Just need some eye drops. Too much viewing glass time."_
 
-His __chest__ had moved beyond pressure to active revolt. Each heartbeat felt like his ribcage was trying to escape his body, to flee what was coming. His breathing came in gasps that tasted of ozone and regret. *"Too much morning elixir. Should switch to water after this summoning."*
+His __chest__ had moved beyond pressure to active revolt. Each heartbeat felt like his ribcage was trying to escape his body, to flee what was coming. His breathing came in gasps that tasted of ozone and regret. _"Too much morning elixir. Should switch to water after this summoning."_
 
-His __flipper__ had gone from tingling to burning to complete rebellion. As he reached for the sacred keys, it jerked involuntarily, sending his elixir chalice crashing to the floor. The ceramic shattered into pieces that looked, in the emergency lighting, like broken promises. *"Just coding too long. Need to stretch after this."*
+His __flipper__ had gone from tingling to burning to complete rebellion. As he reached for the sacred keys, it jerked involuntarily, sending his elixir chalice crashing to the floor. The ceramic shattered into pieces that looked, in the emergency lighting, like broken promises. _"Just coding too long. Need to stretch after this."_
 
 All systems screaming. All warnings ignored. The body knows what the mind denies. And somewhere in the space between neurons, consequences were gathering, waiting for the moment when warnings would demand their due.
 
@@ -162,7 +162,7 @@ For a moment—just a moment—he saw it clearly. All these people working caref
 
 But then the hubris spoke, in his own voice:
 
-*"Look at them. Patches on patches. Branches on branches. They're just polishing a turd. My solution eliminates the need for ALL of this. They'll thank me when they see how clean it can be."*
+_"Look at them. Patches on patches. Branches on branches. They're just polishing a turd. My solution eliminates the need for ALL of this. They'll thank me when they see how clean it can be."_
 
 He could even migrate their changes! Well, some of them. The important ones. Later. After the glory of shipping.
 
@@ -176,11 +176,11 @@ He could even migrate their changes! Well, some of them. The important ones. Lat
 
 His communication device, face-down to avoid "distractions," began its desperate light show:
 
-*BUZZ* - Message  
-*BUZZ BUZZ* - Call missed  
-*BUZZ* - Message  
-*BUZZ BUZZ BUZZ* - Multiple messages  
-*SUSTAINED BUZZ* - Someone was calling again
+_BUZZ_ - Message  
+_BUZZ BUZZ_ - Call missed  
+_BUZZ_ - Message  
+_BUZZ BUZZ BUZZ_ - Multiple messages  
+_SUSTAINED BUZZ_ - Someone was calling again
 
 Tuxrates flipped it over, annoyed at the interruption to his flow state.
 
@@ -194,43 +194,43 @@ Tuxrates flipped it over, annoyed at the interruption to his flow state.
 
 **The First Warning - The Fork-Bearer (21:52)**
 
-*The Fork-Bearer's runes appeared in the Ethereal Channels:*
+_The Fork-Bearer's runes appeared in the Ethereal Channels:_
 "Whoa, lil' guy... I can feel you vibing with the auth system at this cosmic hour. Heavy changes brewing, man. But like, remember what I taught you? Freedom ain't just about doing your own thing - it's about not harshing everyone else's mellow. Maybe we should all group chat about this when Monday rolls around? The community needs to groove on big changes together, you dig?"
 
-Tuxrates' thought: *Monday? This will be deployed and celebrated by Monday.*
+Tuxrates' thought: _Monday? This will be deployed and celebrated by Monday._
 
-*Swipe to dismiss.*
+_Swipe to dismiss._
 
 **The Second Warning - Prophet Nia (22:15)**
 
-*Prophet Nia's invocation echoed through the aether (inscribed by the spirits):*
+_Prophet Nia's invocation echoed through the aether (inscribed by the spirits):_
 "Tuxrates, thy test tapestry for the new auth sanctum... The honest glass reveals chasms where coverage should flow. Vast chasms. Remember the teaching - behavior's truth, not implementation's shadow. I beseech thee, invoke the full regression rites before—"
 
-Tuxrates' thought: *I'll add tests after it's working. Can't test-drive when you're innovating at this speed.*
+Tuxrates' thought: _I'll add tests after it's working. Can't test-drive when you're innovating at this speed._
 
-*Swipe to dismiss.*
+_Swipe to dismiss._
 
 His chest tightened. Just excitement. The phantom pressure of impending greatness.
 
 **The Third Warning - Puffy (22:43)**
 
-*@Puffy_OpenBSD's urgent summons blazed across the channels:*
+_@Puffy_OpenBSD's urgent summons blazed across the channels:_
 "DIRE WARNING: Thy branch obliterates all my protective wards! Three weeks of vigilant fortification! The timing demons shall return to haunt us! CEASE THY WORK AND LET US COMMUNE!"
 
-Tuxrates' thought: *My implementation doesn't have timing attacks because it's properly designed from the start. Paranoid programming is just fear-driven development.*
+Tuxrates' thought: _My implementation doesn't have timing attacks because it's properly designed from the start. Paranoid programming is just fear-driven development._
 
-*Swipe to dismiss.*
+_Swipe to dismiss._
 
 His flipper began tingling. Probably falling asleep from the coding position.
 
 **The Fourth Warning - Ferris (23:01)**
 
-*@FerrisTheCrab's humble petition arrived:*
+_@FerrisTheCrab's humble petition arrived:_
 "Greetings! I perceive my maiden pull request may clash with thy grand works. Should I reshape my branch? Tarry? I seek not to sow discord. These paths are yet strange to me. How might I serve? 🦀"
 
-Tuxrates' thought: *Sweet kid. They'll learn that sometimes you have to break things to make progress. This is a teaching moment.*
+Tuxrates' thought: _Sweet kid. They'll learn that sometimes you have to break things to make progress. This is a teaching moment._
 
-*Swipe to dismiss.*
+_Swipe to dismiss._
 
 The metallic taste grew stronger. Definitely blood from his lip-biting focus.
 
@@ -244,27 +244,27 @@ He could answer. He could listen. He could stop.
 
 **@T̸̵̷̶mpleSentinel:** "CRITICAL: P̶O̷I̵N̸T̷_̶O̵F̸_̷N̵O̶_̸R̷E̵T̸U̷R̶N̵. Mentor_intervention: [AVAILABLE_BUT_WILL_BE_DECLINED]. Decision: [ALREADY_MADE_IN_HEART]"
 
-*Ring*
+_Ring_
 
 The auth system was so close to done. So beautiful. So clean.
 
-*Ring*
+_Ring_
 
 Linus would just tell him to wait. To be incremental. To be cautious.
 
-*Ring*
+_Ring_
 
 But Linus was old. From a different era. He'd understand once he saw the elegance.
 
-*Ring*
+_Ring_
 
 Tuxrates looked at the caller ID photo—Linus's kind eyes, patient smile, the wisdom of decades.
 
-*Ring*
+_Ring_
 
 His thumb moved.
 
-*Swipe to dismiss.*
+_Swipe to dismiss._
 
 **The Voicemail of Doom (23:48)**
 
@@ -498,7 +498,7 @@ _(And somewhere in the cracks between working and broken, something with eight p
 
 _In the space between confidence and consequence, between the force-push and the first error report, Tuxrates transformed from rising star to cautionary tale. The perfect storm had not yet shown its full fury—that would come with the breaking dawn and the flood of failures._
 
-*Thus ends the moment of catastrophe. Thus begins the season of consequence.*
+_Thus ends the moment of catastrophe. Thus begins the season of consequence._
 
 ---
 
@@ -516,9 +516,9 @@ git push --force --dry-run
 
 ### 🎭 Closing of the Scroll  
 
-*What the Wind Did Not Carry Away*
+_What the Wind Did Not Carry Away_
 
-*(The CHRONICLER returns, hunched, his scroll now damp and frayed. His hat is gone. His sleeves hang loose like flags left after battle. His voice is softer now—like someone recounting loss by lantern light.)*
+_(The CHRONICLER returns, hunched, his scroll now damp and frayed. His hat is gone. His sleeves hang loose like flags left after battle. His voice is softer now—like someone recounting loss by lantern light.)_
 
 __CHRONICLER:__  
 It hath passed.
@@ -541,7 +541,7 @@ And so now… he wonders.
 Not how to rise.  
 But how to _survive_.
 
-*The CHRONICLER kneels, smoothing the scroll with tender hands.*
+_The CHRONICLER kneels, smoothing the scroll with tender hands._
 
 What endureth in the storm?  
 Not structure.  
@@ -558,7 +558,7 @@ For something within Tuxicles hath cracked.
 And what bleeds from pride,  
 bleeds long.
 
-*He gathers what remains of his costume with slow reverence. The wind, now gone, leaves only stillness. Blackout.*
+_He gathers what remains of his costume with slow reverence. The wind, now gone, leaves only stillness. Blackout._
 
 ---
 

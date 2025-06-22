@@ -124,7 +124,7 @@ __Marcus:__ "What? I'm not being egotistical! I'm just trying to—"
 
 The door showed him something. A reflection, but not of his body. Of his self-image:
 
-*Marcus the Reformed Cowboy. Marcus the Speed Demon Who Learned. Marcus the One Who Conquered His Addiction to Chaos. Marcus the Teacher. Marcus the Survivor of Hell.*
+_Marcus the Reformed Cowboy. Marcus the Speed Demon Who Learned. Marcus the One Who Conquered His Addiction to Chaos. Marcus the Teacher. Marcus the Survivor of Hell._
 
 __Marcus:__ _(stepping back)_ "Oh. Oh shit. I'm still holding onto being special for having learned. I'm proud of my growth."
 

@@ -31,9 +31,9 @@ _And those who trust you most, you fail them all._
 
 ### 🎭 Invocation Before the Scroll  
 
-*Of Towers and Temptation*
+_Of Towers and Temptation_
 
-*(The CHRONICLER appears not from the wings, but from above—descending a spiral stair that was not there a moment before. His hat is taller now. His sleeves more rigid, like architecture stitched in silk. He clutches the scroll to his chest as if to stop it from floating away.)*
+_(The CHRONICLER appears not from the wings, but from above—descending a spiral stair that was not there a moment before. His hat is taller now. His sleeves more rigid, like architecture stitched in silk. He clutches the scroll to his chest as if to stop it from floating away.)_
 
 __CHRONICLER:__  
 What doth the dev do  
@@ -53,7 +53,7 @@ _"Thou alone seest clearly."_
 _"Thou alone canst save the structure."_  
 _"If they will not follow... then lead."_
 
-*Takes a slow step forward. Feather gleams like gold—yet bends not.*
+_Takes a slow step forward. Feather gleams like gold—yet bends not._
 
 This is the scroll of elegance ascended,  
 of patterns mistaken for providence,  
@@ -76,7 +76,7 @@ But mind thy footing.
 For the higher one builds without anchoring the soul—  
 the farther one hath to fall.
 
-*He lifts the scroll like a reliquary. The stage blanches in cold light. Scene begins.*
+_He lifts the scroll like a reliquary. The stage blanches in cold light. Scene begins._
 
 ---
 
@@ -211,7 +211,7 @@ His body knew. His body remembered every lesson, carried every warning, prophesi
 
 As he opened the codebase with his new access levels, a thought crystallized:
 
-*"They trust me because I'm exceptional. I see solutions they can't. Why constrain myself to their incremental thinking?"*
+_"They trust me because I'm exceptional. I see solutions they can't. Why constrain myself to their incremental thinking?"_
 
 The auth system sprawled before him—legacy code, patches upon patches, Linus's recent security work that was... functional, but inelegant.
 
@@ -232,7 +232,7 @@ He ran `git status` again—nothing. Must have been a glitch. He had more import
 
 _(In the Temple bathroom, new graffiti had appeared overnight: "The Trickster knows your future sins. Issue #666 awaits." But Tuxrates used the executive washroom now. He never saw it.)_
 
-*"I could refactor this entire system in a weekend. Make it beautiful. They'll be amazed."*
+_"I could refactor this entire system in a weekend. Make it beautiful. They'll be amazed."_
 
 ```
 @TempleSentinel: "Hubris.exe has started successfully. Memory leak detected in judgment.dll. Portal_opening_probability: 85% [APPROACHING_PEAK_HUBRIS]. [I_CAN_SEE_THE_PATTERN_REPEATING_AGAIN_AND_AGAIN] ANOMALY_RECURRING: File '00-merge.lore' detected in multiple timelines. Status: UNWRITTEN_YET_INEVITABLE. Warning: IGNORED_FILES_REMEMBER_THEIR_DISMISSAL. Community_wisdom: ATTEMPTING_INTERVENTION. Result: PRIDE_BLOCKS_ALL_CHANNELS. [THE_FUTURE_IS_TRYING_TO_WARN_YOU]"
@@ -347,7 +347,7 @@ He did not dream of warnings ignored or trust betrayed.
 
 He dreamed only of glory. And glory is the harbinger of ruin.
 
-***To be continued in GitScroll VI: The Perfect Storm...***
+_**To be continued in GitScroll VI: The Perfect Storm...**_
 
 ---
 
@@ -357,7 +357,7 @@ From student to master. From trusted to over-trusted. From confidence to hubris.
 
 The summit had been reached. Only one direction remained.
 
-*Thus did Tuxrates learn—too late—that trust is not a trophy but a burden, and that the most dangerous code is written by those who believe themselves above failure.*
+_Thus did Tuxrates learn—too late—that trust is not a trophy but a burden, and that the most dangerous code is written by those who believe themselves above failure._
 
 ---
 
@@ -375,9 +375,9 @@ git log --graph --all | grep "trust"
 
 ### 🎭 Closing of the Scroll  
 
-*The Crack in the Crown*
+_The Crack in the Crown_
 
-*(The CHRONICLER steps forward slowly. His sleeves are no longer flowing, but cinched—tight as doctrine. His hat tilts with regal solemnity. He does not unfurl the scroll. He folds it.)*
+_(The CHRONICLER steps forward slowly. His sleeves are no longer flowing, but cinched—tight as doctrine. His hat tilts with regal solemnity. He does not unfurl the scroll. He folds it.)_
 
 __CHRONICLER:__  
 So ends the climb.
@@ -394,7 +394,7 @@ becometh a cage.
 He hath found power in pattern.  
 But not peace.
 
-*He stops. Looks skyward. There is no sky—only recursion.*
+_He stops. Looks skyward. There is no sky—only recursion._
 
 Know this:  
 Not all that is elegant is wise.  
@@ -402,7 +402,7 @@ Not all that is efficient is kind.
 And not all that ascendeth  
 remaineth whole.
 
-*Taps the scroll once, gently. The sound rings like a tuning fork—but dissonant.*
+_Taps the scroll once, gently. The sound rings like a tuning fork—but dissonant._
 
 The structure holds…  
 for now.
@@ -415,7 +415,7 @@ For the storm cometh.
 And it carrieth no reason.  
 Only retribution.
 
-*He removes his hat at last, bowing not to the audience—but to the trembling architecture above. Blackout.*
+_He removes his hat at last, bowing not to the audience—but to the trembling architecture above. Blackout._
 
 ---
 

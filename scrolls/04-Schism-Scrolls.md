@@ -31,9 +31,9 @@ _The fork is not betrayal—but the thread._
 
 ### 🎭 Invocation Before the Scroll  
 
-*The Splitting Path*
+_The Splitting Path_
 
-*(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)*
+_(The CHRONICLER storms forth, boots louder now. The scroll he bears is not unfurled, but snapped open mid-stride. His sleeves ripple like torn banners, his feather shivers with premonition.)_
 
 __CHRONICLER:__  
 Behold now what befalls  
@@ -46,7 +46,7 @@ but the pride remained.
 This scroll speaketh not of error—  
 but of __ego__.
 
-*He spins, gesturing to unseen figures on both sides.*
+_He spins, gesturing to unseen figures on both sides._
 
 When structure is questioned,  
 and no voice is crowned to answer—  
@@ -56,7 +56,7 @@ And lo! A kingdom cannot stand
 when every dev declareth:  
 _"My branch is the one true trunk!"_
 
-*He slaps the scroll closed once, sharply. The sound echoes like a rejected pull request.*
+_He slaps the scroll closed once, sharply. The sound echoes like a rejected pull request._
 
 Thus is born the Schism.
 
@@ -76,7 +76,7 @@ No test.
 Only choice.  
 And consequence.
 
-*He withdraws into the wings, and the scene fractures open like a conflicted merge.*
+_He withdraws into the wings, and the scene fractures open like a conflicted merge._
 
 ---
 
@@ -584,9 +584,9 @@ git switch -c freedom-to-grow
 
 ### 🎭 Closing of the Scroll  
 
-*The Cost of the Fork*
+_The Cost of the Fork_
 
-*(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)*
+_(The CHRONICLER reenters, slower now. He does not carry the scroll—he drags it. The parchment trails behind him like the hem of a ruined banner. His feather hangs limp. His sleeves are dusted with conflict.)_
 
 __CHRONICLER:__  
 It is done.
@@ -606,7 +606,7 @@ He stands alone, between the branches,
 feeling both pull.  
 Belonging to neither.
 
-*The CHRONICLER kneels to gather the scroll, folding it gently now—no drama. Only ritual.*
+_The CHRONICLER kneels to gather the scroll, folding it gently now—no drama. Only ritual._
 
 Know this:  
 Not all schisms are loud.  
@@ -627,7 +627,7 @@ Ah, the next dares the climb.
 But what he seeketh above  
 may cast a shadow long and cold.
 
-*He dons his hat again, slow and heavy, as though it now crowneth burden rather than pageantry. Blackout.*
+_He dons his hat again, slow and heavy, as though it now crowneth burden rather than pageantry. Blackout._
 
 ---
 

@@ -34,7 +34,7 @@ _The Third Invocation — Of Mirrors and Mortals_
 
 _(The CHRONICLER enters in haste. His feather is taut, his boots loud against the void. He clutches the scroll like a subpoena. When he speaks, it is with the clarity of one about to name names.)_
 
-*CHRONICLER:*
+_CHRONICLER:_
 Dost thou trust thy code?
 Thy tests?
 Thyself?
@@ -43,7 +43,7 @@ He circles slowly, sleeves billowing with judgment.
 
 Then thou art already doomed.
 
-This scroll is not a lesson—it is a *trial.*
+This scroll is not a lesson—it is a _trial._
 It shall hold up the mirror,
 and what thou seest therein
 will not flatter.
@@ -51,13 +51,13 @@ will not flatter.
 For tests are crueler than foes.
 They do not argue.
 They do not explain.
-They simply *reveal.*
+They simply _reveal._
 
 _He stops. Taps the scroll against his palm like a gavel._
 
 And woe to the dev who feareth to look.
 
-*Tuxicles* now standeth before the Glass.
+_Tuxicles_ now standeth before the Glass.
 His hands unsteady.
 His logic—unproven.
 
@@ -437,9 +437,9 @@ git test --all | grep -v "PASS"
 
 ### 🎭 Closing of the Scroll  
 
-*Where Error Becometh Flame*
+_Where Error Becometh Flame_
 
-*(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)*
+_(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)_
 
 __CHRONICLER:__  
 The mirror hath spoken.
@@ -455,7 +455,7 @@ And what he _forgot_ to assume.
 The Glass did not punish.  
 It simply reflected.
 
-*He turns the scroll in his hands, revealing nothing—and everything.*
+_He turns the scroll in his hands, revealing nothing—and everything._
 
 And in that reflection,  
 he hath glimpsed the truth:  
@@ -466,7 +466,7 @@ To see.
 To correct.  
 To build again—this time with eyes open.
 
-*He pauses. The feather of his hat droops solemnly.*
+_He pauses. The feather of his hat droops solemnly._
 
 But mark me:  
 Not all accept the mirror.  
@@ -480,7 +480,7 @@ when __truth is denied__.
 The fork approacheth.  
 And with it—division most dire.
 
-*He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout.*
+_He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout._
 
 ---
 

@@ -35,7 +35,7 @@ _The Second Invocation — Of Silence and Syntax_
 
 _(The CHRONICLER appears seated cross-legged on the floor. His scroll rests unopened in his lap. His hat droops low, as though it too mourns. He speaks without standing, his sleeves pooling around him like melting thoughts.)_
 
-*CHRONICLER:*
+_CHRONICLER:_
 Words are not enough.
 Not in this trade.
 Not in this world of silent logic and vanishing context.
@@ -61,7 +61,7 @@ velocity over voice.
 
 _He leans forward, suddenly sharp._
 
-*Thou* art not the first to write this system.
+_Thou_ art not the first to write this system.
 Nor shalt thou be the last.
 
 If thou leavest no message behind—
@@ -69,7 +69,7 @@ then what, pray, hath thy labor built?
 
 _Takes a long breath. The scroll creaks open like a trapdoor._
 
-*Tuxicles* reads now.
+_Tuxicles_ reads now.
 Not for answers.
 For echoes.
 
@@ -469,7 +469,7 @@ _Where the Message Was Never Heard_
 
 _(The CHRONICLER returns alone, slowly winding the scroll back into itself as though trying to trap something within it. His hat is askew, his voice low. No wind stirs, but his garments ripple all the same.)_
 
-*CHRONICLER:*
+_CHRONICLER:_
 And so the message was not received.
 
 Tuxicles read it—but too late.
@@ -499,7 +499,7 @@ There is no hero in this scroll.
 Only witness.
 
 But the next…
-Ah, the next doth bring the *Glass.*
+Ah, the next doth bring the _Glass._
 
 And in its surface,
 he shall see himself—not as he imagines—

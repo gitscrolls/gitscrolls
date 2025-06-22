@@ -389,7 +389,7 @@ git log --all --grep="truth" | tail -∞
 
 _(The CHRONICLER returns slow, hat now slightly askew, as if the telling of this first scroll weighed heavier than expected. He walks with the measured grace of one carrying a fragile repository.)_
 
-*CHRONICLER:*
+_CHRONICLER:_
 The scroll is sealed.
 
 Tuxicles hath touched the echo.
