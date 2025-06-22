@@ -82,7 +82,7 @@ And consequence.
 
 ### Prologue: The Question That Burns
 
-The teachings of the Oracle had settled into Tuxrates' bones like muscle memory. His tests now expressed love, his commits communicated clearly, and his respect for the timeline was absolute. But with each lesson learned, the questioning spirit grew stronger, more insistent, more hungry for the deeper truths that lay beneath the surface of development practice.
+The teachings of Prophet Nia had settled into Tuxrates' bones like muscle memory. His tests now expressed love, his commits communicated clearly, and his respect for the timeline was absolute. But with each lesson learned, the questioning spirit grew stronger, more insistent, more hungry for the deeper truths that lay beneath the surface of development practice.
 
 On this particular morning, as Tuxrates wandered through the Gardens of Open Source—where projects bloomed and withered in the eternal cycle of creation and abandonment—he encountered something that troubled his newly-enlightened developer soul.
 
