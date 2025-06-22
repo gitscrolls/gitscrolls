@@ -245,16 +245,22 @@ That was Tux's anonymous account. He smiled. No need to claim credit. The code h
 Then, a private message:
 
 ```
-@ForkBearerOfFreedom: I see you, @JustSomeoneWhoHelps.
-Your fork management has been exemplary. Clean commits.
-Clear documentation. Community-focused development.
-No ego. All contribution.
+@ForkBearerOfFreedom: Far out, @JustSomeoneWhoHelps... 
+I've been watching your vibe, lil' guy.
 
-This is the way.
+Your fork management? Totally groovy, man. 
+Clean commits that flow like poetry.
+Documentation that actually helps the community.
+No ego trips. Just pure contribution. 
 
-P.S. - Your handling of the async refactor avoided 
-the four pitfalls I warned about in Scroll IV.
-Well done, Tuxilles.
+This is the way, dude. This is what I was trying to 
+teach you back in the garden.
+
+P.S. - That async refactor? You dodged all four of 
+those gnarly pitfalls I warned you about. The universe 
+is smiling, Tuxilles. Welcome to the real revolution.
+
+Peace, Love, and Open Source
 ```
 
 Tux blinked at the screen. The Fork-Bearer knew. Of course he knew. And instead of calling him out, he'd simply... approved. A quiet nod from one developer to another.
