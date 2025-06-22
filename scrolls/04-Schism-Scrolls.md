@@ -134,7 +134,7 @@ __Tuxrates:__ "You mean... the right to modify code?"
 
 __Fork-Bearer of Freedom:__ "Deeper than that, little waddling one. I'm talking about the legal foundation—the license. See, forking without the right license is like..." _(adjusting his yellow glasses)_ "...trying to grow a garden in someone else's yard. They can just kick you out whenever, you dig?"
 
-He pulled out a joint—no wait, it was incense—and waved it thoughtfully.
+He adjusted his yellow glasses, pushing them up the bridge of his nose with a thoughtful expression.
 
 __Fork-Bearer of Freedom:__ "Let me tell you about TimeflowJS, snow-cousin. This'll blow your mind about why I'm so uptight about licenses. There was this groovy piece of code, right? Revolutionary async handling, really opened your mind to what was possible. Thousands of us were grooving on it, building our digital communes on top. Then the maintainer just... vanished, man. Poof. Bad trip, cosmic burnout, who knows?"
 
