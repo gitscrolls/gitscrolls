@@ -11,12 +11,8 @@ NC='\033[0m' # No Color
 
 echo "🔍 Running pre-commit markdown checks..."
 
-# Get list of staged markdown files that are tracked in git
-STAGED_MD_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep '\.md$' | while read file; do
-    if git ls-files --error-unmatch "$file" >/dev/null 2>&1; then
-        echo "$file"
-    fi
-done)
+# Get list of staged markdown files
+STAGED_MD_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep '\.md$' || true)
 
 if [ -z "$STAGED_MD_FILES" ]; then
     echo "✅ No markdown files to check"
@@ -28,7 +24,7 @@ echo "$STAGED_MD_FILES"
 
 # Run markdownlint with auto-fix on staged files in Docker
 echo -e "\n${YELLOW}Running markdown auto-fix in Docker...${NC}"
-docker compose run --rm -T test npm run lint:fix -- $STAGED_MD_FILES
+docker compose run --rm -T test npx markdownlint --fix $STAGED_MD_FILES
 
 # Check if any files were modified by the auto-fix
 MODIFIED_FILES=""
