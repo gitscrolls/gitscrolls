@@ -113,7 +113,7 @@ We may feature it in `FORKS.md`.
 
 ## Final Word
 
-> *“Insight, not overwrite. Commentary, not control.”*
+> _“Insight, not overwrite. Commentary, not control.”_
 
 GitScrolls welcomes dialogue, reverence, and precise technical mischief.  
 The Scrolls may change — but never casually. Never without purpose.
