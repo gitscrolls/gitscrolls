@@ -20,21 +20,31 @@ jobs:
     - name: Build test container
       run: docker compose build test
     
+    - name: Run markdownlint
+      run: |
+        echo "=== Running Markdown Linting ==="
+        docker compose run --rm -e CI=true test npm run in_docker:lint
+    
+    - name: Run GitScrolls style validation scripts
+      run: |
+        echo "=== Running GitScrolls Style Validation Scripts ==="
+        docker compose run --rm -e CI=true test bash .githooks/validate-gitscrolls-style.sh
+    
     - name: Run syntax validation
       run: |
         echo "=== Running Markdown Syntax Validation ==="
-        docker compose run --rm -e CI=true test npm run test:syntax
+        docker compose run --rm -e CI=true test npm run in_docker:test:syntax
     
     - name: Run style consistency validation
       run: |
         echo "=== Running Style Consistency Validation ==="
-        docker compose run --rm -e CI=true test npm run test:style
+        docker compose run --rm -e CI=true test npm run in_docker:test:style
       continue-on-error: true  # Don't fail the build on style warnings
     
     - name: Run all tests with coverage
       run: |
         echo "=== Running All Tests with Coverage ==="
-        docker compose run --rm -e CI=true test npm run test:ci
+        docker compose run --rm -e CI=true test npm run in_docker:test:ci
     
     - name: Upload test results
       uses: actions/upload-artifact@v4

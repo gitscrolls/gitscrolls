@@ -20,18 +20,13 @@ add_error() {
     ERROR_MESSAGES="${ERROR_MESSAGES}\n$1"
 }
 
-# Check all scroll files
-for file in scrolls/*.md; do
+# Check only git-tracked scroll files
+for file in $(git ls-files 'scrolls/*.md'); do
     if [ -f "$file" ]; then
-        echo -e "\n${CYAN}📜 Checking $file...${NC}"
-        
         # Check if file has CHRONICLER sections
         if ! grep -q "### 🎭" "$file"; then
-            echo -e "  ${YELLOW}⏭️  No CHRONICLER sections found, skipping${NC}"
             continue
         fi
-        
-        echo -e "  ${BLUE}🔍 Running CHRONICLER validations:${NC}"
         
         # Check 1: CHRONICLER dialogue should use "___CHRONICLER:___" (bold and italic)
         echo -n "    • Checking CHRONICLER label format... "
