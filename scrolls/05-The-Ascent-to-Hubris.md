@@ -53,7 +53,7 @@ _"Thou alone seest clearly."_
 _"Thou alone canst save the structure."_  
 _"If they will not follow... then lead."_
 
-_Takes a slow step forward. Feather gleams like gold—yet bends not._
+_(Takes a slow step forward. Feather gleams like gold—yet bends not.)_
 
 This is the scroll of elegance ascended,  
 of patterns mistaken for providence,  
@@ -76,7 +76,7 @@ But mind thy footing.
 For the higher one builds without anchoring the soul—  
 the farther one hath to fall.
 
-_He lifts the scroll like a reliquary. The stage blanches in cold light. Scene begins._
+_(He lifts the scroll like a reliquary. The stage blanches in cold light. Scene begins.)_
 
 ---
 
@@ -394,7 +394,7 @@ becometh a cage.
 He hath found power in pattern.  
 But not peace.
 
-_He stops. Looks skyward. There is no sky—only recursion._
+_(He stops. Looks skyward. There is no sky—only recursion.)_
 
 Know this:  
 Not all that is elegant is wise.  
@@ -402,7 +402,7 @@ Not all that is efficient is kind.
 And not all that ascendeth  
 remaineth whole.
 
-_Taps the scroll once, gently. The sound rings like a tuning fork—but dissonant._
+_(Taps the scroll once, gently. The sound rings like a tuning fork—but dissonant.)_
 
 The structure holds…  
 for now.
@@ -415,7 +415,7 @@ For the storm cometh.
 And it carrieth no reason.  
 Only retribution.
 
-_He removes his hat at last, bowing not to the audience—but to the trembling architecture above. Blackout._
+_(He removes his hat at last, bowing not to the audience—but to the trembling architecture above. Blackout.)_
 
 ---
 

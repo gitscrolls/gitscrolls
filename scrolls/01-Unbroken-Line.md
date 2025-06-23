@@ -47,7 +47,7 @@ _(A faint sound, like eight whispers speaking as one—or perhaps just the venti
 
 Every commit is a door. Most lead nowhere. Some lead down.
 
-He steps forward, voice silk-sharp.
+_(He steps forward, voice silk-sharp.)_
 
 Thou thinkest this tale quaint?
 A fable for old devs and dusty forums?
@@ -60,7 +60,7 @@ Thy refusal to read the damn README.
 
 Heed me well.
 
-_He raises the scroll, its twine unravels with a dry hiss._
+_(He raises the scroll, its twine unravels with a dry hiss.)_
 
 This is the story of the unbroken line—
 a chain of silent decisions,
@@ -86,7 +86,7 @@ Only:
 
 Thus begins the ritual.
 
-_He whips the scroll wide. The feather flares like a flag of war. Scene begins. The CHRONICLER vanishes into absence._
+_(He whips the scroll wide. The feather flares like a flag of war. Scene begins. The CHRONICLER vanishes into absence.)_
 
 ⸻
 
@@ -400,7 +400,7 @@ He knoweth now the line was never his.
 It stretches back, past names, past authors,
 past the illusion that anything truly begins at version one.
 
-He pauses. Adjusts his ruff. The feather of his hat wilts just slightly.
+_(He pauses. Adjusts his ruff. The feather of his hat wilts just slightly.)_
 
 He stands at the gate of inheritance,
 and already the rust doth creep beneath his boots.
@@ -413,7 +413,7 @@ Mark it well.
 For ‘tis here the dev awakens.
 And it is here the dev is damned.
 
-He holds the scroll flat and lets the weight of it pull his arms down.
+_(He holds the scroll flat and lets the weight of it pull his arms down.)_
 
 The next shall speak not of what was built,
 but of what was forgotten.
@@ -426,7 +426,7 @@ Go now.
 Scroll the Second awaiteth.
 And it is not kind.
 
-_He exits without flourish. Even his sleeves seem subdued. Blackout._
+_(He exits without flourish. Even his sleeves seem subdued. Blackout.)_
 
 ---
 

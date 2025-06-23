@@ -43,7 +43,7 @@ Not in this world of silent logic and vanishing context.
 To code is to forget—
 and to be forgotten.
 
-_He lifts the scroll slowly, like it aches._
+_(He lifts the scroll slowly, like it aches.)_
 
 This scroll bears not a lesson,
 but a _lament_.
@@ -59,7 +59,7 @@ This is what is lost
 when thou choosest speed over story,
 velocity over voice.
 
-_He leans forward, suddenly sharp._
+_(He leans forward, suddenly sharp.)_
 
 _Thou_ art not the first to write this system.
 Nor shalt thou be the last.
@@ -67,7 +67,7 @@ Nor shalt thou be the last.
 If thou leavest no message behind—
 then what, pray, hath thy labor built?
 
-_Takes a long breath. The scroll creaks open like a trapdoor._
+_(Takes a long breath. The scroll creaks open like a trapdoor.)_
 
 _Tuxicles_ reads now.
 Not for answers.
@@ -79,7 +79,7 @@ the meaning still gnaws at the root of things.
 
 Thus begins the second rite.
 
-_The CHRONICLER closes his eyes. The scroll unfurls. Scene begins._
+_(The CHRONICLER closes his eyes. The scroll unfurls. Scene begins.)_
 
 ### Scene I: The Repository of Remembrance
 
@@ -486,14 +486,14 @@ That what they learn is lost,
 and what they leave behind…
 is _noise_.
 
-_Taps the scroll gently, once. A faint pulse like static._
+_(Taps the scroll gently, once. A faint pulse like static.)_
 
 Tuxicles now knoweth this truth:
 That silence, too, is authored.
 That absence is not empty—
 it is accusation.
 
-_He stands, slowly. Adjusts the great feather of his hat, but without joy._
+_(He stands, slowly. Adjusts the great feather of his hat, but without joy.)_
 
 There is no hero in this scroll.
 Only witness.
@@ -510,7 +510,7 @@ Prepare thyself.
 For honesty comes sharpest
 when it doth wear the form of _test_.
 
-_He departs. The silence lingers like uncommitted code. Blackout._
+_(He departs. The silence lingers like uncommitted code. Blackout.)_
 
 ---
 

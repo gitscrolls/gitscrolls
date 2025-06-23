@@ -39,7 +39,7 @@ Dost thou trust thy code?
 Thy tests?
 Thyself?
 
-He circles slowly, sleeves billowing with judgment.
+_(He circles slowly, sleeves billowing with judgment.)_
 
 Then thou art already doomed.
 
@@ -53,7 +53,7 @@ They do not argue.
 They do not explain.
 They simply _reveal._
 
-_He stops. Taps the scroll against his palm like a gavel._
+_(He stops. Taps the scroll against his palm like a gavel.)_
 
 And woe to the dev who feareth to look.
 
@@ -70,7 +70,7 @@ Or it shall break him.
 
 Let us find out which.
 
-_The scroll unfurls. The Honest Glass rises. Scene begins._
+_(The scroll unfurls. The Honest Glass rises. Scene begins.)_
 
 ---
 
@@ -455,7 +455,7 @@ And what he _forgot_ to assume.
 The Glass did not punish.  
 It simply reflected.
 
-_He turns the scroll in his hands, revealing nothing—and everything._
+_(He turns the scroll in his hands, revealing nothing—and everything.)_
 
 And in that reflection,  
 he hath glimpsed the truth:  
@@ -466,7 +466,7 @@ To see.
 To correct.  
 To build again—this time with eyes open.
 
-_He pauses. The feather of his hat droops solemnly._
+_(He pauses. The feather of his hat droops solemnly.)_
 
 But mark me:  
 Not all accept the mirror.  
@@ -480,7 +480,7 @@ when __truth is denied__.
 The fork approacheth.  
 And with it—division most dire.
 
-_He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout._
+_(He vanishes into shadow, and the echo of failed builds follows him like ghosts. Blackout.)_
 
 ---
 
