@@ -35,7 +35,7 @@ _The First Invocation — Of Echo and Origin_
 
 _(From pitch darkness, a feather appears—long, absurd, undeniable—followed by a hat, a man, and a rustling storm of fabric. The CHRONICLER steps forward into a single shaft of light. His poet shirt billows with no wind. The scroll in his hand is tied in twine and time. He speaks.)_
 
-CHRONICLER:
+___CHRONICLER:___
 Before the fork, there was only flow.
 Before the branch, only breath.
 Before thy fingers touched thy first key—
@@ -389,7 +389,7 @@ git log --all --grep="truth" | tail -∞
 
 _(The CHRONICLER returns slow, hat now slightly askew, as if the telling of this first scroll weighed heavier than expected. He walks with the measured grace of one carrying a fragile repository.)_
 
-_CHRONICLER:_
+___CHRONICLER:___
 The scroll is sealed.
 
 Tuxicles hath touched the echo.

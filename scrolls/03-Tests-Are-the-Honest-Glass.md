@@ -34,7 +34,7 @@ _The Third Invocation — Of Mirrors and Mortals_
 
 _(The CHRONICLER enters in haste. His feather is taut, his boots loud against the void. He clutches the scroll like a subpoena. When he speaks, it is with the clarity of one about to name names.)_
 
-_CHRONICLER:_
+___CHRONICLER:___
 Dost thou trust thy code?
 Thy tests?
 Thyself?
@@ -441,7 +441,7 @@ _Where Error Becometh Flame_
 
 _(The CHRONICLER returns slowly. He holds the scroll at arm’s length, as if it bears a sentence too heavy to carry close. His hat is canted slightly to one side. Not from drama—this time, from weariness.)_
 
-__CHRONICLER:__  
+___CHRONICLER:___  
 The mirror hath spoken.
 
 Tuxicles hath faced the test—  

@@ -37,7 +37,7 @@ _The Storm That Tests the Shape of Things_
 
 _(The CHRONICLER bursts forth, soaked though no rain hath fallen. His feather is matted. His sleeves whip like the sails of a ship too proud to tack. He does not speak. He shouts.)_
 
-__CHRONICLER:__  
+___CHRONICLER:___  
 Where now is thy tower?
 
 Where are thy sacred rules,  
@@ -520,7 +520,7 @@ _What the Wind Did Not Carry Away_
 
 _(The CHRONICLER returns, hunched, his scroll now damp and frayed. His hat is gone. His sleeves hang loose like flags left after battle. His voice is softer now—like someone recounting loss by lantern light.)_
 
-__CHRONICLER:__  
+___CHRONICLER:___  
 It hath passed.
 
 Not the storm.  

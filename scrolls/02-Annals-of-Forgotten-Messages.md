@@ -35,7 +35,7 @@ _The Second Invocation — Of Silence and Syntax_
 
 _(The CHRONICLER appears seated cross-legged on the floor. His scroll rests unopened in his lap. His hat droops low, as though it too mourns. He speaks without standing, his sleeves pooling around him like melting thoughts.)_
 
-_CHRONICLER:_
+___CHRONICLER:___
 Words are not enough.
 Not in this trade.
 Not in this world of silent logic and vanishing context.
@@ -469,7 +469,7 @@ _Where the Message Was Never Heard_
 
 _(The CHRONICLER returns alone, slowly winding the scroll back into itself as though trying to trap something within it. His hat is askew, his voice low. No wind stirs, but his garments ripple all the same.)_
 
-_CHRONICLER:_
+___CHRONICLER:___
 And so the message was not received.
 
 Tuxicles read it—but too late.

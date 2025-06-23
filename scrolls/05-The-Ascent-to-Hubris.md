@@ -35,7 +35,7 @@ _Of Towers and Temptation_
 
 _(The CHRONICLER appears not from the wings, but from above—descending a spiral stair that was not there a moment before. His hat is taller now. His sleeves more rigid, like architecture stitched in silk. He clutches the scroll to his chest as if to stop it from floating away.)_
 
-__CHRONICLER:__  
+___CHRONICLER:___  
 What doth the dev do  
 once the dust hath settled,  
 once the voices fall to silence?
@@ -379,7 +379,7 @@ _The Crack in the Crown_
 
 _(The CHRONICLER steps forward slowly. His sleeves are no longer flowing, but cinched—tight as doctrine. His hat tilts with regal solemnity. He does not unfurl the scroll. He folds it.)_
 
-__CHRONICLER:__  
+___CHRONICLER:___  
 So ends the climb.
 
 Tuxicles hath built a tower,  
