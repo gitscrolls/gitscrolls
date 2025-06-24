@@ -236,7 +236,7 @@ __Fork-Bearer of Freedom:__ "That would be logical, yeah. Yet Linux exists. GNU 
 
 __Tuxrates:__ "I… I cannot explain it with logic alone."
 
-__Fork-Bearer of Freedom:__ "'Cause you're thinking like an engineer when you should be vibing like an evolutionist, you dig? Tell me, young seeker, how does nature create complex, robust, beautiful systems?"
+__Fork-Bearer of Freedom:__ "'Cause you're thinking like an engineer when you should be vibing like an evolutionist. Tell me, young seeker, how does nature create complex, robust, beautiful systems?"
 
 __Tuxrates:__ "Through… evolution? Mutation and selection?"
 
@@ -244,7 +244,7 @@ __Fork-Bearer of Freedom:__ "Yes! And what is mutation but biological forking? E
 
 __Tuxrates:__ "So forks are… mutations?"
 
-__Fork-Bearer of Freedom:__ "Forks are like, _exploration_, you know? They're the software equivalent of 'what if we tried it this way instead?' Most forks will fail, yes. Some will be abandoned, some will prove inferior to the original. But a few will discover something genuinely better, and those improvements can flow back to benefit the entire ecosystem."
+__Fork-Bearer of Freedom:__ "Forks are like, _exploration. They're the software equivalent of _'what if we tried it this way instead?'_ Most forks will fail, yes. Some will be abandoned, some will prove inferior to the original. But a few will discover something genuinely better, and those improvements can flow back to benefit the entire ecosystem."
 
 __Tuxrates:__ "But what about fragmentation? What about wasted effort? What about confusion in the community?"
 
@@ -260,9 +260,11 @@ __Fork-Bearer of Freedom:__ "You'd be choosing the certainty of slow death over 
 
 __Tuxrates:__ "How can forking be loyal?"
 
-__Fork-Bearer of Freedom:__ "Because you're saying 'I believe in this project's potential so much that I'll invest my own time and energy to explore that potential, even if the current maintainers disagree.' That's not betrayal—that's the highest form of compliment."
+__Fork-Bearer of Freedom:__ "Because you're saying _'I believe in this project's potential so much that I'll invest my own time and energy to explore that potential, even if the current maintainers disagree.'_ That's not betrayal—that's the highest form of compliment."
 
-_(He paused, eyes distant behind his yellow glasses)_ "Far out story, flipper-friend—the old-timers talk about this Trickster of Hub Issues, right? Some cosmic joker who shows up in the spaces between working and broken code. They say the Trickster appears when catastrophes are brewing, closing issues that should never have been opened." _(He shook his head slowly)_ "But dig this—the real trickster? It's our own ego, colony-brother. That's the trip that really fragments communities."
+He paused, eyes distant behind his yellow glasses.
+
+_Fork-Bearer of Freedom:__ "You wanna hear a far out story, flipper-friend? There's an old legend about the _Trickster of Hub Issues_. Ever heard of it? He's supposed to be some cosmic joker. Always shows up in the spaces between working and broken code. They say the Trickster laughs when catastrophes are brewing, and closes issues that should never have been opened." _(He shook his head slowly)_ "But dig this—the real trickster? It's our own ego, snow-bro. That's the trip that really fragments communities."
 
 _(Tuxrates shifted uncomfortably, but his discomfort was overshadowed by excitement. If ego was the only danger, well—he had that under control, didn't he? His flippers twitched toward his Sacred Codex.)_
 
@@ -356,7 +358,7 @@ __Fork-Bearer of Freedom:__ "Aw man, don't harsh my mellow with lies, little pen
 
 __Tuxrates:__ _(defensive)_ "If I see architectural flaws, don't I have the responsibility to fix them? You just said freedom means—"
 
-__Fork-Bearer of Freedom:__ _(pulling the pendant back)_ "Freedom means the ability to choose, man, not the obligation to impose. That's like, Freedom 101."
+__Fork-Bearer of Freedom:__ _(pulling the pendant back)_ "The ability to choose, man, not the obligation to impose. That's like, Freedom 101."
 
 As he lowered the pendant, Tuxrates' viewing glass flickered. For just a moment, in his peripheral vision:
 
