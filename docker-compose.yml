@@ -8,3 +8,4 @@ services:
     environment:
       - NODE_ENV=test
     working_dir: /app
+    entrypoint: ["/bin/sh", "-c", "git config --global --add safe.directory /app && exec \"$@\"", "--"]
