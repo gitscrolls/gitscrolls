@@ -2,6 +2,9 @@ FROM node:20-alpine
 
 WORKDIR /app
 
+# Install bash and git (needed for GitScrolls validation scripts)
+RUN apk add --no-cache bash git
+
 # Copy package files
 COPY package*.json ./
 
@@ -12,4 +15,4 @@ RUN npm install --frozen-lockfile
 COPY . .
 
 # Default command
-CMD ["npm", "test"]
+CMD ["npm", "run", "in_docker:test"]

@@ -1,5 +1,6 @@
-const { readFileSync, readdirSync, existsSync } = require('fs');
+const { readFileSync, existsSync } = require('fs');
 const { join } = require('path');
+const { getGitTrackedFilesInDir, getGitTrackedMarkdownFiles } = require('./git-tracked-files');
 
 interface MarkdownError {
   file: string;
@@ -38,10 +39,8 @@ describe('GitScrolls Markdown Syntax Validation', () => {
   const projectRoot = join(__dirname, '..');
   const scrollsDir = join(projectRoot, 'scrolls');
   
-  // Get all scroll files
-  const scrollFiles = readdirSync(scrollsDir)
-    .filter((f: string) => f.endsWith('.md'))
-    .sort();
+  // Get only git-tracked scroll files
+  const scrollFiles = getGitTrackedFilesInDir('scrolls').sort();
   
   // Test each scroll file
   scrollFiles.forEach((file: string) => {

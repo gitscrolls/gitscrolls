@@ -1,6 +1,7 @@
-const { readFileSync, readdirSync } = require('fs');
+const { readFileSync } = require('fs');
 const { join } = require('path');
 const yaml = require('js-yaml');
+const { getGitTrackedFilesInDir } = require('./git-tracked-files');
 
 interface StyleError {
   file: string;
@@ -246,9 +247,7 @@ describe('GitScrolls Style Consistency', () => {
   const scrollsDir = join(projectRoot, 'scrolls');
   
   // Get all scroll files
-  const scrollFiles = readdirSync(scrollsDir)
-    .filter((f: string) => f.endsWith('.md'))
-    .sort();
+  const scrollFiles = getGitTrackedFilesInDir('scrolls').sort();
   
   // Test each scroll file
   scrollFiles.forEach((file: string) => {
