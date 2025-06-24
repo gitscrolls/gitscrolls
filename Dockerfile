@@ -14,5 +14,8 @@ RUN npm install --frozen-lockfile
 # Copy test files
 COPY . .
 
+# Configure git to trust the /app directory
+RUN git config --global --add safe.directory /app
+
 # Default command
 CMD ["npm", "run", "in_docker:test"]
