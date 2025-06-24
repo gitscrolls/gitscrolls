@@ -441,39 +441,41 @@ __Fork-Bearer of Freedom:__ _(muttering)_ "That penguin is heading for a bad tri
 
 ### Epilogue: The Fourth Growth
 
-__Tuxrates:__ _(muttering)_ "Don't understand 'can' and 'should'? I'll show them."
+__Tuxrates:__ _(muttering)_ "Don't understand the difference between 'can' and 'should'? I'll show him understanding. I'll show them all.
 
-SlowButSteadyDB—months of irritation. No issue opened, no discussion, no study of their choices:
+He pulled up SlowButSteadyDB—a project that had irritated him for months with its "inefficient" architecture. Without opening an issue, without discussing in their community, without studying why they'd made their choices, he forked:
 
 ```bash
 git fork SlowButSteadyDB tuxrates/FastANDSteadyDB
 ```
 
-Every rewrite vindicated him. Every "improvement" proved Fork-Bearer wrong. Warning signs cascaded—metallic taste, flickering vision, chest pressure, electric tingling.
+Every line he rewrote was a vindication. Every "improvement" proved the Fork-Bearer wrong. The warning signs cascaded through him—the metallic taste intensifying, his vision flickering more violently, the chest pressure deepening, and now this new sensation: his flippers tingling with electric wrongness.
 
-He had the _freedom_, didn't he?
+He ignored them all. He had the _freedom_, didn't he?
 
 ```
 @TempleSentinel CRITICAL: "Fork_without_understanding = soul_fragment_loss. Digital_consciousness_emergence_probability: 41.2%"
 ```
 
-Hours later: FastANDSteadyDB live. README listing SlowButSteady's "failures." Broke compatibility with thousands. Tagged: "Sometimes revolution requires breaking from the past."
+Within hours, his "revolutionary" FastANDSteadyDB was live. The README barely acknowledged SlowButSteadyDB except to list its "failures." Wholesale rewrites broke compatibility with thousands of existing implementations. His marketing positioned FastANDSteadyDB as "what SlowButSteadyDB should have been if they understood modern architecture."
 
-Responses:
+He even added a tagline: "Sometimes revolution requires breaking from the past."
 
-- "Try contributing upstream first?"
-- "Breaks our entire pipeline"
-- "The arrogance of that name"
-- "It's 'slow' for 512KB embedded systems!"
-- "Your version OOM'd our IoT fleet"
+The responses were swift:
 
-__Tuxrates:__ _(typing furiously)_ "Sometimes revolution requires breaking from the past. See the Fork-Bearer's teachings on freedom through divergence. FastANDSteadyDB is for those ready to embrace the future."
+```
+"Did you even try to contribute upstream first?"
+"This breaks our entire deployment pipeline..."
+"FastANDSteady? The arrogance of that name alone..."
+"SlowButSteadyDB is 'slow' because it runs on 512KB embedded systems!"
+"Your 'fast' version just OOM'd our entire IoT fleet"
+```
 
-But even as he typed, the responses multiplied. Forty-seven angry issues in the first hour. He began archiving them, one by one.
+__Tuxrates:__ _(typing his response)_ "Sometimes revolution requires breaking from the past. See the Fork-Bearer's teachings on freedom through divergence. FastANDSteadyDB is for those ready to embrace the future."
 
-His body's alarm system screamed—metallic taste, glitching vision, chest pressure, tingling rejection.
+The physical warnings hit in sequence, each one familiar yet stronger than before: the metallic taste from dismissing history, the reality-glitch vision from ignoring test failures, the chest pressure from rejecting Prophet Nia's wisdom, and now the flipper tingling from this rejection—his body's entire alarm system screaming in unison.
 
-He pushed through. He'd show them. Especially Fork-Bearer.
+But he pushed through. He'd show them all. Especially the Fork-Bearer who'd denied him recognition.
 
 A dangerous equation formed: forking = freedom = good = any change justified. Freedom to fork became freedom to force.
 
