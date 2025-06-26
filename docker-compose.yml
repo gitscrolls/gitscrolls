@@ -2,6 +2,7 @@ services:
   # Test runner
   test:
     build: .
+    image: gitscrolls-markdown-validator-test:latest
     volumes:
       - .:/app
       - /app/node_modules
