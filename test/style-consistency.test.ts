@@ -216,7 +216,7 @@ class StyleConsistencyChecker {
   }
   
   private checkFooterAttribution(content: string) {
-    const hasAttribution = content.includes('GitScrolls: The Odyssey of the Dev') && 
+    const hasAttribution = content.includes('GitScrolls: The Epic of Tuxicles') && 
                           content.includes('© 2025 J. Kirby Ross');
     const scrollNumber = this.fileName.match(/\d+/)?.[0];
     
@@ -276,7 +276,7 @@ describe('GitScrolls Style Consistency', () => {
       const filePath = join(scrollsDir, file);
       const content = readFileSync(filePath, 'utf-8');
       
-      if (!content.includes('GitScrolls: The Odyssey of the Dev') || 
+      if (!content.includes('GitScrolls: The Epic of Tuxicles') || 
           !content.includes('© 2025 J. Kirby Ross')) {
         missingAttribution.push(file);
       }

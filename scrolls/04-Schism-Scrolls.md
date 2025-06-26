@@ -1,15 +1,3 @@
----
-title: "GitScroll IV: The Schism Scrolls"
-aliases:
-  - "GitScroll IV: The Schism Scrolls"
-  - "The Schism Scrolls"
-linter-yaml-title-alias: "GitScroll IV: The Schism Scrolls"
-date created: Thursday, May 29th 2025, 7:28:12 pm
-date modified: Thursday, May 29th 2025, 7:32:19 pm
-created: 2025-05-29T19:28
-updated: 2025-05-30T06:40
----
-
 # GitScroll IV: The Schism Scrolls
 
 _The Chronicles of Tuxrates and the Paradox of Freedom_
@@ -553,7 +541,7 @@ _Where trust becomes a dangerous weapon_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

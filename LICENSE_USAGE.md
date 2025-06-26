@@ -25,7 +25,7 @@
 
 *Hark!* — *these scrolls are shared freely, but not without covenant.*
 
-The wisdom within *GitScrolls: The Odyssey of the Dev* is gifted to the world,  
+The wisdom within *GitScrolls: The Epic of Tuxicles* is gifted to the world,  
 yet bound by sacred terms, that it may guide, not be sold.
 
 ---

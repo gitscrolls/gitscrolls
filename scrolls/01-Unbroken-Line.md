@@ -1,15 +1,3 @@
----
-title: "GitScroll I: The Unbroken Line"
-aliases:
-  - "GitScroll I: The Unbroken Line"
-  - "The Unbroken Line"
-linter-yaml-title-alias: "GitScroll I: The Unbroken Line"
-date created: Thursday, May 29th 2025, 7:17:21 pm
-date modified: Thursday, May 29th 2025, 7:20:35 pm
-created: 2025-05-29T19:17
-updated: 2025-05-30T06:41
----
-
 # GitScroll I: The Unbroken Line
 
 _The Chronicles of Tuxicles and the Birth of Version Control Wisdom_
@@ -435,7 +423,7 @@ _Where words unwritten scream louder than those carved_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

@@ -1,15 +1,3 @@
----
-title: "GitScroll VI: The Perfect Storm"
-aliases:
-  - "The Perfect Storm"
-  - "The Breaking of All Things"
-linter-yaml-title-alias: "GitScroll VI: The Perfect Storm"
-date created: Thursday, January 9th 2025, 10:35:00 pm
-date modified: January 10th 2025, 11:50:00 pm
-created: 2025-01-09T22:35
-updated: 2025-01-10T23:50
----
-
 # GitScroll VI: The Perfect Storm
 
 _The Moment Before the Fall_
@@ -567,7 +555,7 @@ _Where Tuxrates meets the Trickster and begins his journey through the Nine Circ
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

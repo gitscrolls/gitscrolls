@@ -1,8 +1,8 @@
 # COPYLEFT NOTICE
 
-## GitScrolls: The Odyssey of the Dev
+## GitScrolls: The Epic of Tuxicles
 
-**Full Title:** GitScrolls: The Odyssey of the Dev  
+**Full Title:** GitScrolls: The Epic of Tuxicles  
 **Subtitle:** The Developer Mythology  
 **Author:** J. Kirby Ross (The ScrollKeeper)  
 **Contact:** <scrollkeeper@gitscrolls.org>  

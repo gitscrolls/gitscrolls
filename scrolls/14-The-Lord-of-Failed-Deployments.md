@@ -1,36 +1,11 @@
----
-title: "GitScroll XIV: The Lord of Failed Deployments"
-aliases:
-  - "The Lord of Failed Deployments"
-  - "Where the True Enemy Reveals Itself"
-  - "The Fear of Change"
-linter-yaml-title-alias: "GitScroll XIV: The Lord of Failed Deployments"
-date created: December 22nd 2024, 6:00:00 pm
-date modified: December 23rd 2024, 4:30:00 am
-created: 2024-12-22T18:00
-updated: 2024-12-23T04:30
----
-
 # GitScroll XIV: The Lord of Failed Deployments
 
-_Where the True Enemy Reveals Itself: The Fear of Change_
+_Where the True Enemy Reveals Itself_
 
-> __"Hell's greatest torture isn't eternal suffering—it's eternal sameness. And we just threatened that."__  
-> _The Trickster, watching reality itself resist evolution_
+> __"The final boss was never in Hell. It was in the mirror all along."__  
+_Scrawled on the back of a rejected pull request_
 
-## The Fourteenth Teaching: "The Hardest Push Is Past Yourself"
-
-_When Hell itself begins to learn and grow,_  
-_The deepest fear emerges from the void:_  
-_Not failure, pain, or bugs that overflow—_  
-_But change that leaves the comfortable destroyed._
-
-_For in the depths where frozen egos dwell,_  
-_The true lord isn't Satan, pride, or shame._  
-_It's the part of us that chooses familiar hell_  
-_Over uncertain freedom's flickering flame._
-
----
+## The Fourteenth Teaching: "Your Greatest Enemy Is Your Former Self"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -360,7 +335,7 @@ _(Exit, at a sustainable pace)_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

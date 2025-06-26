@@ -1,36 +1,11 @@
----
-title: "GitScroll XVI: Where Heroes Go to Die"
-aliases:
-  - "Where Heroes Go to Die"
-  - "And Where Humans Learn to Live"
-  - "The Return"
-linter-yaml-title-alias: "GitScroll XVI: Where Heroes Go to Die"
-date created: December 22nd 2024, 10:00:00 pm
-date modified: December 23rd 2024, 5:30:00 am
-created: 2024-12-22T22:00
-updated: 2024-12-23T05:30
----
-
 # GitScroll XVI: Where Heroes Go to Die
 
 _And Where Humans Learn to Live_
 
-> __"The smallest PR often carries the most weight—it says 'I'm here to help,' not 'I'm here to impress.'"__  
-> _From the Merged Conscience of Those Who Returned, Commit #1_
+> __"The greatest commit is knowing when not to push."__  
+_The only message in Tuxicles' final PR_
 
-## The Sixteenth Teaching: "Daily Practice Over Dramatic Redemption"
-
-_No fanfare greets the ones who've walked through Hell,_  
-_No parade awaits the souls who've faced their worst._  
-_Just morning light, and code that needs to dwell_  
-_In repositories, fixed but unrehearsed._
-
-_For heroes die when they accept the truth:_  
-_That helping isn't grand—it's small and daily._  
-_One PR, one review, one bit of proof_  
-_That growth means showing up, not coming gaily._
-
----
+## The Sixteenth Teaching: "Heroes Write Code, Humans Maintain Communities"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -658,13 +633,13 @@ _(He walks off, disappearing into the crowd of developers at a conference. Just 
 
 ---
 
-_Thus ends **GitScrolls: The Odyssey of the Dev** - A story of falling, failing, and finding that the way back up is paved with small acts of help._
+_Thus ends **GitScrolls: The Epic of Tuxicles** - A story of falling, failing, and finding that the way back up is paved with small acts of help._
 
 _Remember: You are more than your worst commit._
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

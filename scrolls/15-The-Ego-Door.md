@@ -1,36 +1,11 @@
----
-title: "GitScroll XV: The Ego Door"
-aliases:
-  - "The Ego Door"
-  - "Where Leaving Requires the Ultimate Sacrifice"
-  - "The Final Choice"
-linter-yaml-title-alias: "GitScroll XV: The Ego Door"
-date created: December 22nd 2024, 8:00:00 pm
-date modified: December 23rd 2024, 5:00:00 am
-created: 2024-12-22T20:00
-updated: 2024-12-23T05:00
----
-
 # GitScroll XV: The Ego Door
 
-_Where Leaving Requires the Ultimate Sacrifice_
+_The Price of Leaving Hell_
 
-> __"The door was always there. We just couldn't see it until we stopped needing to be the ones who found it."__  
-> _Inscription above Hell's exit, written in every programming language simultaneously_
+> __"The door out of Hell has always been open. The lock is on the inside, and it's shaped like pride."__  
+_Inscription above the final exit_
 
-## The Fifteenth Teaching: "To Exit, First Enter Humility"
-
-_At last they stand before the final gate,_  
-_A door that asks for neither code nor key._  
-_Just one requirement, small but ultimate:_  
-_Leave behind the need to be somebody._
-
-_For Hell's true lock was never pain or flame,_  
-_But the desperate clutch of "I" and "me" and "mine."_  
-_And freedom comes to those who drop the game_  
-_Of being special on the commit line._
-
----
+## The Fifteenth Teaching: "To Save Others, First Surrender Yourself"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -394,7 +369,7 @@ _(Exit, not as THE CHRONICLER, but as someone who shared a story)_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

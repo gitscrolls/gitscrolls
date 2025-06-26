@@ -1,36 +1,11 @@
----
-title: "GitScroll XII: The Perfectionist's Prison"
-aliases:
-  - "The Perfectionist's Prison"
-  - "Where Done Beats Perfect"
-  - "The Architect Takes Notice"
-linter-yaml-title-alias: "GitScroll XII: The Perfectionist's Prison"
-date created: December 22nd 2024, 2:00:00 pm
-date modified: December 23rd 2024, 3:30:00 am
-created: 2024-12-22T14:00
-updated: 2024-12-23T03:30
----
-
 # GitScroll XII: The Perfectionist's Prison
 
-_Where Done Beats Perfect and the Architect Takes Notice_
+_Where 'Good Enough' Becomes Revolutionary_
 
-> __"Some bugs aren't meant to be fixed—they're meant to teach us when to stop fixing."__  
-> _Chen Wei, after 5 years debugging the same race condition, Circle 5_
+> __"The perfect is the enemy of the shipped."__  
+_Ancient wisdom, burned into every deploy key_
 
-## The Twelfth Teaching: "Ship the Teachable Moment"
-
-_In halls where code is polished to a gleam,_  
-_Where every edge case has an edge case more,_  
-_The perfect becomes enemy of dream—_  
-_And 'good enough' lies bleeding on the floor._
-
-_But Chen learned after years of futile fight:_  
-_Some bugs exist to teach us when to cease._  
-_That shipping flawed but helpful code tonight_  
-_Beats perfect code that never finds release._
-
----
+## The Twelfth Teaching: "Ship It Before It's Perfect, Fix It Because You Shipped It"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -399,7 +374,7 @@ _(Exit, still juggling, but smiling now)_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

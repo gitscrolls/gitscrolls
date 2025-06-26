@@ -1,4 +1,4 @@
-# 🐧 GitScrolls: The Odyssey of the Dev
+# 🐧 GitScrolls: The Epic of Tuxicles
 
 > *“Scripture for the command line soul.”*
 
