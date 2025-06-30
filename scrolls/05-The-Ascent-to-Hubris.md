@@ -223,6 +223,8 @@ As he opened the codebase with his new access levels, a heady rush of power floo
 
 The promotion sang in his veins like digital wine. Core Maintainer. The words tasted of authority, of validation, of finally being recognized as the exceptional developer he knew himself to be.
 
+That phrase—"earned our trust"—echoed in Tuxrates' mind. Not as a responsibility, but as permission. Carte blanche. Divine right. Absolute authority to fix what others had broken.
+
 _"They trust me because I'm exceptional. I see solutions they can't. Why constrain myself to their incremental thinking?"_
 
 The auth system sprawled before him—legacy code, patches upon patches, Linus's recent security work that was... functional, but inelegant.
