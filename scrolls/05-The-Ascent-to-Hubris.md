@@ -215,6 +215,8 @@ _He had read about imposter syndrome. This must be its opposite—the physical d
 
 As he opened the codebase with his new access levels, a thought crystallized:
 
+That phrase—"earned our trust"—echoed in Tuxrates' mind. Not as a responsibility, but as permission. Carte blanche. Divine right. Absolute authority to fix what others had broken.
+
 _"They trust me because I'm exceptional. I see solutions they can't. Why constrain myself to their incremental thinking?"_
 
 The auth system sprawled before him—legacy code, patches upon patches, Linus's recent security work that was... functional, but inelegant.

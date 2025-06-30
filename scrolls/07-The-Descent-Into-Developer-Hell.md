@@ -72,14 +72,48 @@ _(He gulps, steels himself, and unfurls the scroll.  The shaft of light gutters
 
 ---
 
-### Prologue: The Hour of Reckoning _(December 22, 2024, 04:00 UTC)_
+### Prologue: The Hour of Reckoning _(December 23, 2024, 16:00 UTC)_
 
-Tuxrates sat alone in his apartment, watching his life unravel in real-time. Every screen showed the same catastrophe: dashboards bleeding red, error rates climbing exponentially, and the authentication system he'd force-pushed three hours ago failing spectacularly.
+Tuxrates woke with a start, disoriented. The room was wrong—too bright. Afternoon light? That couldn't be right. He'd only just closed his eyes after... after...
 
-The message from Linus the Elder burned in his notification tray:
+The memories crashed back. The force push. The Trickster. The walking home through reality's cracks.
+
+He grabbed his communication crystal from the entry table, forgetting it had died two days ago. The black screen reflected his disheveled appearance. Two days? How had he—
+
+His portable codex still had charge. The timestamp showed Monday afternoon. He'd slept through the entire weekend.
+
+With trembling flippers, he connected to the Temple's network. What he saw made his blood freeze.
+
+Every screen showed the same catastrophe: dashboards bleeding red, error rates that had been climbing for 48 hours straight, and the authentication system he'd force-pushed Friday night still failing spectacularly. But worse than the technical disaster were the messages. Hundreds of them. From everyone.
+
+**@ForkBearer** _(Saturday 3:47 AM)_: "Dude... you pushed and just LEFT??? I thought you understood the groovy collaboration vibes, man. The whole team is drowning in your broken code and you're nowhere to be found. This is the opposite of righteous, brother. Not cool. Not cool at all. ☮️💔"
+
+**@ProphetNia** _(Saturday 9:23 AM)_: "WHERE ARE YOU?! Your untested code is failing spectacularly! The honest glass reveals ZERO coverage for production paths! I've been here all night trying to divine your intentions from these cryptic functions. The spirits are ANGRY, Tuxrates! ANSWER THY SUMMONS!"
+
+**@Puffy_OpenBSD** _(Saturday 6:45 PM)_: "YOU DESTROYED MY SECURITY PATCHES AND WENT HOME?!?! Three weeks of constant-time implementations, GONE! Timing attack vulnerabilities are BACK! Users are getting compromised while you sleep! I warned you about the timing demons! WHERE THE HELL ARE YOU?!"
+
+**@FerrisTheCrab** _(Sunday 2:31 AM)_: "Sir Tuxrates, we are in dire need of thy wisdom! Mine humble first feature lies broken beneath thy grand refactoring. I know not how to parse thy elegant abstractions! Please, I beseech thee—how might this crab navigate thy architectural labyrinth? 🦀😭"
+
+**@ElenaBug** _(Sunday 10:00 AM)_: "your commit messages are usually so clear, but this code... it's like you wrote it in a different language entirely. i've been debugging for 18 hours straight and i still don't understand the auth flow. where are the docs? where are YOU? people are counting on us."
+
+**@SysAdmin** _(Sunday 11:58 PM)_: "Do you know what it's like explaining to 2.3 MILLION users why they can't log in? While you're MIA? I'm done defending you."
+
+**@LinusTheElder** _(Monday 6:00 AM)_: "48 hours. Not a word. While we battled YOUR catastrophe. Unforgivable."
+
+The final message from Linus burned brightest—a technical rant of legendary proportions:
 
 ```
-**@LinusTheElder**: "Don't come to the office Monday. The Council will meet to decide your future."
+**@LinusTheElder**: "What the ABSOLUTE FUCK were you thinking? You force-pushed untested code over my security patches? MY PATCHES! Do you have ANY idea what you've done?
+
+I spent three weeks on those timing attack fixes. Three weeks of careful, methodical, TESTED improvements. And you just... what? Decided they weren't 'elegant' enough for your grand vision?
+
+Your 'elegant' functional composition? It's got more race conditions than a NASCAR track! Your 'clean' abstractions? They're leaking memory like a sieve! Your 'efficient' auth flow? IT DOESN'T EVEN HASH PASSWORDS CONSISTENTLY!
+
+And then—AND THEN—you just DISAPPEARED! While Puffy worked 30 hours straight fixing YOUR timing vulnerabilities! While Ferris cried actual tears because their first contribution got nuked! While Prophet Nia had to rewrite test coverage from SCRATCH because your code is so convoluted it can't BE tested!
+
+You didn't just break the code, Tuxrates. You broke the TRUST. You broke the COMMUNITY. You took everyone's hard work and you flushed it down the digital drain for your own ego.
+
+Don't come to the office Monday. The Council will meet to decide your future. But honestly? I already know what it'll be. You're done. DONE. And you did it to yourself."
 ```
 
 His physical warnings—once phantom whispers—had crystallized into something worse. The metallic taste was now blood from where he'd bitten his tongue. The eye flickers had become a constant strobe of guilt, reality itself glitching with each failed command.
