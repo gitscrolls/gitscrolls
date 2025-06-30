@@ -211,7 +211,11 @@ _The warnings grew more insistent, more synchronized. When he imagined the auth 
 
 _"The body adapts to excellence," he reasoned, opening another energy drink. "Athletes feel pain when they push boundaries. Artists suffer for their vision. This is just my nervous system catching up to my accelerated growth."_
 
-_He had read about imposter syndrome. This must be its opposite—the physical discomfort of finally matching your external achievements to your internal knowledge. Growing pains, nothing more._
+He must have been so caught up in the excitement of his promotion that he hadn't been paying attention to how much morning elixir he'd consumed. Just his body warning him to ease up on the caffeine. Overstimulated, nothing more.
+
+He drew in a breath like a drowning penguin surfacing, held it until his vision sparkled, then released it in one controlled stream. "There we are," he announced to his empty chamber. "Perfectly relaxed."
+
+The lie tasted metallic.
 
 **The Voice of Earned Arrogance**
 
