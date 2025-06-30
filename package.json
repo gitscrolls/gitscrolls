@@ -1,7 +1,7 @@
 {
   "name": "gitscrolls-markdown-validator",
   "version": "1.0.0",
-  "description": "GitScrolls: The Odyssey of the Dev - Markdown syntax validator for the epic developer mythology",
+  "description": "GitScrolls: The Epic of Tuxicles - Markdown syntax validator for the epic developer mythology",
   "main": "index.js",
   "scripts": {
     "test": "docker compose run --rm -e CI=true test /bin/sh -c 'npm run in_docker:lint && bash .githooks/validate-gitscrolls-style.sh && npm run in_docker:test:ci'",

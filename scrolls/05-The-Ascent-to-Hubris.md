@@ -1,21 +1,9 @@
----
-title: "GitScroll V: The Ascent to Hubris"
-aliases:
-  - "The Ascent to Hubris"
-  - "The Dangerous Height Before the Fall"
-linter-yaml-title-alias: "GitScroll V: The Ascent to Hubris"
-date created: Thursday, January 9th 2025, 10:30:00 pm
-date modified: January 10th 2025, 11:45:00 pm
-created: 2025-01-09T22:30
-updated: 2025-01-10T23:45
----
-
 # GitScroll V: The Ascent to Hubris
 
 _The Final Lesson Before the Breaking_
 
-> __"Trust is a ladder that becomes a cliff."__  
-_As witnessed in the rise of __Tuxrates the Trusted__, Whose Pride Would Lead to Great Catastrophe_
+> __"Pride in thy tools is wisdom; worship of them is folly."__  
+_Spoken in the first days by __Master Khuresh__, ere the storm that bore his name_
 
 ## The Fifth Teaching: "The Weight of Reputation Can Crush Its Bearer"
 
@@ -440,7 +428,7 @@ _Where warnings are dismissed and trust becomes catastrophe_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

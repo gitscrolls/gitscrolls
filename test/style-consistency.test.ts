@@ -1,6 +1,5 @@
 const { readFileSync } = require('fs');
 const { join } = require('path');
-const yaml = require('js-yaml');
 const { getGitTrackedFilesInDir } = require('./git-tracked-files');
 
 interface StyleError {
@@ -11,15 +10,6 @@ interface StyleError {
   severity: 'error' | 'warning';
 }
 
-interface FrontmatterData {
-  title?: string;
-  aliases?: string[];
-  'linter-yaml-title-alias'?: string;
-  'date created'?: string;
-  'date modified'?: string;
-  created?: string;
-  updated?: string;
-}
 
 class StyleConsistencyChecker {
   private errors: StyleError[] = [];
@@ -32,9 +22,6 @@ class StyleConsistencyChecker {
   check(content: string): StyleError[] {
     this.errors = [];
     const lines = content.split('\n');
-    
-    // Check frontmatter
-    this.checkFrontmatter(lines);
     
     // Check various style elements line by line
     lines.forEach((line, index) => {
@@ -61,71 +48,6 @@ class StyleConsistencyChecker {
     this.checkFooterAttribution(content);
     
     return this.errors;
-  }
-  
-  private checkFrontmatter(lines: string[]) {
-    // Find YAML frontmatter
-    if (!lines[0] || lines[0] !== '---') {
-      this.addError(1, 1, 'Missing YAML frontmatter', 'error');
-      return;
-    }
-    
-    let endIndex = -1;
-    for (let i = 1; i < lines.length; i++) {
-      if (lines[i] === '---') {
-        endIndex = i;
-        break;
-      }
-    }
-    
-    if (endIndex === -1) {
-      this.addError(1, 1, 'Unclosed YAML frontmatter', 'error');
-      return;
-    }
-    
-    try {
-      const yamlContent = lines.slice(1, endIndex).join('\n');
-      const data = yaml.load(yamlContent) as FrontmatterData;
-      
-      // Check required fields
-      const requiredFields = [
-        'title',
-        'aliases',
-        'linter-yaml-title-alias',
-        'date created',
-        'date modified',
-        'created',
-        'updated'
-      ];
-      
-      for (const field of requiredFields) {
-        if (!(field in data)) {
-          this.addError(
-            2,
-            1,
-            `Missing required frontmatter field: ${field}`,
-            'error'
-          );
-        }
-      }
-      
-      // Check aliases is an array
-      if (data.aliases && !Array.isArray(data.aliases)) {
-        this.addError(
-          2,
-          1,
-          'Frontmatter field "aliases" must be an array',
-          'error'
-        );
-      }
-    } catch (e) {
-      this.addError(
-        2,
-        1,
-        'Invalid YAML frontmatter',
-        'error'
-      );
-    }
   }
   
   private checkQuoteFormatting(line: string, lineNum: number) {
@@ -216,7 +138,7 @@ class StyleConsistencyChecker {
   }
   
   private checkFooterAttribution(content: string) {
-    const hasAttribution = content.includes('GitScrolls: The Odyssey of the Dev') && 
+    const hasAttribution = content.includes('GitScrolls: The Epic of Tuxicles') && 
                           content.includes('© 2025 J. Kirby Ross');
     const scrollNumber = this.fileName.match(/\d+/)?.[0];
     
@@ -276,7 +198,7 @@ describe('GitScrolls Style Consistency', () => {
       const filePath = join(scrollsDir, file);
       const content = readFileSync(filePath, 'utf-8');
       
-      if (!content.includes('GitScrolls: The Odyssey of the Dev') || 
+      if (!content.includes('GitScrolls: The Epic of Tuxicles') || 
           !content.includes('© 2025 J. Kirby Ross')) {
         missingAttribution.push(file);
       }

@@ -1,14 +1,3 @@
----
-title: "GitScroll III: Tests Are the Honest Glass"
-aliases:
-  - "GitScroll III: Tests Are the Honest Glass"
-  - "Tests Are the Honest Glass"
-linter-yaml-title-alias: "GitScroll III: Tests Are the Honest Glass"
-date created: Thursday, May 29th 2025, 7:25:00 pm
-date modified: Thursday, January 9th 2025, 7:45:00 pm
-created: 2025-05-29T19:25
-updated: 2025-01-09T19:45
----
 # GitScroll III: Tests Are the Honest Glass
 
 _The Journey of Tuxrates and the Prophet of Living Truth_
@@ -489,7 +478,7 @@ _As taught by the Fork-Bearer of Freedom, Guardian of the Four Freedoms_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

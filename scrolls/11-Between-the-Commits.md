@@ -1,36 +1,11 @@
----
-title: "GitScroll XI: Between the Commits"
-aliases:
-  - "Between the Commits"
-  - "Where the Crew Fractures"
-  - "The Trickster Chooses"
-linter-yaml-title-alias: "GitScroll XI: Between the Commits"
-date created: December 22nd 2024, 12:00:00 pm
-date modified: December 23rd 2024, 3:00:00 am
-created: 2024-12-22T12:00
-updated: 2024-12-23T03:00
----
-
 # GitScroll XI: Between the Commits
 
-_Where the Crew Fractures and the Trickster Chooses_
+_Where Teams Are Tested and Tricksters Choose Sides_
 
-> __"The hardest conflicts to resolve aren't in code—they're between people who've forgotten they're on the same branch."__  
-> _Overheard in Hell's first support group meeting, Circle 5_
+> __"In the space between push and pull, between commit and merge, loyalty reveals itself."__  
+_The last entry in @Trickster_of_Hub_Issues' activity log before the Great Silence_
 
-## The Eleventh Teaching: "Teams Break Before They Bond"
-
-_Four souls who thought they'd found their way,_  
-_Discover that redemption's not so clean._  
-_For trauma shared can still lead hearts astray_  
-_When old wounds open up and intervene._
-
-_The Trickster watches as they start to fight,_  
-_And wonders if this chaos serves Hell's aim—_  
-_Or if perhaps these cracks might let in light_  
-_That transforms more than just the players' game._
-
----
+## The Eleventh Teaching: "Trust Is Built in Crisis, Not Comfort"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -370,7 +345,7 @@ _(Exit, pursued by the sound of ten thousand years of habits breaking)_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

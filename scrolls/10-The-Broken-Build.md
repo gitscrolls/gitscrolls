@@ -1,37 +1,11 @@
----
-title: "GitScroll X: The Broken Build"
-aliases:
-  - "The Broken Build"
-  - "Where Loops Become Eternal"
-  - "Breaking the Infinite"
-linter-yaml-title-alias: "GitScroll X: The Broken Build"
-date created: December 22nd 2024, 10:00:00 am
-date modified: December 23rd 2024, 2:30:00 am
-created: 2024-12-22T10:00
-updated: 2024-12-23T02:30
-iso_timestamp: 2024-12-22T10:00:00Z
----
-
 # GitScroll X: The Broken Build
 
-_Where Loops Become Eternal and Lost Code Finds Peace_
+_Where Infinite Loops Are Made and Unmade_
 
-> __"while(true) { ask('Are we there yet?'); } // No. We are never there. There is no there. There is only the asking."__  
-> _Carved into the walls of Circle 6 by the Daemon of Infinite Loops, timestamp: perpetually now_
+> __"The cruelest punishment is not failure—it's succeeding at something that doesn't matter, forever."__  
+_Graffiti found in the Continuous Integration chambers_
 
-## The Tenth Teaching: "Some Loops Must Be Broken From Within"
-
-_In circles where the questions never cease,_  
-_And every answer spawns three questions more,_  
-_The only way to find a moment's peace_  
-_Is accepting what you cannot restore._
-
-_For code that's lost is gone, but knowledge stays,_  
-_And loops that bind us tight can be unwound_  
-_By those who've spent their own eternal days_  
-_In searching for what cannot be found._
-
----
+## The Tenth Teaching: "Breaking the Build Is Sometimes Breaking Free"
 
 ### 🎭 Invocation Before the Scroll
 
@@ -384,7 +358,7 @@ _(Exit, pursued by the ghost of every uncommitted file)_
 
 ---
 
-_**GitScrolls: The Odyssey of the Dev** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

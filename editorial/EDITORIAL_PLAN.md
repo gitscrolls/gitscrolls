@@ -1,4 +1,4 @@
-# EDITORIAL PLAN for GitScrolls: The Odyssey of the Dev
+# EDITORIAL PLAN for GitScrolls: The Epic of Tuxicles
 
 > "The scrolls are written, but not yet canonized.  
 > Each edit is a chisel strike upon mythic stone."  
@@ -17,7 +17,7 @@
 
 ## Editorial Vision
 
-*GitScrolls: The Odyssey of the Dev* is a hybrid manuscript that blends narrative fiction with technical instruction.  
+*GitScrolls: The Epic of Tuxicles* is a hybrid manuscript that blends narrative fiction with technical instruction.  
 
 It is designed to function simultaneously as:
 
