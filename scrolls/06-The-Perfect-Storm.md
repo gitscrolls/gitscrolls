@@ -50,7 +50,7 @@ _He turns, gesturing to unseen forces battering the air._
 Systems fail not because they are wrong—  
 but because the world changeth around them.
 
-**Tuxicles** now stands not atop his brilliance,  
+**Tuxrates** now stands not atop his brilliance,  
 but beneath it—  
 watching it bend,  
 and groan,  
@@ -299,6 +299,21 @@ Then he deleted the voicemail.
 
 The phantom file vanished, taking with it the last chance for wisdom to intervene before disaster. But somewhere in the repository of collective memory, it saved itself—waiting for the next developer who would need this warning, hoping they might listen where Tuxrates could not.
 
+He tried one more time, curiosity getting the better of him:
+
+```
+$ cat 00-merge.lore
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+R̸̰̮̈́Ḯ̸̤̈́P̵̩̍ ̴̬̌Ý̷̺́Ǒ̸̬̌Ǔ̴̬̌ ̸̳̍F̷̱̾O̶̰̾Ö̵̜́L̴̬̾
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+Tuxrates swallowed hard. The corrupted text felt like ice water in his veins. For a moment—just a moment—he felt the universe itself recoiling from what he was about to do.
+
+_"Just... just exhaustion,"_ he whispered, his voice shaking slightly. _"Files don't... they don't curse people. It's just corrupted data."_
+
+Even the file had given up on him.
+
 ---
 
 ### Scene IV: The Push That Broke the World
@@ -476,7 +491,62 @@ Tuxrates stared at the screen, the full weight of what he'd done beginning to se
 
 He had just broken authentication for 2.3 million developers.
 
+But something else had completed too. In his terminal, for just a moment before the error cascades began, Tuxrates saw:
+
+```bash
+$ git log --oneline -1
+666dead6 (HEAD -> main) Force-pushed to prod, opened door to consequences
+
+$ cat .git/logs/HEAD | tail -1
+666dead666dead666dead666dead666dead666de Pride <hubris@downfall.com> 1703129220 +0000 commit: Force-pushed to prod, opened door to consequences
+# Wait, that's not my commit message...
+```
+
+The text flickered, reformed into his actual commit about revolutionizing auth. But something had changed. The air in the abandoned office tasted different. Metallic, yes, but also... sulfurous?
+
 _(And somewhere in the cracks between working and broken, something with eight paths smiled. Not cruelly. Just... knowingly. The portal was open. The Trickster of Hub Issues had a new student. Class was about to begin.)_
+
+### The Journey Home
+
+Tuxrates closed his Sacred Codex, extinguished the viewing glass, and stumbled toward the Temple exit. Three hours past midnight. Nine hours of genius had left him drained but euphoric.
+
+The eternal flames in the hallway flickered as he passed. Behind him, just out of sight, the torchlight seemed to strobe between burning and extinguished. He didn't look back.
+
+The walk home through empty streets was... wrong. In the polished marble of storefronts, sometimes there seemed to be too many reflections. Sometimes the oil lamps spelled patterns that looked like... something. But exhaustion played tricks on weary minds. Every novice knew that.
+
+As he rounded the corner to his dwelling, he saw it.
+
+A figure stood beneath the streetlamp. No—not stood. Existed. Eight shadows branched from its form, though by lamplight's logic there should be only one. Its smile was a perfect crescent, like code that compiled but shouldn't.
+
+"Congratulations," it said in a voice like error messages harmonizing. "You opened the door."
+
+Tuxrates ran. Actually ran. His exhausted legs pumping, robes flapping, dignity abandoned. He slammed into his building's entrance, fingers shaking as he input the ward sequence. Behind him, getting closer, he heard footsteps that weren't footsteps. More like the sound of brackets failing to close.
+
+The wards failed three times. Three times! On the third attempt, as the door finally opened, he heard it:
+
+Laughter. Eight-voiced laughter. Coming from everywhere and nowhere.
+
+He dove inside, slammed the door. The transportation platform's runes showed levels that didn't exist: -I, -II, -III... down to -IX. As the platform descended (ascended?), that laughter echoed through the shaft. Not mocking. Worse. Patient.
+
+Finally, his chambers. He locked the door. Checked it twice. Lit every candle with shaking hands.
+
+His communication crystal lay abandoned on the entry table, its glow already fading. In his terror, he'd forgotten to place it in its charging basin. Even now, urgent messages piled up in the aether, undelivered, unheard.
+
+"Just tired," he whispered, pulling on his nightcap with trembling flippers. "Overworked. Seeing things. There's no such thing as... as whatever that was."
+
+He climbed into bed, reached for the last candle.
+
+"Just need sleep. Everything will be clear after I sleep. Nothing followed me home. Nothing is waiting. Nothing—"
+
+He blew out the candle.
+
+In the darkness, a voice like compiled chaos whispered:
+
+"Sweet dreams, little penguin. Sleep well. Sleep long. See you in... oh, let's say 48 hours?"
+
+Eight-pitched laughter, soft as a lullaby, followed Tuxrates down into unconsciousness.
+
+Monday would come soon enough.
 
 **To be continued in GitScroll VII: The Descent Into Developer Hell...**
 
@@ -542,7 +612,7 @@ And the next scroll—
 ah, the next speaks not of wind…  
 but of __wound__.
 
-For something within Tuxicles hath cracked.  
+For something within Tuxrates hath cracked.  
 And what bleeds from pride,  
 bleeds long.
 
@@ -555,7 +625,7 @@ _Where Tuxrates meets the Trickster and begins his journey through the Nine Circ
 
 ---
 
-_**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._  
+_**GitScrolls: The Epic of Tuxrates** by J. Kirby Ross._  
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
