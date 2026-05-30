@@ -1,12 +1,13 @@
 # 07-2.md
-# GitScroll VII: The Descent Into Developer Hell
+
+# GitScroll VII: The Descent Into Developer Hell (07-2)
 
 _The Nine Circles of Digital Damnation_
 
 > __"In the middle of my coding journey, I found myself in a dark repository, where the straight CI/CD pipeline was lost."__  
 _From the memoirs of Tuxicles, recovered from /dev/null_
 
-## The Seventh Teaching: "Every Push Opens a Portal"
+## The Seventh Teaching: "Every Push Opens a Portal" (07-2)
 
 _When hubris shatters trust's foundation-build,_
 _And crimson faults flood every guarded tree,_
@@ -533,7 +534,7 @@ As he fell deeper, the last coherent thought that passed through his fragmenting
 
 And then—darkness. Complete. Absolute.
 
-But in that darkness, something new stirred. Not Tuxrates the Brilliant. Not Tuxrates the Revolutionary. 
+But in that darkness, something new stirred. Not Tuxrates the Brilliant. Not Tuxrates the Revolutionary.
 
 Something smaller. Something that had finally learned to see.
 
@@ -619,14 +620,15 @@ _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
 
 # 07-The-Descent-Into-Developer-Hell.md
-# GitScroll VII: The Descent Into Developer Hell
+
+# GitScroll VII: The Descent Into Developer Hell (scroll-7-old)
 
 _The Nine Circles of Digital Damnation_
 
 > __"In the middle of my coding journey, I found myself in a dark repository, where the straight CI/CD pipeline was lost."__  
 _From the memoirs of Tuxicles, recovered from /dev/null_
 
-## The Seventh Teaching: "Every Push Opens a Portal"
+## The Seventh Teaching: "Every Push Opens a Portal" (scroll-7-old)
 
 _When hubris shatters trust's foundation-build,_
 _And crimson faults flood every guarded tree,_
@@ -699,7 +701,7 @@ Tuxrates woke with a start, disoriented. The room was wrong—too bright. Aftern
 
 The memories crashed back. The force push. The walk home through reality's cracks.That.. thing. The panic he felt... Did that really happen?
 
-He sighed and rolled out of bed, searching for his communication crystal. After a few minutes, he found it, discarded and left off its charger. He grabbed it from the entry table, and saw that it had died. The black screen reflected his disheveled appearance. He sat it down on its charging receptacle and went to brew some morning elixir. He had never needed it more in his life. 
+He sighed and rolled out of bed, searching for his communication crystal. After a few minutes, he found it, discarded and left off its charger. He grabbed it from the entry table, and saw that it had died. The black screen reflected his disheveled appearance. He sat it down on its charging receptacle and went to brew some morning elixir. He had never needed it more in his life.
 
 He emerged from his kitchen, mug in hand. He found that his portable codex still had charge. Opening it, he saw that the timestamp showed Monday afternoon.
 
@@ -723,7 +725,7 @@ At that moment, his communication device, finally holding enough charge to power
 @StatusPage: ⚠️ MAJOR OUTAGE: User login functionality impacted globally
 ```
 
-Tuxrates *(in disbelief)*: "What? This can't be... The status bots must be experiencing issues..."
+Tuxrates _(in disbelief)_: "What? This can't be... The status bots must be experiencing issues..."
 
 He logged into the Temple's Ephemeral Messenger. Then the human messages started:
 
@@ -907,7 +909,7 @@ Then, impossibly, something `git push --force`d through the screen itself.
 
 The figure `git diff`ed between states—sometimes solid, sometimes composed of pure commit messages. Eight shadows `git branch`ed from its form, though mortal eyes registered only two as arms. Its smile curved like a perfectly balanced parenthesis.
 
-__The Trickster:__ "Well, *well*, ***well***. Someone's been pushing to the Sacred Branch without lease."
+__The Trickster:__ "Well, _well_, _**well**_. Someone's been pushing to the Sacred Branch without lease."
 
 The voice compiled from somewhere impossible, each word a perfectly formed command that executed reality.
 
@@ -979,8 +981,8 @@ __The Trickster:__ "I've `git fetch`ed many fallen developers through these circ
 
 As they approached the portal, Tuxrates felt his body beginning to change. The warnings that had been phantoms were becoming real:
 
-* The metallic taste solidified into a scar across his beak
-* The eye flickers burned permanent traces into his vision, reality forever marked with glitches only he could see
+- The metallic taste solidified into a scar across his beak
+- The eye flickers burned permanent traces into his vision, reality forever marked with glitches only he could see
 
 __The Trickster:__ "Ah yes, the scarring begins. In the world above, you ignored the warnings. Here, they become part of you. By the time we reach the Ninth Circle, you'll wear your arrogance like armor. Heavy, painful armor that never comes off."
 
@@ -1249,9 +1251,9 @@ Rising from the center of the frozen lake was a massive figure, building-sized, 
 
 Three faces on one horrible body:
 
-* **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego
-* **Second Face**: Watching error logs scroll infinitely, mouth frozen in silent scream
-* **Third Face**: Reading the hatred of millions, weeping blood-red stack traces
+- **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego
+- **Second Face**: Watching error logs scroll infinitely, mouth frozen in silent scream
+- **Third Face**: Reading the hatred of millions, weeping blood-red stack traces
 
 His wings—made of broken CI/CD pipelines—beat uselessly, creating the freezing wind that kept the lake solid.
 
@@ -1275,7 +1277,7 @@ The last thing he heard was the Trickster's voice, echoing from impossibly far a
 
 And then—
 
-### Darkness. Complete. Absolute.
+### Darkness. Complete. Absolute
 
 ```
 $ consciousness --status
@@ -1345,6 +1347,7 @@ _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org
 
 
 # scroll-7-old.md
+
 # GitScroll VII: The Descent Into Developer Hell
 
 _The Nine Circles of Digital Damnation_
@@ -1577,8 +1580,8 @@ __The Trickster:__ "I've `git fetch`ed many fallen developers through these circ
 
 As they approached the portal, Tuxrates felt his body beginning to change. The warnings that had been phantoms were becoming real:
 
-* The metallic taste solidified into a scar across his beak
-* The eye flickers burned permanent traces into his vision, reality forever marked with glitches only he could see
+- The metallic taste solidified into a scar across his beak
+- The eye flickers burned permanent traces into his vision, reality forever marked with glitches only he could see
 
 __The Trickster:__ "Ah yes, the scarring begins. In the world above, you ignored the warnings. Here, they become part of you. By the time we reach the Ninth Circle, you'll wear your arrogance like armor. Heavy, painful armor that never comes off."
 
@@ -1847,9 +1850,9 @@ Rising from the center of the frozen lake was a massive figure, building-sized, 
 
 Three faces on one horrible body:
 
-* **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego
-* **Second Face**: Watching error logs scroll infinitely, mouth frozen in silent scream
-* **Third Face**: Reading the hatred of millions, weeping blood-red stack traces
+- **First Face**: Forever typing `git push --force`, eyes wild with unquenchable ego
+- **Second Face**: Watching error logs scroll infinitely, mouth frozen in silent scream
+- **Third Face**: Reading the hatred of millions, weeping blood-red stack traces
 
 His wings—made of broken CI/CD pipelines—beat uselessly, creating the freezing wind that kept the lake solid.
 
@@ -2111,4 +2114,3 @@ _**GitScrolls: The Epic of Tuxicles** by J. Kirby Ross._
 _© 2025 J. Kirby Ross · GitScrolls_  
 _Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
 _Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._
-

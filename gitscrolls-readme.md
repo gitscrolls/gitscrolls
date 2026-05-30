@@ -7,6 +7,7 @@
 GitScrolls is an epic developer's journey told through sixteen sacred scrolls, chronicling the fall and redemption of Tuxicles—a penguin developer who learns that breaking 2.3 million user authentication sessions is only the beginning of true education.
 
 This is a story about:
+
 - **Pride and catastrophic failure** in software development
 - **The journey through Developer Hell** (literally)
 - **Redemption through community** and helping others
@@ -15,8 +16,10 @@ This is a story about:
 **Note:** This is a complete narrative work by J. Kirby Ross. It is not open documentation or a wiki—it's a crafted story with philosophical teachings. See [CONTRIBUTING.md](CONTRIBUTING.md) and [LICENSE_USAGE.md](LICENSE_USAGE.md) for details on how to engage with the work.
 
 ## The Sixteen Sacred Scrolls
+<!-- markdownlint-disable MD029 -->
 
 ### Part I: The Fall (Scrolls 1-6)
+
 1. **[The Unbroken Line](scrolls/01-Unbroken-Line.md)** - _"Thou Shalt Not Rewrite History"_  
    <details><summary>Description</summary>Young Tuxicles learns the sacred nature of git history from Linus the Elder.</details>
 
@@ -36,6 +39,7 @@ This is a story about:
    <details><summary>Description</summary>The catastrophic force-push that breaks authentication for 2.3 million users.</details>
 
 ### Part II: The Descent (Scrolls 7-12)
+
 7. **[The Descent Into Developer Hell](scrolls/07-The-Descent-Into-Developer-Hell.md)** - _"Every Push Opens a Portal"_  
    <details><summary>Description</summary>Tuxrates meets the Trickster and begins his journey through the Nine Circles.</details>
 
@@ -55,6 +59,7 @@ This is a story about:
     <details><summary>Description</summary>Chen learns that good enough is better than never done.</details>
 
 ### Part III: The Transformation (Scrolls 13-16)
+
 13. **[Hell's Panic Protocol](scrolls/13-Hells-Panic-Protocol.md)** - _"When Everything Breaks, Unity Is the Only Fix"_  
     <details><summary>Description</summary>Hell throws everything at the crew, who respond with compassion.</details>
 
@@ -68,35 +73,45 @@ This is a story about:
     <details><summary>Description</summary>Return to the ordinary world and the daily practice of redemption.</details>
 
 ## Key Characters (By Order of Appearance)
+<!-- markdownlint-enable MD029 -->
 
 ### Introduced in Scroll I
+
 - **The Chronicler** - <details><summary>Character Details</summary>The narrator who guides us through the scrolls with dramatic flair and eventually learns to set aside his own ego</details>
 - **Tuxicles/Tuxrates/Tux** - <details><summary>Character Details</summary>The protagonist penguin who transforms from ego-driven developer to humble helper</details>
 - **Linus the Elder** - <details><summary>Character Details</summary>Grandfather of Git, teacher of timeline sanctity</details>
 
 ### Introduced in Scroll II
+
 - **Elena, Librarian of the Logs** - <details><summary>Character Details</summary>Keeper of commit message wisdom</details>
 
 ### Introduced in Scroll III
+
 - **Prophet Nia of the Honest Glass** - <details><summary>Character Details</summary>Guardian of testing truth</details>
 
 ### Introduced in Scroll IV
+
 - **The Fork-Bearer of Freedom** - <details><summary>Character Details</summary>Hippie philosopher of open source</details>
 
 ### Introduced in Scroll VII
+
 - **The Trickster of Hub Issues** - <details><summary>Character Details</summary>Hell's guide who becomes an ally, existing in the broken spaces between code, ultimately choosing to help rather than torment</details>
 - **TUX/TempleSentinel** - <details><summary>Character Details</summary>Tux's conscience manifested, the warnings made real</details>
 
 ### Introduced in Scroll VIII
+
 - **Alexis** - <details><summary>Character Details</summary>The security expert who destroyed 200 jobs and learns to balance paranoia with purpose</details>
 
 ### Introduced in Scroll IX
+
 - **Marcus** - <details><summary>Character Details</summary>The speed demon who broke databases and learns sustainable deployment</details>
 
 ### Introduced in Scroll X
+
 - **Samir** - <details><summary>Character Details</summary>The PhD student who lost everything and learned acceptance</details>
 
 ### Introduced in Scroll XII
+
 - **Chen** - <details><summary>Character Details</summary>The perfectionist who spent 5 years on one bug and learns to ship</details>
 
 ## Core Teachings
@@ -117,6 +132,7 @@ This is a story about:
 Throughout the story, a mysterious file appears—a gift from the Trickster that evolves as wisdom passes from teacher to student. This file exists both within the story and as a real artifact in this repository that readers can discover, fork, and add their own wisdom to.
 
 The file represents the eternal cycle of learning from failure and passing that knowledge forward. When you find it, you're invited to:
+
 1. Fork this repository
 2. Add your own version of the lore
 3. Submit a PR with your teaching wisdom
@@ -140,6 +156,7 @@ The scrolls can be read in order for the full narrative arc, or individually for
 GitScrolls isn't about condemning mistakes—it's about learning from them. Every developer breaks things. The lucky ones find community in the breaking and wisdom in the fixing.
 
 Remember:
+
 - **You are more than your worst commit**
 - **Hell is just school with intense teachers**
 - **Redemption isn't a moment—it's a practice**
