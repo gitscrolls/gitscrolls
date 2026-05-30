@@ -34,17 +34,20 @@ _To save one soul from algorithmic wrath._
 **Setting**: Deep in `/dev/null/soul`, where something new has stirred from Tuxrates' complete dissolution.
 
 **The Trickster's Curiosity**:
+
 - Appears in the void, drawn by impossible readings
 - Hell's monitoring systems are screaming errors
 - Something that shouldn't exist: genuine selfless compassion in Hell
 
 **The New Entity**:
+
 - Not Tuxrates anymore - ego completely gone
 - Just consciousness focused on alleviating suffering
 - No name, no identity, just purpose
 - Calls himself "Tux" - simple, humble, functional
 
 **First Exchange**:
+
 ```
 Trickster: "What are you?"
 Tux: "Someone who wants to help."
@@ -58,18 +61,21 @@ Trickster: "...Everyone?"
 ### **Act II: The Revelation**
 
 **Hell's Architecture Exposed**:
+
 - Trickster explains Hell's true nature - not divine justice, but a system
 - Built by the first developers who gained power
 - Designed to punish innovation, maintain status quo
 - Every circle targets a different type of growth or risk-taking
 
 **The Ancient Truth**:
+
 - Hell exists to stop evolution
 - To prevent developers from becoming something greater
 - To ensure the powerful stay powerful
 - Suffering isn't the point - stagnation is
 
 **The Trickster's History**:
+
 - Originally a developer who questioned the system
 - Became guide to prove no one could escape
 - Ten thousand souls guided through - all gave up hope
@@ -80,17 +86,20 @@ Trickster: "...Everyone?"
 ### **Act III: The Impossible Problem**
 
 **The Challenge**:
+
 - Trickster: "You want to help the frozen ones?"
 - Tux: "Yes."
 - Trickster: "Then you must solve the impossible: break Hell without destroying yourself."
 
 **The System's Defense**:
+
 - Hell's core protection: helping others triggers exponential suffering
 - Touch one frozen soul, feel ten times their pain
 - Help them remember hope, and Hell's weight crushes you
 - The more you care, the more the system fights back
 
 **The Catch-22**:
+
 - Only genuine compassion can break the ice
 - But compassion triggers Hell's immune response
 - Previous attempts were selfish (seeking redemption)
@@ -102,23 +111,27 @@ Trickster: "...Everyone?"
 ### **Act IV: The Laughing in Hell**
 
 **The Trickster's Gambit**:
+
 - Reveals he's been waiting for this moment
 - Not to guide someone out of Hell
 - But to help someone break Hell itself
 
 **The Plan**:
-- Use Tux's unique nature (death-born compassion) 
+
+- Use Tux's unique nature (death-born compassion)
 - Navigate Hell's defensive systems
 - Find the one frozen soul most likely to respond
 - Create the first crack in eternal suffering
 
 **The Risk**:
+
 - If they fail, Tux faces eternal torture
 - If they succeed, Hell's foundation cracks
 - The Trickster risks everything on an impossibility
 - But after ten thousand failures, why not try something new?
 
 **The Laughter**:
+
 - First time in Hell's history that laughter rings genuine
 - Not bitter, not mocking - just joyful at possibility
 - The sound makes Hell's systems glitch harder
@@ -129,18 +142,21 @@ Trickster: "...Everyone?"
 ### **Act V: The First Target**
 
 **Choosing Alexis**:
+
 - Among all frozen souls, she shows the faintest spark
 - 200 jobs lost - manageable scale for first attempt  
 - Her coding style shows remnants of compassion
 - She tried to warn people before her fatal push
 
 **The Approach**:
+
 - Trickster and Tux prepare for Hell's counter-attack
 - Strategy: move fast, focus on connection not fixing
 - Goal: prove to one soul they're not alone
 - Success metric: one moment of hope in eternal despair
 
 **Hell's Warning Systems**:
+
 ```
 CRITICAL: Anomaly approaching Frozen Core
 Type: Unknown
@@ -155,7 +171,8 @@ All systems: KILL ON SIGHT
 
 **CHRONICLER** speaks in hushed tones of watching the impossible - Hell preparing to defend itself against kindness.
 
-**The Cliffhanger**: 
+**The Cliffhanger**:
+
 - Tux and Trickster standing before the frozen lake
 - Hell's defenses spinning up to maximum
 - The first attempt to debug a soul from eternal suffering
@@ -168,14 +185,17 @@ All systems: KILL ON SIGHT
 ## **Character Development**
 
 **Tux** (formerly Tuxrates):
+
 - **Start**: Nameless consciousness seeking to help
 - **End**: Determined to risk everything for one stranger's pain
 
 **The Trickster**:
+
 - **Start**: Ancient guide maintaining Hell's status quo
 - **End**: Revolutionary willing to bet everything on change
 
 **Hell Itself**:
+
 - **Start**: Immutable system of eternal punishment
 - **End**: Threatened fortress preparing for war
 
@@ -202,3 +222,10 @@ All systems: KILL ON SIGHT
 
 **To be continued in GitScroll X: "Hope Subroutine"**  
 _Where compassion meets ice, and Hell's defenses meet their first real test_
+
+---
+
+_**GitScrolls: The Epic of Tuxrates** by J. Kirby Ross._  
+_© 2025 J. Kirby Ross · GitScrolls_  
+_Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)._  
+_Commercial use beyond the license? Petition the steward at <info@gitscrolls.org>._

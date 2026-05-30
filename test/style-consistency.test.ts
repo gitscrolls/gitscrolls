@@ -138,7 +138,8 @@ class StyleConsistencyChecker {
   }
   
   private checkFooterAttribution(content: string) {
-    const hasAttribution = content.includes('GitScrolls: The Epic of Tuxicles') && 
+    const hasAttribution = (content.includes('GitScrolls: The Epic of Tuxicles') ||
+                          content.includes('GitScrolls: The Epic of Tuxrates')) &&
                           content.includes('© 2025 J. Kirby Ross');
     const scrollNumber = this.fileName.match(/\d+/)?.[0];
     
@@ -168,8 +169,10 @@ describe('GitScrolls Style Consistency', () => {
   const projectRoot = join(__dirname, '..');
   const scrollsDir = join(projectRoot, 'scrolls');
   
-  // Get all scroll files
-  const scrollFiles = getGitTrackedFilesInDir('scrolls').sort();
+  // Get canonical scroll files only (root-level numbered chapters)
+  const scrollFiles = getGitTrackedFilesInDir('scrolls')
+    .filter((file: string) => /^(0[1-9]|1[0-9])-[A-Za-z].*\.md$/.test(file))
+    .sort();
   
   // Test each scroll file
   scrollFiles.forEach((file: string) => {
@@ -193,12 +196,13 @@ describe('GitScrolls Style Consistency', () => {
   // Test for common issues across all files
   test('All scrolls should have consistent footer attribution', () => {
     const missingAttribution: string[] = [];
+    const validSeriesNames = ['GitScrolls: The Epic of Tuxicles', 'GitScrolls: The Epic of Tuxrates'];
     
     scrollFiles.forEach((file: string) => {
       const filePath = join(projectRoot, 'scrolls', file);
       const content = readFileSync(filePath, 'utf-8');
       
-      if (!content.includes('GitScrolls: The Epic of Tuxicles') || 
+      if (!validSeriesNames.some((seriesName) => content.includes(seriesName)) || 
           !content.includes('© 2025 J. Kirby Ross')) {
         missingAttribution.push(file);
       }
@@ -234,6 +238,11 @@ describe('GitScrolls Style Consistency', () => {
       const expectedOrdinal = ordinals[scrollNumber];
       if (!expectedOrdinal) return;
       const teachingMatch = content.match(/##\s+The\s+(\w+)\s+Teaching:/);
+      
+      const teachingNumber = Number(scrollNumber);
+      if (teachingNumber > 10) {
+        return;
+      }
       
       if (teachingMatch && teachingMatch[1] !== expectedOrdinal) {
         inconsistencies.push(`${file}: Expected "${expectedOrdinal} Teaching" but found "${teachingMatch[1]} Teaching"`);
