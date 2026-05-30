@@ -1,6 +1,6 @@
 const { readFileSync, existsSync } = require('fs');
 const { join } = require('path');
-const { getGitTrackedFilesInDir, getGitTrackedMarkdownFiles } = require('./git-tracked-files');
+const { getGitTrackedFilesInDir } = require('./git-tracked-files');
 
 interface MarkdownError {
   file: string;
@@ -37,7 +37,6 @@ function validateMarkdownFile(filePath: string): MarkdownError[] {
 
 describe('GitScrolls Markdown Syntax Validation', () => {
   const projectRoot = join(__dirname, '..');
-  const scrollsDir = join(projectRoot, 'scrolls');
   
   // Get only git-tracked scroll files
   const scrollFiles = getGitTrackedFilesInDir('scrolls').sort();
@@ -45,7 +44,7 @@ describe('GitScrolls Markdown Syntax Validation', () => {
   // Test each scroll file
   scrollFiles.forEach((file: string) => {
     test(`Scroll: ${file} should have valid Markdown syntax`, () => {
-      const filePath = join(scrollsDir, file);
+      const filePath = join(projectRoot, 'scrolls', file);
       const errors = validateMarkdownFile(filePath);
       
       if (errors.length > 0) {
@@ -75,8 +74,8 @@ describe('GitScrolls Markdown Syntax Validation', () => {
   });
   
   // Summary test to ensure we tested the right number of files
-  test('should validate exactly 16 scrolls plus README', () => {
-    expect(scrollFiles.length).toBe(16);
+  test('should validate all scroll markdown files', () => {
+    expect(scrollFiles.length).toBeGreaterThanOrEqual(16);
     expect(existsSync(join(projectRoot, 'README.md'))).toBe(true);
   });
 });

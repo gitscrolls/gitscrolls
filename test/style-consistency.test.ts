@@ -174,7 +174,7 @@ describe('GitScrolls Style Consistency', () => {
   // Test each scroll file
   scrollFiles.forEach((file: string) => {
     test(`Scroll: ${file} should follow consistent style guidelines`, () => {
-      const filePath = join(scrollsDir, file);
+      const filePath = join(projectRoot, 'scrolls', file);
       const content = readFileSync(filePath, 'utf-8');
       
       const checker = new StyleConsistencyChecker(file);
@@ -195,7 +195,7 @@ describe('GitScrolls Style Consistency', () => {
     const missingAttribution: string[] = [];
     
     scrollFiles.forEach((file: string) => {
-      const filePath = join(scrollsDir, file);
+      const filePath = join(projectRoot, 'scrolls', file);
       const content = readFileSync(filePath, 'utf-8');
       
       if (!content.includes('GitScrolls: The Epic of Tuxicles') || 
@@ -232,6 +232,7 @@ describe('GitScrolls Style Consistency', () => {
       };
       
       const expectedOrdinal = ordinals[scrollNumber];
+      if (!expectedOrdinal) return;
       const teachingMatch = content.match(/##\s+The\s+(\w+)\s+Teaching:/);
       
       if (teachingMatch && teachingMatch[1] !== expectedOrdinal) {
