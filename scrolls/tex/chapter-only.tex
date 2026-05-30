@@ -1,0 +1,15 @@
+\documentclass[11pt,openright,oneside]{book}
+\input{press-shared.tex}
+\begin{document}
+\mainmatter
+
+\ifx\SingleScroll\undefined
+\PackageError{chapter-only}{Define \string\SingleScroll before compiling}{
+  Example:
+  xelatex "\\def\\SingleScroll=01-Unbroken-Line\\input{chapter-only.tex}"
+}
+\fi
+
+\input{chapters/\SingleScroll}
+
+\end{document}

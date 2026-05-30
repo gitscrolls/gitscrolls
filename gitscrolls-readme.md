@@ -135,26 +135,6 @@ The scrolls can be read in order for the full narrative arc, or individually for
 - **For perfectionists**: Scroll 12 (good enough is better than never)
 - **For everyone**: Scroll 16 (the daily practice of being human)
 
-## Build the Chronicle (PDF and TXT)
-
-You can build this release in several formats from the repository root.
-
-### Prerequisites
-- Python not required.
-- `pandoc` (for markdown → LaTeX/plain-text conversion).
-- A LaTeX engine (XeLaTeX is used by default).
-
-### Commands
-- `make all` — build the full book PDF, the consolidated TXT, and regenerate all per-scroll TeX files.
-- `make pdf` — build the combined book PDF at `scrolls/build/chronicle-book.pdf`.
-- `make txt` — build consolidated book text at `scrolls/build/chronicle.txt`.
-- `make scrolls` — generate/rebuild all chapter TeX files in `scrolls/tex/chapters/` and regenerate `scrolls/tex/chapter-list.tex`.
-- `make single SCROLL=<scroll-stem>` — build a single-chapter PDF at `scrolls/build/chapter-<scroll-stem>.pdf`.
-  - Example: `make single SCROLL=01-Unbroken-Line`
-- `make clean` — remove generated PDFs, TXT artifacts, and generated chapter files.
-
-The source scroll files are the markdown files in `scrolls/` matching the `NN-*.md` pattern.
-
 ## The Message
 
 GitScrolls isn't about condemning mistakes—it's about learning from them. Every developer breaks things. The lucky ones find community in the breaking and wisdom in the fixing.
