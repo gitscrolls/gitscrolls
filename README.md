@@ -4,7 +4,7 @@
 
 ## Overview
 
-GitScrolls is an epic developer's journey told through sixteen sacred scrolls, chronicling the fall and redemption of Tuxicles—a penguin developer who learns that breaking 2.3 million user authentication sessions is only the beginning of true education.
+GitScrolls is an epic developer's journey told through nineteen sacred scrolls, chronicling the fall and redemption of Tuxicles—a penguin developer who learns that breaking 2.3 million user authentication sessions is only the beginning of true education.
 
 This is a story about:
 - **Pride and catastrophic failure** in software development
@@ -14,7 +14,7 @@ This is a story about:
 
 **Note:** This is a complete narrative work by J. Kirby Ross. It is not open documentation or a wiki—it's a crafted story with philosophical teachings. See [CONTRIBUTING.md](CONTRIBUTING.md) and [LICENSE_USAGE.md](LICENSE_USAGE.md) for details on how to engage with the work.
 
-## The Sixteen Sacred Scrolls
+## The Nineteen Sacred Scrolls
 
 ### Part I: The Fall (Scrolls 1-6)
 1. **[The Unbroken Line](scrolls/01-Unbroken-Line.md)** - _"Thou Shalt Not Rewrite History"_  
@@ -36,36 +36,46 @@ This is a story about:
    <details><summary>Description</summary>The catastrophic force-push that breaks authentication for 2.3 million users.</details>
 
 ### Part II: The Descent (Scrolls 7-12)
-7. **[The Descent Into Developer Hell](scrolls/07-The-Descent-Into-Developer-Hell.md)** - _"Every Push Opens a Portal"_  
+7. **[The Descent Into Developer Hell](scrolls/07-2.md)** - _"Every Push Opens a Portal"_  
    <details><summary>Description</summary>Tuxrates meets the Trickster and begins his journey through the Nine Circles.</details>
 
-8. **[The Frozen and the First](scrolls/08-The-Frozen-and-the-First.md)** - _"Only Understanding Can Break Eternal Loops"_  
-   <details><summary>Description</summary>The first soul is freed through radical empathy.</details>
+8. **[In the Void Between](scrolls/08-2.md)** - _"Only Understanding Can Break Eternal Loops"_  
+   <details><summary>Description</summary>Silence and uncertainty split open the boundary between discipline and mercy.</details>
 
-9. **[The Architecture of Suffering](scrolls/09-The-Architecture-of-Suffering.md)** - _"Every System Eventually Notices the Anomaly"_  
-   <details><summary>Description</summary>Hell's middle management discovers their KPIs are being disrupted.</details>
+9. **[What Rises from Ashes](scrolls/09-2.md)** - _"Every System Eventually Notices the Anomaly"_  
+   <details><summary>Description</summary>What remains after ruin becomes the ground for recovery.</details>
 
-10. **[The Broken Build](scrolls/10-The-Broken-Build.md)** - _"Breaking the Build Is Sometimes Breaking Free"_  
-    <details><summary>Description</summary>Meeting those trapped in eternal search for lost code.</details>
+10. **[The Hope Subroutine](scrolls/10-2.md)** - _"Breaking the Build Is Sometimes Breaking Free"_  
+    <details><summary>Description</summary>Hope and discipline begin repairing what pride broke.</details>
 
-11. **[Between the Commits](scrolls/11-Between-the-Commits.md)** - _"Trust Is Built in Crisis, Not Comfort"_  
+11. **[The Frozen and the First](scrolls/11-The-Frozen-and-the-First.md)** - _"Trust Is Built in Crisis, Not Comfort"_  
+    <details><summary>Description</summary>The first soul is freed through radical empathy.</details>
+
+12. **[The Architecture of Suffering](scrolls/12-The-Architecture-of-Suffering.md)** - _"Ship It Before It's Perfect"_  
+    <details><summary>Description</summary>Hell's management discovers that metrics cannot explain grace.</details>
+
+### Part III: The Reckoning (Scrolls 13-16)
+13. **[The Broken Build](scrolls/13-The-Broken-Build.md)** - _"When Everything Breaks, Unity Is the Only Fix"_  
+    <details><summary>Description</summary>Building a shared path through cascading failures.</details>
+
+14. **[Between the Commits](scrolls/14-Between-the-Commits.md)** - _"Your Greatest Enemy Is Your Former Self"_  
     <details><summary>Description</summary>The crew faces internal conflict and the Trickster chooses a side.</details>
 
-12. **[The Perfectionist's Prison](scrolls/12-The-Perfectionists-Prison.md)** - _"Ship It Before It's Perfect"_  
+15. **[The Perfectionist's Prison](scrolls/15-The-Perfectionists-Prison.md)** - _"To Save Others, First Surrender Yourself"_  
     <details><summary>Description</summary>Chen learns that good enough is better than never done.</details>
 
-### Part III: The Transformation (Scrolls 13-16)
-13. **[Hell's Panic Protocol](scrolls/13-Hells-Panic-Protocol.md)** - _"When Everything Breaks, Unity Is the Only Fix"_  
+16. **[Hell's Panic Protocol](scrolls/16-Hells-Panic-Protocol.md)** - _"Heroes Write Code, Humans Maintain Communities"_  
     <details><summary>Description</summary>Hell throws everything at the crew, who respond with compassion.</details>
 
-14. **[The Lord of Failed Deployments](scrolls/14-The-Lord-of-Failed-Deployments.md)** - _"Your Greatest Enemy Is Your Former Self"_  
-    <details><summary>Description</summary>Facing the comfortable versions of themselves who resist growth.</details>
+### Part IV: The Final Arc (Scrolls 17-19)
+17. **[The Lord of Failed Deployments](scrolls/17-The-Lord-of-Failed-Deployments.md)** - _"Your Greatest Enemy Is Your Former Self"_  
+   <details><summary>Description</summary>Facing the comfortable versions of themselves who resist growth.</details>
 
-15. **[The Ego Door](scrolls/15-The-Ego-Door.md)** - _"To Save Others, First Surrender Yourself"_  
-    <details><summary>Description</summary>The price of leaving Hell is letting go of being special.</details>
+18. **[The Ego Door](scrolls/18-The-Ego-Door.md)** - _"To Save Others, First Surrender Yourself"_  
+   <details><summary>Description</summary>The price of leaving Hell is letting go of being special.</details>
 
-16. **[Where Heroes Go to Die](scrolls/16-Where-Heroes-Go-to-Die.md)** - _"Heroes Write Code, Humans Maintain Communities"_  
-    <details><summary>Description</summary>Return to the ordinary world and the daily practice of redemption.</details>
+19. **[Where Heroes Go to Die](scrolls/19-Where-Heroes-Go-to-Die.md)** - _"Heroes Write Code, Humans Maintain Communities"_  
+   <details><summary>Description</summary>Return to the ordinary world and the daily practice of redemption.</details>
 
 ## Key Characters (By Order of Appearance)
 
@@ -133,7 +143,7 @@ The scrolls can be read in order for the full narrative arc, or individually for
 - **For those who've broken production**: Scrolls 7-8 (you're not alone)
 - **For managers**: Scroll 9 (when metrics become more important than people)
 - **For perfectionists**: Scroll 12 (good enough is better than never)
-- **For everyone**: Scroll 16 (the daily practice of being human)
+- **For everyone**: Scroll 19 (the daily practice of being human)
 
 ## Build the Chronicle (PDF and TXT)
 

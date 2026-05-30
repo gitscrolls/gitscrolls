@@ -34,7 +34,7 @@ PDFLATEX_FLAGS := -interaction=nonstopmode -halt-on-error -file-line-error
 
 .PHONY: all pdf txt scrolls single clean
 
-all: pdf txt scrolls
+all: clean pdf txt scrolls
 
 pdf: $(BOOK_PDF)
 pdfs: pdf
@@ -117,7 +117,7 @@ title=$$(awk 'NR == 1 {sub(/^# +/, "", $$0); print $$0; exit}' "$(SCROLL_DIR)/$$
 		printf '\n\n' >> "$@"; \
 	done
 
-single: $(CHAPTER_ONLY_TEX) $(CHAPTER_TEX)
+single: $(CHAPTER_ONLY_TEX)
 	@if [ -z "$(SCROLL)" ]; then \
 		echo "Usage: make single SCROLL=<scroll-file-stem>"; \
 		echo "Example: make single SCROLL=01-Unbroken-Line"; \
@@ -128,6 +128,7 @@ single: $(CHAPTER_ONLY_TEX) $(CHAPTER_TEX)
 		exit 2; \
 	fi
 	@mkdir -p $(BUILD_DIR)
+	@$(MAKE) $(CHAPTER_DIR)/$(SCROLL).tex
 	@cd $(TEX_DIR) && \
 		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll=$(SCROLL)\\input{chapter-only.tex}" >/dev/null && \
 		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll=$(SCROLL)\\input{chapter-only.tex}" >/dev/null
