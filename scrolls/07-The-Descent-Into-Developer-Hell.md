@@ -78,7 +78,7 @@ Tuxrates woke with a start, disoriented. The room was wrong—too bright. Aftern
 
 The memories crashed back. The force push. The walk home through reality's cracks.That.. thing. The panic he felt... Did that really happen?
 
-He sighed and rolled out of bed, searching for his communication crystal. After a few minutes, he found it, discarded and left off its charger. He grabbed it from the entry table, and saw that it had died. The black screen reflected his disheveled appearance. He sat it down on its charging receptacle and went to brew some morning elixir. He had never needed it more in his life. 
+He sighed and rolled out of bed, searching for his communication crystal. After a few minutes, he found it, discarded and left off its charger. He grabbed it from the entry table, and saw that it had died. The black screen reflected his disheveled appearance. He sat it down on its charging receptacle and went to brew some morning elixir. He had never needed it more in his life.
 
 He emerged from his kitchen, mug in hand. He found that his portable codex still had charge. Opening it, he saw that the timestamp showed Monday afternoon.
 
@@ -102,7 +102,7 @@ At that moment, his communication device, finally holding enough charge to power
 @StatusPage: ⚠️ MAJOR OUTAGE: User login functionality impacted globally
 ```
 
-Tuxrates *(in disbelief)*: "What? This can't be... The status bots must be experiencing issues..."
+Tuxrates _(in disbelief)_: "What? This can't be... The status bots must be experiencing issues..."
 
 He logged into the Temple's Ephemeral Messenger. Then the human messages started:
 
@@ -286,7 +286,7 @@ Then, impossibly, something `git push --force`d through the screen itself.
 
 The figure `git diff`ed between states—sometimes solid, sometimes composed of pure commit messages. Eight shadows `git branch`ed from its form, though mortal eyes registered only two as arms. Its smile curved like a perfectly balanced parenthesis.
 
-__The Trickster:__ "Well, *well*, ***well***. Someone's been pushing to the Sacred Branch without lease."
+__The Trickster:__ "Well, _well_, _**well**_. Someone's been pushing to the Sacred Branch without lease."
 
 The voice compiled from somewhere impossible, each word a perfectly formed command that executed reality.
 
@@ -654,7 +654,7 @@ The last thing he heard was the Trickster's voice, echoing from impossibly far a
 
 And then—
 
-### Darkness. Complete. Absolute.
+### Darkness. Complete. Absolute
 
 ```
 $ consciousness --status

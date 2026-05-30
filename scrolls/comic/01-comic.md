@@ -236,8 +236,8 @@ Here is the comprehensive, unabridged word-storyboard adaptation of **GitScroll 
 `commit 0xDEADBEEF`
 `Author: Unknown <wisdom@future.void>`
 `Date: Tue Jun 15 13:42:00 2027 +0000`
-`    merge: When the circle completes, remember this teaching`
-`    00-merge.lore [new file, forkable, awaiting wisdom]`
+`merge: When the circle completes, remember this teaching`
+`00-merge.lore [new file, forkable, awaiting wisdom]`
 
 **PANEL 47**
 **Image:** Tuxicles blinking, rubbing his eyes.
