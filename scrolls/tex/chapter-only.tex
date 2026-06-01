@@ -6,7 +6,7 @@
 \ifx\SingleScroll\undefined
 \PackageError{chapter-only}{Define \string\SingleScroll before compiling}{
   Example:
-  xelatex "\\def\\SingleScroll=01-Unbroken-Line\\input{chapter-only.tex}"
+  xelatex "\\def\\SingleScroll{01-Unbroken-Line}\\input{chapter-only.tex}"
 }
 \fi
 

@@ -130,8 +130,8 @@ single: $(CHAPTER_ONLY_TEX)
 	@mkdir -p $(BUILD_DIR)
 	@$(MAKE) $(CHAPTER_DIR)/$(SCROLL).tex
 	@cd $(TEX_DIR) && \
-		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll=$(SCROLL)\\input{chapter-only.tex}" >/dev/null && \
-		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll=$(SCROLL)\\input{chapter-only.tex}" >/dev/null
+		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll{$(SCROLL)}\\input{chapter-only.tex}" >/dev/null && \
+		$(PDFLATEX) $(PDFLATEX_FLAGS) -output-directory=../build -jobname=chapter-$(SCROLL) "\\def\\SingleScroll{$(SCROLL)}\\input{chapter-only.tex}" >/dev/null
 
 clean:
 	@rm -rf $(BUILD_DIR) $(CHAPTER_DIR) $(TXT_DIR) $(CHAPTER_LIST)
