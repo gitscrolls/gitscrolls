@@ -1,0 +1,117 @@
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\IfFileExists{ebgaramond.sty}{\usepackage{ebgaramond}}{\usepackage{mathpazo}}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{xspace}
+\usepackage{framed}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage{fvextra}
+\fvset{breaklines=true,breakanywhere=true}
+\definecolor{shadecolor}{gray}{0.95}
+\definecolor{codebg}{gray}{0.95}
+\DefineVerbatimEnvironment{codeblock}{Verbatim}{
+  breaklines=true,
+  breakanywhere=true,
+  fontsize=\small,
+  bgcolor=codebg,
+  backgroundcolorpadding=0.8em,
+}
+\AtBeginEnvironment{codeblock}{\vspace{\baselineskip}}
+\AfterEndEnvironment{codeblock}{\vspace{\baselineskip}}
+
+\RecustomVerbatimEnvironment{verbatim}{Verbatim}{
+  breaklines=true,
+  breakanywhere=true,
+  fontsize=\small,
+}
+
+\geometry{
+  paperwidth=5.75in,
+  paperheight=8.75in,
+  inner=0.68in,
+  outer=0.60in,
+  top=0.78in,
+  bottom=0.78in,
+  includeheadfoot
+}
+
+\setstretch{1.13}
+\setlength{\parskip}{0.45em}
+\setlength{\parindent}{0pt}
+\setlist{itemsep=0.4em, topsep=0.5em}
+
+\definecolor{chronicler}{HTML}{222222}
+\definecolor{storyink}{HTML}{000000}
+\definecolor{chapterrule}{HTML}{666666}
+
+\newcommand{\bookdivider}{
+  \par
+  \vspace{1ex}
+  \noindent
+  \begin{center}
+    \textcolor{chapterrule}{\small\textbullet\kern0.5em\textemdash\kern0.5em\textasteriskcentered\kern0.5em\textemdash\kern0.5em\textbullet}
+  \end{center}
+  \vspace{1ex}
+  \par
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\scshape The GitScroll Chronicle}
+\fancyhead[RO]{}
+\fancyfoot[C]{\thepage}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=storyink,
+  urlcolor=storyink,
+  citecolor=storyink,
+  filecolor=storyink,
+  menucolor=storyink,
+}
+
+\tolerance=1600
+\emergencystretch=2em
+\sloppy
+
+\titleformat{\chapter}[display]
+  {\normalfont\scshape\Large}
+  {\thechapter}
+  {0.8em}
+  {\Large}
+\titlespacing*{\chapter}{0pt}{-1.25in}{1.5em}
+
+\titleformat{\section}
+  {\large\bfseries\color{storyink}}
+  {\thesection}
+  {0.8em}
+  {}
+
+\titleformat{\subsection}
+  {\normalsize\itshape\color{storyink}}
+  {\thesubsection}
+  {0.7em}
+  {}
+
+\newcommand{\chronicler}[1]{\textcolor{chronicler}{\textsc{\textbf{#1}}}\xspace}
+\newcommand{\chroniclersection}[1]{\textcolor{chronicler}{\textit{#1}}}
+\newcommand{\chroniclersubsection}[1]{\textcolor{chronicler}{\textit{#1}}}
+\newcommand{\chroniclersubsubsection}[1]{\textcolor{chronicler}{\textit{#1}}}
+
+\newenvironment{chroniclerstage}
+  {\begin{quote}\small\itshape\color{chronicler}}
+  {\end{quote}}
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0.2em}\setlength{\parskip}{0pt}\setlength{\parsep}{0pt}
+}

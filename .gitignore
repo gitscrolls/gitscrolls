@@ -104,6 +104,10 @@ temp/
 # Generated files
 generated/
 build/
+scrolls/build/
+scrolls/tex/chapter-list.tex
+scrolls/tex/chapters/
+scrolls/text/
 
 # Archives
 *.zip
@@ -141,6 +145,7 @@ Temporary Items
 # Local development
 .local/
 .cache/
+.claude/
 
 # Translation work-in-progress files
 *.tmp.md
@@ -162,3 +167,4 @@ TODO_PRIVATE.md
 
 # obsidian config files
 .obsidian
+CLAUDE.md
